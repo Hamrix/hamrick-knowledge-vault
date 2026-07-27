@@ -58,6 +58,7 @@ Use the Genealogical Proof Standard:
 - [[Matilda of Scotland married Henry I of England]] — confirmed marriage only; it does not establish descent through their children or a modern-family connection.
 - [[Empress Matilda was a daughter of Henry I]] — confirmed direct relationship only; it does not establish descent through Matilda or a modern-family connection.
 - [[Henry II was a son of Empress Matilda]] — confirmed direct relationship only; it does not establish later descent from Henry II or a modern-family connection.
+- [[Margaret of Scotland married Malcolm III of Scotland]] — confirmed marriage only; it does not establish descent through their children or a modern-family connection.
 
 ## Research and uncertainty
 
@@ -116,3 +117,4 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 - 2026-07-27 — Separated the already-supported Matilda of Scotland and Henry I marriage into an atomic claim, retaining its explicit limits on descent through their children.
 - 2026-07-27 — Separated the already-supported Henry I to Empress Matilda relationship into an atomic claim, retaining its explicit limits on later descent.
 - 2026-07-27 — Separated the already-supported Empress Matilda to Henry II relationship into an atomic claim, retaining its explicit limits on later descent.
+- 2026-07-27 — Separated the already-supported Margaret and Malcolm III marriage into an atomic claim, excluding an imprecise marriage date and all descent claims.

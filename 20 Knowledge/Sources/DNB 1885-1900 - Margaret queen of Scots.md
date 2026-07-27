@@ -30,6 +30,7 @@ This is a historical biographical reference rather than a contemporary record. I
 ## Claims supported
 
 - [[Margaret of Scotland was a daughter of Edward the Exile]]
+- [[Margaret of Scotland married Malcolm III of Scotland]]
 
 ## Claims contradicted
 
