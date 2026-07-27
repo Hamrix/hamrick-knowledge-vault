@@ -19,11 +19,14 @@ As of 2026-07-27, the project directory contained only [[10 Projects/Aetheling E
 - [[British Library - Stowe Ch 37]] — catalogue record and digital surrogate for a contemporary 1014 manuscript.
 - [[Rawcliffe 2008 - Humphrey Stafford]] — modern ODNB biography.
 - [[Cokayne - Complete Peerage Stafford-Gloucester relationship]] — independent peerage reference.
+- [[Hanks - Dictionary of American Family Names Selby]] — specialist surname dictionary entry.
+- [[Neal 2023 - Anglo-Scandinavian by-names]] — independent place-name research.
 
 ## Proven historical context
 
 - [[Æþeling designated a prince of an English royal house]]
 - [[Humphrey Stafford was a great-grandson of Edward III through Anne of Gloucester]] — a verified medieval relationship only.
+- [[Selby has a documented English and Scottish habitational surname origin]] — surname context only; not evidence about a particular Selby family.
 
 ## Research claims not established
 
