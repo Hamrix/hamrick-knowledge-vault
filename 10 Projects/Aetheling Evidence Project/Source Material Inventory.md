@@ -33,6 +33,8 @@ As of 2026-07-27, the project directory contained only [[10 Projects/Aetheling E
 - [[DNB 1885-1900 - Æthelred II]] — independent published historical biography.
 - [[DNB 1885-1900 - Edgar]] — independent published historical biography.
 - [[1911 Encyclopaedia Britannica - Edgar]] — independent historical encyclopedia biography.
+- [[DNB 1885-1900 - Edmund I]] — independent published historical biography.
+- [[1911 Encyclopaedia Britannica - Edmund I]] — independent historical encyclopedia biography.
 - [[Archontology - Henry II]] — modern monarch reference with cited historical authorities.
 - [[1911 Encyclopaedia Britannica - Henry II]] — independent historical encyclopedia biography.
 - [[DNB 1892 - John king of England]] — historical biography of King John.
@@ -66,6 +68,7 @@ As of 2026-07-27, the project directory contained only [[10 Projects/Aetheling E
 - [[Edmund Ironside was a son of Æthelred II]] — verified direct relationship only; no later royal or modern-family descent is inferred.
 - [[Æthelred II was a son of Edgar]] — verified direct relationship only; no later royal or modern-family descent is inferred.
 - [[Edgar was a son of Edmund I]] — verified direct relationship only; no later royal or modern-family descent is inferred.
+- [[Edmund I was a son of Edward the Elder]] — verified direct relationship only; no later royal or modern-family descent is inferred.
 - [[Matilda of Scotland was a daughter of Margaret of Scotland]] — verified direct relationship only; no later royal or modern-family descent is inferred.
 - [[Matilda of Scotland married Henry I of England]] — verified marriage only; no descent through their children or modern-family connection is inferred.
 - [[Empress Matilda was a daughter of Henry I]] — verified direct relationship only; no descent through Matilda or modern-family connection is inferred.
