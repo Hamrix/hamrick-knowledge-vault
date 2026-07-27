@@ -58,6 +58,7 @@ Use the Genealogical Proof Standard:
 - [[Edward the Exile was a son of Edmund Ironside]] — confirmed direct relationship only; it does not establish a later royal or modern-family descent.
 - [[Edmund Ironside was a son of Æthelred II]] — confirmed direct relationship only; it does not establish a later royal or modern-family descent.
 - [[Æthelred II was a son of Edgar]] — confirmed direct relationship only; it does not establish a later royal or modern-family descent.
+- [[Edgar was a son of Edmund I]] — confirmed direct relationship only; it does not establish a later royal or modern-family descent.
 - [[Matilda of Scotland was a daughter of Margaret of Scotland]] — confirmed direct relationship only; it does not establish a later royal or modern-family descent.
 - [[Matilda of Scotland married Henry I of England]] — confirmed marriage only; it does not establish descent through their children or a modern-family connection.
 - [[Empress Matilda was a daughter of Henry I]] — confirmed direct relationship only; it does not establish descent through Matilda or a modern-family connection.
@@ -88,6 +89,8 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 - [[1911 Encyclopaedia Britannica - Edmund Ironside]]
 - [[Royal Family - Ethelred II]]
 - [[DNB 1885-1900 - Æthelred II]]
+- [[DNB 1885-1900 - Edgar]]
+- [[1911 Encyclopaedia Britannica - Edgar]]
 - [[Archontology - Henry II]]
 - [[1911 Encyclopaedia Britannica - Henry II]]
 - [[DNB 1892 - John king of England]]
@@ -136,3 +139,4 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 - 2026-07-27 — Confirmed Edmund Ironside to Edward the Exile from a scholarly medieval database and an independent published biography. Did not infer any modern-family connection.
 - 2026-07-27 — Confirmed Æthelred II to Edmund Ironside from two independent historical biographies. Did not infer any modern-family connection.
 - 2026-07-27 — Confirmed Edgar to Æthelred II from an official historical profile and an independent published biography. Did not infer any modern-family connection.
+- 2026-07-27 — Confirmed Edmund I to Edgar from two independent published historical biographies. Did not infer any modern-family connection.
