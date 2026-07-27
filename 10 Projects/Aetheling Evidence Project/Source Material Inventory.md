@@ -25,6 +25,8 @@ As of 2026-07-27, the project directory contained only [[10 Projects/Aetheling E
 - [[McDonald 2004 - Matilda of Scotland review]] — independent academic corroboration.
 - [[DNB 1885-1900 - Margaret queen of Scots]] — independent published historical biography.
 - [[Dictionary of American Family Names - Haskins]] — specialist dictionary source retained for uncertainty analysis; it gives multiple possible origins rather than a project-specific conclusion.
+- [[Dictionary of American Family Names - Stafford]] — specialist surname dictionary entry.
+- [[Staffordshire EUS - Stafford place-name]] — independent historic-environment place-name context.
 - [[Archontology - Henry II]] — modern monarch reference with cited historical authorities.
 - [[1911 Encyclopaedia Britannica - Henry II]] — independent historical encyclopedia biography.
 - [[DNB 1892 - John king of England]] — historical biography of King John.
@@ -42,6 +44,7 @@ As of 2026-07-27, the project directory contained only [[10 Projects/Aetheling E
 - [[Æþeling designated a prince of an English royal house]]
 - [[Humphrey Stafford was a great-grandson of Edward III through Anne of Gloucester]] — a verified medieval relationship only.
 - [[Selby has a documented English and Scottish habitational surname origin]] — surname context only; not evidence about a particular Selby family.
+- [[Stafford has a documented English habitational surname origin]] — surname context only; not evidence about a particular Stafford family or medieval descent.
 - [[Margaret of Scotland linked Edward the Exile’s line to Henry I of England’s family]] — verified royal-family bridge only; no later descent is inferred.
 - [[Henry II was the son of Empress Matilda, daughter of Henry I]] — verified direct relationship only; later links remain unproven here.
 - [[King John was a son of Henry II]] — verified direct relationship only; John’s descendants remain separately unproven here.

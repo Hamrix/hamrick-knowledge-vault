@@ -43,6 +43,7 @@ Use the Genealogical Proof Standard:
 - [[Æþeling designated a prince of an English royal house]] — confirmed historical context only; it does not support a modern descent claim.
 - [[Humphrey Stafford was a great-grandson of Edward III through Anne of Gloucester]] — confirmed for the named medieval people only.
 - [[Selby has a documented English and Scottish habitational surname origin]] — strong linguistic context only; it does not establish a specific Selby ancestor or lineage.
+- [[Stafford has a documented English habitational surname origin]] — strong linguistic context only; it does not establish a specific Stafford ancestor, medieval descent, or lineage.
 - [[Margaret of Scotland linked Edward the Exile’s line to Henry I of England’s family]] — confirmed historical bridge only; it does not establish a later Plantagenet, Stafford, or modern descent.
 - [[Henry II was the son of Empress Matilda, daughter of Henry I]] — confirmed direct relationship only; it does not establish a connection to Edward III, Stafford, or a modern family.
 - [[King John was a son of Henry II]] — confirmed direct relationship only; it does not establish John’s descendants or a connection to a later family.
@@ -78,6 +79,8 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 - [[People of Medieval Scotland - Margaret queen of Scots]]
 - [[McDonald 2004 - Matilda of Scotland review]]
 - [[DNB 1885-1900 - Margaret queen of Scots]]
+- [[Dictionary of American Family Names - Stafford]]
+- [[Staffordshire EUS - Stafford place-name]]
 - [[Archontology - Henry II]]
 - [[1911 Encyclopaedia Britannica - Henry II]]
 - [[DNB 1892 - John king of England]]
@@ -122,3 +125,4 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 - 2026-07-27 — Verified that all internal wikilinks in the project’s claims, sources, people, and project notes resolve. No historical or genealogical assertion changed in this quality-assurance pass.
 - 2026-07-27 — Verified source and claim note completeness: 21 source notes retain citations, limitations, and supported-claim sections; 19 claim notes retain evidence, analysis, and confidence sections. No historical or genealogical assertion changed in this quality-assurance pass.
 - 2026-07-27 — Added the Oxford Dictionary of American Family Names Haskins entry as a cited uncertainty source. Its multiple possible origins do not establish a Haskins origin, identity, or lineage in this project.
+- 2026-07-27 — Added a strong Stafford surname-origin context claim from a specialist dictionary and independent Stafford place-name research. Recorded multiple origins and did not infer a specific Stafford family or medieval descent.
