@@ -27,6 +27,8 @@ As of 2026-07-27, the project directory contained only [[10 Projects/Aetheling E
 - [[Dictionary of American Family Names - Haskins]] — specialist dictionary source retained for uncertainty analysis; it gives multiple possible origins rather than a project-specific conclusion.
 - [[Dictionary of American Family Names - Stafford]] — specialist surname dictionary entry.
 - [[Staffordshire EUS - Stafford place-name]] — independent historic-environment place-name context.
+- [[DNB 1885-1900 - Edmund Ironside]] — independent published historical biography.
+- [[1911 Encyclopaedia Britannica - Edmund Ironside]] — independent historical encyclopedia biography.
 - [[Archontology - Henry II]] — modern monarch reference with cited historical authorities.
 - [[1911 Encyclopaedia Britannica - Henry II]] — independent historical encyclopedia biography.
 - [[DNB 1892 - John king of England]] — historical biography of King John.
@@ -57,6 +59,7 @@ As of 2026-07-27, the project directory contained only [[10 Projects/Aetheling E
 - [[Humphrey Stafford was a son of Anne of Gloucester]] — verified direct relationship only; no later Stafford or modern-family descent is inferred.
 - [[Margaret of Scotland was a daughter of Edward the Exile]] — verified direct relationship only; no later royal or modern-family descent is inferred.
 - [[Edward the Exile was a son of Edmund Ironside]] — verified direct relationship only; no later royal or modern-family descent is inferred.
+- [[Edmund Ironside was a son of Æthelred II]] — verified direct relationship only; no later royal or modern-family descent is inferred.
 - [[Matilda of Scotland was a daughter of Margaret of Scotland]] — verified direct relationship only; no later royal or modern-family descent is inferred.
 - [[Matilda of Scotland married Henry I of England]] — verified marriage only; no descent through their children or modern-family connection is inferred.
 - [[Empress Matilda was a daughter of Henry I]] — verified direct relationship only; no descent through Matilda or modern-family connection is inferred.
