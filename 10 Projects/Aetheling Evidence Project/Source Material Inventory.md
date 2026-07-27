@@ -25,6 +25,8 @@ As of 2026-07-27, the project directory contained only [[10 Projects/Aetheling E
 - [[McDonald 2004 - Matilda of Scotland review]] — independent academic corroboration.
 - [[Archontology - Henry II]] — modern monarch reference with cited historical authorities.
 - [[1911 Encyclopaedia Britannica - Henry II]] — independent historical encyclopedia biography.
+- [[DNB 1892 - John king of England]] — historical biography of King John.
+- [[UEA 2021 - John dominus Hibernie]] — independent university research.
 
 ## Proven historical context
 
@@ -33,6 +35,7 @@ As of 2026-07-27, the project directory contained only [[10 Projects/Aetheling E
 - [[Selby has a documented English and Scottish habitational surname origin]] — surname context only; not evidence about a particular Selby family.
 - [[Margaret of Scotland linked Edward the Exile’s line to Henry I of England’s family]] — verified royal-family bridge only; no later descent is inferred.
 - [[Henry II was the son of Empress Matilda, daughter of Henry I]] — verified direct relationship only; later links remain unproven here.
+- [[King John was a son of Henry II]] — verified direct relationship only; John’s descendants remain separately unproven here.
 
 ## Research claims not established
 

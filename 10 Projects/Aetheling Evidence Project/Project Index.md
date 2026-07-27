@@ -45,6 +45,7 @@ Use the Genealogical Proof Standard:
 - [[Selby has a documented English and Scottish habitational surname origin]] — strong linguistic context only; it does not establish a specific Selby ancestor or lineage.
 - [[Margaret of Scotland linked Edward the Exile’s line to Henry I of England’s family]] — confirmed historical bridge only; it does not establish a later Plantagenet, Stafford, or modern descent.
 - [[Henry II was the son of Empress Matilda, daughter of Henry I]] — confirmed direct relationship only; it does not establish a connection to Edward III, Stafford, or a modern family.
+- [[King John was a son of Henry II]] — confirmed direct relationship only; it does not establish John’s descendants or a connection to a later family.
 
 ## Research and uncertainty
 
@@ -65,6 +66,8 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 - [[McDonald 2004 - Matilda of Scotland review]]
 - [[Archontology - Henry II]]
 - [[1911 Encyclopaedia Britannica - Henry II]]
+- [[DNB 1892 - John king of England]]
+- [[UEA 2021 - John dominus Hibernie]]
 
 ## Next actions
 
@@ -80,3 +83,4 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 - 2026-07-27 — Added a strong surname-origin note for Selby from a specialist dictionary and independent place-name research. Recorded alternative origins and did not infer any individual Selby’s ancestry.
 - 2026-07-27 — Confirmed the Edward the Exile → Margaret → Matilda of Scotland → Henry I relationship bridge from a scholarly database and independent academic review. Did not infer descent to any later family.
 - 2026-07-27 — Confirmed Henry I → Empress Matilda → Henry II from two independent reference works. Kept later royal and family-line connections unproven pending separate evidence.
+- 2026-07-27 — Confirmed Henry II → John from an explicit historical biography and independent university research. Did not infer John’s descendants or any later family connection.
