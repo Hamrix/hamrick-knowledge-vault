@@ -17,6 +17,8 @@ No lineage assertion is treated as proven merely because it appears in an online
 
 The initial vault audit found no underlying lineage files or identity-specific evidence. The first completed batch therefore records only a verified historical-language baseline. No family-tree connection has been added.
 
+The second batch confirms one bounded medieval Stafford relationship to Edward III. It does not connect that Stafford branch to Selby, Haskins, or any modern person.
+
 ## Workstreams
 
 - Modern documented lineage
@@ -39,6 +41,7 @@ Use the Genealogical Proof Standard:
 ## Verified facts
 
 - [[Æþeling designated a prince of an English royal house]] — confirmed historical context only; it does not support a modern descent claim.
+- [[Humphrey Stafford was a great-grandson of Edward III through Anne of Gloucester]] — confirmed for the named medieval people only.
 
 ## Research and uncertainty
 
@@ -51,6 +54,8 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 - [[Bosworth-Toller - æþeling]]
 - [[Dumville 1979 - The ætheling]]
 - [[British Library - Stowe Ch 37]]
+- [[Rawcliffe 2008 - Humphrey Stafford]]
+- [[Cokayne - Complete Peerage Stafford-Gloucester relationship]]
 
 ## Next actions
 
@@ -62,3 +67,4 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 ## Change log
 
 - 2026-07-27 — Audited the vault, recorded the absence of supplied lineage evidence, added three independently checked source records, and confirmed one narrow historical terminology claim. Added no genealogical connections.
+- 2026-07-27 — Confirmed the medieval Edward III → Thomas of Woodstock → Anne of Gloucester → Humphrey Stafford chain from two independent scholarly references. Did not extend the chain to Selby, Haskins, or a modern family. Exact-name searches did not reliably identify Frederic Ethelred Selby.

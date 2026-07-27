@@ -17,10 +17,13 @@ As of 2026-07-27, the project directory contained only [[10 Projects/Aetheling E
 - [[Bosworth-Toller - æþeling]] — scholarly historical dictionary entry.
 - [[Dumville 1979 - The ætheling]] — peer-reviewed study of the title and royal succession.
 - [[British Library - Stowe Ch 37]] — catalogue record and digital surrogate for a contemporary 1014 manuscript.
+- [[Rawcliffe 2008 - Humphrey Stafford]] — modern ODNB biography.
+- [[Cokayne - Complete Peerage Stafford-Gloucester relationship]] — independent peerage reference.
 
 ## Proven historical context
 
 - [[Æþeling designated a prince of an English royal house]]
+- [[Humphrey Stafford was a great-grandson of Edward III through Anne of Gloucester]] — a verified medieval relationship only.
 
 ## Research claims not established
 
@@ -32,6 +35,8 @@ The following project topics remain unproven because the vault contains no ident
 - any inference that the name “Ethelred” or the word “Aetheling” demonstrates descent;
 - any lineage involving Haskins or related families;
 - biographical claims about Frederic Ethelred Selby beyond what future reliable records establish.
+
+Exact-name web and catalogue searches performed on 2026-07-27 did not locate a reliable record that identifies Frederic or Frederick Ethelred Selby. This negative search result is not evidence that the person did not exist; it means no person note or biographical claim can yet be responsibly created.
 
 These are research targets, not facts. No family-tree connection should be created until each parent-child link is supported by reliable, cited evidence and conflicts have been resolved.
 
