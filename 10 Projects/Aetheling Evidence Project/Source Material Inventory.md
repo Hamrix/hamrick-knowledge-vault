@@ -56,6 +56,7 @@ As of 2026-07-27, the project directory contained only [[10 Projects/Aetheling E
 - [[Anne of Gloucester was a daughter of Thomas of Woodstock]] — verified direct relationship only; no later Stafford or modern-family descent is inferred.
 - [[Humphrey Stafford was a son of Anne of Gloucester]] — verified direct relationship only; no later Stafford or modern-family descent is inferred.
 - [[Margaret of Scotland was a daughter of Edward the Exile]] — verified direct relationship only; no later royal or modern-family descent is inferred.
+- [[Edward the Exile was a son of Edmund Ironside]] — verified direct relationship only; no later royal or modern-family descent is inferred.
 - [[Matilda of Scotland was a daughter of Margaret of Scotland]] — verified direct relationship only; no later royal or modern-family descent is inferred.
 - [[Matilda of Scotland married Henry I of England]] — verified marriage only; no descent through their children or modern-family connection is inferred.
 - [[Empress Matilda was a daughter of Henry I]] — verified direct relationship only; no descent through Matilda or modern-family connection is inferred.

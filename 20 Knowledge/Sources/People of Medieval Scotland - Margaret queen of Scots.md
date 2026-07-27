@@ -36,6 +36,7 @@ People of Medieval Scotland is a scholarly research database that provides its s
 - [[Matilda of Scotland was a daughter of Margaret of Scotland]]
 - [[Matilda of Scotland married Henry I of England]]
 - [[Margaret of Scotland married Malcolm III of Scotland]]
+- [[Edward the Exile was a son of Edmund Ironside]]
 
 ## Claims contradicted
 

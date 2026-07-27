@@ -55,6 +55,7 @@ Use the Genealogical Proof Standard:
 - [[Anne of Gloucester was a daughter of Thomas of Woodstock]] — confirmed direct relationship only; it does not establish a later Stafford or modern-family descent.
 - [[Humphrey Stafford was a son of Anne of Gloucester]] — confirmed direct relationship only; it does not establish a later Stafford or modern-family descent.
 - [[Margaret of Scotland was a daughter of Edward the Exile]] — confirmed direct relationship only; it does not establish a later royal or modern-family descent.
+- [[Edward the Exile was a son of Edmund Ironside]] — confirmed direct relationship only; it does not establish a later royal or modern-family descent.
 - [[Matilda of Scotland was a daughter of Margaret of Scotland]] — confirmed direct relationship only; it does not establish a later royal or modern-family descent.
 - [[Matilda of Scotland married Henry I of England]] — confirmed marriage only; it does not establish descent through their children or a modern-family connection.
 - [[Empress Matilda was a daughter of Henry I]] — confirmed direct relationship only; it does not establish descent through Matilda or a modern-family connection.
@@ -126,3 +127,4 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 - 2026-07-27 — Verified source and claim note completeness: 21 source notes retain citations, limitations, and supported-claim sections; 19 claim notes retain evidence, analysis, and confidence sections. No historical or genealogical assertion changed in this quality-assurance pass.
 - 2026-07-27 — Added the Oxford Dictionary of American Family Names Haskins entry as a cited uncertainty source. Its multiple possible origins do not establish a Haskins origin, identity, or lineage in this project.
 - 2026-07-27 — Added a strong Stafford surname-origin context claim from a specialist dictionary and independent Stafford place-name research. Recorded multiple origins and did not infer a specific Stafford family or medieval descent.
+- 2026-07-27 — Confirmed Edmund Ironside to Edward the Exile from a scholarly medieval database and an independent published biography. Did not infer any modern-family connection.
