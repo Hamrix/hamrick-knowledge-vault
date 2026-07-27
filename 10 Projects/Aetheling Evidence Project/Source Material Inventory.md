@@ -27,6 +27,8 @@ As of 2026-07-27, the project directory contained only [[10 Projects/Aetheling E
 - [[1911 Encyclopaedia Britannica - Henry II]] — independent historical encyclopedia biography.
 - [[DNB 1892 - John king of England]] — historical biography of King John.
 - [[UEA 2021 - John dominus Hibernie]] — independent university research.
+- [[Royal Family - Henry III]] — official historical profile.
+- [[Westminster Abbey - Henry III]] — independent institutional historical profile.
 
 ## Proven historical context
 
@@ -36,6 +38,7 @@ As of 2026-07-27, the project directory contained only [[10 Projects/Aetheling E
 - [[Margaret of Scotland linked Edward the Exile’s line to Henry I of England’s family]] — verified royal-family bridge only; no later descent is inferred.
 - [[Henry II was the son of Empress Matilda, daughter of Henry I]] — verified direct relationship only; later links remain unproven here.
 - [[King John was a son of Henry II]] — verified direct relationship only; John’s descendants remain separately unproven here.
+- [[Henry III was a son of King John]] — verified direct relationship only; Henry III’s descendants remain separately unproven here.
 
 ## Research claims not established
 

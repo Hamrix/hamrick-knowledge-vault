@@ -46,6 +46,7 @@ Use the Genealogical Proof Standard:
 - [[Margaret of Scotland linked Edward the Exile’s line to Henry I of England’s family]] — confirmed historical bridge only; it does not establish a later Plantagenet, Stafford, or modern descent.
 - [[Henry II was the son of Empress Matilda, daughter of Henry I]] — confirmed direct relationship only; it does not establish a connection to Edward III, Stafford, or a modern family.
 - [[King John was a son of Henry II]] — confirmed direct relationship only; it does not establish John’s descendants or a connection to a later family.
+- [[Henry III was a son of King John]] — confirmed direct relationship only; it does not establish Henry III’s descendants or a connection to a later family.
 
 ## Research and uncertainty
 
@@ -68,6 +69,8 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 - [[1911 Encyclopaedia Britannica - Henry II]]
 - [[DNB 1892 - John king of England]]
 - [[UEA 2021 - John dominus Hibernie]]
+- [[Royal Family - Henry III]]
+- [[Westminster Abbey - Henry III]]
 
 ## Next actions
 
@@ -84,3 +87,4 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 - 2026-07-27 — Confirmed the Edward the Exile → Margaret → Matilda of Scotland → Henry I relationship bridge from a scholarly database and independent academic review. Did not infer descent to any later family.
 - 2026-07-27 — Confirmed Henry I → Empress Matilda → Henry II from two independent reference works. Kept later royal and family-line connections unproven pending separate evidence.
 - 2026-07-27 — Confirmed Henry II → John from an explicit historical biography and independent university research. Did not infer John’s descendants or any later family connection.
+- 2026-07-27 — Confirmed John → Henry III from two independent institutional historical profiles. Did not infer Henry III’s descendants or any later family connection.
