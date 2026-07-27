@@ -31,6 +31,7 @@ As of 2026-07-27, the project directory contained only [[10 Projects/Aetheling E
 - [[Westminster Abbey - Henry III]] — independent institutional historical profile.
 - [[Westminster Abbey - Edward I and Eleanor of Castile]] — institutional historical profile.
 - [[DNB 1895 - Edward I]] — independent published historical biography.
+- [[DNB 1895 - Edward II]] — independent published historical biography.
 
 ## Proven historical context
 
@@ -42,6 +43,7 @@ As of 2026-07-27, the project directory contained only [[10 Projects/Aetheling E
 - [[King John was a son of Henry II]] — verified direct relationship only; John’s descendants remain separately unproven here.
 - [[Henry III was a son of King John]] — verified direct relationship only; Henry III’s descendants remain separately unproven here.
 - [[Edward I was a son of Henry III]] — verified direct relationship only; Edward I’s descendants remain separately unproven here.
+- [[Edward II was a son of Edward I]] — verified direct relationship only; Edward II’s descendants remain separately unproven here.
 
 ## Research claims not established
 

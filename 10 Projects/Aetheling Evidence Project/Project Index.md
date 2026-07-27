@@ -48,6 +48,7 @@ Use the Genealogical Proof Standard:
 - [[King John was a son of Henry II]] — confirmed direct relationship only; it does not establish John’s descendants or a connection to a later family.
 - [[Henry III was a son of King John]] — confirmed direct relationship only; it does not establish Henry III’s descendants or a connection to a later family.
 - [[Edward I was a son of Henry III]] — confirmed direct relationship only; it does not establish Edward I’s descendants or a connection to a later family.
+- [[Edward II was a son of Edward I]] — confirmed direct relationship only; it does not establish Edward II’s descendants or a connection to a later family.
 
 ## Research and uncertainty
 
@@ -74,6 +75,7 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 - [[Westminster Abbey - Henry III]]
 - [[Westminster Abbey - Edward I and Eleanor of Castile]]
 - [[DNB 1895 - Edward I]]
+- [[DNB 1895 - Edward II]]
 
 ## Next actions
 
@@ -92,3 +94,4 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 - 2026-07-27 — Confirmed Henry II → John from an explicit historical biography and independent university research. Did not infer John’s descendants or any later family connection.
 - 2026-07-27 — Confirmed John → Henry III from two independent institutional historical profiles. Did not infer Henry III’s descendants or any later family connection.
 - 2026-07-27 — Confirmed Henry III to Edward I from an institutional historical profile and an independent published biography. Did not infer Edward I’s descendants or any later family connection.
+- 2026-07-27 — Confirmed Edward I to Edward II from an institutional historical profile and an independent published biography. Did not infer Edward II’s descendants or any later family connection.

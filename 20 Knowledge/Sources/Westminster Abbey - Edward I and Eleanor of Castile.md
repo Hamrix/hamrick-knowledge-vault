@@ -30,6 +30,7 @@ Westminster Abbey records Edward I's royal commemoration and historical context.
 ## Claims supported
 
 - [[Edward I was a son of Henry III]]
+- [[Edward II was a son of Edward I]]
 
 ## Claims contradicted
 
