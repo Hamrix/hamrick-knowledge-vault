@@ -55,6 +55,7 @@ Use the Genealogical Proof Standard:
 - [[Humphrey Stafford was a son of Anne of Gloucester]] — confirmed direct relationship only; it does not establish a later Stafford or modern-family descent.
 - [[Margaret of Scotland was a daughter of Edward the Exile]] — confirmed direct relationship only; it does not establish a later royal or modern-family descent.
 - [[Matilda of Scotland was a daughter of Margaret of Scotland]] — confirmed direct relationship only; it does not establish a later royal or modern-family descent.
+- [[Matilda of Scotland married Henry I of England]] — confirmed marriage only; it does not establish descent through their children or a modern-family connection.
 
 ## Research and uncertainty
 
@@ -110,3 +111,4 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 - 2026-07-27 — Separated the already-supported Anne of Gloucester to Humphrey Stafford relationship into an atomic claim, retaining its explicit limits on later descent.
 - 2026-07-27 — Confirmed Edward the Exile to Margaret from a scholarly medieval database and an independent published biography. Excluded disputed maternal ancestry and all later descent.
 - 2026-07-27 — Separated the already-supported Margaret and Malcolm III to Matilda of Scotland relationship into an atomic claim, retaining its explicit limits on later descent.
+- 2026-07-27 — Separated the already-supported Matilda of Scotland and Henry I marriage into an atomic claim, retaining its explicit limits on descent through their children.

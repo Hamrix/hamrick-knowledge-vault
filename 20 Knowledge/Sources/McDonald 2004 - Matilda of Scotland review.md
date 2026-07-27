@@ -31,6 +31,7 @@ This review independently corroborates Matilda’s parentage and marriage as des
 
 - [[Margaret of Scotland linked Edward the Exile’s line to Henry I of England’s family]]
 - [[Matilda of Scotland was a daughter of Margaret of Scotland]]
+- [[Matilda of Scotland married Henry I of England]]
 
 ## Claims contradicted
 

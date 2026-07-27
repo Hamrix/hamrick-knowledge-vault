@@ -53,6 +53,7 @@ As of 2026-07-27, the project directory contained only [[10 Projects/Aetheling E
 - [[Humphrey Stafford was a son of Anne of Gloucester]] — verified direct relationship only; no later Stafford or modern-family descent is inferred.
 - [[Margaret of Scotland was a daughter of Edward the Exile]] — verified direct relationship only; no later royal or modern-family descent is inferred.
 - [[Matilda of Scotland was a daughter of Margaret of Scotland]] — verified direct relationship only; no later royal or modern-family descent is inferred.
+- [[Matilda of Scotland married Henry I of England]] — verified marriage only; no descent through their children or modern-family connection is inferred.
 
 ## Research claims not established
 
