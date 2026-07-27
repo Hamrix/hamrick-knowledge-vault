@@ -53,6 +53,7 @@ Use the Genealogical Proof Standard:
 - [[Thomas of Woodstock was a son of Edward III]] — confirmed direct relationship only; it does not establish a later Stafford or modern-family descent.
 - [[Anne of Gloucester was a daughter of Thomas of Woodstock]] — confirmed direct relationship only; it does not establish a later Stafford or modern-family descent.
 - [[Humphrey Stafford was a son of Anne of Gloucester]] — confirmed direct relationship only; it does not establish a later Stafford or modern-family descent.
+- [[Margaret of Scotland was a daughter of Edward the Exile]] — confirmed direct relationship only; it does not establish a later royal or modern-family descent.
 
 ## Research and uncertainty
 
@@ -71,6 +72,7 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 - [[Neal 2023 - Anglo-Scandinavian by-names]]
 - [[People of Medieval Scotland - Margaret queen of Scots]]
 - [[McDonald 2004 - Matilda of Scotland review]]
+- [[DNB 1885-1900 - Margaret queen of Scots]]
 - [[Archontology - Henry II]]
 - [[1911 Encyclopaedia Britannica - Henry II]]
 - [[DNB 1892 - John king of England]]
@@ -105,3 +107,4 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 - 2026-07-27 — Separated the already-supported Edward III to Thomas of Woodstock relationship into an atomic claim, retaining its explicit limits on later descent.
 - 2026-07-27 — Separated the already-supported Thomas of Woodstock to Anne of Gloucester relationship into an atomic claim, retaining its explicit limits on later descent.
 - 2026-07-27 — Separated the already-supported Anne of Gloucester to Humphrey Stafford relationship into an atomic claim, retaining its explicit limits on later descent.
+- 2026-07-27 — Confirmed Edward the Exile to Margaret from a scholarly medieval database and an independent published biography. Excluded disputed maternal ancestry and all later descent.

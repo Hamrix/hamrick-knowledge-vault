@@ -23,6 +23,7 @@ As of 2026-07-27, the project directory contained only [[10 Projects/Aetheling E
 - [[Neal 2023 - Anglo-Scandinavian by-names]] — independent place-name research.
 - [[People of Medieval Scotland - Margaret queen of Scots]] — scholarly prosopographical record with cited documentary sources.
 - [[McDonald 2004 - Matilda of Scotland review]] — independent academic corroboration.
+- [[DNB 1885-1900 - Margaret queen of Scots]] — independent published historical biography.
 - [[Archontology - Henry II]] — modern monarch reference with cited historical authorities.
 - [[1911 Encyclopaedia Britannica - Henry II]] — independent historical encyclopedia biography.
 - [[DNB 1892 - John king of England]] — historical biography of King John.
@@ -50,6 +51,7 @@ As of 2026-07-27, the project directory contained only [[10 Projects/Aetheling E
 - [[Thomas of Woodstock was a son of Edward III]] — verified direct relationship only; no later Stafford or modern-family descent is inferred.
 - [[Anne of Gloucester was a daughter of Thomas of Woodstock]] — verified direct relationship only; no later Stafford or modern-family descent is inferred.
 - [[Humphrey Stafford was a son of Anne of Gloucester]] — verified direct relationship only; no later Stafford or modern-family descent is inferred.
+- [[Margaret of Scotland was a daughter of Edward the Exile]] — verified direct relationship only; no later royal or modern-family descent is inferred.
 
 ## Research claims not established
 

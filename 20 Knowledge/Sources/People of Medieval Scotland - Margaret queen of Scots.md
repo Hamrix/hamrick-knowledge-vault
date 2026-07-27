@@ -32,6 +32,7 @@ People of Medieval Scotland is a scholarly research database that provides its s
 ## Claims supported
 
 - [[Margaret of Scotland linked Edward the Exile’s line to Henry I of England’s family]]
+- [[Margaret of Scotland was a daughter of Edward the Exile]]
 
 ## Claims contradicted
 
