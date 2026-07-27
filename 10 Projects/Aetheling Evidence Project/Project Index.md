@@ -15,6 +15,8 @@ Audit, document, and present the Selby, Stafford, Plantagenet, Wessex, Haskins, 
 
 No lineage assertion is treated as proven merely because it appears in an online tree, GEDCOM, family narrative, or AI-generated report.
 
+The initial vault audit found no underlying lineage files or identity-specific evidence. The first completed batch therefore records only a verified historical-language baseline. No family-tree connection has been added.
+
 ## Workstreams
 
 - Modern documented lineage
@@ -34,9 +36,29 @@ Use the Genealogical Proof Standard:
 - resolution of conflicts;
 - soundly reasoned written conclusion.
 
+## Verified facts
+
+- [[Æþeling designated a prince of an English royal house]] — confirmed historical context only; it does not support a modern descent claim.
+
+## Research and uncertainty
+
+- [[Source Material Inventory|Aetheling Evidence Project - Source Material Inventory]]
+
+The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby workstreams remain research targets. None is currently a proven lineage in this vault.
+
+## Sources
+
+- [[Bosworth-Toller - æþeling]]
+- [[Dumville 1979 - The ætheling]]
+- [[British Library - Stowe Ch 37]]
+
 ## Next actions
 
 - [ ] Import existing lineage claims as claim records
 - [ ] Create one evidence note per parent-child link
 - [ ] Separate proven modern generations from medieval hypotheses
 - [ ] Build a source acquisition queue
+
+## Change log
+
+- 2026-07-27 — Audited the vault, recorded the absence of supplied lineage evidence, added three independently checked source records, and confirmed one narrow historical terminology claim. Added no genealogical connections.
