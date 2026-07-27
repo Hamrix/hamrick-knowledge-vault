@@ -55,6 +55,7 @@ As of 2026-07-27, the project directory contained only [[10 Projects/Aetheling E
 - [[Matilda of Scotland was a daughter of Margaret of Scotland]] — verified direct relationship only; no later royal or modern-family descent is inferred.
 - [[Matilda of Scotland married Henry I of England]] — verified marriage only; no descent through their children or modern-family connection is inferred.
 - [[Empress Matilda was a daughter of Henry I]] — verified direct relationship only; no descent through Matilda or modern-family connection is inferred.
+- [[Henry II was a son of Empress Matilda]] — verified direct relationship only; no later descent from Henry II or modern-family connection is inferred.
 
 ## Research claims not established
 
