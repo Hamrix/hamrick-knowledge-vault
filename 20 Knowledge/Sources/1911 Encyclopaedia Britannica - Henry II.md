@@ -30,6 +30,7 @@ This is an older secondary reference work and should not be used alone for dispu
 ## Claims supported
 
 - [[Henry II was the son of Empress Matilda, daughter of Henry I]]
+- [[Empress Matilda was a daughter of Henry I]]
 
 ## Claims contradicted
 
