@@ -47,6 +47,7 @@ Use the Genealogical Proof Standard:
 - [[Henry II was the son of Empress Matilda, daughter of Henry I]] — confirmed direct relationship only; it does not establish a connection to Edward III, Stafford, or a modern family.
 - [[King John was a son of Henry II]] — confirmed direct relationship only; it does not establish John’s descendants or a connection to a later family.
 - [[Henry III was a son of King John]] — confirmed direct relationship only; it does not establish Henry III’s descendants or a connection to a later family.
+- [[Edward I was a son of Henry III]] — confirmed direct relationship only; it does not establish Edward I’s descendants or a connection to a later family.
 
 ## Research and uncertainty
 
@@ -71,6 +72,8 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 - [[UEA 2021 - John dominus Hibernie]]
 - [[Royal Family - Henry III]]
 - [[Westminster Abbey - Henry III]]
+- [[Westminster Abbey - Edward I and Eleanor of Castile]]
+- [[DNB 1895 - Edward I]]
 
 ## Next actions
 
@@ -88,3 +91,4 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 - 2026-07-27 — Confirmed Henry I → Empress Matilda → Henry II from two independent reference works. Kept later royal and family-line connections unproven pending separate evidence.
 - 2026-07-27 — Confirmed Henry II → John from an explicit historical biography and independent university research. Did not infer John’s descendants or any later family connection.
 - 2026-07-27 — Confirmed John → Henry III from two independent institutional historical profiles. Did not infer Henry III’s descendants or any later family connection.
+- 2026-07-27 — Confirmed Henry III to Edward I from an institutional historical profile and an independent published biography. Did not infer Edward I’s descendants or any later family connection.

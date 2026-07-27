@@ -29,6 +29,8 @@ As of 2026-07-27, the project directory contained only [[10 Projects/Aetheling E
 - [[UEA 2021 - John dominus Hibernie]] — independent university research.
 - [[Royal Family - Henry III]] — official historical profile.
 - [[Westminster Abbey - Henry III]] — independent institutional historical profile.
+- [[Westminster Abbey - Edward I and Eleanor of Castile]] — institutional historical profile.
+- [[DNB 1895 - Edward I]] — independent published historical biography.
 
 ## Proven historical context
 
@@ -39,6 +41,7 @@ As of 2026-07-27, the project directory contained only [[10 Projects/Aetheling E
 - [[Henry II was the son of Empress Matilda, daughter of Henry I]] — verified direct relationship only; later links remain unproven here.
 - [[King John was a son of Henry II]] — verified direct relationship only; John’s descendants remain separately unproven here.
 - [[Henry III was a son of King John]] — verified direct relationship only; Henry III’s descendants remain separately unproven here.
+- [[Edward I was a son of Henry III]] — verified direct relationship only; Edward I’s descendants remain separately unproven here.
 
 ## Research claims not established
 
