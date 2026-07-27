@@ -71,6 +71,8 @@ The following project topics remain unproven because the vault contains no ident
 
 Exact-name web and catalogue searches performed on 2026-07-27 did not locate a reliable record that identifies Frederic or Frederick Ethelred Selby. This negative search result is not evidence that the person did not exist; it means no person note or biographical claim can yet be responsibly created.
 
+Follow-up exact-phrase searches on 2026-07-27 for "Frederic Ethelred Selby" and "Frederick Ethelred Selby," including a National Archives catalogue-domain query, likewise produced no reliable record identifying one person. Search results that merely contained the separate terms "Selby" and "Ethelred" were excluded as non-identifying. This is a research-log observation, not evidence of non-existence.
+
 These are research targets, not facts. No family-tree connection should be created until each parent-child link is supported by reliable, cited evidence and conflicts have been resolved.
 
 ## Source acquisition queue

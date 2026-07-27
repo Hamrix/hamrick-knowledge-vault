@@ -118,3 +118,4 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 - 2026-07-27 — Separated the already-supported Henry I to Empress Matilda relationship into an atomic claim, retaining its explicit limits on later descent.
 - 2026-07-27 — Separated the already-supported Empress Matilda to Henry II relationship into an atomic claim, retaining its explicit limits on later descent.
 - 2026-07-27 — Separated the already-supported Margaret and Malcolm III marriage into an atomic claim, excluding an imprecise marriage date and all descent claims.
+- 2026-07-27 — Repeated exact-name searches for Frederic/Frederick Ethelred Selby, including a National Archives catalogue-domain query. No reliable identity-specific record was located; no person note or biographical claim was added.
