@@ -24,6 +24,7 @@ As of 2026-07-27, the project directory contained only [[10 Projects/Aetheling E
 - [[People of Medieval Scotland - Margaret queen of Scots]] — scholarly prosopographical record with cited documentary sources.
 - [[McDonald 2004 - Matilda of Scotland review]] — independent academic corroboration.
 - [[DNB 1885-1900 - Margaret queen of Scots]] — independent published historical biography.
+- [[Dictionary of American Family Names - Haskins]] — specialist dictionary source retained for uncertainty analysis; it gives multiple possible origins rather than a project-specific conclusion.
 - [[Archontology - Henry II]] — modern monarch reference with cited historical authorities.
 - [[1911 Encyclopaedia Britannica - Henry II]] — independent historical encyclopedia biography.
 - [[DNB 1892 - John king of England]] — historical biography of King John.
@@ -72,6 +73,8 @@ The following project topics remain unproven because the vault contains no ident
 Exact-name web and catalogue searches performed on 2026-07-27 did not locate a reliable record that identifies Frederic or Frederick Ethelred Selby. This negative search result is not evidence that the person did not exist; it means no person note or biographical claim can yet be responsibly created.
 
 Follow-up exact-phrase searches on 2026-07-27 for "Frederic Ethelred Selby" and "Frederick Ethelred Selby," including a National Archives catalogue-domain query, likewise produced no reliable record identifying one person. Search results that merely contained the separate terms "Selby" and "Ethelred" were excluded as non-identifying. This is a research-log observation, not evidence of non-existence.
+
+The 2022 *Dictionary of American Family Names* entry for Haskins supplies multiple possible linguistic origins. Because no identity-specific project evidence selects among them, no Haskins surname-origin claim is treated as established in this vault.
 
 These are research targets, not facts. No family-tree connection should be created until each parent-child link is supported by reliable, cited evidence and conflicts have been resolved.
 
