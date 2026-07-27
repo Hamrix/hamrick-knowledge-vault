@@ -30,6 +30,7 @@ The *Oxford Dictionary of National Biography* is an expert-edited scholarly refe
 ## Claims supported
 
 - [[Humphrey Stafford was a great-grandson of Edward III through Anne of Gloucester]]
+- [[Thomas of Woodstock was a son of Edward III]]
 
 ## Claims contradicted
 

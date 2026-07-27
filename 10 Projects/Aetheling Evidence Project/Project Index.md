@@ -50,6 +50,7 @@ Use the Genealogical Proof Standard:
 - [[Edward I was a son of Henry III]] — confirmed direct relationship only; it does not establish Edward I’s descendants or a connection to a later family.
 - [[Edward II was a son of Edward I]] — confirmed direct relationship only; it does not establish Edward II’s descendants or a connection to a later family.
 - [[Edward III was a son of Edward II]] — confirmed direct relationship only; it does not establish descent from Edward III to any later family.
+- [[Thomas of Woodstock was a son of Edward III]] — confirmed direct relationship only; it does not establish a later Stafford or modern-family descent.
 
 ## Research and uncertainty
 
@@ -99,3 +100,4 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 - 2026-07-27 — Confirmed Henry III to Edward I from an institutional historical profile and an independent published biography. Did not infer Edward I’s descendants or any later family connection.
 - 2026-07-27 — Confirmed Edward I to Edward II from an institutional historical profile and an independent published biography. Did not infer Edward II’s descendants or any later family connection.
 - 2026-07-27 — Confirmed Edward II to Edward III from an institutional historical profile and an independent published biography. This does not establish descent from Edward III to a Stafford, Selby, Haskins, or modern family.
+- 2026-07-27 — Separated the already-supported Edward III to Thomas of Woodstock relationship into an atomic claim, retaining its explicit limits on later descent.
