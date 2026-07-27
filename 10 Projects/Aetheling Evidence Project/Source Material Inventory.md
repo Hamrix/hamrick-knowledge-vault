@@ -21,12 +21,15 @@ As of 2026-07-27, the project directory contained only [[10 Projects/Aetheling E
 - [[Cokayne - Complete Peerage Stafford-Gloucester relationship]] — independent peerage reference.
 - [[Hanks - Dictionary of American Family Names Selby]] — specialist surname dictionary entry.
 - [[Neal 2023 - Anglo-Scandinavian by-names]] — independent place-name research.
+- [[People of Medieval Scotland - Margaret queen of Scots]] — scholarly prosopographical record with cited documentary sources.
+- [[McDonald 2004 - Matilda of Scotland review]] — independent academic corroboration.
 
 ## Proven historical context
 
 - [[Æþeling designated a prince of an English royal house]]
 - [[Humphrey Stafford was a great-grandson of Edward III through Anne of Gloucester]] — a verified medieval relationship only.
 - [[Selby has a documented English and Scottish habitational surname origin]] — surname context only; not evidence about a particular Selby family.
+- [[Margaret of Scotland linked Edward the Exile’s line to Henry I of England’s family]] — verified royal-family bridge only; no later descent is inferred.
 
 ## Research claims not established
 
