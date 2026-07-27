@@ -1,0 +1,22 @@
+# Obsidian local state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/plugins/*/data.json
+
+# Operating system
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets and local runtime state
+.env
+.env.*
+!.env.example
+.openclaw/secrets/
+.openclaw/runtime/
+*.log
+
+# Temporary captures
+*.tmp
+*.bak

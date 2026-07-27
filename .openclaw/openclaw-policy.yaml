@@ -1,0 +1,32 @@
+version: 1
+vault:
+  root: "${OBSIDIAN_VAULT_PATH}"
+  read:
+    allow:
+      - "**/*.md"
+  write:
+    allow:
+      - "90 Inbox/**/*.md"
+      - ".openclaw/runtime/**"
+    deny:
+      - "20 Knowledge/Sources/Restricted/**"
+      - "**/.env"
+      - "**/*secret*"
+      - "**/*token*"
+git:
+  auto_commit: false
+  auto_push: false
+  default_branch_protected: true
+  working_branch_prefix: "openclaw/"
+automation:
+  daily_digest:
+    enabled: true
+    output: "90 Inbox/OpenClaw Daily Digest.md"
+  weekly_review:
+    enabled: true
+    output: "90 Inbox/OpenClaw Weekly Review.md"
+security:
+  redact_patterns:
+    - "sk-[A-Za-z0-9_-]+"
+    - "ghp_[A-Za-z0-9]+"
+    - "github_pat_[A-Za-z0-9_]+"
