@@ -33,6 +33,7 @@ Peerage reference entry for the Buckingham title. The entry gives the descent re
 - [[Humphrey Stafford was a great-grandson of Edward III through Anne of Gloucester]]
 - [[Thomas of Woodstock was a son of Edward III]]
 - [[Anne of Gloucester was a daughter of Thomas of Woodstock]]
+- [[Humphrey Stafford was a son of Anne of Gloucester]]
 
 ## Claims contradicted
 

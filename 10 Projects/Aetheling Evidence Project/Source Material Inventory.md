@@ -49,6 +49,7 @@ As of 2026-07-27, the project directory contained only [[10 Projects/Aetheling E
 - [[Edward III was a son of Edward II]] — verified direct relationship only; no descent from Edward III to a later family is inferred.
 - [[Thomas of Woodstock was a son of Edward III]] — verified direct relationship only; no later Stafford or modern-family descent is inferred.
 - [[Anne of Gloucester was a daughter of Thomas of Woodstock]] — verified direct relationship only; no later Stafford or modern-family descent is inferred.
+- [[Humphrey Stafford was a son of Anne of Gloucester]] — verified direct relationship only; no later Stafford or modern-family descent is inferred.
 
 ## Research claims not established
 
