@@ -1,38 +1,37 @@
 ---
 type: claim
-status: active
-confidence: speculative
+status: withdrawn
+confidence: contradicted
 privacy: internal
 last-reviewed: 2026-07-29
 ---
 
-# Benjamin Selby is not yet documented as a son of Burridge H. Selby
+# Benjamin Selby was incorrectly attached to the Burridge H. Selby branch
 
-## Claim under review
+## Withdrawn claim
 
 The uploaded GEDCOM places Benjamin Selby, born 1779, as a son of Burridge Hutchins Selby and Mary Ann Martin/Troop.
 
-## Evidence supporting
+## Correction
 
-- The GEDCOM assigns Benjamin to Burridge's family.
-- The family is placed in Hyde County, North Carolina, before the later Kentucky generations.
+Hamrick Ethelred Selby directly clarified that his family is not connected to the Burridge family line. The Burridge assignment is therefore removed from the active paternal pedigree.
 
-## Evidence against or missing
+## Supporting reasons for withdrawal
 
+- [[Firsthand lineage correction - Burridge branch excluded]] records the direct family correction.
 - No inspected probate, birth, baptism, guardianship, deed, tax, court, Bible, or other record names Benjamin as Burridge's son.
-- The proposed mother's GEDCOM profile is merged or corrupted, combining eighteenth-century North Carolina events with twentieth-century birth and passenger-arrival data.
-- A GEDCOM marriage date of 1784 postdates Benjamin's stated 1779 birth and is not reconciled.
-- The Burridge profile contains contradictory death dates and an 1800 census citation that cannot coexist with a death in 1792 or before May 1793 unless records have been conflated.
-- The 1790 census named only household heads and cannot identify Benjamin as a child in Burridge's household.
+- The proposed mother's GEDCOM profile is merged or corrupted, combining eighteenth-century North Carolina events with twentieth-century data.
+- The Burridge record contains contradictory death assertions and an incompatible 1800 census citation.
+- The 1790 census cannot identify Benjamin as a named child in Burridge's household.
 
 ## Analysis
 
-The relationship cannot currently be distinguished from an online-tree propagation or a conflation among several similarly named Selby households in Hyde County. It must not be used as a proven bridge from Kentucky to colonial North Carolina.
+This is no longer an open speculative bridge in the active lineage. It is classified as an erroneous or conflated GEDCOM assignment. Research should instead identify Benjamin Selby's correct parents independently.
 
 ## Confidence rationale
 
-`speculative`: an uncited GEDCOM child assignment is accompanied by serious identity and chronology conflicts.
+`contradicted`: direct family correction aligns with the absence of reliable parent-child evidence and serious internal conflicts in the GEDCOM branch.
 
-## Next research action
+## Public-use rule
 
-Reconstruct the Burridge/Burrage/Hutchins Selby households from original Hyde County probate, deed, tax, court, church, and census records, then locate a record explicitly naming Benjamin as a son or heir.
+Do not display Benjamin Selby as a son of Burridge Hutchins Selby. Do not extend the active lineage through Burridge, Samuel, William, James, Thomas, or John Selby.
