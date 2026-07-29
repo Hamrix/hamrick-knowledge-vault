@@ -22,6 +22,7 @@ The second batch confirms one bounded medieval Stafford relationship to Edward I
 ## Current session backup
 
 - [[2026-07-29 - Session backup - Frederic records and lineage-break expansion]] — consolidated recovery note for the Frederic record-acquisition work, 1786 Etheldred Peters image correction, 1788 estate-file target, Robert Benjamin Selby research, archival-request drafts, and ranked lineage breaks.
+- [[2026-07-29 - Session continuation backup - Stafford-Peters and Ethelred R Stafford]] — continuation recovery note for the 1794 Stafford–Peters marriage-bond target, the 1873 Ethelred R. Stafford New Orleans death trail, the three-record bridge test, and the unsent archive request.
 
 ## Workstreams
 
@@ -47,7 +48,7 @@ Use the Genealogical Proof Standard:
 - [[Æþeling designated a prince of an English royal house]] — confirmed historical context only; it does not support a modern descent claim.
 - [[Humphrey Stafford was a great-grandson of Edward III through Anne of Gloucester]] — confirmed for the named medieval people only.
 - [[Selby has a documented English and Scottish habitational surname origin]] — strong linguistic context only; it does not establish a specific Selby ancestor or lineage.
-- [[Stafford has a documented English habitational surname origin]] — strong linguistic context only; it does not establish a specific Stafford ancestor, medieval descent, or lineage.
+- [[Stafford has a documented English habitational surname origin]] — strong linguistic context only; it does not establish a specific Stafford family, medieval descent, or lineage.
 - [[Margaret of Scotland linked Edward the Exile’s line to Henry I of England’s family]] — confirmed historical bridge only; it does not establish a later Plantagenet, Stafford, or modern descent.
 - [[Henry II was the son of Empress Matilda, daughter of Henry I]] — confirmed direct relationship only; it does not establish a connection to Edward III, Stafford, or a modern family.
 - [[King John was a son of Henry II]] — confirmed direct relationship only; it does not establish John’s descendants or a connection to a later family.
@@ -116,11 +117,13 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 - [ ] Create one evidence note per parent-child link
 - [ ] Separate proven modern generations from medieval hypotheses
 - [ ] Build a source acquisition queue
-- [ ] Send the reviewed archival requests recorded in the 2026-07-29 session backup
+- [ ] Send the reviewed archival requests recorded in the 2026-07-29 session backups
 - [ ] Attach returned scans and correspondence to their governing source notes
+- [ ] Obtain the 1794 Stafford–Peters marriage bond and 1873 Ethelred R. Stafford death or succession record
 
 ## Change log
 
+- 2026-07-29 — Added and linked a continuation backup for the Stafford–Peters marriage-bond target, Ethelred R. Stafford's New Orleans death trail, the three-record bridge test, and the unsent North Carolina archive request. No relationship was upgraded without an inspected original.
 - 2026-07-29 — Added a consolidated Obsidian recovery note for the Frederic record-acquisition packet, archival-request drafts, the original-image correction to the 1786 Etheldred Peters tax entry, the 1788 Peters estate target, Robert Benjamin Selby research, and the ranked lineage breaks. Linked the backup from the project index.
 - 2026-07-27 — Audited the vault, recorded the absence of supplied lineage evidence, added three independently checked source records, and confirmed one narrow historical terminology claim. Added no genealogical connections.
 - 2026-07-27 — Confirmed the medieval Edward III → Thomas of Woodstock → Anne of Gloucester → Humphrey Stafford chain from two independent scholarly references. Did not extend the chain to Selby, Haskins, or a modern family. Exact-name searches did not reliably identify Frederic Ethelred Selby.
