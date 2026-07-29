@@ -2,7 +2,7 @@
 type: project
 status: active
 privacy: internal
-last-reviewed: 2026-07-27
+last-reviewed: 2026-07-29
 ---
 
 # Aetheling Evidence Project
@@ -18,6 +18,10 @@ No lineage assertion is treated as proven merely because it appears in an online
 The initial vault audit found no underlying lineage files or identity-specific evidence. The first completed batch therefore records only a verified historical-language baseline. No family-tree connection has been added.
 
 The second batch confirms one bounded medieval Stafford relationship to Edward III. It does not connect that Stafford branch to Selby, Haskins, or any modern person.
+
+## Current session backup
+
+- [[2026-07-29 - Session backup - Frederic records and lineage-break expansion]] — consolidated recovery note for the Frederic record-acquisition work, 1786 Etheldred Peters image correction, 1788 estate-file target, Robert Benjamin Selby research, archival-request drafts, and ranked lineage breaks.
 
 ## Workstreams
 
@@ -112,9 +116,12 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 - [ ] Create one evidence note per parent-child link
 - [ ] Separate proven modern generations from medieval hypotheses
 - [ ] Build a source acquisition queue
+- [ ] Send the reviewed archival requests recorded in the 2026-07-29 session backup
+- [ ] Attach returned scans and correspondence to their governing source notes
 
 ## Change log
 
+- 2026-07-29 — Added a consolidated Obsidian recovery note for the Frederic record-acquisition packet, archival-request drafts, the original-image correction to the 1786 Etheldred Peters tax entry, the 1788 Peters estate target, Robert Benjamin Selby research, and the ranked lineage breaks. Linked the backup from the project index.
 - 2026-07-27 — Audited the vault, recorded the absence of supplied lineage evidence, added three independently checked source records, and confirmed one narrow historical terminology claim. Added no genealogical connections.
 - 2026-07-27 — Confirmed the medieval Edward III → Thomas of Woodstock → Anne of Gloucester → Humphrey Stafford chain from two independent scholarly references. Did not extend the chain to Selby, Haskins, or a modern family. Exact-name searches did not reliably identify Frederic Ethelred Selby.
 - 2026-07-27 — Added a strong surname-origin note for Selby from a specialist dictionary and independent place-name research. Recorded alternative origins and did not infer any individual Selby’s ancestry.
