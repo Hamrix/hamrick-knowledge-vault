@@ -70,7 +70,7 @@ The LVA request should ask staff to identify the exact volume, folio/page, and m
 
 - Name: Thomas Selby Sr.
 - Record: original will, register-copy will, or archive-certified transcription.
-- Date lead: around January 1701.
+- Date lead: will dated 28 October 1701; probate lead 24 October 1702.
 - Required record: complete will image/transcription, including witnesses, executor, heirs, land/property language, and proof/probate notation.
 
 ### 7. Thomas Selby Sr. 1703 inventory
@@ -79,6 +79,16 @@ The LVA request should ask staff to identify the exact volume, folio/page, and m
 - Record: estate inventory.
 - Date lead: around March 1703.
 - Required record: complete inventory image/transcription, including appraisers, valuation, return/probate date, any account or administration bond, and full archive citation.
+
+### 8. Thomas Selby 1725 Simpleton / Singleton transaction
+
+- Name: Thomas Selby of Somerset County.
+- Associated wife: Margaret.
+- Associated party: William Selby of Somerset County.
+- Date lead: 12 October 1725.
+- Land/tract: Simpleton or Singleton, associated with Boquetenorton / Bogertennorton and Selby's Bay.
+- Reported content: deed language identifying an earlier Thomas Selby as the grantor's eldest grandfather and naming the grantor as heir-at-law of his father and grandfather.
+- Required record: complete deed image/transcription, including opening clause, consideration, tract history, heir-at-law language, signatures or marks, witnesses, acknowledgments, and full book/page citation.
 
 ## Maryland record access route
 
@@ -90,6 +100,8 @@ Known official route:
 - MSA copy-order guidance allows estate/probate copy requests and gives `msa.helpdesk@maryland.gov` for record-transfer or order questions.
 
 The MSA request should ask whether the record belongs to Somerset County, Worcester County, or a provincial Prerogative Court series, because Worcester County was not a separate county until after some earlier Eastern Shore records and many colonial probate records were recorded at the provincial level.
+
+The 1725 deed should be searched in Somerset County land records and related provincial land-record series before any later Worcester County conclusion is made.
 
 ## Variant spellings and names to search
 
@@ -103,6 +115,17 @@ The MSA request should ask whether the record belongs to Somerset County, Worces
 - Daniell Jones / Daniel Jones
 - Thomas Selby
 - Thomas Selby Sr.
+- Thomas Selby II
+- Thomas Selby, grandson
+- Thomas Selby, heir-at-law
+- Margaret Selby
+- William Selby
+- Simpleton
+- Singleton
+- Boguetmorton
+- Boquetenorton
+- Bogertennorton
+- Selby's Bay
 - Selby / Selbie / Selbye variants
 
 ## Drafted archive requests
@@ -120,6 +143,7 @@ The MSA request should ask whether the record belongs to Somerset County, Worces
 - Subject: `Copy request — Thomas Selby Sr. original will and 1703 inventory`
 - Gmail draft ID: `r-781377954099692978`
 - Status: unsent; user review required.
+- Note: this draft should be revised or supplemented to include the 1725 Simpleton / Singleton land transaction before sending.
 
 ## Evidence classification before acquisition
 
@@ -130,6 +154,7 @@ The MSA request should ask whether the record belongs to Somerset County, Worces
 - 1677 sale: **specific target; exact citation pending**.
 - Thomas Selby Sr. 1701 will: **specific derivative lead; original uninspected**.
 - Thomas Selby Sr. 1703 inventory: **specific derivative lead; original uninspected**.
+- Thomas Selby 1725 Simpleton / Singleton deed: **specific derivative lead; original uninspected**.
 
 ## Required outputs after acquisition
 
@@ -147,4 +172,4 @@ For each obtained record, create a separate source note containing:
 
 ## Public-use wording before records arrive
 
-“The Cornelius/Westerhouse/Selby colonial bridge is an acquisition target only. John Cornelius's 1656 will, the 1660 and 1664 conveyances, the 1675 patent, the 1677 sale, and Thomas Selby Sr.'s 1701 will and 1703 inventory must be obtained and correlated before the line is extended to later Thomas Selby or Major Selby.”
+“The Cornelius/Westerhouse/Selby colonial bridge is an acquisition target only. John Cornelius's 1656 will, the 1660 and 1664 conveyances, the 1675 patent, the 1677 sale, Thomas Selby Sr.'s 1701 will and 1703 inventory, and the reported 1725 Simpleton / Singleton deed must be obtained and correlated before the line is extended to later Thomas Selby or Major Selby.”
