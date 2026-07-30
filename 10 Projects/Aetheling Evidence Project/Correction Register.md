@@ -133,17 +133,17 @@ This register records factual corrections to legacy Aetheling, Selby Manor, line
 
 ## Correction 013 - Frederick Payne Selby maternal identity
 
-**Legacy or earlier vault statement:** Frederick Payne Selby was probably a son of Robert Benjamin Selby and Eliza Payne.
+**Legacy or earlier vault statement:** Frederick Payne Selby was probably a son of Robert Benjamin Selby and Eliza Payne; later a FamilySearch profile screenshot displayed his mother as Sophia E. Stone.
 
-**Corrected statement:** [[Frederick Payne Selby was probably a son of Robert Benjamin Selby]] only. His mother is not yet documented from an inspected original record. [[Docia Stone Selby direct-line anchor and record-acquisition plan]] controls the current research direction: Docia Stone Selby is the family-confirmed direct-line maternal anchor and active working mother hypothesis pending original records.
+**Corrected statement:** [[Frederick Payne Selby and Elizabeth Dolan 1884 Orleans Parish marriage license image audit]] records that Frederick Payne Selby’s 1884 Orleans Parish marriage-license image names his parents as **Benjamin Selby** and **Docia Stone**. [[Docia Stone Selby direct-line anchor and record-acquisition plan]] now treats Docia Stone as documented as the mother named in Frederick Payne’s marriage record.
 
-**Status:** corrected public wording; maternal identity still under documentary audit.
+**Status:** corrected public wording; maternal record-name evidence now favors Docia Stone. Sophia E. Stone remains a derivative profile conflict lead only.
 
-**Evidence:** [[Docia Stone Selby direct-line anchor and record-acquisition plan]]; [[Robert Benjamin Selby 1870 and 1880 census household correlation]]; [[Vault-first GEDCOM audit protocol]].
+**Evidence:** [[Frederick Payne Selby and Elizabeth Dolan 1884 Orleans Parish marriage license image audit]]; [[Docia Stone Selby direct-line anchor and record-acquisition plan]]; [[Frederick Payne parentage proof sprint]]; [[Vault-first GEDCOM audit protocol]].
 
-**Public wording:** “Frederick Payne Selby is a supported but not yet documented son of Robert Benjamin Selby. Docia Stone Selby is the family-confirmed direct-line maternal anchor and active working mother hypothesis. The maternal identity still requires the 1870/1880 census images, Docia’s 1919 Kentucky death certificate, and Frederick Payne Selby’s own life records.”
+**Public wording:** “Frederick Payne Selby’s 1884 Orleans Parish marriage license names his parents as Benjamin Selby and Docia Stone. The record strongly supports Docia Stone as Frederick Payne’s mother in the direct line. The father is recorded as Benjamin Selby; the vault currently treats Benjamin as a strong identity-alias lead for Robert Benjamin Selby, pending confirmation from census, death, succession, or other corroborating records.”
 
-**Limit:** Do not use the name Eliza Payne in public-facing summaries unless later original evidence supports that maternal identity.
+**Limit:** Do not use the names Eliza Payne or Sophia E. Stone as Frederick Payne Selby’s mother in public-facing summaries unless later original evidence supports or explains those names.
 
 ## Website enforcement rule
 
