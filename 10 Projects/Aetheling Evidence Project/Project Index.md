@@ -2,7 +2,7 @@
 type: project
 status: active
 privacy: internal
-last-reviewed: 2026-07-29
+last-reviewed: 2026-07-30
 ---
 
 # Aetheling Evidence Project
@@ -23,6 +23,7 @@ The second batch confirms one bounded medieval Stafford relationship to Edward I
 
 - [[2026-07-29 - Session backup - Frederic records and lineage-break expansion]] — consolidated recovery note for the Frederic record-acquisition work, 1786 Etheldred Peters image correction, 1788 estate-file target, Robert Benjamin Selby research, archival-request drafts, and ranked lineage breaks.
 - [[2026-07-29 - Session continuation backup - Stafford-Peters and Ethelred R Stafford]] — continuation recovery note for the 1794 Stafford–Peters marriage-bond target, the 1873 Ethelred R. Stafford New Orleans death trail, the three-record bridge test, and the unsent archive request.
+- [[2026-07-30 - Record-correlation phase backup - Robert Selby and Ethelred Stafford]] — exact 1870 and 1880 census targets, the 1844 Clark County marriage target, GEDCOM source-attachment corrections, missing-media identifiers, and unsent Indiana and New Orleans archive requests.
 
 ## Workstreams
 
@@ -117,16 +118,21 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 - [ ] Create one evidence note per parent-child link
 - [ ] Separate proven modern generations from medieval hypotheses
 - [ ] Build a source acquisition queue
-- [ ] Send the reviewed archival requests recorded in the 2026-07-29 session backups
+- [ ] Send the reviewed archival requests recorded in the 2026-07-29 and 2026-07-30 session backups
 - [ ] Attach returned scans and correspondence to their governing source notes
 - [ ] Obtain the 1794 Stafford–Peters marriage bond and 1873 Ethelred R. Stafford death or succession record
+- [ ] Obtain and inspect the 1870 Port Royal census page M593 roll 470, page 374A
+- [ ] Obtain and inspect the 1880 Eminence census page T9 roll 420, ED 092, page 28C
+- [ ] Obtain the complete 1844 Clark County marriage record for Robert Selby and Lucy S. Hunter
+- [ ] Locate Lucy Hunter after 1844 and Docia Stone before 1870
 
 ## Change log
 
+- 2026-07-30 — Began the record-correlation phase for Robert Benjamin Selby and Ethelred R. Stafford. Separated misattached GEDCOM source collections from the events they do not prove, defined the exact 1870 and 1880 census pages and expected household, recorded the four missing Ethelred Stafford media identifiers, created the 1844 Clark County marriage target, and drafted unsent requests to the Clark County Clerk and New Orleans City Archives. No relationship was upgraded without an original image.
 - 2026-07-29 — Added and linked a continuation backup for the Stafford–Peters marriage-bond target, Ethelred R. Stafford's New Orleans death trail, the three-record bridge test, and the unsent North Carolina archive request. No relationship was upgraded without an inspected original.
 - 2026-07-29 — Added a consolidated Obsidian recovery note for the Frederic record-acquisition packet, archival-request drafts, the original-image correction to the 1786 Etheldred Peters tax entry, the 1788 Peters estate target, Robert Benjamin Selby research, and the ranked lineage breaks. Linked the backup from the project index.
 - 2026-07-27 — Audited the vault, recorded the absence of supplied lineage evidence, added three independently checked source records, and confirmed one narrow historical terminology claim. Added no genealogical connections.
-- 2026-07-27 — Confirmed the medieval Edward III → Thomas of Woodstock → Anne of Gloucester → Humphrey Stafford chain from two independent scholarly references. Did not extend the chain to Selby, Haskins, or a modern family. Exact-name searches did not reliably identify Frederic Ethelred Selby.
+- 2026-07-27 — Confirmed the medieval Edward III → Thomas of Woodstock → Anne of Gloucester → Humphrey Stafford chain from two independent scholarly references. Did not extend the chain to Selby, Haskins, or any modern person.
 - 2026-07-27 — Added a strong surname-origin note for Selby from a specialist dictionary and independent place-name research. Recorded alternative origins and did not infer any individual Selby’s ancestry.
 - 2026-07-27 — Confirmed the Edward the Exile → Margaret → Matilda of Scotland → Henry I relationship bridge from a scholarly database and independent academic review. Did not infer descent to any later family.
 - 2026-07-27 — Confirmed Henry I → Empress Matilda → Henry II from two independent reference works. Kept later royal and family-line connections unproven pending separate evidence.
