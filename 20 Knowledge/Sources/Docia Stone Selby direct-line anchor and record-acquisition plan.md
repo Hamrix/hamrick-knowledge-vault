@@ -11,7 +11,9 @@ privacy: internal
 
 ## User-confirmed anchor
 
-On 2026-07-30, Hamrick Ethelred Selby II confirmed that **Docia Stone is his ancestor**. This is treated as living-family confirmation and a directional research anchor. It does not, by itself, prove every documentary detail attached to Docia in the GEDCOM.
+On 2026-07-30, Hamrick Ethelred Selby II confirmed that **Docia Stone is his ancestor**. This is treated as living-family confirmation and a directional research anchor.
+
+Later on 2026-07-30, the user supplied an Orleans Parish marriage-license image for Frederick Payne Selby and Elizabeth Dolan. That image names Frederick Payne Selby's parents as **Benjamin Selby** and **Docia Stone**. This materially strengthens the Docia direct-line anchor and documents that Docia Stone was named as Frederick's mother in his 1884 marriage-license record.
 
 ## GEDCOM identity
 
@@ -43,13 +45,26 @@ GEDCOM family `@F274@` assigns:
 - Child: Frederick Payne “Frank” Selby `@I222@`
 - Child: Robert Carr Selby `@I26@`
 
-This family group is the controlling direct-line target because Frederick Payne Selby is in the modern paternal chain leading to James Benjamin Sanford Selby, Frederic Ethelred Selby, Hamrick Selby, and Hamrick Ethelred Selby II.
+This family group remains the controlling direct-line target because Frederick Payne Selby is in the modern paternal chain leading to James Benjamin Sanford Selby, Frederic Ethelred Selby, Hamrick Selby, and Hamrick Ethelred Selby II.
+
+## New controlling source
+
+- [[Frederick Payne Selby and Elizabeth Dolan 1884 Orleans Parish marriage license image audit]]
+
+This source records:
+
+- Groom: Frederick Payne Selby
+- Groom father: Benjamin Selby
+- Groom mother: Docia Stone
+- Bride: Elizabeth Dolan
+- License date: 12 December 1884
+- Jurisdiction: Orleans Parish, Louisiana
 
 ## Current evidentiary classification
 
-- Docia Stone as user’s ancestor: **family-confirmed anchor; documentary proof still being assembled**.
-- Docia as wife of Robert Benjamin Selby: **supported hypothesis pending census/marriage/death image correlation**.
-- Docia as mother of Frederick Payne Selby: **supported hypothesis; highest-value direct-line test**.
+- Docia Stone as user’s ancestor: **family-confirmed anchor supported by marriage-license evidence**.
+- Docia Stone as named mother of Frederick Payne Selby: **documented in Frederick Payne Selby’s 1884 Orleans Parish marriage-license record**.
+- Docia as wife of Robert Benjamin/Benjamin Selby: **strong supported hypothesis pending census, death, and identity-correlation records**.
 - Docia as mother of Robert Carr Selby: **supported hypothesis pending 1880 census and later Kentucky death records**.
 - Docia as daughter of Frank Stone and Sophia MNU Stone Bryant: **unresolved; derivative tree only**.
 - Birth 13 July 1836 in Kentucky: **working lead from Kentucky death-record attachment; image uninspected**.
@@ -68,13 +83,14 @@ Docia’s GEDCOM profile attaches:
 
 ## Record-acquisition plan
 
-### P0 — Direct-line proof
+### P0 — Direct-line proof and correlation
 
-1. Obtain and inspect 1870 census image, Port Royal, Henry County, Kentucky, page 374A.
-2. Obtain and inspect 1880 census image, Eminence, Henry County, Kentucky, page 28C, ED 092.
+1. Obtain and inspect the 1880 census image, Eminence, Henry County, Kentucky, page 28C, ED 092.
+2. Obtain and inspect the 1870 census image, Port Royal, Henry County, Kentucky, page 374A.
 3. Obtain Docia/Dosea Stone Selby’s 1919 Jefferson County, Kentucky death certificate.
 4. Locate the 1910 Louisville Ward 12 census page for widowed Docia Selby and household members.
-5. Locate any marriage record, divorce record, newspaper item, court record, or deed showing when Docia Stone became Robert Benjamin Selby’s wife.
+5. Locate any marriage record, divorce record, newspaper item, court record, or deed showing when Docia Stone became Robert Benjamin/Benjamin Selby’s wife.
+6. Correlate the 1884 marriage-license father **Benjamin Selby** with the vault’s **Robert Benjamin Selby** identity.
 
 ### P1 — Parentage and origin
 
@@ -82,8 +98,9 @@ Docia’s GEDCOM profile attaches:
 2. Search Kentucky and Virginia census, marriage, probate, guardianship, and land records for a Stone household with daughter Docia/Dosea born about 1836–1840.
 3. Search Henry County, Kentucky, for Stone/Selby land, court, and probate interactions.
 4. Search Jefferson County, Kentucky, obituary and burial sources for Docia’s informant and kin network.
+5. Resolve whether the FamilySearch screenshot’s **Sophia E. Stone** is an error, alternate name, merged person, or separate woman.
 
-## New unsent archive request
+## Existing unsent archive request
 
 A Gmail draft was created to the Kentucky Department for Libraries and Archives:
 
@@ -94,8 +111,8 @@ A Gmail draft was created to the Kentucky Department for Libraries and Archives:
 
 ## Public-use wording
 
-“Docia Stone Selby is now treated as the family-confirmed direct-line spouse in the Robert Benjamin Selby household. Her relationship to Frederick Payne Selby and her own parentage remain under documentary audit pending the original 1870/1880 census images, the 1910 widowed household, and her 1919 Kentucky death certificate.”
+“Frederick Payne Selby’s 1884 Orleans Parish marriage license names his parents as Benjamin Selby and Docia Stone. Docia Stone is therefore documented as the mother named in Frederick Payne’s marriage record. Her own parentage and the full Robert Benjamin/Benjamin Selby identity correlation remain under audit pending the 1870/1880 census images, the 1910 widowed household, and Docia’s 1919 Kentucky death certificate.”
 
 ## Guardrail
 
-Do not use Docia’s confirmation to revive older Whitehouse, Burridge, medieval Selby, manor, royal, title, or estate claims. This phase is limited to documenting the modern American Selby household and the mother of Frederick Payne Selby.
+Do not use Docia’s confirmation or the 1884 marriage license to revive older Whitehouse, Burridge, medieval Selby, manor, royal, title, or estate claims. This phase is limited to documenting the modern American Selby household and the parentage of Frederick Payne Selby.
