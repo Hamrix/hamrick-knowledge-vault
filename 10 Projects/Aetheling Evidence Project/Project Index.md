@@ -15,15 +15,22 @@ Audit, document, and present the Selby, Stafford, Plantagenet, Wessex, Haskins, 
 
 No lineage assertion is treated as proven merely because it appears in an online tree, GEDCOM, family narrative, or AI-generated report.
 
+The Hamrick-Knowledge-Vault is the controlling evidence layer. GEDCOM files are secondary audit targets and are used only after relevant vault notes, source records, and evidence classifications have been reviewed.
+
 The initial vault audit found no underlying lineage files or identity-specific evidence. The first completed batch therefore records only a verified historical-language baseline. No family-tree connection has been added.
 
 The second batch confirms one bounded medieval Stafford relationship to Edward III. It does not connect that Stafford branch to Selby, Haskins, or any modern person.
+
+## Operating protocol
+
+- [[Vault-first GEDCOM audit protocol]] — controlling workflow rule requiring vault evidence to be reviewed before GEDCOM comparison or cleanup.
 
 ## Current session backup
 
 - [[2026-07-29 - Session backup - Frederic records and lineage-break expansion]] — consolidated recovery note for the Frederic record-acquisition work, 1786 Etheldred Peters image correction, 1788 estate-file target, Robert Benjamin Selby research, archival-request drafts, and ranked lineage breaks.
 - [[2026-07-29 - Session continuation backup - Stafford-Peters and Ethelred R Stafford]] — continuation recovery note for the 1794 Stafford–Peters marriage-bond target, the 1873 Ethelred R. Stafford New Orleans death trail, the three-record bridge test, and the unsent archive request.
 - [[2026-07-30 - Record-correlation phase backup - Robert Selby and Ethelred Stafford]] — exact 1870 and 1880 census targets, the 1844 Clark County marriage target, GEDCOM source-attachment corrections, missing-media identifiers, and unsent Indiana and New Orleans archive requests.
+- [[2026-07-30 - Docia Stone direct-line pivot backup]] — records the user-confirmed Docia Stone Selby direct-line pivot, the death-certificate request, and the separation of Docia as the active direct-line anchor from Lucy S. Hunter as an earlier-marriage audit target.
 
 ## Workstreams
 
@@ -33,6 +40,7 @@ The second batch confirms one bounded medieval Stafford relationship to Edward I
 - Wessex descent claims
 - Frederic Ethelred Selby military and intelligence research
 - Source acquisition and archival requests
+- Vault-first GEDCOM audit and cleanup
 - Public evidence website
 
 ## Evidence standard
@@ -114,6 +122,7 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 
 ## Next actions
 
+- [ ] Search and read Hamrick-Knowledge-Vault notes before consulting the GEDCOM for every future lineage task
 - [ ] Import existing lineage claims as claim records
 - [ ] Create one evidence note per parent-child link
 - [ ] Separate proven modern generations from medieval hypotheses
@@ -125,9 +134,13 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 - [ ] Obtain and inspect the 1880 Eminence census page T9 roll 420, ED 092, page 28C
 - [ ] Obtain the complete 1844 Clark County marriage record for Robert Selby and Lucy S. Hunter
 - [ ] Locate Lucy Hunter after 1844 and Docia Stone before 1870
+- [ ] Obtain Docia/Dosea Stone Selby's 1919 Kentucky death certificate or uncertified genealogical copy
+- [ ] Audit the GEDCOM only after the controlling vault notes are complete enough to compare against it
 
 ## Change log
 
+- 2026-07-30 — Added the vault-first GEDCOM audit protocol. The Hamrick-Knowledge-Vault is now the controlling evidence layer, and the GEDCOM is explicitly demoted to a secondary audit/comparison target after vault review.
+- 2026-07-30 — Added Docia Stone Selby as the user-confirmed direct-line research anchor through Frederick Payne Selby. Classified the confirmation as living-family knowledge pending original records, drafted an unsent KDLA death-certificate request, and kept Lucy S. Hunter as a separate earlier-marriage audit target.
 - 2026-07-30 — Began the record-correlation phase for Robert Benjamin Selby and Ethelred R. Stafford. Separated misattached GEDCOM source collections from the events they do not prove, defined the exact 1870 and 1880 census pages and expected household, recorded the four missing Ethelred Stafford media identifiers, created the 1844 Clark County marriage target, and drafted unsent requests to the Clark County Clerk and New Orleans City Archives. No relationship was upgraded without an original image.
 - 2026-07-29 — Added and linked a continuation backup for the Stafford–Peters marriage-bond target, Ethelred R. Stafford's New Orleans death trail, the three-record bridge test, and the unsent North Carolina archive request. No relationship was upgraded without an inspected original.
 - 2026-07-29 — Added a consolidated Obsidian recovery note for the Frederic record-acquisition packet, archival-request drafts, the original-image correction to the 1786 Etheldred Peters tax entry, the 1788 Peters estate target, Robert Benjamin Selby research, and the ranked lineage breaks. Linked the backup from the project index.
