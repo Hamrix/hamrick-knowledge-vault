@@ -3,7 +3,7 @@ type: register
 status: active
 privacy: internal
 created: 2026-07-29
-last-reviewed: 2026-07-29
+last-reviewed: 2026-07-30
 project: "[[10 Projects/Aetheling Evidence Project/Project Index|Aetheling Evidence Project]]"
 ---
 
@@ -131,6 +131,20 @@ This register records factual corrections to legacy Aetheling, Selby Manor, line
 
 **Status:** traditional/mythic.
 
+## Correction 013 - Frederick Payne Selby maternal identity
+
+**Legacy or earlier vault statement:** Frederick Payne Selby was probably a son of Robert Benjamin Selby and Eliza Payne.
+
+**Corrected statement:** [[Frederick Payne Selby was probably a son of Robert Benjamin Selby]] only. His mother is not yet documented from an inspected original record. [[Docia Stone Selby direct-line anchor and record-acquisition plan]] controls the current research direction: Docia Stone Selby is the family-confirmed direct-line maternal anchor and active working mother hypothesis pending original records.
+
+**Status:** corrected public wording; maternal identity still under documentary audit.
+
+**Evidence:** [[Docia Stone Selby direct-line anchor and record-acquisition plan]]; [[Robert Benjamin Selby 1870 and 1880 census household correlation]]; [[Vault-first GEDCOM audit protocol]].
+
+**Public wording:** “Frederick Payne Selby is a supported but not yet documented son of Robert Benjamin Selby. Docia Stone Selby is the family-confirmed direct-line maternal anchor and active working mother hypothesis. The maternal identity still requires the 1870/1880 census images, Docia’s 1919 Kentucky death certificate, and Frederick Payne Selby’s own life records.”
+
+**Limit:** Do not use the name Eliza Payne in public-facing summaries unless later original evidence supports that maternal identity.
+
 ## Website enforcement rule
 
 No public page may use the words **verified**, **confirmed lineage**, **unbroken**, **direct heir**, **owner**, **filed**, **pending registration**, **certified transcript**, or a numerical confidence score unless an atomic vault claim directly supports that exact proposition.
@@ -150,3 +164,4 @@ Each displayed claim must carry one of these states:
 4. Import the GEDCOM as unverified input and extract every parent-child proposition.
 5. Audit Stafford-to-modern bridges one generation at a time.
 6. Audit all references to College of Arms, Historic England, Bona Vacantia, HMLR, and other institutional contact or filing status.
+7. Complete the Frederick Payne parentage proof sprint before revising the GEDCOM or public lineage chart.
