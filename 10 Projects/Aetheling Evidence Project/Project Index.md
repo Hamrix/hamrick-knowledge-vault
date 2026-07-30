@@ -24,6 +24,7 @@ The second batch confirms one bounded medieval Stafford relationship to Edward I
 ## Operating protocol
 
 - [[Vault-first GEDCOM audit protocol]] — controlling workflow rule requiring vault evidence to be reviewed before GEDCOM comparison or cleanup.
+- [[Frederick Payne parentage proof sprint]] — active vault-first proof phase for testing Frederick Payne Selby’s parentage from census, death, obituary, probate, and family-context records before GEDCOM cleanup.
 
 ## Current session backup
 
@@ -31,6 +32,7 @@ The second batch confirms one bounded medieval Stafford relationship to Edward I
 - [[2026-07-29 - Session continuation backup - Stafford-Peters and Ethelred R Stafford]] — continuation recovery note for the 1794 Stafford–Peters marriage-bond target, the 1873 Ethelred R. Stafford New Orleans death trail, the three-record bridge test, and the unsent archive request.
 - [[2026-07-30 - Record-correlation phase backup - Robert Selby and Ethelred Stafford]] — exact 1870 and 1880 census targets, the 1844 Clark County marriage target, GEDCOM source-attachment corrections, missing-media identifiers, and unsent Indiana and New Orleans archive requests.
 - [[2026-07-30 - Docia Stone direct-line pivot backup]] — records the user-confirmed Docia Stone Selby direct-line pivot, the death-certificate request, and the separation of Docia as the active direct-line anchor from Lucy S. Hunter as an earlier-marriage audit target.
+- [[2026-07-30 - Vault-first next phase - Frederick Payne parentage proof]] — records the vault-first reading path, correction of the Eliza Payne / Docia Stone conflict, creation of the Frederick Payne proof sprint, and next acquisition order.
 
 ## Workstreams
 
@@ -129,16 +131,21 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 - [ ] Build a source acquisition queue
 - [ ] Send the reviewed archival requests recorded in the 2026-07-29 and 2026-07-30 session backups
 - [ ] Attach returned scans and correspondence to their governing source notes
-- [ ] Obtain the 1794 Stafford–Peters marriage bond and 1873 Ethelred R. Stafford death or succession record
-- [ ] Obtain and inspect the 1870 Port Royal census page M593 roll 470, page 374A
+- [ ] Complete [[Frederick Payne parentage proof sprint]] before GEDCOM cleanup or public lineage revision
 - [ ] Obtain and inspect the 1880 Eminence census page T9 roll 420, ED 092, page 28C
+- [ ] Obtain and inspect the 1870 Port Royal census page M593 roll 470, page 374A
+- [ ] Obtain Docia/Dosea Stone Selby's 1919 Kentucky death certificate or uncertified genealogical copy
+- [ ] Locate the 1910 Louisville Ward 12 widowed Docia Selby household
+- [ ] Locate Frederick Payne Selby's death, obituary, marriage, probate, cemetery, church, or city-directory records naming parents or family context
+- [ ] Locate Robert Benjamin Selby's 1902 New Orleans death, obituary, succession, or cemetery record
+- [ ] Obtain the 1794 Stafford–Peters marriage bond and 1873 Ethelred R. Stafford death or succession record
 - [ ] Obtain the complete 1844 Clark County marriage record for Robert Selby and Lucy S. Hunter
 - [ ] Locate Lucy Hunter after 1844 and Docia Stone before 1870
-- [ ] Obtain Docia/Dosea Stone Selby's 1919 Kentucky death certificate or uncertified genealogical copy
 - [ ] Audit the GEDCOM only after the controlling vault notes are complete enough to compare against it
 
 ## Change log
 
+- 2026-07-30 — Created and linked the Frederick Payne parentage proof sprint as the active vault-first next phase. Corrected the Frederick Payne claim to withdraw unsupported “Eliza Payne” public wording, added Correction 013 for the maternal-identity conflict, and backed up the next phase in a dated session note. GEDCOM review remains deferred.
 - 2026-07-30 — Added the vault-first GEDCOM audit protocol. The Hamrick-Knowledge-Vault is now the controlling evidence layer, and the GEDCOM is explicitly demoted to a secondary audit/comparison target after vault review.
 - 2026-07-30 — Added Docia Stone Selby as the user-confirmed direct-line research anchor through Frederick Payne Selby. Classified the confirmation as living-family knowledge pending original records, drafted an unsent KDLA death-certificate request, and kept Lucy S. Hunter as a separate earlier-marriage audit target.
 - 2026-07-30 — Began the record-correlation phase for Robert Benjamin Selby and Ethelred R. Stafford. Separated misattached GEDCOM source collections from the events they do not prove, defined the exact 1870 and 1880 census pages and expected household, recorded the four missing Ethelred Stafford media identifiers, created the 1844 Clark County marriage target, and drafted unsent requests to the Clark County Clerk and New Orleans City Archives. No relationship was upgraded without an original image.
