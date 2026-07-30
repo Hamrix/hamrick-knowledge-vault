@@ -26,6 +26,7 @@ The second batch confirms one bounded medieval Stafford relationship to Edward I
 - [[Vault-first GEDCOM audit protocol]] — controlling workflow rule requiring vault evidence to be reviewed before GEDCOM comparison or cleanup.
 - [[Frederick Payne parentage proof sprint]] — active vault-first proof phase for testing Frederick Payne Selby’s parentage from census, death, obituary, probate, and family-context records before GEDCOM cleanup.
 - [[John Cornelius and Thomas Selby colonial bridge acquisition docket]] — colonial acquisition phase for obtaining John Cornelius, Westerhouse, and Thomas Selby records before extending to the 1758 Thomas Selby or Major Selby.
+- [[William Selby Maryland colonist record-acquisition docket]] — parallel Maryland Selby acquisition phase for William Selby of Calvert / Prince George’s County; not to be merged into the Thomas Selby bridge without original evidence.
 
 ## Current session backup
 
@@ -36,6 +37,7 @@ The second batch confirms one bounded medieval Stafford relationship to Edward I
 - [[2026-07-30 - Vault-first next phase - Frederick Payne parentage proof]] — records the vault-first reading path, correction of the Eliza Payne / Docia Stone conflict, creation of the Frederick Payne proof sprint, and next acquisition order.
 - [[2026-07-30 - Frederick Payne 1884 marriage license parentage breakthrough]] — records the 1884 Orleans Parish marriage-license image naming Frederick Payne Selby's parents as Benjamin Selby and Docia Stone.
 - [[2026-07-30 - Colonial Selby bridge acquisition order backup]] — records the user-ordered acquisition of the John Cornelius, Westerhouse, and Thomas Selby colonial bridge records.
+- [[2026-07-30 - William Selby Maryland acquisition continuation backup]] — records the creation of the William Selby parallel Maryland acquisition docket and unsent MSA request.
 
 ## Workstreams
 
@@ -147,6 +149,9 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 - [ ] Obtain the 1660 and 1664 Cornelius/Westerhouse/Selby conveyance images or certified/archival transcriptions
 - [ ] Obtain the 1675 patent and 1677 sale images or certified/archival transcriptions
 - [ ] Obtain Thomas Selby Sr.'s original/register-copy 1701 will and 1703 inventory images or certified/archival transcriptions
+- [ ] Obtain the 1725 Simpleton / Singleton deed before any later Thomas Selby or Major Selby extension
+- [ ] Complete [[William Selby Maryland colonist record-acquisition docket]] as a parallel Maryland lead, without merging William into the Thomas Selby bridge
+- [ ] Obtain William Selby's 1659 headright, 1698/1699 will, 1701 estate accounts, To Good deed, Leith conveyance, Farme transaction, and Robert Hucker corroboration records
 - [ ] Obtain the 1794 Stafford–Peters marriage bond and 1873 Ethelred R. Stafford death or succession record
 - [ ] Obtain the complete 1844 Clark County marriage record for Robert Selby and Lucy S. Hunter
 - [ ] Locate Lucy Hunter after 1844 and Docia Stone before 1870
@@ -154,6 +159,7 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 
 ## Change log
 
+- 2026-07-30 — Added the William Selby Maryland colonist record-acquisition docket as a parallel Maryland Selby lead. Created an unsent Maryland State Archives draft for William's 1659 headright, 1698/1699 will, 1701 estate accounts, To Good deed, Leith conveyance, Farme transaction, and Robert Hucker corroboration record. Updated the colonial bridge docket to prevent merging William Selby into the Thomas Selby/Cornelius bridge without original evidence.
 - 2026-07-30 — Added the colonial Selby bridge acquisition docket and backup. Drafted unsent requests to Library of Virginia for John Cornelius's 1656 will, the 1660/1664 conveyances, the 1675 patent, and the 1677 sale, and to Maryland State Archives for Thomas Selby Sr.'s 1701 will and 1703 inventory. Recorded that the line must not be extended to the 1758 Thomas Selby or Major Selby until these records are acquired and correlated.
 - 2026-07-30 — Created and linked the Frederick Payne parentage proof sprint as the active vault-first next phase. Corrected the Frederick Payne claim to withdraw unsupported “Eliza Payne” public wording, added Correction 013 for the maternal-identity conflict, and backed up the next phase in a dated session note. GEDCOM review remains deferred.
 - 2026-07-30 — Added the vault-first GEDCOM audit protocol. The Hamrick-Knowledge-Vault is now the controlling evidence layer, and the GEDCOM is explicitly demoted to a secondary audit/comparison target after vault review.
