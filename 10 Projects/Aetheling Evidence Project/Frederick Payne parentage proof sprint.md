@@ -16,71 +16,68 @@ This phase follows the vault-first GEDCOM audit protocol. The objective is to pr
 
 ## Controlling vault conclusion
 
-- [[Docia Stone Selby direct-line anchor and record-acquisition plan]] treats Docia Stone Selby as the family-confirmed direct-line maternal anchor through Frederick Payne Selby.
-- [[Frederick Payne Selby was probably a son of Robert Benjamin Selby]] treats Robert Benjamin Selby as Frederick Payne’s supported father hypothesis.
-- [[Robert Benjamin Selby 1870 and 1880 census household correlation]] defines the exact census pages that can test the household.
+- [[Frederick Payne Selby and Elizabeth Dolan 1884 Orleans Parish marriage license image audit]] is now the strongest source for Frederick Payne Selby’s recorded parents. It names **Benjamin Selby** and **Docia Stone**.
+- [[Docia Stone Selby direct-line anchor and record-acquisition plan]] treats Docia Stone Selby as the family-confirmed direct-line maternal anchor and now records that Docia Stone is named in Frederick’s 1884 marriage-license record.
+- [[Frederick Payne Selby was probably a son of Robert Benjamin Selby]] treats the father-child claim as strong but still short of fully documented as “Robert Benjamin” because the marriage license names the father as **Benjamin Selby**, not explicitly Robert Benjamin Selby.
+- [[Robert Benjamin Selby 1870 and 1880 census household correlation]] defines the exact census pages that can test the Robert/Benjamin and Docia household.
 - [[Lineage Break Priority Register]] identifies the Frederick Payne Selby → Robert Benjamin Selby link as a Priority 1 nineteenth-century paternal-chain break.
-- [[FamilySearch Frederick Payne Selby profile screenshot conflict audit]] adds a new derivative conflict lead showing FamilySearch currently displaying parents as Benjamin Selby and Sophia E. Stone.
+- [[FamilySearch Frederick Payne Selby profile screenshot conflict audit]] remains a derivative conflict lead showing FamilySearch currently displaying the mother as Sophia E. Stone; it is superseded for parentage wording by the 1884 marriage-license image unless a stronger original source supports Sophia.
 
-## Correction applied before this phase
+## Corrections applied before/during this phase
 
-The earlier wording “Robert Benjamin Selby and Eliza Payne” is withdrawn from public-use wording. The corrected claim is limited to Robert Benjamin Selby as probable father, while Docia Stone Selby is the family-confirmed direct-line maternal anchor and active working mother hypothesis pending original records.
+The earlier wording “Robert Benjamin Selby and Eliza Payne” is withdrawn from public-use wording.
 
-## New conflict introduced on 2026-07-30
+The FamilySearch screenshot’s “Sophia E. Stone” is not adopted as the controlling maternal name because the supplied 1884 Orleans Parish marriage-license image names Frederick Payne Selby’s mother as **Docia Stone**.
 
-A user-provided FamilySearch screenshot for Frederick Payne Selby shows the following parent model:
+## Current proof state after the 1884 marriage license
 
-- father: Benjamin Selby, 1824–deceased;
-- mother: Sophia E. Stone, 1836–1919;
-- siblings: Benjamin Selby, Frederick Payne Selby, and Robert Carr Selby.
+### Documented at record-name level
 
-This may or may not conflict with the vault model. The names could represent aliases or abbreviated forms:
+- Frederick Payne Selby’s 1884 Orleans Parish marriage license names his father as **Benjamin Selby**.
+- Frederick Payne Selby’s 1884 Orleans Parish marriage license names his mother as **Docia Stone**.
 
-- Robert Benjamin Selby may appear as Benjamin Selby;
-- Docia/Dosea Stone may be the same woman as Sophia E. Stone;
-- or FamilySearch may be preserving a different or conflated household model.
+### Strong but still under identity correlation
 
-This is a **conflict lead**, not proof.
+- The father named as **Benjamin Selby** is likely the same person tracked in the vault as **Robert Benjamin Selby**, based on the user’s firsthand identity statement and household/naming context. This still requires independent correlation.
+
+### Still unresolved
+
+- Whether the FamilySearch profile’s **Sophia E. Stone** is an error, alternate name, merge artifact, or separate woman.
+- Docia Stone’s own parentage and birth details.
+- Robert Benjamin/Benjamin Selby’s 1902 New Orleans death, obituary, succession, or cemetery trail.
 
 ## Revised sprint question
 
-Can vault-grade evidence determine whether Frederick Payne “Frank” Selby was a child of:
-
-1. Robert Benjamin Selby and Docia Stone Selby;
-2. Benjamin Selby and Sophia E. Stone;
-3. the same couple under alternate names; or
-4. a conflated or incorrectly merged Selby-Stone household?
+Can vault-grade evidence determine whether Frederick Payne “Frank” Selby’s father **Benjamin Selby** in the 1884 marriage license is the same man as **Robert Benjamin Selby**, and whether later or derivative references to **Sophia E. Stone** can be reconciled with the marriage-license mother **Docia Stone**?
 
 ## Required evidence set
 
-### P0 — FamilySearch source extraction
+### P0 — already supplied and now transcribed
 
-1. Capture the FamilySearch profile ID for Frederick Payne Selby.
-2. Inspect and transcribe all 22 source entries attached to the FamilySearch profile.
-3. Prioritize the three visible sources:
-   - Payne Selby, “United States Census, 1880”;
-   - Frederick P. Selby, “Louisiana, Orleans Birth Records, 1819–1915”;
-   - Frederick Payne Selby, “Louisiana, Parish Marriages, 1787–1958”.
-4. Record whether each source supplies image-level evidence, index-only evidence, user-contributed data, or profile-inferred family links.
-5. Inspect profile change log and merge history if available.
+1. [[Frederick Payne Selby and Elizabeth Dolan 1884 Orleans Parish marriage license image audit]]
+   - Groom: Frederick Payne Selby
+   - Father: Benjamin Selby
+   - Mother: Docia Stone
+   - Bride: Elizabeth Dolan
+   - License date: 12 December 1884
 
 ### P0 — census household proof
 
-6. Obtain and inspect the 1880 Eminence, Henry County, Kentucky census image:
+2. Obtain and inspect the 1880 Eminence, Henry County, Kentucky census image:
    - NARA publication: T9
    - Roll: 420
    - ED: 092
    - Page: 28C
-   - Expected household variants: Robert Benjamin or Benjamin Selby; Docia/Dosea/Sophia E. Stone Selby; Frederick Payne Selby; Robert Carr Selby
+   - Expected household variants: Robert Benjamin or Benjamin Selby; Docia/Dosea Stone Selby; Frederick Payne Selby; Robert Carr Selby
 
-7. Obtain and inspect the 1870 Port Royal, Henry County, Kentucky census image:
+3. Obtain and inspect the 1870 Port Royal, Henry County, Kentucky census image:
    - NARA publication: M593
    - Roll: 470
    - Page: 374A
    - FamilySearch film: 545969
-   - Expected household variants: Robert Benjamin or Benjamin Selby; Docia/Dosea/Sophia E. Stone Selby; Frederick Payne Selby
+   - Expected household variants: Robert Benjamin or Benjamin Selby; Docia/Dosea Stone Selby; Frederick Payne Selby
 
-8. For both schedules, transcribe:
+4. For both schedules, transcribe:
    - dwelling and family numbers;
    - exact names and spellings;
    - ages;
@@ -94,45 +91,46 @@ Can vault-grade evidence determine whether Frederick Payne “Frank” Selby was
 
 ### P0 — independent life-record proof
 
-9. Obtain Docia/Dosea/Sophia E. Stone Selby’s 1919 Jefferson County, Kentucky death certificate.
+5. Obtain Docia/Dosea Stone Selby’s 1919 Jefferson County, Kentucky death certificate.
 
-10. Locate Frederick Payne Selby’s own records naming parents or family context:
+6. Locate Frederick Payne Selby’s additional records naming parents or family context:
    - death certificate or death register;
    - obituary;
-   - marriage record;
    - probate/succession file;
    - cemetery or burial record;
    - church record;
    - city directory cluster;
    - Louisiana Orleans birth-record entries connected to his children, especially James Benjamin Sanford Selby.
 
-11. Locate Robert Benjamin/Benjamin Selby’s 1902 New Orleans death, obituary, succession, or cemetery record.
+7. Locate Robert Benjamin/Benjamin Selby’s 1902 New Orleans death, obituary, succession, or cemetery record.
 
 ### P1 — correlation evidence
 
-12. Locate the 1910 Louisville Ward 12 widowed Docia/Sophia Selby household.
+8. Locate the 1910 Louisville Ward 12 widowed Docia/Dosea Selby household.
 
-13. Search for a Robert Benjamin/Benjamin Selby–Docia/Dosea/Sophia Stone marriage, divorce, deed, court, newspaper, or guardianship record.
+9. Search for a Robert Benjamin/Benjamin Selby–Docia/Dosea Stone marriage, divorce, deed, court, newspaper, or guardianship record.
 
-14. Search Henry County and Jefferson County neighbor networks for Selby, Stone, Hunter, McClane, Payne, and associated households.
+10. Search Henry County and Jefferson County neighbor networks for Selby, Stone, Hunter, McClane, Payne, and associated households.
+
+11. Inspect the FamilySearch profile’s attached sources and change log to identify where **Sophia E. Stone** entered the profile.
 
 ## Decision rules
 
-### Upgrade to documented
+### Upgrade Docia mother claim
 
-A parent-child relationship may be upgraded only if an original or near-original record explicitly names the relationship, or if multiple independent records correlate without unresolved conflicts under the Genealogical Proof Standard.
+Docia Stone may now be stated as **documented as the mother named in Frederick Payne Selby’s 1884 marriage-license record**.
 
-### Remain supported hypothesis
+### Keep Robert Benjamin identity under audit
 
-The relationship remains a supported hypothesis if the 1880 image confirms Frederick as son in the relevant Selby household but no independent record yet corroborates the parental pair.
+The father should be worded as **Benjamin Selby** when referring strictly to the marriage-license text. Use **Robert Benjamin Selby** only as an identity-correlation hypothesis until corroborated by census, death, succession, or other records.
 
 ### Split father and mother claims
 
-Robert/Benjamin’s fatherhood and Docia/Sophia’s motherhood must be evaluated separately. A record naming the father does not automatically prove the mother, and a record naming the mother does not automatically prove the father unless the record explicitly or contextually supports both.
+Benjamin/Robert Benjamin’s fatherhood and Docia’s motherhood must be evaluated separately. The 1884 marriage license names both parents, but the Robert Benjamin identity expansion remains a separate question.
 
 ### Treat aliases as hypotheses only
 
-Robert Benjamin = Benjamin and Docia/Dosea = Sophia E. must be treated as identity hypotheses until the 1870, 1880, 1910, death-certificate, marriage, obituary, and directory evidence supports or rejects the match.
+Robert Benjamin = Benjamin remains an identity hypothesis. Docia/Dosea = Sophia E. remains a conflict hypothesis and is currently weaker than the marriage-license reading of Docia Stone.
 
 ### Quarantine conflicting names
 
@@ -142,17 +140,18 @@ The name Eliza Payne remains quarantined unless an original record establishes w
 
 Before the GEDCOM is re-opened for this family group, the vault should contain:
 
+- a source note for the 1884 Orleans Parish marriage-license image; completed;
 - a source note for the FamilySearch Frederick Payne profile and all 22 attached sources;
 - a source note for the 1880 census image;
 - a source note for the 1870 census image;
 - a source note or acquisition result for the 1919 Stone/Selby death certificate;
-- a source note or negative-search note for Frederick Payne’s life records;
+- a source note or negative-search note for Frederick Payne’s additional life records;
 - a source note or negative-search note for Robert/Benjamin’s 1902 New Orleans death/succession trail;
 - updated atomic claims for the father-child and mother-child relationships.
 
 ## Public wording until completion
 
-“Frederick Payne Selby is a supported but not yet documented child in the Robert Benjamin/Benjamin Selby household. Docia Stone Selby is the family-confirmed direct-line maternal anchor, but a FamilySearch profile screenshot introduces Sophia E. Stone as the displayed mother. The parentage proof sprint is focused on determining whether Benjamin/Robert Benjamin and Sophia/Docia are alternate names for the same couple or signs of a conflated household.”
+“Frederick Payne Selby’s 1884 Orleans Parish marriage license names his parents as Benjamin Selby and Docia Stone. The record strongly supports Docia Stone as Frederick Payne’s mother in the direct line. The father is recorded as Benjamin Selby; the vault currently treats Benjamin as a strong identity-alias lead for Robert Benjamin Selby, pending confirmation from census, death, succession, or other corroborating records.”
 
 ## Prohibited during this phase
 
