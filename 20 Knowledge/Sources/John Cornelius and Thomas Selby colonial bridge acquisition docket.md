@@ -19,6 +19,8 @@ Do **not** extend the line to the 1758 Thomas Selby or Major Selby until these e
 
 The immediate objective is to establish the next generation from original or near-original records, not from derivative abstracts, profile pages, compiled pedigrees, or later family-tree structures.
 
+William Selby of Calvert / Prince George's County is now treated as a **parallel Maryland Selby research lead**, not as a proven part of the Thomas Selby / Cornelius / Somerset bridge. Use [[William Selby Maryland colonist record-acquisition docket]] for his separate record set.
+
 ## Virginia / Northampton County target records
 
 ### 1. John Cornelius 1656 will
@@ -64,7 +66,7 @@ Known official route:
 
 The LVA request should ask staff to identify the exact volume, folio/page, and microfilm citation before paid copying.
 
-## Maryland target records
+## Maryland Thomas Selby bridge target records
 
 ### 6. Thomas Selby Sr. original 1701 will
 
@@ -89,6 +91,19 @@ The LVA request should ask staff to identify the exact volume, folio/page, and m
 - Land/tract: Simpleton or Singleton, associated with Boquetenorton / Bogertennorton and Selby's Bay.
 - Reported content: deed language identifying an earlier Thomas Selby as the grantor's eldest grandfather and naming the grantor as heir-at-law of his father and grandfather.
 - Required record: complete deed image/transcription, including opening clause, consideration, tract history, heir-at-law language, signatures or marks, witnesses, acknowledgments, and full book/page citation.
+
+## Parallel Maryland William Selby target records
+
+William Selby of Calvert / Prince George's County is not to be merged into the Thomas Selby bridge without original evidence. His record set is controlled by [[William Selby Maryland colonist record-acquisition docket]]. Key targets include:
+
+- Maryland Patents Liber R, folio 84, 29 December 1659 headright entry.
+- William Selby will dated 5 November 1698 and reportedly proved 25 February 1698/99.
+- Prerogative Court Inventories & Accounts, Liber 20, folio 237, reportedly William Selby estate administration/accounts.
+- Prince George's Deeds Liber A, folio 68A, 1697 To Good deed.
+- Leith conveyance, reportedly 17 June 1686, James Moore and wife to William Selby.
+- Maryland Patents Liber CC 4, folio 57, content to be confirmed.
+- Prince George's Land Records Liber C, folio 61, 1703 The Farme transaction.
+- Robert Hucker's 1711 will, potentially corroborating Amy Selby Hucker and land descent.
 
 ## Maryland record access route
 
@@ -120,12 +135,27 @@ The 1725 deed should be searched in Somerset County land records and related pro
 - Thomas Selby, heir-at-law
 - Margaret Selby
 - William Selby
+- William Selby Sr.
+- William Selby Jr.
+- Mary Selby
+- Mary Busey
+- Mary Cecil / Mary Cecill
+- Joshua Cecil / Joshua Cecill
+- Robert Hucker / Hucker variants
+- Amy Selby Hucker / Amee Hucker
 - Simpleton
 - Singleton
 - Boguetmorton
 - Boquetenorton
 - Bogertennorton
 - Selby's Bay
+- Leith
+- To Good / Towgood / Tongood / Twogood
+- The Farme
+- Good Luck
+- Meadow / Pack's Meadow
+- Groome's Lodge
+- Twyford
 - Selby / Selbie / Selbye variants
 
 ## Drafted archive requests
@@ -137,13 +167,20 @@ The 1725 deed should be searched in Somerset County land records and related pro
 - Gmail draft ID: `r-8140876551136353673`
 - Status: unsent; user review required.
 
-### Maryland State Archives
+### Maryland State Archives — Thomas Selby bridge
 
 - Recipient: `msa.helpdesk@maryland.gov`
-- Subject: `Copy request — Thomas Selby Sr. original will and 1703 inventory`
+- Subject: `Copy request — Thomas Selby Sr. probate and 1725 Simpleton deed`
 - Gmail draft ID: `r-781377954099692978`
 - Status: unsent; user review required.
-- Note: this draft should be revised or supplemented to include the 1725 Simpleton / Singleton land transaction before sending.
+- Note: this draft has been revised to include the 1725 Simpleton / Singleton land transaction.
+
+### Maryland State Archives — William Selby parallel lead
+
+- Recipient: `msa.helpdesk@maryland.gov`
+- Subject: `Copy request — William Selby Maryland will, estate, patents, and deeds, 1659–1711`
+- Gmail draft ID: `r8843382530377675503`
+- Status: unsent; user review required.
 
 ## Evidence classification before acquisition
 
@@ -155,6 +192,7 @@ The 1725 deed should be searched in Somerset County land records and related pro
 - Thomas Selby Sr. 1701 will: **specific derivative lead; original uninspected**.
 - Thomas Selby Sr. 1703 inventory: **specific derivative lead; original uninspected**.
 - Thomas Selby 1725 Simpleton / Singleton deed: **specific derivative lead; original uninspected**.
+- William Selby Maryland record set: **parallel derivative record set; original images/citations pending**.
 
 ## Required outputs after acquisition
 
@@ -168,8 +206,8 @@ For each obtained record, create a separate source note containing:
 6. land descriptions;
 7. witnesses, appraisers, executors, administrators, heirs, and neighbors;
 8. relationship conclusions and limits;
-9. whether it supports, contradicts, or leaves unresolved any Thomas Selby generational bridge.
+9. whether it supports, contradicts, or leaves unresolved any Thomas Selby generational bridge or William Selby parallel-branch hypothesis.
 
 ## Public-use wording before records arrive
 
-“The Cornelius/Westerhouse/Selby colonial bridge is an acquisition target only. John Cornelius's 1656 will, the 1660 and 1664 conveyances, the 1675 patent, the 1677 sale, Thomas Selby Sr.'s 1701 will and 1703 inventory, and the reported 1725 Simpleton / Singleton deed must be obtained and correlated before the line is extended to later Thomas Selby or Major Selby.”
+“The Cornelius/Westerhouse/Selby colonial bridge is an acquisition target only. John Cornelius's 1656 will, the 1660 and 1664 conveyances, the 1675 patent, the 1677 sale, Thomas Selby Sr.'s 1701 will and 1703 inventory, and the reported 1725 Simpleton / Singleton deed must be obtained and correlated before the line is extended to later Thomas Selby or Major Selby. William Selby of Calvert / Prince George's County is a parallel colonial Maryland research lead and must not be merged into the Thomas Selby bridge without original evidence.”
