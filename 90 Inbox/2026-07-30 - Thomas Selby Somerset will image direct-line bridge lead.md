@@ -14,7 +14,7 @@ The will text begins:
 
 This is not the Alexander Williams witness-list target. It appears instead to be the will of **Thomas Selby** of Somerset County, making it a potentially higher-value direct-line record.
 
-## Adjacent page supplied
+## Adjacent page supplied after the Thomas Selby page
 
 The user then supplied the following page. That image shows:
 
@@ -32,6 +32,25 @@ Preliminary reading of the top witness/probate tail is uncertain. Visible names 
 - **Mr. Scarburgh** and **Mr. Webb** may appear as approving/appraising names.
 
 These readings are tentative only. A cleaner crop/zoom of the top 10-15 lines is required before these names should be cited.
+
+## Nearby non-target page: Samuel Layfield will
+
+The user also supplied another nearby page while trying to locate the page before the Thomas Selby will.
+
+This later image is **not** Thomas Selby. It is the end of a different Somerset County will, signed by **Samuel Layfield**.
+
+Preliminary reading from that image:
+
+- Testator: **Samuel Layfield**.
+- Wife: **Mary Layfield**.
+- Son: **Thomas Layfield**.
+- Daughter: **Mary Layfield**.
+- Granddaughter: **Mary Layfield**, daughter of Thomas Layfield.
+- Mentions a young/unnamed son and daughter **Mary** being brought up by the wife until a future age/condition.
+- Witnesses appear to include **John? Almoney**, **Patrick Dutton**, and **Joseph? [surname unclear]**.
+- Probate/attestation line appears at the bottom, dated in **1709**.
+
+This image helps bracket the browsing sequence but does not add direct evidence for the Thomas Selby will. It should not be confused with the Selby probate.
 
 ## Why this matters
 
@@ -78,6 +97,7 @@ However, because the handwriting is difficult and the image appears to be a copi
 - The page number is not fully certain from the screenshot.
 - The first supplied Thomas Selby page may be the main body/end of the will; need preceding image to confirm whether the will starts earlier.
 - The following page appears to begin a new Thomas Pollitt will, but may preserve final witness/probate details at the top.
+- A nearby Samuel Layfield page was supplied; it is a non-target page and should not be merged with the Selby will.
 - Names and relationship terms must be verified from a zoomed image or multiple screenshots.
 - The record should not be merged automatically with Thomas Selby of Prince George's County or any unrelated Selby line.
 - Need to confirm whether this is the same Thomas Selby whose will was reportedly made 28 October 1701 and proved in 1702.
@@ -94,4 +114,4 @@ However, because the handwriting is difficult and the image appears to be a copi
 
 ## Current conclusion
 
-This is a major find. The uploaded image appears to be the will of **Thomas Selby** in Somerset County, and it may be the original/copy-record needed to prove or clarify the early direct-line Selby bridge. The following page appears to transition into the will of Thomas Pollitt, meaning the Selby will likely ends on or just before that page. A full transcription and adjacent-page capture are now the highest priority.
+This is a major find. The uploaded image appears to be the will of **Thomas Selby** in Somerset County, and it may be the original/copy-record needed to prove or clarify the early direct-line Selby bridge. The following page appears to transition into the will of Thomas Pollitt, meaning the Selby will likely ends on or just before that page. A full transcription and adjacent-page capture are now the highest priority. The Samuel Layfield page is nearby but unrelated to the Selby proof target.
