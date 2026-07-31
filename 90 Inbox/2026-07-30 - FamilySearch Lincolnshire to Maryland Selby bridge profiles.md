@@ -97,6 +97,39 @@ Evidence cautions:
 - The one-child display may be incomplete and should not be treated as a full family reconstruction.
 - Mary Ballard's identity and the claimed parentage of Thomas Selby III require separate proof.
 
+## Profile 5: Thomas Selby III
+
+FamilySearch ID: `LZ14-2MK`
+
+Profile assertions visible in screenshot:
+- Born in 1687 in Somerset, Maryland.
+- Father shown as Thomas Selby II, 1655–1725.
+- Mother shown as Mary Ballard, born about 1650.
+- Married Margaret Schoolfield in 1714 in Somerset, Maryland.
+- Died 8 March 1757 in Worcester County, Maryland.
+- Nine children shown or indicated.
+- Visible children include:
+  - Thomas Selby IV, 1715–1776.
+  - Mary Ann Selby, 1715–1783.
+  - William Selby, 1716–1796.
+  - Ezekiel Selby, 1720–1768.
+  - Margaret Peggy Selby, born about 1720.
+  - Ann Elizabeth Selby, 1731–1766.
+  - John Selby, 1732–1796.
+  - Henry Selby, 1737–1766.
+  - Daniel Selby, 1737–1766.
+
+Visible source:
+- One `Legacy NFS Source` described as published information from family genealogies and a birth-name entry.
+
+Evidence cautions:
+- A legacy compiled-genealogy source is derivative and does not by itself prove birth, marriage, death, parentage, or the complete child list.
+- The simultaneous or near-simultaneous birth years assigned to Thomas IV and Mary Ann, and to Henry and Daniel, may represent twins, approximate dates, duplicated profiles, or merged families.
+- The marriage to Margaret Schoolfield is a high-value lead because it could connect this colonial Selby generation to the separate Schoolfield/Scholefield gateway research, but the marriage and Margaret's parentage require original evidence.
+- The profile does not display probate, deed, church, tax, guardianship, or court records establishing Thomas III as son of Thomas II and Mary Ballard.
+- The profile's John Selby, born 1732, conflicts with other proposed chronologies placing the relevant John Selby around 1722. Identity should not be assumed.
+- The listed son John Selby cannot automatically be identified as the father of William Atkinson Selby without direct probate, deed, Bible, or other relationship evidence.
+
 ## Expanded online-tree hypothesis to test
 
 The profiles collectively assert:
@@ -106,8 +139,9 @@ John Selbie + Elizabeth Morlayne
 → Thomas Selby, baptized/born 1623 in Lincoln
 → Accomack County, Virginia by the 1650s
 → Somerset County, Maryland
-→ Thomas Selby II, born 1655
-→ Thomas Selby III, born 1687
+→ Thomas Selby II, born 1655 + Mary Ballard
+→ Thomas Selby III, born 1687 + Margaret Schoolfield
+→ children including Thomas IV, William, Ezekiel, John, Henry, and Daniel
 → later Maryland Selby descendants.
 
 This is a specific, testable hypothesis, not a proven chain.
@@ -119,8 +153,9 @@ Potentially relevant existing leads:
 - 1674 Samuel Gibbons / Batchelor of Bristol / Robert Ridgely / Thomas Selby land-right transaction.
 - Thomas Selby Sr. of early Maryland, reportedly died 1702.
 - Proposed Thomas Selby Jr./III generations leading toward John Selby and William Atkinson Selby.
+- Separate Schoolfield/Scholefield gateway research involving Lancashire visitation material and possible colonial connections.
 
-None of the presently preserved records names Lincolnshire, Robert Selbye, Ann Emursun Jones, Mary Roper, Mary Ballard, or the FamilySearch profile identifiers as part of a proved colonial chain.
+None of the presently preserved records proves the complete chain or identifies the FamilySearch Thomas III as the same man in all Maryland records.
 
 ## Priority acquisition targets
 
@@ -136,12 +171,14 @@ None of the presently preserved records names Lincolnshire, Robert Selbye, Ann E
 10. Original record proving or disproving Thomas Selby II's birth, parentage, marriage to Mary Ballard, and death in 1725.
 11. Full image and citation details for the attached Buckinghamshire church record to determine why it was linked to a Maryland profile.
 12. Probate, deed, guardianship, or church evidence connecting Thomas Selby II to Thomas Selby III.
-13. Any colonial document naming an English birthplace, father, sibling, former residence, occupation, or associate traceable to Lincolnshire.
+13. Original or image-backed marriage evidence for Thomas Selby III and Margaret Schoolfield in 1714.
+14. Probate and land records for Thomas Selby III, reportedly died 1757, naming spouse, children, heirs, executors, or associated tracts.
+15. Original records identifying Margaret Schoolfield's parents and distinguishing her from similarly named Schoolfield/Scholefield women.
+16. Records proving which, if any, listed son became the ancestor of John Selby and William Atkinson Selby.
+17. Any colonial document naming an English birthplace, father, sibling, former residence, occupation, or associate traceable to Lincolnshire.
 
 ## Current conclusion
 
-The FamilySearch profiles provide a useful candidate bridge:
+The FamilySearch profiles now provide a candidate multigenerational chain from England into Maryland and then through Thomas Selby III and Margaret Schoolfield. The Schoolfield marriage is potentially important because it may intersect with a separate colonial-gentry gateway hypothesis.
 
-> Thomas Selby of colonial Maryland may have been the Thomas Selby baptized in Lincoln in 1623, and the Maryland Thomas Selby II may have been his son and father of Thomas Selby III.
-
-The present screenshots do not prove either identity link. The Buckinghamshire source attached to Thomas Selby II is a significant warning that records may have been misattached. Keep each English and colonial generation separate until original records establish continuity.
+The visible evidence remains derivative and internally inconsistent. Each English and colonial generation must remain separate until original records establish identity and parent-child continuity.
