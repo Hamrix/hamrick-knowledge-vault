@@ -162,6 +162,43 @@ Evidence cautions:
 - The profile's child list does not include a John Selby, which is relevant because another profile assigns John Selby as a separate son of Thomas III rather than a descendant through Thomas IV.
 - Thomas IV must not be inserted into the direct line to William Atkinson Selby unless a record proves the exact generational route.
 
+## Profile 7: Captain John Selby
+
+FamilySearch ID: `G3X5-NB7`
+
+Profile assertions visible in screenshot:
+- Born 11 January 1778 in Worcester County, Maryland.
+- Father shown as Thomas Selby V, 1742–1802.
+- Mother shown as Sarah Fassitt, 1758–1780.
+- Married Sarah Carmer on 10 July 1805 in New York City.
+- Died 31 January 1865 in Morris, Grundy County, Illinois.
+- Buried in Evergreen Cemetery, Morris, Grundy County, Illinois.
+- Ten children shown or indicated.
+- Visible children include:
+  - James Kendal Selby, 1806–1833.
+  - Margaret Stewart Selby, 1808–1902.
+  - John W. Selby, 1810–1852.
+  - Sarah Elizabeth Selby, 1812–1886.
+  - Catherine Ann Selby, 1816–1870.
+  - John Nicholas Selby, 1818–1886.
+  - Thomas Henry Selby, 1820–1875.
+  - Samuel West Selby, 1821–1874.
+  - Harriet Newell Selby, 1823–1826.
+  - Caroline F. Selby, born 1825.
+- Siblings shown include James Thomas Selby, Sarah Selby, William Fassitt Selby, Mary A. "Patty" Selby, and one additional child.
+
+Visible sources:
+- A United States Census, 1860 entry showing John Selby in the household of Reuben Frame.
+- A Find a Grave index entry.
+
+Evidence cautions:
+- The 1860 census and Find a Grave entry may support the later Illinois identity, residence, death, or burial, but they do not prove parentage from Thomas Selby V and Sarah Fassitt.
+- The title "Captain" requires a military, maritime, militia, or occupational source; it should not be accepted from the profile alone.
+- The claimed Worcester-to-New York-to-Illinois migration is plausible but must be reconstructed through census, marriage, land, probate, and possibly military records.
+- This appears to be a descendant of Thomas Selby IV through Thomas Selby V and therefore may represent a collateral branch rather than the direct line to William Atkinson Selby.
+- No evidence shown connects Captain John Selby to William Atkinson Selby, the Louisiana Selbys, or the proposed direct modern line.
+- The profile should be used to distinguish the Thomas IV/Thomas V branch from the separate John Selby branch proposed as William Atkinson Selby's ancestry.
+
 ## Expanded online-tree hypothesis to test
 
 The profiles collectively assert:
@@ -174,10 +211,12 @@ John Selbie + Elizabeth Morlayne
 → Thomas Selby II, born 1655 + Mary Ballard
 → Thomas Selby III, born 1687 + Margaret Schoolfield
 → separate children including Thomas Selby IV and John Selby
-→ Thomas Selby IV + Elizabeth Houston and their descendants
-→ other Maryland Selby descendants, while the proposed William Atkinson Selby line may instead descend through Thomas III's separately listed son John.
+→ Thomas Selby IV + Elizabeth Houston
+→ Thomas Selby V + Sarah Fassitt
+→ Captain John Selby + Sarah Carmer
+→ New York and Illinois descendants.
 
-This is a specific, testable hypothesis, not a proven chain.
+The proposed William Atkinson Selby line may instead descend through Thomas III's separately listed son John. This is a specific, testable hypothesis, not a proven chain.
 
 ## Relationship to existing vault evidence
 
@@ -187,8 +226,9 @@ Potentially relevant existing leads:
 - Thomas Selby Sr. of early Maryland, reportedly died 1702.
 - Proposed Thomas Selby Jr./III generations leading toward John Selby and William Atkinson Selby.
 - Separate Schoolfield/Scholefield gateway research involving Lancashire visitation material and possible colonial connections.
+- A distinct Thomas IV/Thomas V/Captain John branch extending from Maryland to New York and Illinois.
 
-None of the presently preserved records proves the complete chain or identifies the FamilySearch Thomas III or Thomas IV as the same men in all Maryland records.
+None of the presently preserved records proves the complete chain or identifies the FamilySearch Thomas III, Thomas IV, Thomas V, or Captain John as the same men in all relevant records.
 
 ## Priority acquisition targets
 
@@ -210,10 +250,14 @@ None of the presently preserved records proves the complete chain or identifies 
 16. Records proving which, if any, listed son became the ancestor of John Selby and William Atkinson Selby.
 17. Original evidence for Thomas Selby IV's birth, marriage to Elizabeth Houston, death in 1776, and complete child list.
 18. Probate and land records distinguishing Thomas IV's descendants from the separately listed John Selby branch.
-19. Any colonial document naming an English birthplace, father, sibling, former residence, occupation, or associate traceable to Lincolnshire.
+19. Original evidence connecting Thomas Selby V to Thomas IV and Elizabeth Houston.
+20. Original evidence identifying Sarah Fassitt and documenting her marriage to Thomas Selby V.
+21. New York marriage record for Captain John Selby and Sarah Carmer, 10 July 1805.
+22. Census, probate, land, cemetery, and military or maritime records proving Captain John's identity, title, migration, spouse, and children.
+23. Any colonial document naming an English birthplace, father, sibling, former residence, occupation, or associate traceable to Lincolnshire.
 
 ## Current conclusion
 
-The FamilySearch profiles now provide a candidate multigenerational chain from England into Maryland and then through Thomas Selby III and Margaret Schoolfield, with Thomas Selby IV and Elizabeth Houston shown as one collateral or possibly direct descendant branch. The Schoolfield marriage remains potentially important because it may intersect with a separate colonial-gentry gateway hypothesis.
+The FamilySearch profiles now provide a candidate multigenerational chain from England into Maryland and a distinct Thomas IV/Thomas V/Captain John branch extending into New York and Illinois. The Schoolfield marriage remains potentially important because it may intersect with a separate colonial-gentry gateway hypothesis.
 
-The Thomas Selby IV profile has no attached historical documents, so it presently adds structure but no independent proof. Each English and colonial generation must remain separate until original records establish identity and parent-child continuity.
+Captain John's later-life records are more recent and potentially easier to verify, but they do not establish the earlier parent-child links or connect this branch to William Atkinson Selby. Each English and colonial generation must remain separate until original records establish identity and continuity.
