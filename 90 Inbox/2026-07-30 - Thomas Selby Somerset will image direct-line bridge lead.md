@@ -58,6 +58,27 @@ Preliminary reading from that image:
 
 This image helps bracket the browsing sequence but does not add direct evidence for the Thomas Selby will. It should not be confused with the Selby probate.
 
+## Nearby collateral page: John Roberts will with Daniel Selby clue
+
+The user supplied another nearby will-book image with visible page/folio marker **180**.
+
+This page is **not** Thomas Selby. It appears to contain the will of **John Roberts** of Somerset County.
+
+Preliminary reading from the image:
+
+- Testator: **John Roberts** of Somerset County.
+- Will dated: appears to be **4 November 1687**.
+- Bequests include:
+  - cow and calf to **John Walter**;
+  - one cow/calf to **Elizabeth [surname unclear]**;
+  - one mare called `phoenix` / similar to **Mary [surname unclear]**, youngest daughter of Grace [surname unclear];
+  - one mare called `choise` / similar to **John Cord** or similar.
+- Signature/mark: **John Roberts**.
+- Witnesses appear to include **Samuel Gelle?**, **Lawrence Crawford?**, **Daniel S. Selby his mark**, and **Richard R. Johnson his mark**.
+- Probate/attestation text at bottom appears to mention **Daniel Selby** and **Richard Johnson** making oath, and appointment of administration.
+
+The Daniel Selby reading is important as a collateral Selby/Selby-neighborhood clue, but this page does **not** prove the Thomas Selby direct-line bridge. It should be treated as a nearby Somerset Selby presence clue until fully transcribed and cited.
+
 ## Why this matters
 
 This is the type of record needed for the early Selby proof chain. Prior compiled sources suggested a bridge from an early **Thomas Selby** to a later **Thomas Selby** of Bogerternorton / Bogeternorton and then into the John Selby / Mary Atkinson / William Atkinson Selby line.
@@ -104,6 +125,7 @@ However, because the handwriting is difficult and the image appears to be a copi
 - The first supplied Thomas Selby page may be the main body/end of the will; need preceding image to confirm whether the will starts earlier.
 - The following page begins a new **Thomas Pollitt** will; only the very top tail/probate notation may relate to the prior record.
 - A nearby Samuel Layfield page was supplied; it is a non-target page and should not be merged with the Selby will.
+- A nearby John Roberts page appears to contain **Daniel Selby** as a witness/probate-related name; this is collateral neighborhood evidence, not direct Thomas Selby proof.
 - Names and relationship terms must be verified from a zoomed image or multiple screenshots.
 - The record should not be merged automatically with Thomas Selby of Prince George's County or any unrelated Selby line.
 - Need to confirm whether this is the same Thomas Selby whose will was reportedly made 28 October 1701 and proved in 1702.
@@ -117,7 +139,8 @@ However, because the handwriting is difficult and the image appears to be a copi
 5. Extract all named heirs, land descriptions, slaves/servants if listed, executor(s), and witnesses.
 6. Compare against Donna Valley Russell / Selby Families of Colonial America and the 1929 Selby Family Notes descriptions.
 7. Determine whether the clause for son **Thomas Selby** directly proves the Thomas I -> Thomas II bridge.
+8. Fully transcribe the nearby John Roberts page to confirm whether the name is **Daniel Selby**, **Daniel S. Selby**, or another reading.
 
 ## Current conclusion
 
-This is a major find. The uploaded image appears to be the will of **Thomas Selby** in Somerset County, and it may be the original/copy-record needed to prove or clarify the early direct-line Selby bridge. The following page transitions into the will of **Thomas Pollitt**, meaning the Selby will likely ends on or just before that page. A full transcription and adjacent-page capture are now the highest priority. The Samuel Layfield page is nearby but unrelated to the Selby proof target.
+This is a major find. The uploaded image appears to be the will of **Thomas Selby** in Somerset County, and it may be the original/copy-record needed to prove or clarify the early direct-line Selby bridge. The following page transitions into the will of **Thomas Pollitt**, meaning the Selby will likely ends on or just before that page. A full transcription and adjacent-page capture are now the highest priority. The Samuel Layfield page is nearby but unrelated to the Selby proof target. The John Roberts page is also not the target, but it may preserve a useful collateral **Daniel Selby** witness/probate clue.
