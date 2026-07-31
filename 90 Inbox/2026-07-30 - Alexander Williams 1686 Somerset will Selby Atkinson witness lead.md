@@ -43,6 +43,35 @@ Witnesses:
 Record citation from abstract:
 - **4. 268**.
 
+## Newly identified acquisition path
+
+The user supplied a screenshot of the FamilySearch-style collection page titled **Maryland, Register of Wills Records, 1629-1999**.
+
+The collection description says it contains images of probate records from Maryland county Register of Wills collections, including wills, bonds, inventories, guardianships, real estate, indexes, and other estate records. It explicitly includes **Somerset** and **Worcester** counties among many Maryland counties.
+
+This is the correct next acquisition route for the original or near-original image because the abstract citation points to a Somerset County will book record:
+
+- County: **Somerset County, Maryland**.
+- Collection: **Maryland, Register of Wills Records, 1629-1999**.
+- Record type target: wills / probate record books.
+- Target citation: **Liber/volume 4, folio/page 268**.
+- Testator: **Alexander Williams**.
+- Dates: **2 March 1686 / proved 11 August 1687**.
+
+## Browse strategy inside the Register of Wills collection
+
+1. Open the collection's **Browse all images** option.
+2. Select **Somerset County**.
+3. Look for a will-book group covering the late 1680s or explicitly labeled volume/liber 4.
+4. Navigate to page/folio **268** or use image thumbnails around the expected folio range.
+5. Capture the full image for Alexander Williams's will.
+6. Verify the witness list directly, especially whether the original reads:
+   - `Thos. Sellbe`;
+   - `Thos. Sellbie`;
+   - `Selby`;
+   - or another variant.
+7. Check nearby pages before and after folio 268 for other Selby/Sellby/Sellbe and Atkinson references.
+
 ## Why this matters
 
 This record directly supports the WikiTree/Atkinson-profile claim that a Thomas Selby/Sellbe/Sellbie and Francis Atkinson were in the same Somerset County legal network in the 1680s.
@@ -68,6 +97,7 @@ This 1686/1687 witness list does **not** prove the later parent-child chain by i
 ## Evidence cautions
 
 - This is a published abstract/transcription, not the original will image.
+- The FamilySearch/Register of Wills collection is the acquisition route, not yet the image itself.
 - The spelling variants `Sellbe` and `Sellbie` must be treated carefully.
 - The presence of two Thomas variants in the same witness list could represent the same man duplicated by transcription style, two separate Thomas Selby/Sellby men, or a clerk/abstractor issue.
 - The abstract proves co-presence as witnesses if accurate; it does not prove kinship by itself.
@@ -93,4 +123,4 @@ This record should be connected to:
 
 ## Current conclusion
 
-This is a meaningful upgrade from an online-tree assertion to a published will abstract. It supports an early Somerset County Atkinson-Selby network but remains network evidence, not direct parent-child proof.
+This is a meaningful upgrade from an online-tree assertion to a published will abstract. It supports an early Somerset County Atkinson-Selby network but remains network evidence, not direct parent-child proof. The supplied Register of Wills collection screenshot identifies the likely image collection where the original will-book page should be pursued next.
