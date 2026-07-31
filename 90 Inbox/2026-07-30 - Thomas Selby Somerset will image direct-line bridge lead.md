@@ -23,6 +23,12 @@ The user then supplied the following page. That image shows:
 - the page then begins a new will for **Thomas Pollitt** of Somerset County;
 - therefore, the Thomas Selby will likely ended on the preceding image, but the first few lines of this following image may contain final witness/probate notation from the prior will.
 
+A clearer image of the same/nearby page confirms the main body is **not Thomas Selby**. It begins:
+
+> In the name of God Amen I Thomas Pollitt of Somerset County in the Province of Maryland...
+
+The top tail/probate notation above the Thomas Pollitt will appears dated around **Feb. 1702** and likely belongs to the preceding record, but its connection to the Thomas Selby will is not yet certain. It may contain witness/probate names relevant to the prior will, but should not be cited as Selby evidence without a closer crop and the exact sequence of pages/images.
+
 Preliminary reading of the top witness/probate tail is uncertain. Visible names may include forms resembling:
 
 - **Thomas Parker** or similar;
@@ -96,7 +102,7 @@ However, because the handwriting is difficult and the image appears to be a copi
 
 - The page number is not fully certain from the screenshot.
 - The first supplied Thomas Selby page may be the main body/end of the will; need preceding image to confirm whether the will starts earlier.
-- The following page appears to begin a new Thomas Pollitt will, but may preserve final witness/probate details at the top.
+- The following page begins a new **Thomas Pollitt** will; only the very top tail/probate notation may relate to the prior record.
 - A nearby Samuel Layfield page was supplied; it is a non-target page and should not be merged with the Selby will.
 - Names and relationship terms must be verified from a zoomed image or multiple screenshots.
 - The record should not be merged automatically with Thomas Selby of Prince George's County or any unrelated Selby line.
@@ -114,4 +120,4 @@ However, because the handwriting is difficult and the image appears to be a copi
 
 ## Current conclusion
 
-This is a major find. The uploaded image appears to be the will of **Thomas Selby** in Somerset County, and it may be the original/copy-record needed to prove or clarify the early direct-line Selby bridge. The following page appears to transition into the will of Thomas Pollitt, meaning the Selby will likely ends on or just before that page. A full transcription and adjacent-page capture are now the highest priority. The Samuel Layfield page is nearby but unrelated to the Selby proof target.
+This is a major find. The uploaded image appears to be the will of **Thomas Selby** in Somerset County, and it may be the original/copy-record needed to prove or clarify the early direct-line Selby bridge. The following page transitions into the will of **Thomas Pollitt**, meaning the Selby will likely ends on or just before that page. A full transcription and adjacent-page capture are now the highest priority. The Samuel Layfield page is nearby but unrelated to the Selby proof target.
