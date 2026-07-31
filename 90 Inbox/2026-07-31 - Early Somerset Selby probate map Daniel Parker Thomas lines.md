@@ -83,6 +83,11 @@ A later web/source check produced a stronger abstract for this record:
 - Land includes **Bantry**, **Carragonstick/Carriganasick**, and **Brother's Lover**.
 - Deposition by **Mary Selby**, likely aged **17**, not aged 70/seventieth year.
 - Witnesses include **Samuel Hopkins Sr.** and **Philip Selby**.
+- Follow-up entry: **13 Mar 1705 came Tabitha Selby**.
+
+Source lead:
+
+- OCCGS rescue PDF, `WORCESTER County-CEMETERIES & PROBATE.pdf`, page 8, lines around the Parker Selby entry.
 
 Important correction:
 
@@ -107,35 +112,100 @@ This page is highly relevant to the Parker/Daniel collateral cluster.
 
 ## Daniel Selby the Elder / Bantry search results
 
-Targeted search found that the Maryland State Archives legislative biography material treats Parker Selby of the legislature as part of a Daniel/Parker Selby line:
+Targeted search found that the Maryland State Archives legislative biography material treats Parker Selby of the legislature as part of a Daniel/Parker Selby line.
 
-- Parker Selby, later legislator, born at **Bantry**.
-- His father was **Parker Selby (1675-1705/6)**.
-- That Parker was eldest son of **Daniel Selby the Elder**.
-- The line is associated with migration from **Accomack County, Virginia** into Maryland.
-- The biography material also connects the line to **Mary Parker**, **Tabitha Bailey**, and a later stepfather **John Purnell**.
+### MSA page 720: Parker Selby / Daniel Selby the Elder structure
 
-Targeted search also found `Side-Lights on Maryland History` / Digital Maryland material stating:
+The Maryland State Archives legislative biography for **Parker Selby** says:
 
-- **Bantry** was **1400 acres**.
-- Surveyed **18 April 1674** for **Daniel Selby**.
+- born at **Bantry**, his father's plantation in Mattapany Hundred, Worcester County;
+- father: **Parker Selby (1675-1705/6)**, eldest son of **Daniel Selby the Elder (?-1696)** and wife **Mary Parker**;
+- Daniel and Mary Parker immigrated from **Accomack County, Virginia**, by 1675;
+- mother: **Tabitha**, daughter of **John Bailey (?-1716/17)** of Accomack County, Virginia;
+- stepfather by July 1708: **John Purnell**;
+- half-brother: **Daniel Selby (?-1721)**, who married Mary, daughter of John Outten;
+- first cousin: **John Selby (?-1754)**;
+- wife by 1724: **Mary Watts**, daughter of John Watts and Priscilla White of Accomack;
+- sons of Parker and Mary Watts include **John Selby (?-1790)**, **Parker Selby (?-1773)**, **Col. William Selby (?-1793)** of Accomack, **Zadock**, **James**, and **Micajah alias William II**.
 
-Additional search result from Salisbury/Nabb-style index material indicates:
+Source lead:
 
-- **Daniel Selby, planter**;
-- **Bantry**;
-- **1400 acres**;
-- seaboard-side location language appears in the index result.
+- Maryland State Archives, Archives of Maryland, Volume 426, Page 720.
 
-Another probate/abstract result for various counties suggests Daniel Selby land/passages involving:
+### MSA page 719: John Selby, son of William, Daniel-line context
 
-- **Cedar Grove**;
-- **Bantry**;
-- **Carriganasick/Carragonstick**;
-- **Assucken**;
-- son **Philip**.
+The MSA legislative biography for **John Selby (?-1754)** says:
 
-These leads should be checked against original patents/deeds/probate records before being used as proof.
+- born in Somerset/later Worcester County;
+- father: **William Selby (1683-1762)**, son of **Daniel Selby the Elder (?-1696)**;
+- mother: Sarah;
+- stepmother: Martha, widow of John Purnell;
+- married Sarah, daughter of **Parker Selby (?-1773)**;
+- Sarah later married Samuel Atkinson and William Drummond of Accomack.
+
+Source lead:
+
+- Maryland State Archives, Archives of Maryland, Volume 426, Page 719.
+
+### MSA page 721: critical separation of Daniel line and Thomas/William Atkinson line
+
+The MSA page that discusses **William Selby, of John** gives a crucial separation:
+
+- William Selby, of John, is described as a great-great-grandson of **Daniel Selby the Elder** and Mary Parker.
+- The same page separately states that **William Atkinson Selby (1757-?)**, son of **John Selby of Nassawadux, Pocomoke Hundred**, was a great-great-grandson of **Thomas Selby (?-1702)**, who immigrated from Accomack County to Maryland by 1674.
+- It further states that William Atkinson Selby's grandfather was **John Selby**, son of **Thomas (?-1758)** and **Margaret Scholfield**, and that his mother was **Mary Atkinson**, daughter of **Angelo Atkinson**.
+
+Interpretation:
+
+- This is important because the MSA explicitly treats **Daniel Selby the Elder** and **Thomas Selby (?-1702)** as separate ancestral anchors in adjacent Selby biographies.
+- This supports keeping the Parker/Daniel/Bantry cluster separate from the Thomas/William Atkinson direct-line cluster unless a new record proves an earlier connection.
+
+Source lead:
+
+- Maryland State Archives, Archives of Maryland, Volume 426, Page 721.
+
+## Daniel Selby will / land abstract search result
+
+A `VARIOUS Counties-CEMETERIES & PROBATE.pdf` result gives an abstract for **Daniel Selby**:
+
+- **Daniel Selby**, citation **7.244**.
+- Will dated **12 Dec 1694**.
+- Proved **16 Mar 1696**.
+- To wife **Mary**, land.
+- To eldest son **Parker**: plantation, **Upper Plantation**, **Brother's Love**, **Carriganasick**.
+- To son **Daniel**: **Yorkshire**, **Sandy Point**, **Kilkenny**.
+- To son **Philip**: **Cedar Grove**, **Bantry**, **Carriganasick**, **Assucken**.
+- To son **William**: **Mattemkim** in Accomack County and **Dublin**.
+- To daughter **Mary**: **Brick Neck**.
+- Witnesses: **John Purnell**, **John Roussalls**, **Cornelius Shahan**, **Thomas Smith**, and **Director Purnell**.
+- Inventory lead: **Daniel Selby inventory 3.310, 1703**, appraisers **Matthew Scarborough** and **Samuel Hopkins**.
+
+Interpretation:
+
+- This strongly confirms the Daniel/Parker/Bantry land cluster and gives tract names for original-record targeting.
+- It also shows Daniel had son **Parker**, son **Philip**, son **William**, son **Daniel**, and daughter **Mary**.
+- It does not make Daniel the direct-line Thomas ancestor; it clarifies the collateral cluster.
+
+Source lead:
+
+- OCCGS rescue PDF, `VARIOUS Counties-CEMETERIES & PROBATE.pdf`, page 16-17.
+
+## Bantry patent / land-record search result
+
+A Salisbury/Nabb-style records PDF gives a land-record style entry:
+
+- **Daniel Selby, planter**.
+- Tract: **Bantry**.
+- Acreage: **1400**.
+- Location: seaboard side near **Mattapany Creek**, from land of **Edward and John Smalley**, near land of **John Peale**.
+- Date: **April 16, 1674**.
+- Page: **42**.
+
+This is a major acquisition path for the Bantry original patent or survey record.
+
+Source lead:
+
+- Salisbury University / Nabb Research Center records PDF, `records1-100.pdf`, page 17.
 
 ## Alexander Williams witness lead
 
@@ -164,11 +234,11 @@ These should not be confused with the Selby proof target:
 
 ## Working hypothesis after consolidation
 
-The early Somerset Selbys may separate into at least two clusters:
+The early Somerset Selbys appear to separate into at least two clusters:
 
 ### Cluster 1: Thomas direct-line candidate
 
-- Thomas Selby Sr. / early Somerset testator;
+- Thomas Selby (?-1702), Accomack-to-Maryland by 1674;
 - wife Mary;
 - son Thomas;
 - daughter Grace;
@@ -176,20 +246,19 @@ The early Somerset Selbys may separate into at least two clusters:
 - Rebecca Blades;
 - possible son Joseph.
 
-This is the direct-line target because later compiled sources connect Thomas -> Thomas -> John Selby -> William Atkinson Selby.
+This is the direct-line target because the MSA page 721 explicitly routes William Atkinson Selby through **Thomas Selby (?-1702)** -> **Thomas (?-1758)** + **Margaret Scholfield** -> **John Selby** -> **William Atkinson Selby**.
 
 ### Cluster 2: Daniel/Parker/Bantry cluster
 
-- Daniel Selby the Elder;
+- Daniel Selby the Elder (?-1696) + Mary Parker;
 - Bantry plantation;
-- Parker Selby (1675-1705/6);
-- wife Tabitha Bailey/Selby;
+- son Parker Selby (1675-1705/6) + Tabitha Bailey;
 - sons Daniel and Parker;
-- brothers/kin William, Philip, Isaac;
-- Ann Stephens as heir of Philip Selby;
-- John Purnell stepfather connection.
+- Daniel's other children include Philip, William, Daniel, Mary;
+- Bantry, Carriganasick/Carragonstick, Brother's Love/Lover, Cedar Grove, Assucken, Yorkshire, Sandy Point, Kilkenny, Mattemkim, Dublin, Brick Neck;
+- later John Selby (?-1754) and Parker Selby legislative branches.
 
-This is likely collateral unless a record links it to the Thomas line, but it may explain local Selby name reuse and Accomack-to-Somerset movement.
+This is very likely collateral to the direct Thomas line unless a record links Daniel and Thomas as brothers/kin or otherwise proves a shared parentage.
 
 ## Best next research targets
 
@@ -197,26 +266,27 @@ This is likely collateral unless a record links it to the Thomas line, but it ma
    - Search for `Thomas Selby 28 October 1701 24 September 1702 Somerset will`.
    - Confirm full citation, witnesses, and heirs.
 
-2. **Daniel Selby the Elder probate / will / estate**
-   - Search for Daniel Selby the Elder, Bantry, Cedar Grove, Carriganasick, Assucken.
-   - Determine whether Daniel has a will naming children Parker, Philip, William, Isaac, Thomas, etc.
+2. **Original Daniel Selby will image**
+   - Target citation: **Daniel Selby 7.244**, dated **12 Dec 1694**, proved **16 Mar 1696**.
+   - This should be easier to find than Thomas because the citation and tract names are specific.
 
 3. **Bantry patent/deed**
-   - Target: Bantry, 1400 acres, surveyed 18 April 1674 for Daniel Selby.
-   - Need original patent or land-office citation.
+   - Target: **Daniel Selby, Bantry, 1400 acres, April 16 1674, page 42**, near Mattapany Creek.
+   - Need original patent/survey image.
 
 4. **Parker Selby will abstract original image cross-check**
+   - Target: **Parker Selby f. 56, 28 Feb 1705**, proved March 1705.
    - Confirm wife Tabitha, sons Daniel/Parker, brothers Philip/William/Isaac, lands Bantry/Carragonstick/Brother's Lover, Mary Selby deposition.
 
-5. **Carragonstick / Carriganasick / Brother's Lover land chain**
-   - These uncommon tract names should make targeted land searching practical.
+5. **Carriganasick / Brother's Love land chain**
+   - Search spellings: Carriganasick, Carragonstick, Carriganstick, Carriganasick; Brother's Love, Brother's Lover.
 
 6. **Tabitha Bailey Selby Purnell**
-   - Find original marriage/estate records proving Tabitha was daughter of John Bailey of Accomack and later wife of John Purnell.
+   - Find original records proving Tabitha was daughter of John Bailey of Accomack and later wife of John Purnell.
 
 7. **Ann Stephens heir of Philip Selby**
    - Clarify whether Ann Stephens was daughter/heir of Philip Selby and how she connects to Parker/Daniel.
 
 ## Current conclusion
 
-The vault now needs to treat the early Somerset Selby material as a structured problem rather than one flat surname pile. The Thomas will remains the direct-line proof target. The Parker/Daniel/Bantry material is a strong collateral cluster with excellent land and probate anchors. The next phase should be targeted original-record acquisition, not broad visual browsing.
+The vault now needs to treat the early Somerset Selby material as a structured problem rather than one flat surname pile. The Thomas will remains the direct-line proof target. The Parker/Daniel/Bantry material is a strong collateral cluster with excellent land and probate anchors. The current outside-source search strongly supports separating the **Daniel Selby the Elder / Bantry** line from the **Thomas Selby / William Atkinson Selby** direct-line route until a specific bridge record is found.
