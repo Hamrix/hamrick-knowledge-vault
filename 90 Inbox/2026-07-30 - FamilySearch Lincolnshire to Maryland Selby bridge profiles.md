@@ -130,6 +130,38 @@ Evidence cautions:
 - The profile's John Selby, born 1732, conflicts with other proposed chronologies placing the relevant John Selby around 1722. Identity should not be assumed.
 - The listed son John Selby cannot automatically be identified as the father of William Atkinson Selby without direct probate, deed, Bible, or other relationship evidence.
 
+## Profile 6: Thomas Selby IV
+
+FamilySearch ID: `KCHQ-RKD`
+
+Profile assertions visible in screenshot:
+- Born about 1715 in Somerset, Maryland.
+- Father shown as Thomas Selby III, 1687–1757.
+- Mother shown as Margaret Schoolfield, 1695–1780.
+- Married Elizabeth Houston about 1738 in Somerset, Maryland.
+- Died 13 February 1776 in Worcester County, Maryland.
+- Eight children shown or indicated.
+- Visible children include:
+  - Thomas Selby V, 1742–1802.
+  - Margaret Selby, born 1746.
+  - Sophia Selby, born 1746.
+  - Elizabeth Selby, 1748–1802.
+  - Joshua Selby, 1750–1796.
+  - Benjamin Selby, born 1752.
+  - Henry Selby, born 1750.
+  - Daniel Selby, born 1754.
+
+Visible sources:
+- None. The profile explicitly states that no historical documents are attached.
+
+Evidence cautions:
+- With no attached documents, every asserted fact on the profile is presently an unsourced online-tree claim.
+- The claimed marriage to Elizabeth Houston requires an original marriage, probate, deed, church, or court record.
+- The overlapping birth years for Margaret and Sophia, and for Joshua and Henry, could represent twins, estimated dates, or merged/duplicated child profiles.
+- Thomas Selby IV appears as one branch from Thomas III and Margaret Schoolfield, but this is not necessarily the branch leading to John Selby and William Atkinson Selby.
+- The profile's child list does not include a John Selby, which is relevant because another profile assigns John Selby as a separate son of Thomas III rather than a descendant through Thomas IV.
+- Thomas IV must not be inserted into the direct line to William Atkinson Selby unless a record proves the exact generational route.
+
 ## Expanded online-tree hypothesis to test
 
 The profiles collectively assert:
@@ -141,8 +173,9 @@ John Selbie + Elizabeth Morlayne
 → Somerset County, Maryland
 → Thomas Selby II, born 1655 + Mary Ballard
 → Thomas Selby III, born 1687 + Margaret Schoolfield
-→ children including Thomas IV, William, Ezekiel, John, Henry, and Daniel
-→ later Maryland Selby descendants.
+→ separate children including Thomas Selby IV and John Selby
+→ Thomas Selby IV + Elizabeth Houston and their descendants
+→ other Maryland Selby descendants, while the proposed William Atkinson Selby line may instead descend through Thomas III's separately listed son John.
 
 This is a specific, testable hypothesis, not a proven chain.
 
@@ -155,7 +188,7 @@ Potentially relevant existing leads:
 - Proposed Thomas Selby Jr./III generations leading toward John Selby and William Atkinson Selby.
 - Separate Schoolfield/Scholefield gateway research involving Lancashire visitation material and possible colonial connections.
 
-None of the presently preserved records proves the complete chain or identifies the FamilySearch Thomas III as the same man in all Maryland records.
+None of the presently preserved records proves the complete chain or identifies the FamilySearch Thomas III or Thomas IV as the same men in all Maryland records.
 
 ## Priority acquisition targets
 
@@ -175,10 +208,12 @@ None of the presently preserved records proves the complete chain or identifies 
 14. Probate and land records for Thomas Selby III, reportedly died 1757, naming spouse, children, heirs, executors, or associated tracts.
 15. Original records identifying Margaret Schoolfield's parents and distinguishing her from similarly named Schoolfield/Scholefield women.
 16. Records proving which, if any, listed son became the ancestor of John Selby and William Atkinson Selby.
-17. Any colonial document naming an English birthplace, father, sibling, former residence, occupation, or associate traceable to Lincolnshire.
+17. Original evidence for Thomas Selby IV's birth, marriage to Elizabeth Houston, death in 1776, and complete child list.
+18. Probate and land records distinguishing Thomas IV's descendants from the separately listed John Selby branch.
+19. Any colonial document naming an English birthplace, father, sibling, former residence, occupation, or associate traceable to Lincolnshire.
 
 ## Current conclusion
 
-The FamilySearch profiles now provide a candidate multigenerational chain from England into Maryland and then through Thomas Selby III and Margaret Schoolfield. The Schoolfield marriage is potentially important because it may intersect with a separate colonial-gentry gateway hypothesis.
+The FamilySearch profiles now provide a candidate multigenerational chain from England into Maryland and then through Thomas Selby III and Margaret Schoolfield, with Thomas Selby IV and Elizabeth Houston shown as one collateral or possibly direct descendant branch. The Schoolfield marriage remains potentially important because it may intersect with a separate colonial-gentry gateway hypothesis.
 
-The visible evidence remains derivative and internally inconsistent. Each English and colonial generation must remain separate until original records establish identity and parent-child continuity.
+The Thomas Selby IV profile has no attached historical documents, so it presently adds structure but no independent proof. Each English and colonial generation must remain separate until original records establish identity and parent-child continuity.
