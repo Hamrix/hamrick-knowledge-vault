@@ -1,230 +1,256 @@
 # Prince George's Selby sons and Twyford-Western Branch trace
 
-Status: continued record trace; no proved connection to Somerset/Worcester Selbys.
+Status: expanded record trace from published compiled source; no proved connection to Somerset/Worcester Selbys.
 
 ## Purpose
 
-Trace the sons and land of William Selby of Prince George's County, whose will was dated 5 November 1698 and proved 25 February 1698/9, to determine whether any heir migrated to or interacted with the Somerset/Worcester County Selbys.
+Trace the sons, daughters, and land of William Selby of Prince George's County, Maryland, whose will was dated 5 November 1698 and proved 25 February 1698/9, to determine whether any heir migrated to or interacted with the Somerset/Worcester County Selbys.
 
-## Established starting household
+This note now incorporates the user-supplied pages from **Selby Families of Colonial America**, pages 65-66 and the related opening page headed **William Selby of Prince George's County, Md.** These pages substantially clarify the western-shore William Selby cluster and supply footnoted record targets.
 
-William Selby's will names:
-- wife Mary Selby;
-- daughter Mary, wife of Robert Sallers/Sollers;
-- daughter Amy/Amee Hucker/Hacker;
-- sons William, Charles, and Samuel Selby;
-- daughter Susannah Selby;
-- tract `Twyford`, 100 acres, devised to Amy Hucker/Hacker;
-- 200 acres on the Western Branch devised to Robert Sallers/Sollers and wife Mary.
+## Source type and caution
 
-Additional probate-land details now reported from secondary abstracts and research notes:
-- The will abstract also associates William Selby with tracts called `Good Luck`, `Park Meadow`, `Leith`, `Groomes Lodge`, `Towgood`, `Twyford`, and `The Farme`.
-- Mary Selby, widow/executrix, gave administration bond in 1699 with Paul Busey and Joshua Cecill/Cecil as sureties.
-- The inventory of William Selby of Prince George's County was appraised 23 May 1699 by R. Bradly and Samuel Magruder at £437.13.11.
-- A 30 July 1701 estate account was by `Mary Cecill`, wife of Joshua Cecill, indicating that William Selby's widow Mary remarried Joshua Cecil/Cecill after William's death.
-- Payments from the account reportedly included Charles Beale, Richard Groome, Richard Jones, Joshua Cecill, and others.
-- These details should be verified against the original administration bond, inventory, and account images.
+The supplied pages are from a published compiled genealogy, not original records. They are much stronger than unsourced online trees because they give citations to Maryland patents, Prince George's County land records, inventories, administration accounts, wills, bonds, court records, and related abstracts. Still, each item should be checked against the original record before being elevated to primary proof.
 
-## Son William Selby
+## Starting person: William Selby of Prince George's County
 
-A Prince George's County William Selby appears in later records and is a strong candidate for the testator's son, but the parent-child identity must still be checked against the original 1698 will and the younger William's probate.
+The source states that **William Selby** was transported to Maryland by 1659 by Lieutenant **Thomas Truesman**, who claimed rights on 29 December 1659 and received 400 acres on the Eastern Shore for transporting Hugh Lawson, John Kelly, Mary Steward, William Jenkins, John Oarmans/Ormans, William Selby, and Christopher Hands.
 
-Current evidence leads:
-- William Selby served as constable and took a 1719 list of taxables in Mount Calvert Hundred, Prince George's County.
-- William Selby married Sarah Magruder, daughter of Samuel Magruder and Sarah Beall, by 1712; a 9 August 1712 account of Samuel Magruder's estate reportedly shows legatee Sarah Selby's payment made to William Selby.
-- William Selby may have married second Elizabeth Smith, possibly connected to Nathan Smith; this remains a compiled-family hypothesis until supported by the younger William's will, marriage, probate, or land records.
-- Moses Orme reportedly purchased 100 acres of `Towgood` plantation from William Selby on 22 January 1725, Liber 1, folio 710.
-- A William Selby of Prince George's County made a will 18 October 1732, proved 1 August 1733.
-- A Maryland wills abstract for William Selby `[son of Wm]`, dated 18 October 1732, lists wife Elizabeth Selby and children William Magruder Selby, Sarah, Susannah, Samuel, Joseph, Thomas, John, and Nathan Selby. It also names Magruder and Thomas Hodgkin as trustees, with Henry Boteler, Charles Boteler, and Thomas Hodgkins as witnesses.
+The first record of William Selby is stated to be 11 February 1667 in a patent recorded by **Stephen Benson** for land on Herring Creek, Anne Arundel County, adjoining John Burridge and William Selby.
 
 Interpretation:
-- This strongly suggests that at least one branch of the 1698 Prince George's family remained on the western shore and entered the Magruder-Beall-Hodgkin-Boteler-Smith kinship network.
-- The 1725 `Towgood` transaction is important because `Towgood` appears among the land names associated with William Sr.'s 1698/9 estate. This may be a direct son-and-heir conveyance.
-- No evidence presently places this William or his proved children in Somerset or Worcester County.
+- This is a significant correction to the earlier generic immigration lead. The 1659 item was not merely a passenger-list citation; it points to a Maryland land-right/patent context involving Thomas Truesman.
+- The 1667 Herring Creek/Anne Arundel appearance places this William in western-shore Maryland before the Prince George's County estate, not in Somerset/Worcester.
+- The patent transport being tied to land on the Eastern Shore does not itself prove that William lived on the Eastern Shore.
 
-## William Magruder Selby branch
+## Marriage and death
 
-Current evidence leads:
-- A Prince George's County will for William Magruder Selby, dated 28 February 1773, names wife Martha and sons William Wilson Selby, Samuel, James Wilson, Nathan, Joshuway/Joshua Wilson, Josiah Wilson, Lingan Wilson, and Thomas Selby, plus daughters Martha, Sarah, Elizabeth, and Mary.
-- Witnesses listed in the abstract: William Wilson, James Beall, and Jeremiah Fowle.
-- Later Prince George's/Montgomery-area descendants include William Wilson Selby, whose 1800 will names wife Martha, daughters Eleanor Lanham, Deborah Nailer, Druscilla Jenkins, Rebecca Selby, Elizabeth Masters, sons Charles, Magruder, Richard, John, and James, and brother Josiah Wilson Selby.
+The source says William died, probably at his plantation **Leith** in Prince George's County, shortly before 25 February 1698/9, testate.
+
+It says he married, probably circa 1680, **Mary [unknown]**, who survived him and married second by 1701 **Joshua Cecill/Cecil**. Mary died by 5 September 1718.
+
+## Land acquisition summary
+
+The source says William, planter, purchased several tracts in Calvert County before Prince George's County was formed in 1696. Most or all were west of the fork of the Patuxent and Mattapany/Mattaponi Rivers in the eastern part of what became Prince George's County.
+
+Because of the loss of Calvert County deeds, the acquisition record is incomplete.
+
+### Good Luck
+
+- In Calvert County on the west side of the Patuxent River.
+- Purchased from **Samuel Magruder** on 14 March 1683.
+- 100 acres.
+- Devised to daughter **Mary Selby** and her husband **Robert Sollars/Sallers**.
+
+### Bealington / Pack's Meadow
+
+- Probably the tract called **Pack's Meadow** in William's will.
+- Purchased from **Ninian Beall** on 15 May 1693.
+- 100 acres on the west side of the dividing creek, likely Lyons Creek, of the Patuxent River, adjoining William Groom's **Groom's Lot**.
+- Devised to daughter Mary and her husband Robert Sollars/Sallers, together with Good Luck.
+
+### Leith
+
+- On the Patuxent River.
+- 500 acres.
+- Patented to **James Moore**, who sold it to William Selby.
+- Devised to sons **William Selby** and **Charles Selby**.
+
+### Groom's Lot
+
+- Probably bought from **Richard Groom**; no deed found.
+- 650 acres.
+- Devised to sons **William Selby** and **Charles Selby**.
+
+### Twogood / Towgood
+
+- Purchased from **Walter Bigger**.
+- 200 acres.
+- Deed not found.
+- On 23 November 1697, **James Bigger** of Charles County, late son and son of **John Bigger**, who had devised the tract to his son Walter, quitclaimed his rights to the tract to William Selby.
+- Devised to daughter **Susannah Selby** for 150 acres and son **Samuel Selby** for 350 acres according to the will summary on p. 65; the page-opening summary lists Twogood as 200 acres, so original records must reconcile the acreage and whether the will grouped Twogood with adjoining land.
+
+### The Farme
+
+- 200 acres.
+- Purchased from **George Collings**, who died without ascertaining the bounds.
+- In 1709/10, George Collings's grandson and heir apparent **William Colling** completed the transaction.
+- Devised to wife **Mary Selby** and later given by Joshua and Mary Cecil to William's posthumous daughter **Ann Selby**.
+
+### Twyford / Twiver
+
+- 100 acres.
+- No deed of purchase found.
+- A tract named **Twiver** was patented to George Collings.
+- Devised to daughter **Amee/Amy Hucker** and her husband **Robert Hucker**.
+- William's wife Mary was to have benefit of half the orchard.
+
+### Essex Lodge
+
+- Purchased 7 May 1698 from **Richard Groome**, Gentleman, and wife **Ann** for 4800 pounds of tobacco.
+- Described as the easternmost moiety of the tract.
+- 150 acres on the west side of the Patuxent River near Mattapony Creek.
+- Devised to sons **William Selby** and **Charles Selby**.
+
+## Will of William Selby, 5 November 1698
+
+The source summarizes the will as follows:
+
+- William called himself **of Prince George's County, planter**.
+- To son-in-law **Robert Sollars/Sallers** and wife **Mary Selby**: 200 acres near Samuel Magruder's land on the Western Branch, consisting of 100 acres of **Good Luck** and 100 acres of **Pack's Meadow**, the latter probably the location of **Bealington**.
+- To sons **William Selby** and **Charles Selby**: all of **Leith**, where William dwelled, being 500 acres, plus 150 acres lately acquired from Richard Groom, probably **Essex Lodge** and part of **Groom's Lot**.
+- The will divided the plantation, giving 350 acres to William adjoining the plantation, the lower part divided by a line from the river back into the woods, and 300 acres to Charles, the uppermost part up the Patuxent River.
+- To daughter **Susannah Selby**: 150 acres of **Twogood**, lying back in the woods.
+- To son **Samuel Selby**: the residue, or 350 acres, of that tract.
+- To daughter **Amee/Amy Hucker**: the 100-acre tract **Twyford**, except half the orchard, which wife Mary was to have the benefit of.
+- To wife **Mary Selby**: the 100-acre tract called **The Farme**.
+- To daughter **Susannah**: feather bed and furniture, a copper kettle, and ten cattle at age 16.
+- To sons **William** and **Charles**: same at age 18.
+- To son **Samuel**: iron pot and ten cattle at age 18.
+- Residue to wife **Mary**, appointed executrix.
+- Signed by William's mark **W**.
+- Witnesses: **Hugh Tracey**, **Jeremiah Powell**, **John Wheat**, and **Joshua Cecill/Cecil**.
+- Proved 25 February 1698/9.
+
+## Inventory and estate administration
+
+The pages report:
+
+- Inventory taken 23 May 1699 by **R. Brady/Brady** and **Samuel Magruder**.
+- Estate valued at **£437.13.11**.
+- At the October 1699 Court, a suit by **Charles Beall** against Richard Taylor stated that Mary Selby had tobacco of Taylor's goods; Mary admitted part and denied part, and the court ordered payment.
+- On 30 July 1701, **Joshua Cecill and wife Mary** presented the inventory of William's estate and paid **Richard Jones** 600 pounds of tobacco for building a 20-foot house.
+
+These details support the conclusion that widow Mary remarried Joshua Cecil/Cecill and that the estate remained in the Prince George's/Patuxent network.
+
+## Posthumous daughter Ann Selby
+
+The pages give a major clarification:
+
+- Mary had William's posthumous child **Ann**, born shortly after his death.
+- This is shown by two deeds of 1709.
+- On 27 June 1709, **Joshua Cecill** recorded a deed of gift to **Ann Selby**, described as `my wife's daughter`, of livestock, with reversion to her brother **Samuel Selby** if Ann died before marriage.
+- On 9 February 1709/10, **Joshua Cecil** and wife **Mary** gave the 100-acre tract called **The Farme**, which William Selby had devised to Mary, to Ann, stating that William died leaving his wife with child.
 
 Interpretation:
-- This line remains western-shore and Magruder-Beall-Wilson-associated.
-- It is useful for excluding or distinguishing Prince George's Selbys from the Somerset/Worcester line.
-- No direct Eastern Shore link is yet evident.
+- This converts the earlier Ann Selby/Tucker lead from a possible daughter into a strongly supported posthumous-child lead.
+- Ann belongs in the William and Mary Selby household, subject to original deed verification.
 
-## Leith continuation and 1806 chancery lead
+## Joshua Cecil estate connection
 
-A Maryland Chancery Papers index entry identifies an 1806 Prince George's County case: `Kenelm Selby vs. David Carcaud`, described as an injunction against removal of timber from `Leith`.
+The pages state:
 
-Interpretation:
-- Because `Leith` is one of the land names associated with William Selby's 1698/9 estate and the younger William Selby's 1732 will, this 1806 chancery case is a strong lead for a long-running Prince George's Selby land chain.
-- The case may contain a bill, answer, exhibits, depositions, or title recitals that name prior Selby owners and heirs.
-- This is high-value evidence for proving the Prince George's Selby branch internally.
-- It currently points away from Somerset/Worcester, because the same land name appears to remain in a Prince George's dispute more than a century after William Sr.'s death.
-
-Priority target:
-- Acquire Chancery Court case 5028, `Kenelm Selby vs. David Carcaud`, dated 27 July 1806 or indexed in 1806, Prince George's County, injunction against removal of timber from `Leith`.
-
-## Son Samuel Selby
-
-Current evidence leads:
-- Samuel Selby reportedly married Sarah Smith on 12 December 1717 in Queen Anne Parish, Prince George's County, said to be daughter of Nathan Smith.
-- Ann Harris's 1751 Prince George's County will refers to 45 acres she had bought from Samuel Selby.
-- A Samuel Selby of Frederick County made a will 28 August 1758. It names wife Amelia and children including Samuel, William, Harris, Cassandra, Mary, Anne, Amelia, and Barbary; witnesses included Samuel Selby and William Magruder Selby.
-- The will abstract notes that on 16 October 1758 in Anne Arundel County, Samuel Selby swore to the will in the presence of Samuel Selby, heir at law, and William Magruder Selby.
-- Prince George's court records in the 1730s and 1740s place a Samuel Selby in Mount Calvert Hundred; these records include enslaved or bound labor context and are part of the western-shore social network.
+- Joshua Cecil died by 20 April 1717 intestate.
+- Administrators bonded: **Isaac Cecill**, **Edward Willett**, **Charles Beall**, and **Robert Wheeler**.
+- On 5 June 1717, **Roger Brooke** and **Richard Claggett** took the inventory, totaling **£781.8.3-3/4**.
+- Inventory was divided by rooms in his house, property at **The Farm** and **Dick's Quarter**, and included plateware, divine books, and law books.
+- **Samuel Selby** and **William Selby** signed as next of kin.
+- Later account dated 5 September 1718 indicates that **Mary (Selby) Cecil**, wife of Joshua, had also recently died.
+- Account filed by Isaac Cecill and Edmond Willett included cash paid to Rev. Mr. **Jacob Henderson** for funeral sermons, one for the deceased and one for the deceased's wife.
+- No distribution of the Cecil estate was found.
 
 Interpretation:
-- The naming and Prince George's/Frederick/Magruder/Smith network make this Samuel branch a plausible descendant branch of the 1698 household.
-- The 45-acre conveyance should be located in the deed books to identify the tract, Samuel's residence, spouse release, and chain of title.
-- No Somerset/Worcester migration has yet been found.
+- William and Samuel Selby acting as next of kin in Joshua Cecil's estate is a high-value internal confirmation of the blended Selby-Cecil household.
+- It still points to the western-shore/Prince George's cluster.
 
-## Son Charles Selby
+## Children of William and Mary Selby
 
-Current evidence leads:
-- Compiled material places Charles Selby as a minor son of William Sr., perhaps born about 1688.
-- No sufficiently specific primary-record hit has yet been identified for Charles Selby that securely distinguishes him from other same-name men.
+The source gives the children in the order of William's will:
 
-Priority targets:
-- Prince George's deed index entries for Charles Selby;
-- probate, administration, tax, and court records;
-- deeds involving siblings William, Samuel, Mary Sallers/Sollers, Amy Hucker/Hacker, Susannah, or posthumous Ann;
-- any record naming a residence outside Prince George's County.
+1. **Mary Selby**, married **Robert Sollars/Sallers** by 5 November 1698.
+   - On 26 April 1700, Robert Sollars of Calvert County, planter, and wife Mary sold to **Richard Jones** of Prince George's County for £80 sterling the two tracts they had inherited from William Selby.
 
-## Daughter Amy/Amee Hucker/Hacker and Twyford/Twiver
+2. **William Selby**, a minor in 1698.
 
-The 1698 will devised 100 acres called `Twyford` to daughter Amy/Amee Hucker/Hacker.
+3. **Charles Selby**, probably died young.
 
-Important caution:
-- Search results for the surname/place-name `Twyford` in Dorchester and Caroline Counties concern unrelated Twyford families and tracts unless a deed explicitly ties them to William Selby's Prince George's property.
-- Some secondary abstracts expand the tract list beyond the user-provided FamilySearch source note and include `Good Luck`, `Park Meadow`, `Leith`, `Groomes Lodge`, `Towgood`, `Twyford`, and `The Farme`. The original will image must be checked to distinguish devised parcels from adjacent or previously held parcels.
-- Related Prince George's records also mention `Twiver`; this may be a separate tract or a reading/transcription issue with `Twyford`.
+4. **Susanah/Susannah Selby**.
+   - Question raised by the source: Did she marry **Henry Childs**?
+   - **Henry Childs Jr.** signed Susannah's brother William's inventory as next of kin.
+   - **Henry Childs Sr.**, a Quaker, wrote his will in 1731 and mentioned no wife.
 
-Required trace:
-1. Identify the original patent or earlier deed for `Twyford`/`Twiver` in Prince George's County.
-2. Locate the post-1699 deed or inheritance record for Amy Hucker/Hacker.
-3. Identify Amy's husband and all surname spellings: Hucker, Hacker, Hooker, Hocker, or similar.
-4. Follow the tract until sale outside the family.
-5. Record every grantor, grantee, spouse, witness, adjoining owner, and stated residence.
+5. **Samuel Selby**, a minor in 1698.
 
-## Daughter Mary Sallers/Sollers and Western Branch land
+6. **Amee/Amy Selby**, married by 1698 **Robert Hucker**.
+   - Robert Hucker made his will 20 April 1711.
+   - He left the tract inherited from William Selby to his son **Samuel Hucker** at age 18.
+   - Son **Robert Hucker** was reversionary heir.
+   - Robert Hucker also left 125 acres and 100 acres of undivided land that William Selby gave to William Rothery.
+   - Daughters **Elizabeth Hucker** and **Amy Hucker** were reversionary heirs.
+   - Executor: **Thomas Brook Jr.** to take in the children, all minors.
+   - Birthdates added to the will: Samuel Hucker, born 11 October 1699; Elizabeth Hucker, born 14 December 1701; Robert Hucker, born 11 September 1706; Amy Hucker, born 27 July 1708.
 
-The 1698 will devised 200 acres on the Western Branch to son-in-law Robert Sallers/Sollers and wife Mary.
+7. **Ann Selby**, born 1699.
+   - Received **The Farme** from her mother and stepfather.
 
-New related lead:
-- On 20 February 1711/12, Joshua and Mary Cecil reportedly gave a two-year-old heifer called Cherry to Robert Sollers, son of Robert and Mary Sollers of Anne Arundel County, with Isaac Cecil as one witness, recorded in Prince George's Land Records, Liber F, folio 107.
+## Earlier court and network records
 
-Interpretation:
-- This places the Mary Selby + Robert Sollers/Sallers line in Anne Arundel County by 1711/12.
-- It again points toward a western-shore/Anne Arundel continuation rather than an Eastern Shore Somerset/Worcester migration.
-- The original F:107 record should be checked because it may establish exact kinship language.
+The source also places William Selby in western-shore court and land contexts:
 
-Required trace:
-1. Locate the exact deed, patent, or tract name for the 200 acres.
-2. Search spelling variants: Sallers, Sellers, Sollers, Sellars, and related forms.
-3. Trace later conveyances by Robert and Mary.
-4. Determine whether heirs or purchasers moved to the Eastern Shore.
-5. Compare witnesses and adjoining owners with known Somerset/Worcester Selby associates.
+- 20 February 1681: William served on a jury for Calvert County.
+- 7 October 1685: William Selby and many other residents of Calvert County petitioned the Council of Maryland for a landing town or port of trading on the Patuxent River on the land of **John Bolings**. The petition was granted if citizens secured title.
+- June 1696 Court: William Selby registered his cattle mark.
+- March 1696/7 and June 1697 Courts: William was a juror.
+- August 1697 Court: **Charles Busey** demanded subpoenas for Selby and William Conley to testify for himself and William Rothry.
+- March 1699 Court: **Richard Groome**, servant of Mrs. Mary Selby, was presented for spreading false and evil reports about wars in England and who supported them.
+- William Selby was mentioned in the account of **Nathaniel Taylor's** debts to Jonathan Willson, tavernkeeper; Taylor owed one shilling for a bottle of cider he had in company of Selby.
 
-The broad phrase `Western Branch` is not enough to identify the tract. The original will image and subsequent land records are required.
+## Notes and source citations visible on supplied pages
 
-## Posthumous or omitted daughter Ann Selby / Tucker lead
+The pages cite, among other targets:
 
-A Maryland marriage-reference index notes an Ann, daughter of William Selby, married by 7 March 1710 to a Tucker, based on Prince George's Land Record F:62.
+- Maryland Land Patents, Maryland State Archives, 4:190; FF:561-2, as printed in Archives of Maryland, Proceedings of the Provincial Court, 1666-1670, 2:261-2.
+- Prince George's County Land Records A:427, deed confirmed 3 October 1700.
+- Prince George's County Rent Rolls, p. 316.
+- Prince George's County Land Records A:71-2; witnesses John Murth and William Barton.
+- Prince George's County Land Records D:48-50.
+- Prince George's County Land Records A:108; witnesses Josias Twogood and John Browen.
+- Archives of Maryland, Proceedings of the Provincial Court, 57:231-2; Proceedings of the Council, RRR:253, 17:408-10.
+- Court Records of Prince George's County, Md., 1696-1699, American Legal Records, pages and entries listed in the note.
+- Original Bonds box 1, folder 6, Maryland State Archives, Prince George's County Wills, 6:216-8.
+- Prince George's County Inventories, 19 1/2:92.
+- Court Records of Prince George's County, p. 592.
+- Prince George's County Administration Accounts, 20:237.
+- Prince George's County Land Records D:10.
+- Prince George's County Bonds, box 4, folder 27; Prince George's County Inventories and Accounts, 37B:238-253; 1:180-2.
+- Prince George's County Land Records A:427.
+- Jane Baldwin, Maryland Calendar of Wills, 8:83, for Henry Childs.
+- PG Wills, 13:286; Prince George's County Bulletin, October 1984, p. 18.
 
-New related lead:
-- A secondary abstract reports that in November Court 1709, Joshua Cecil and wife Mary deeded a 100-acre portion of `The Farme` to Ann Selby, `about ye eleven years` of age, because the will of William Selby left no provision for this child born after his death.
-- If accurate, Ann Selby was born after William Selby wrote his will or after his death, around 1698/1699.
-- This explains why she does not appear in the 1698 will but later appears in land or marriage records.
+## Relationship to Somerset/Worcester Selby project
 
-Interpretation:
-- Ann is likely a posthumous or near-posthumous child of William Selby and Mary, not a separate unrelated daughter.
-- Her later Tucker marriage may be the key to tracing `The Farme` and to distinguishing the post-will estate settlement.
-- The original Prince George's Land Record F:62 and the 1709 court/deed entry must be obtained before integrating Ann into the household as proved.
+These pages strengthen the conclusion that William Selby of Prince George's County is a **separate western-shore cluster**:
 
-## The Farme and Joshua Cecil connection
-
-Current evidence leads:
-- Joshua Cecil/Cecill was a witness/surety/estate associate in the William Selby probate cluster and later husband of widow Mary Selby.
-- A 23 June 1703 Prince George's land record reportedly shows Joshua Cecil buying 309 acres of `The Farme`, formerly in Calvert County and then in Prince George's County, on the west side of the Patuxent adjoining `Mansfield`, and including part of `The Farme` owned by William Selby.
-- A 1708 purchase by Joshua Cecil reportedly included plantations called `Farme`, `Mansfield`, `Collins Comfort`, and `Twiver`/possibly `Twyford`.
-- In 1709 Joshua and Mary Cecil reportedly deeded 100 acres of `The Farme` to Ann Selby because William's will omitted this afterborn child.
-
-Interpretation:
-- The Joshua Cecil remarriage creates a crucial estate-management bridge.
-- `The Farme`, `Twyford`/`Twiver`, and related Patuxent-side properties may explain how Selby land moved through Cecil and Tucker rather than through sons William/Samuel/Charles.
-- This still points to a Prince George's/Patuxent network, not Somerset/Worcester.
-
-## Network evidence
-
-William Selby appears in Prince George's County court and probate-land contexts in the late 1690s and early 1700s, placing him in a western-shore legal network with men such as Ninian Beall, Samuel Magruder, Charles Busey, Joshua Cecill/Cecil, Paul Busey, Richard Groome, Charles Beale, and others.
-
-Reported records include:
-- William Selby signing an approximately 1684/85 Patuxent River town petition in Calvert County.
-- William Selbe witnessing the will of Jonathan Pearce of Calvert County in 1685.
-- William Selby and Thomas Greenfield appraising Hugh Hamlin's Calvert County inventory in 1686.
-- William Selby as debtor to the estate of John Abington of Calvert County in 1694.
-- William Selby subpoenaed in a Prince George's County case involving Charles Busey in 1697.
-
-This network is materially different from the early Accomack-Somerset record cluster around Thomas Selby/Solbie. Shared surname and chronology are not sufficient to merge the families.
-
-## Negative finding for Somerset/Worcester connection
-
-Continued searching has not produced:
-- a deed identifying any Prince George's Selby heir as resident in Somerset or Worcester;
-- a probate record naming Thomas Selby of Somerset/Worcester as kin;
-- a shared tract, witness cluster, or executor network linking this western-shore family to the Eastern Shore Selbys;
-- any evidence that Twyford/Twiver, The Farme, Towgood, Leith, or Western Branch land passed into Somerset/Worcester hands.
-
-The strongest current inference is that William Selby of Prince George's County represents a separate western-shore Selby cluster.
+- The 1659 transport lead is tied to Thomas Truesman's patent rights and later western-shore appearances.
+- The 1667 Herring Creek/Anne Arundel reference precedes the Prince George's settlement.
+- The land base is Patuxent/Mattapany/Western Branch/Calvert-Prince George's, not Somerset/Worcester.
+- The heirs move through Calvert, Anne Arundel, Prince George's, Cecil, Hucker, Sollars, Magruder, Beall, and Childs networks.
+- No heir, land tract, or probate clause yet links this family to Thomas Selby of Somerset/Worcester, John Selby of Nassawadox/Pocomoke Hundred, or William Atkinson Selby.
 
 ## Current conclusion
 
-The updated trace currently points more strongly toward a continuing Prince George's-to-Frederick/Montgomery/Anne Arundel branch:
+The supplied *Selby Families of Colonial America* pages substantially clarify the Prince George's William Selby family. They make this branch easier to prove internally, but they also make it less likely to be the direct Somerset/Worcester Selby line.
 
-William Selby Sr., died 1698/9
-→ widow Mary remarried Joshua Cecil/Cecill
-→ daughter Mary married Robert Sallers/Sollers and appears connected to Anne Arundel by 1711/12
-→ daughter Amy/Amee Hucker/Hacker inherited Twyford/Twiver-related land
-→ probable posthumous daughter Ann received 100 acres of The Farme from Joshua and Mary Cecil in 1709
-→ likely son William Selby, planter/constable, died 1733, spouse or spouses requiring clarification, with children including William Magruder, Samuel, Joseph, Thomas, John, and Nathan
-→ William Magruder Selby and western-shore descendants
-→ likely son Samuel Selby active in Prince George's/Frederick networks through the 1750s.
+The working conclusion is:
 
-No son or land conveyance has yet been found that reaches Somerset or Worcester County. The evidence currently argues for a separate western-shore Selby cluster unless a future deed or probate record proves otherwise.
+William Selby Sr., transported by 1659, appearing in western-shore Maryland records by 1667
+→ planter of Calvert/Prince George's County, resident at Leith, died testate 1698/9
+→ wife Mary, later Mary Cecil/Cecill
+→ children Mary Sollars, William, Charles, Susannah, Samuel, Amee Hucker, and posthumous Ann Selby
+→ land chain through Good Luck, Pack's Meadow/Bealington, Leith, Groom's Lot, Towgood/Twogood, The Farme, Twyford/Twiver, and Essex Lodge
+→ later western-shore descendant networks.
+
+No proved bridge to the Somerset/Worcester Selbys has been found in this branch.
 
 ## Priority acquisition list
 
-1. Original 1732/1733 will and probate packet of William Selby of Prince George's County.
-2. Prince George's Land Record F:62 concerning Ann Selby and the Tucker marriage.
-3. Prince George's Land Record F:107 concerning Robert Sollers, son of Robert and Mary Sollers.
-4. November 1709 deed/court record from Joshua and Mary Cecil to Ann Selby for 100 acres of `The Farme`.
-5. Deed for Samuel Selby's sale of 45 acres to Ann Harris.
-6. Moses Orme purchase of 100 acres of `Towgood` from William Selby, reported as Liber 1, folio 710, 22 January 1725.
-7. Patent and complete conveyance chain for `Twyford`/`Twiver`.
-8. Patent and complete conveyance chain for the 200-acre Western Branch property.
-9. Patent and conveyance chain for `The Farme`, including the 1703 and 1708 Cecil transactions.
-10. Chancery file Kenelm Selby vs. David Carcaud, 1806, injunction against removal of timber from `Leith`.
-11. Original administration bond, inventory, and account of William Selby Sr., including Mary Selby/Mary Cecill's role.
-12. Full deed and probate search for Charles Selby.
-13. Residence and heir identification for Mary and Robert Sallers/Sollers.
-14. Comparison of all witnesses, adjoining owners, and executors against Somerset/Worcester names.
-15. Queen Anne Parish record for Samuel Selby and Sarah Smith, 12 December 1717.
-16. Full probate of Samuel Selby of Frederick County, 1758.
-17. Land/probate trace for William Magruder Selby and William Wilson Selby to confirm the western-shore continuation.
-
-## Research sources used in this trace note
-
-This note relies on a combination of:
-- FamilySearch source details supplied by the user for profile `L6TT-KK3`;
-- Maryland State Archives abstracts and guide entries;
-- Prince George's County will abstracts available through MDGenWeb;
-- secondary compiled land/probate abstracts that require original-record verification.
-
-Because several findings are still from abstracts or derivative notes, every relationship and land movement must be checked against original images before being promoted to proved evidence.
-
-## Working assessment
-
-The Prince George's Selby branch is now more coherent, better documented, and increasingly western-shore in profile. It should remain in the vault as a useful parallel Maryland Selby cluster, but it should not be merged into the Somerset/Worcester William Atkinson Selby ancestry without a direct kinship or migration record.
+1. Original William Selby will, Prince George's County Wills 6:216-8.
+2. Original administration bond, inventory, account, and associated estate records.
+3. Prince George's County Land Records A:427, A:71-2, A:108, D:10, D:48-50.
+4. 26 April 1700 deed by Robert and Mary Sollars to Richard Jones.
+5. 1709/1710 deeds involving Ann Selby and The Farme.
+6. Robert Hucker will, 20 April 1711, and PG Wills 13:286.
+7. Joshua Cecil estate bonds, inventories, and accounts, especially those naming Samuel and William Selby as next of kin.
+8. Land patent files for Good Luck, Pack's Meadow/Bealington, Leith, Groom's Lot, Twogood/Towgood, The Farme, Twyford/Twiver, and Essex Lodge.
+9. Full tract-by-tract conveyance chains to determine whether any parcel left the western shore.
+10. Compare every witness and adjoining owner against known Somerset/Worcester Selby associates.
