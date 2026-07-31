@@ -60,17 +60,31 @@ This is the correct next acquisition route for the original or near-original ima
 
 ## Browse strategy inside the Register of Wills collection
 
-1. Open the collection's **Browse all images** option.
-2. Select **Somerset County**.
-3. Look for a will-book group covering the late 1680s or explicitly labeled volume/liber 4.
-4. Navigate to page/folio **268** or use image thumbnails around the expected folio range.
-5. Capture the full image for Alexander Williams's will.
-6. Verify the witness list directly, especially whether the original reads:
+The user supplied a screenshot of the Somerset County volume list within the Register of Wills collection.
+
+The best first click is:
+
+- **Wills 1664-1700, 1772-1777 vol EB5**
+
+Reason:
+- It covers the target date range, **1686-1687**.
+- The abstract citation is `4. 268`, and this is the only visible wills volume group covering 1664-1700.
+- The `vol EB5` label may be the FamilySearch/film grouping rather than the same thing as the old will-book liber number. The internal page/folio number in the images is what matters.
+
+After opening that volume:
+
+1. Do not assume image number equals folio/page number.
+2. Look for internal handwritten or printed folio/page numbers.
+3. Navigate toward **folio/page 268**.
+4. Target testator: **Alexander Williams**.
+5. Target dates: **2 March 1686 / proved 11 August 1687**.
+6. Capture the full page image and any facing/continuation page.
+7. Verify the witness list directly, especially whether the original reads:
    - `Thos. Sellbe`;
    - `Thos. Sellbie`;
    - `Selby`;
    - or another variant.
-7. Check nearby pages before and after folio 268 for other Selby/Sellby/Sellbe and Atkinson references.
+8. Check nearby pages before and after folio 268 for other Selby/Sellby/Sellbe and Atkinson references.
 
 ## Why this matters
 
@@ -115,12 +129,13 @@ This record should be connected to:
 
 ## Priority follow-up targets
 
-1. Locate the original Maryland will book image for **Alexander Williams, Somerset County, 2 March 1686 / proved 11 August 1687, Liber/volume 4, folio/page 268**.
-2. Verify whether the original reads `Sellbe`, `Sellbie`, `Selby`, or another variant.
-3. Determine whether the two Thomas witness names represent one man or two distinct men.
-4. Search surrounding wills in volume 4 for other Selby/Sellby/Atkinson co-witnesses.
-5. Search for Charles Ratcliffe, Thomas Pointer, John Bishopp, and Eliza Fancitt to understand the associated neighborhood/legal network.
+1. Open **Wills 1664-1700, 1772-1777 vol EB5** under Somerset County in the Maryland Register of Wills collection.
+2. Locate **Alexander Williams, Somerset County, 2 March 1686 / proved 11 August 1687, Liber/volume 4, folio/page 268**.
+3. Verify whether the original reads `Sellbe`, `Sellbie`, `Selby`, or another variant.
+4. Determine whether the two Thomas witness names represent one man or two distinct men.
+5. Search surrounding wills in volume 4 for other Selby/Sellby/Atkinson co-witnesses.
+6. Search for Charles Ratcliffe, Thomas Pointer, John Bishopp, and Eliza Fancitt to understand the associated neighborhood/legal network.
 
 ## Current conclusion
 
-This is a meaningful upgrade from an online-tree assertion to a published will abstract. It supports an early Somerset County Atkinson-Selby network but remains network evidence, not direct parent-child proof. The supplied Register of Wills collection screenshot identifies the likely image collection where the original will-book page should be pursued next.
+This is a meaningful upgrade from an online-tree assertion to a published will abstract. It supports an early Somerset County Atkinson-Selby network but remains network evidence, not direct parent-child proof. The supplied Register of Wills collection screenshot identifies the likely image collection where the original will-book page should be pursued next, and the Somerset browse screenshot narrows the first click to **Wills 1664-1700, 1772-1777 vol EB5**.
