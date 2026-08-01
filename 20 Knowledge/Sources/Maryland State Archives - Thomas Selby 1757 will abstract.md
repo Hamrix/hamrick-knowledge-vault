@@ -25,7 +25,7 @@ Official published abstract of the probate record for Thomas Selby Sr. of Worces
 
 ## Reliability and limitations
 
-The Maryland State Archives abstract is a reliable derivative of a primary probate record and directly reports the parent-child wording. It is not a substitute for reviewing the original Liber 30 folio 458 image or a certified transcription, which remains necessary for a final proof-standard conclusion and for all details beyond the explicit relationship.
+The Maryland State Archives abstract is a reliable derivative of a primary probate record and directly reports the parent-child wording. A separate Worcester County manuscript record has now been reviewed at FamilySearch and independently contains the same Thomas-to-John wording. The image of the statewide Prerogative Court copy at Liber 30, folio 458 has not yet been compared, so the two record copies should not be treated as the same physical manuscript.
 
 ## Claims supported
 
