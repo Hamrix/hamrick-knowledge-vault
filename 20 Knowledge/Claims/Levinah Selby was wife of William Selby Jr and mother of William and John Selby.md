@@ -1,7 +1,7 @@
 ---
 type: claim
 status: active
-confidence: strong
+confidence: confirmed
 privacy: internal
 last-reviewed: 2026-08-02
 ---
@@ -23,6 +23,7 @@ Levinah Selby was the wife of William Selby, the younger, and the mother of Will
 ## Evidence supporting
 
 - [[Maryland State Archives - John Atkinson 1750 will abstract]] reports that John Atkinson's will calls Levinah the wife of William Selby, the younger, and later calls William and John Selby Levinah's sons.
+- [[FamilySearch - John Atkinson 1750 Worcester County will images]] is a reviewed manuscript record. It calls Levinah the wife of William Selby, the younger, and directs distribution to William and John Selby, sons of Levinah.
 
 ## Evidence against
 
@@ -38,8 +39,8 @@ The official abstract directly reports the wife and mother-child terms. It estab
 
 ## Confidence rationale
 
-`strong`: an official archive abstract expressly reports the relevant relationships. This should be upgraded to `confirmed` only after checking the underlying manuscript will at Liber 27, folio 527.
+`confirmed`: the reviewed Worcester County manuscript will expressly gives the wife and mother-child wording, and the Maryland State Archives abstract independently agrees.
 
 ## Next research action
 
-Obtain and review the image of Liber 27, folio 527. Then seek probate, land, and estate records that distinguish these William and John Selbys from the later Worcester County men of the same names before testing any connection to Major Selby.
+Seek probate, land, and estate records that distinguish these William and John Selbys from the later Worcester County men of the same names before testing any connection to Major Selby.

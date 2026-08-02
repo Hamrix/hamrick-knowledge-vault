@@ -26,7 +26,7 @@ Official published abstract of the statewide Prerogative Court will record for J
 
 ## Reliability and limitations
 
-The Maryland State Archives abstract is a derivative of the probate manuscript, not a substitute for a reviewed image of the will. It directly reports the relationships in its transcription but the underlying Liber 27 page has not yet been compared. It does not identify Major Selby, prove that these William and John Selbys are the same as every later person of those names, or prove any parentage beyond the relationships stated.
+The Maryland State Archives abstract is a derivative of the probate manuscript, not a substitute for a reviewed image of the will. The underlying Worcester County manuscript record has now been reviewed at FamilySearch and independently contains the same relationship wording. The archive abstract does not identify Major Selby, prove that these William and John Selbys are the same as every later person of those names, or prove any parentage beyond the relationships stated.
 
 ## Claims supported
 
