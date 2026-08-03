@@ -44,7 +44,7 @@ A follow-up public-source sweep found that the same tract pair in Major Selby's 
 - The 1810 chancery case *George Hall vs. William Selby of Zadock* concerns the **estate of Zadock Selby** and names **Nums Green, Poplar Hill, Exon Enlarged, Key, Addition to Gander, and Duers Request**.
 - Parker Selby estate chancery cases in 1795 and 1808 add more Selby estate packets to the same Worcester research cluster.
 
-This creates a sharper research problem: determine how Poplar Hill and Exon Enlarged moved among John Selby, Major Selby, Zadock Selby, William Selby of Zadock, and any Parker Selby estate interests. It does not prove Major's father.
+This creates a sharper research problem: determine how Poplar Hill and Exon Enlarged moved among John Selby, Major Selby, Zadock Selby, and William Selby of Zadock. The corrected Parker Selby estate cases involve different tract sets and are broader Selby-estate context only. This does not prove Major's father.
 
 ## Next research action
 
@@ -59,8 +59,8 @@ Then reconstruct title to "Choice" from the Angelo Atkinson patent forward, usin
 Also retrieve and transcribe:
 
 - *George Hall vs. William Selby of Zadock*, 1810, Worcester County, estate of Zadock Selby, Chancery Record 91, p. 233, MSA S512-3-2427.
-- *John Selby et al. vs. Anthony Bacon and William Gunby*, filed 26 Jan. 1795, Worcester County, estate of Parker Selby, MSA S512-6-4006.
-- *John Selby vs. Anthony Bacon and William Gunby*, 1808, Worcester County, estate of Parker Selby, MSA S512-3-2097.
+- *Joseph Delestatius and Sarah Delestatius v. John Selby*, filed 12 Nov. 1795, Worcester County, estate of Parker Selby, MSA S512-6-4837; Chancery Record 38, p. 341.
+- *John Selby v. Anthony Bacon and George S. Gunby*, filed 22 Jul. 1808, Worcester County, estate of Parker Selby, MSA S512-6-5087; Chancery Record 105, p. 770.
 - John Selby's 1790 will/trust and any related estate papers.
 
 ## Sources
@@ -73,6 +73,7 @@ Also retrieve and transcribe:
 - [Maryland State Archives, Chancery Court Papers index, 1809-1810](https://msa.maryland.gov/msa/stagser/s500/s512/html/s512j.html)
 - [Maryland State Archives, Chancery Court Papers index, 1795-1796](https://msa.maryland.gov/msa/stagser/s500/s512/html/s512c.html)
 - [Maryland State Archives, Chancery Court Papers index, 1807-1808](https://msa.maryland.gov/msa/stagser/s500/s512/html/s512i.html)
+- [[Maryland State Archives - Parker Selby chancery case indexes]]
 - [Maryland State Archives, Patents, Worcester, Tract Index (S1602)](https://guide.msa.maryland.gov/pages/series.aspx?id=S1602) (including 1761 *Choice*, 242 acres, S1602-1293)
 - [Archives of Maryland, vol. 18 index, p. 722](https://msa.maryland.gov/megafile/msa/speccol/sc2900/sc2908/000001/000018/html/am18--722.html)
 - [Archives of Maryland, Council-journal volume list](https://msa.maryland.gov/megafile/msa/speccol/sc2900/sc2908/html/executive.html)
