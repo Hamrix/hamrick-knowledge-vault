@@ -16,6 +16,7 @@ Frederick E. Selby's 1953 Lenoir County, North Carolina marriage license identif
 
 - [[FamilySearch - Frederick E Selby 1953 Lenoir County marriage license image]] is a reviewed official license image. Its groom's parent field names Sarah E. Selby as Frederick's mother.
 - [[FamilySearch - Frederick E Selby 1930 US census image]] independently enumerates Frederick E. Selby as the son of Sarah E. Stafford in New Orleans in 1930.
+- [[FamilySearch - Frederick E Selby 1940 US census image]] independently enumerates Frederick E. Selby, age 28, as the son of the female Selby household head in New Orleans. The head's name is less clear in the image/index and is used as corroboration rather than as a standalone identity proof.
 
 ## Analysis and limit
 
