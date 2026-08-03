@@ -34,7 +34,7 @@ The will also names a grandson John Selby, but does not state that grandson's pa
 
 ## Analysis
 
-The manuscript directly establishes a three-generation group: Angelo Atkinson, his child John Selby, and John's children Sarah Selby and William Atkinson Selby. It does not identify John Selby's wife, name Major Selby, or prove that Major Selby descended from this group.
+The manuscript directly establishes that Angelo Atkinson was the grandparent of Sarah Selby and William Atkinson Selby, and that John Selby was their father. It does not state whether John Selby was Angelo's son or son-in-law, identify John's wife, name Major Selby, or prove that Major Selby descended from this group.
 
 ## Confidence rationale
 
