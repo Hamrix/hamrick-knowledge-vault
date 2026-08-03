@@ -23,8 +23,10 @@ The license gives direct reported parentage, and the earlier original census ind
 
 ## Unresolved identity issue
 
-An indexed 5 January 1854 Kentucky marriage record names **Benjamine Selby** and **Sophia E. Stone**, with Sophia's parents indexed as Francis Stone and Sophia Bryan ([FamilySearch record](https://www.familysearch.org/ark:/61903/1:1:F4HZ-SVP)). The image is not currently available from that record. Because Frederick's reviewed 1884 license calls his mother **Docia Stone**, this index does **not** prove that Sophia E. Stone and Docia Stone were the same person. They may be a given-name variation or different people; neither explanation is adopted without a record that explicitly resolves it.
+An indexed 5 January 1854 Kentucky marriage record names **Benjamine Selby** and **Sophia E. Stone**, with Sophia's parents indexed as Francis Stone and Sophia Bryan ([FamilySearch record](https://www.familysearch.org/ark:/61903/1:1:F4HZ-SVP)). A separately reviewed original Shelby County license-paper sequence now confirms that Sophia Bryan gave consent on 4 January 1854 for “Col Ben Selby” to marry her daughter Sophia Stone, and that a license for Benjamin Selby and Sophia E. Stone issued on 5 January. See [[FamilySearch - Benjamin Selby and Sophia E Stone 1854 Shelby County marriage-license images]].
+
+Those papers prove the Sophia Bryan-to-Sophia Stone relationship and the license transaction, but they do **not** prove that their Benjamin Selby is the Benjamin reported as Frederick Payne Selby's father in 1884. Nor do they show that Sophia E. Stone and Docia Stone were the same person. They may be two different women married to different men of the same name, two wives of one man, or a given-name variation; none of those explanations is adopted without an identity-specific bridge.
 
 ## Next research action
 
-Seek the original 1854 marriage record, then civil and census records for Docia Stone and Sophia E. Stone. Do not merge those identities unless a record names both forms or otherwise supplies an identity-specific bridge.
+Seek a minister's return, later census, probate, or death record that correlates the 1854 license parties with the 1880 Benjamin/Docia/Payne household. Do not merge the identities unless a record names both forms or otherwise supplies an identity-specific bridge.
