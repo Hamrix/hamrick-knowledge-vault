@@ -70,8 +70,10 @@ Source: [Maryland State Archives, Chancery Court Papers index, 1809-1810](https:
 
 The chancery index also points to Parker Selby estate litigation:
 
-- *John Selby et al. vs. Anthony Bacon and William Gunby*, filed 26 Jan. 1795, Worcester County, subject: estate of Parker Selby, MSA S512-6-4006.
-- *John Selby vs. Anthony Bacon and William Gunby*, 1808, Worcester County, subject: estate of Parker Selby, tracts Cedar Hall, Exchange, Bacon Hall, Smiths Addition, S512-3-2097.
+- *Joseph Delestatius and Sarah Delestatius v. John Selby*, filed 12 Nov. 1795, Worcester County, subject: estate of Parker Selby; tracts Venture, Cedar Grove, Proventun, and Robertsons Inheritence; Chancery Record 38, p. 341; MSA S512-6-4837; accession 17,898-4668; location 1/37/1.
+- *John Selby v. Anthony Bacon and George S. Gunby*, filed 22 Jul. 1808, Worcester County, subject: estate of Parker Selby; tracts Prevention and Addition to Willetts Outlet; Chancery Record 105, p. 770; MSA S512-6-5087; accession 17,898-4936; location 1/37/1.
+
+These corrected index entries do not share the Poplar Hill / Exon Enlarged tract pair, so they are broader Selby-estate context rather than direct support for a Major-Selby land connection. See [[Maryland State Archives - Parker Selby chancery case indexes]].
 
 Working implication: Parker/John/Zadock/William Selby estate files may be necessary to place Major within or outside the Worcester Selby network.
 
