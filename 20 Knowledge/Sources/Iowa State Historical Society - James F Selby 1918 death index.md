@@ -35,10 +35,11 @@ It does not establish that this James F. Selby was the son of Major Selby and Ha
 ## Claims supported
 
 - [[Iowa death index identifies James F Selby in Wayne County in 1918]]
+- [[James F Selby 1918 death certificate reports Major Selby and Harriet Mesic as parents]] (identity and certificate-reference corroboration only)
 
 ## Research use
 
-Retrieve and review death certificate 93-1265 in box D2553. Any parental names or informant statements must be evaluated as information supplied at death, then correlated with earlier records before a relationship is asserted.
+The reviewed certificate image is now documented in [[FamilySearch - James F Selby 1918 Iowa death certificate image]]. Its parental information remains an informant report that should be correlated with earlier records before merging this family with any other Major Selby record.
 
 ## File or URL
 
