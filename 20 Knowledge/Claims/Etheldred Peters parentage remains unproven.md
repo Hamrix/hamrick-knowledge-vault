@@ -59,13 +59,13 @@ The companion court-minute source is FamilySearch catalog 646166, *County court 
 
 FamilySearch's **Full-Text Search** accepts an Image Group Number (DGS), so DGS **7640400** can be searched separately with the keyword variants `Etheldred`, `Ethelred`, `Peters`, `Etheldred Peters`, `estate`, `administration`, and `guardian`, then narrowed to 1788-1789. This is a discovery aid: it uses AI-generated handwriting transcripts, and not every DGS has yet been processed. Any hit must be opened and read against its image; a zero-result search would not prove the name absent from the minutes.
 
-## 2026-07-28 land-caveat lead
+## 1787 land-caveat: original minute reviewed
 
-A follow-up public-source sweep found a published abstract of a September 1787 Craven County court-minute caveat involving **Etheldred Peters** and **Anthony Vanpelt**.
+A reviewed original Craven County court-minute page records the sheriff's return “upon the Caveat of Etheldred Peters agt Anthony Vanpelt.” It calls Etheldred the plaintiff and Vanpelt the defendant in a land caveat. The return is dated **31 August 1787**, not merely an undated or secondary-source lead.
 
-The abstract says Vanpelt's warrant and survey were made outside Peters's lines and that Peters had his complement of land according to the courses and distances of his patent. The jury list names Brisco Davis, John Philips, George Browning, Joseph Allen, Thomas Coleman, Francis Rountree, William Rountree, Brittain King, Moses Spivey, Ezekiel Adams, Edward Clark, and Jonathan Killeren.
+The jury found that Vanpelt's warrant and survey were outside Peters's land lines and that Peters had his complement of land according to the courses and distances of his patent. The original minute names the jurors, but their participation does not establish kinship with Etheldred.
 
-This is now an important land-identity lead. The original court-minute image, patent, warrant, survey, plat, and any caveat papers should be retrieved and correlated with the 1786 Swift Creek tax-list land descriptions: 400 acres where Etheldred lived and 120 acres on Little Contentnea/Contentney known as Warehouse Landing.
+This is important land-identity evidence. The patent, warrant, survey, plat, and any related caveat papers should be retrieved and correlated with the 1786 Swift Creek tax-list land descriptions: 400 acres where Etheldred lived and 120 acres on Little Contentnea/Contentney known as Warehouse Landing.
 
 This lead does **not** identify Etheldred's father.
 
@@ -110,8 +110,9 @@ The North Carolina Land Grants index reports one Craven grant for Etheldred Pete
 - North Carolina Archives, statewide will index, William Peters, Craven County, probate 1760, record ID 5200.28.1618, recorded copy reference DB 8:227 (catalog detail retrieved 27 July 2026)
 - [North Carolina Land Grants index, Etheldred Peters](https://www.nclandgrants.com/q/?cyid=&sbj=Peters%2C+Etheldred&xs=1) (index only; consult original grant papers)
 - [[FamilySearch - Etheldred Peters 1788 Craven estate file images]] (reviewed original estate-packet images; FamilySearch collection 1911121)
+- [[FamilySearch - Etheldred Peters 1787 Craven land-caveat court minute]] (reviewed original court-minute image)
 - [FamilySearch catalog 456868: Craven County wills and estate papers](https://www.familysearch.org/en/search/catalog/456868) (repository-level locator for the original estate-file series)
-- [1787 Craven land-caveat abstract](https://eastcarolinaroots.com/king-mentions-craven-county-court-minutes-1767-1791/) (the court record should be checked in original form)
+- [1787 Craven land-caveat abstract](https://eastcarolinaroots.com/king-mentions-craven-county-court-minutes-1767-1791/) (discovery aid; superseded for this claim by the reviewed original minute)
 - [1779 Craven County tax-list transcription with original-scan link](https://eastcarolinaroots.com/1779-craven-county-tax-list/) (Captain Allen's company; use only as a locality clue)
 - [Catalog entry for Bradley's New Bern District loose-estate abstract volume](https://catalog.chattlibrary.org/Search/Results?filter%5B%5D=authorStr%3A%22Bradley%2C+Stephen+E%22&lookfor=%22North+Carolina.%22&searchIndex=Subject&searchSource=local&sort=relevance&view=list)
 - [FamilySearch catalog 646166: Craven County court minutes](https://www.familysearch.org/en/search/catalog/646166) (1787–1801 minute group: DGS 7640400)
