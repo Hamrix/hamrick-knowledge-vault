@@ -22,4 +22,4 @@ This is a census household fact, not a stated family relationship: the 1860 sche
 
 ## Next research action
 
-Seek the Hamilton County probate, land, and court files for Major Selby, along with an original return for the 1817 Somerset County marriage entry. Those are the most likely record classes to name heirs or otherwise provide the required identity bridge.
+Seek the Hamilton County probate, land, and court files for Major Selby, along with an original return for the 1817 Somerset County marriage entry. The identified probate index is DGS 7664200 and the estate-order-book reel is DGS 7664201; see [[FamilySearch Catalog - Hamilton County Indiana probate records 1830-1937]]. Those are the most likely record classes to name heirs or otherwise provide the required identity bridge.
