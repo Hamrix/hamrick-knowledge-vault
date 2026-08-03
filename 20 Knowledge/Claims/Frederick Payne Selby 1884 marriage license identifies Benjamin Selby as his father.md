@@ -1,7 +1,7 @@
 ---
 type: claim
 status: active
-confidence: strong
+confidence: confirmed
 privacy: internal
 last-reviewed: 2026-08-03
 ---
@@ -15,10 +15,11 @@ Frederick Payne Selby's 1884 Orleans Parish marriage-license record identifies B
 ## Evidence supporting
 
 - [[FamilySearch - Frederick Payne Selby 1884 Orleans marriage license image]] is the reviewed official license image and names Benjamin Selby in Frederick's father field.
+- [[FamilySearch - Ben Selby 1880 US census image]] independently enumerates Ben Selby with his son Payne Selby in Kentucky in 1880. The shared Payne name, age progression, and the 1884 license's explicit paternal field corroborate the relationship.
 
 ## Analysis and limit
 
-The form provides direct reported parentage for Frederick Payne Selby. It does not identify Benjamin's parents, prove that this Benjamin is any earlier Maryland or colonial Selby, or establish a medieval or royal connection.
+The license gives direct reported parentage, and the earlier original census independently records Ben with son Payne. This verifies the bounded Benjamin-to-Frederick Payne relationship. It does not identify Benjamin's parents, prove that this Benjamin is any earlier Maryland or colonial Selby, or establish a medieval or royal connection.
 
 ## Next research action
 
