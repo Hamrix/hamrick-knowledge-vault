@@ -16,7 +16,7 @@ A 2026-07-28 exact-name search found a public indexed FamilySearch person page f
 
 The indexed summary identifies a man born 21 Dec. 1911 in Louisiana, son of James Benjamin Sanford Selby, and died in November 1992 with New Orleans/Louisiana context.
 
-This note remains a research lead. Reviewed images now include the 1930 federal census and a 1953 Lenoir County marriage license. The census enumerates Frederick E. Selby, age 18, as Sarah E. Stafford's son; the marriage license names his parents as James B. Selby (deceased) and Sarah E. Selby (living), and records his marriage to Frances Marion Haskins. These are bounded modern-record relationships, not a connection to the colonial or medieval workstreams.
+This note remains a research lead. Reviewed images now include the 1930 and 1940 federal censuses and a 1953 Lenoir County marriage license. The censuses enumerate Frederick E. Selby as a son in a New Orleans female Selby/Stafford household; the marriage license names his parents as James B. Selby (deceased) and Sarah E. Selby (living), and records his marriage to Frances Marion Haskins. These are bounded modern-record relationships, not a connection to the colonial or medieval workstreams.
 
 ## What this changes
 
@@ -42,6 +42,7 @@ The project previously logged no reliable identity-specific search hit for Frede
 
 - [FamilySearch person page, Frederick Ethelred Selby, LLWQ-6MV](https://ancestors.familysearch.org/en/LLWQ-6MV/frederick-ethelred-selby-1911-1992)
 - [[FamilySearch - Frederick E Selby 1930 US census image]]
+- [[FamilySearch - Frederick E Selby 1940 US census image]]
 - [[Frederick E Selby was enumerated as Sarah E Staffords son in 1930]]
 - [[FamilySearch - Frederick E Selby 1953 Lenoir County marriage license image]]
 - [[Frederick E Selby 1953 marriage license identifies James B Selby as his father]]
