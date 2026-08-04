@@ -23,3 +23,5 @@ This is a census household fact, not a stated family relationship: the 1860 sche
 ## Next research action
 
 Seek the Hamilton County probate, land, and court files for Major Selby, along with an original return for the 1817 Somerset County marriage entry. The identified probate index is DGS 7664200 and the estate-order-book reel is DGS 7664201; see [[FamilySearch Catalog - Hamilton County Indiana probate records 1830-1937]]. The accessible Coventry Parish register is also a specific marriage-search target, but no relevant original entry has yet been found or read; see [[FamilySearch Catalog - Coventry Parish Somerset Maryland church records]]. These record classes are the most likely to name heirs or otherwise provide the required identity bridge.
+
+A later derivative-index lead names a Martha Selby as the mother of James A. Sparks, but it remains unmerged with this household pending an original record: [[1946 Indiana marriage index reports James A Sparks as son of Martha Selby]].
