@@ -24,6 +24,12 @@ This is an official archival index rather than the underlying administration, in
 
 The index does not name John Selby Jr.'s children, identify Leah's relationship beyond the context implied by her administrator listing, or mention Major Selby.  Although the 1782 timing makes this a useful lead for the father named in the 1785 guardianship bond, no reviewed record yet identifies John Selby Jr. as that father.  The two men must not be merged until an original estate or court record names the child or otherwise supplies a person-specific bridge.
 
+## Follow-up research location
+
+FamilySearch's catalog identifies a digitized original **Worcester County estate docket, 1743-1820**, Estate Docket T4215/C1993-1, Image Group 105017200.  Its catalog description says the docket indexes probate activity such as proof, administrator/executor names, bonds, sureties, inventories, sales, debts, and accounts.  See [catalog entry](https://www.familysearch.org/en/search/catalog/olib:2859504) and [full-text search](https://www.familysearch.org/en/search/full-text/results?q.groupName=105017200&openEdit).
+
+An exact full-text search for `"John Selby Jr"` in that image group returned no result.  That is an OCR-search result, not evidence that the indexed estate is absent: the surname, suffix, or handwriting may have been transcribed differently, and the docket is only a locator rather than the complete estate file.
+
 ## Claims supported
 
 - [[John Selby Jr 1782 Worcester estate is a lead, not identification of Major Selby's father]]

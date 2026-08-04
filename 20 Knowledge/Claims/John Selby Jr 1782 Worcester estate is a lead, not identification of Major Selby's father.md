@@ -25,4 +25,4 @@ Accordingly, this is a retrieval target, not a family-tree connection.  Do not a
 
 ## Next research action
 
-Obtain and transcribe the underlying 1782-1793 estate file: inventory, sale account, distributions, and any guardianship or balance papers.  Look specifically for named minor heirs, widow status, guardians, and releases.  Only an explicit relationship statement or an otherwise unambiguous identity chain can connect it to the 1785 orphan.
+Use the digitized [[Maryland State Archives - John Selby Jr 1782 Worcester estate index|estate-docket locator]] to identify the exact 1782 entry by visual review, then obtain and transcribe the underlying inventory, sale account, distributions, and any guardianship or balance papers.  Look specifically for named minor heirs, widow status, guardians, and releases.  Only an explicit relationship statement or an otherwise unambiguous identity chain can connect it to the 1785 orphan.
