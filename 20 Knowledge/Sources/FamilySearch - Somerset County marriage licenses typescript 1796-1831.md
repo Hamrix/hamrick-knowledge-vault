@@ -12,11 +12,16 @@ privacy: internal
 
 ## Citation
 
-*Marriage licenses of Somerset County, Md. : 1796-1831*, typescript copied by Earle Brodie Polk from the original record at Princess Anne; microfilm of the typescript held by the Maryland Historical Society, film 14417, item 5, digital group 7575976, image 72 of 90 (page 70), FamilySearch, [image viewer](https://www.familysearch.org/ark:/61903/3:1:3QS7-99XW-F9SP-R?view=fullText&lang=en), accessed 2026-08-04. Catalog description: [FamilySearch Catalog 140489](https://www.familysearch.org/en/search/catalog/koha:140489).
+*Marriage licenses of Somerset County, Md. : 1796-1831*, typescript copied by Earle Brodie Polk from the original record at Princess Anne; microfilm of the typescript held by the Maryland Historical Society, film 14417, item 5, digital group 7575976, images 72-73 of 90 (pages 70-71), FamilySearch, [image 72](https://www.familysearch.org/ark:/61903/3:1:3QS7-99XW-F9SP-R?view=fullText&lang=en) and [image 73](https://www.familysearch.org/ark:/61903/3:1:3QS7-99XW-F9SP-R?view=fullText&lang=en), accessed 2026-08-04. Catalog description: [FamilySearch Catalog 140489](https://www.familysearch.org/en/search/catalog/koha:140489).
 
 ## Record examined
 
-The reviewed typed page lists **"Nov. 29 -- Selby Major"** in its groom column for 1811 and **"Larmer Leah"** in the corresponding bride column. The catalog identifies the item as a 1949 microfilm of a typescript copied from the original record at Princess Anne.
+The reviewed typed pages list:
+
+- **"Nov. 29 -- Selby Major"** in the 1811 groom column and **"Larmer Leah"** in the corresponding bride column (image 72, page 70); and
+- **"1817 Jun. 23 -- Selby Major -- Mezick Harriet"** (image 73, page 71).
+
+The catalog identifies the item as a 1949 microfilm of a typescript copied from the original record at Princess Anne.
 
 ## Reliability and limitations
 
@@ -26,7 +31,7 @@ It does **not** establish that the 1811 groom was the Major Selby later enumerat
 
 ## Claims supported
 
-- [[Somerset County license transcriptions report Major Selby entries in 1811 and 1817]] (corroboration of the 1811 names and date only)
+- [[Somerset County license transcriptions report Major Selby entries in 1811 and 1817]] (corroboration of the reported 1811 and 1817 names and dates only)
 
 ## Next research action
 
