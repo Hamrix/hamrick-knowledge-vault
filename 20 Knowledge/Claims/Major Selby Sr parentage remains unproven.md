@@ -21,6 +21,7 @@ Major Selby Sr., recorded in the 1783 Worcester County assessment with 140 acres
 
 ## Evidence against / limits
 
+- [[FamilySearch - Major Selby 1785 Worcester guardianship estate-view image]] directly identifies a **minor** Major Selby as the orphan of John Selby. It does not identify that minor with the adult Major Selby assessed in 1783; the two entries cannot be merged merely because they share a name and county. It is therefore evidence for a distinct, still-unresolved identity question, not proof of the 1783 adult's parentage.
 - A will's omission of a person is not, by itself, proof that the omitted person was not a child or grandchild. Angelo Atkinson's will cannot by itself disprove Major as a son of John Selby and Mary Atkinson unless it expressly identifies a complete class of their children or another primary record resolves the relationship.
 - No primary document reviewed names Major as the son of John Selby and Mary Atkinson, or as the son of William Selby and Levinah Atkinson.
 - Sharing the tract name "Choice" does not establish descent or a chain of title. The patent, surveys, estate divisions, deeds, and any releases must connect Angelo's tract to Major's 140 acres.
