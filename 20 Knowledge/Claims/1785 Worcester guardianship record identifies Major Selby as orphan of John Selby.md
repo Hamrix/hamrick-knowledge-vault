@@ -24,4 +24,4 @@ The record cannot be used by itself to identify this minor Major with the separa
 
 ## Next research action
 
-Locate the original appointment or guardian bond for John Selby Esq. and Major Selby, then follow the minor's real-estate title, releases on attaining majority, marriage, deeds, and probate records. Compare those records against the later Major Selby's 1811/1817 Somerset license entries and the 1820-1860 census trail before treating the men as the same person.
+First obtain the underlying administration papers indexed for [[John Selby Jr 1782 Worcester estate is a lead, not identification of Major Selby's father|John Selby Jr.]] and test whether they name the 1785 minor. Then follow the minor's real-estate title, releases on attaining majority, marriage, deeds, and probate records. Compare those records against the later Major Selby's 1811/1817 Somerset license entries and the 1820-1860 census trail before treating the men as the same person.
