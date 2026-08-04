@@ -3,7 +3,7 @@ type: claim
 status: active
 confidence: confirmed
 privacy: internal
-last-reviewed: 2026-08-03
+last-reviewed: 2026-08-04
 ---
 
 # Frederick Payne Selby's 1884 marriage license identifies Docia Stone as his mother
@@ -21,14 +21,27 @@ Frederick Payne Selby's 1884 Orleans Parish marriage-license record identifies D
 
 The license gives direct reported parentage, and the earlier original census independently records Docia with son Payne. This verifies the bounded Docia-to-Frederick Payne relationship. It does not identify Docia Stone's parents or establish a connection to an older Selby, Stafford, colonial, medieval, or royal family.
 
-## Unresolved identity issue
+## Correlated identity conclusion
 
-An indexed 5 January 1854 Kentucky marriage record names **Benjamine Selby** and **Sophia E. Stone**, with Sophia's parents indexed as Francis Stone and Sophia Bryan ([FamilySearch record](https://www.familysearch.org/ark:/61903/1:1:F4HZ-SVP)). A separately reviewed original Shelby County license-paper sequence now confirms that Sophia Bryan gave consent on 4 January 1854 for “Col Ben Selby” to marry her daughter Sophia Stone, and that a license for Benjamin Selby and Sophia E. Stone issued on 5 January. See [[FamilySearch - Benjamin Selby and Sophia E Stone 1854 Shelby County marriage-license images]].
+The Aetheling Evidence Project now treats Docia Stone as the same correlated woman recorded elsewhere as Sophia E. Stone, Sophia Stone, Sophia Selby, Docie Stone, Docia Selby, and Dora Stone. The preferred project identity is **[[Sophia Docia Elizabeth Stone Selby]]**. See [[Sophia E Docia and Dora Stone Selby are treated as one correlated identity]].
 
-Those papers prove the Sophia Bryan-to-Sophia Stone relationship and the license transaction, but they do **not** prove that their Benjamin Selby is the Benjamin reported as Frederick Payne Selby's father in 1884. Nor do they show that Sophia E. Stone and Docia Stone were the same person. They may be two different women married to different men of the same name, two wives of one man, or a given-name variation; none of those explanations is adopted without an identity-specific bridge.
+The supporting sequence is:
 
-A reviewed 1938 death certificate for Robert C. Selby reports his parents as Benjamin Selby and **Dora Stone**, while an image-unavailable 1874 birth index for *Roberts Selby* reports Benjamin Selby and **Docie Stone**. See [[FamilySearch - Robert C Selby 1938 Kentucky death certificate image]]. The similar father, place, and near birth date make a Docie/Docia/Dora variation worth investigating, but the records' dates are not identical and neither document uses Sophia. This is not proof that Docia was Sophia E. Stone.
+- 1854 Shelby County consent and license papers naming Sophia Stone or Sophia E. Stone with Col Ben or Benjamin Selby;
+- the 1860 Oldham County household containing Benjn and Sophia Selby;
+- the indexed 1874 Roberts Selby birth entry naming Benjamin Selby and Docie Stone;
+- the 1880 Henry County household containing Ben, wife Docia, Payne, and Robert Selby;
+- Frederick Payne Selby's 1884 license naming Benjamin Selby and Docia Stone; and
+- Robert C. Selby's 1938 death certificate naming Benjamin Selby and Dora Stone.
+
+This is a project-level correlation across sources. Every source note must continue to retain its exact recorded name.
+
+## Remaining documentary limits
+
+No single reviewed document contains all of the Sophia, Docia/Docie, and Dora forms together. The 1854 license gives **Sophia E. Stone**, but the currently reviewed primary record does not spell the middle name as **Elizabeth**. The preferred full name preserves the user's project identification while the explicit Elizabeth citation remains an open source target.
+
+The 1854 papers reviewed so far also do not include a minister's return, the 1860 census does not state relationships, the 1874 birth entry remains image-unreviewed, and the 1938 parental information is informant-supplied.
 
 ## Next research action
 
-Seek a minister's return, later census, probate, or death record that correlates the 1854 license parties with the 1880 Benjamin/Docia/Payne household. Do not merge the identities unless a record names both forms or otherwise supplies an identity-specific bridge.
+Locate the 1854 minister's return or church register, review the original 1874 birth entry, and seek a probate, obituary, civil, or church record explicitly connecting the Sophia and Docia/Dora name forms or spelling out Elizabeth.
