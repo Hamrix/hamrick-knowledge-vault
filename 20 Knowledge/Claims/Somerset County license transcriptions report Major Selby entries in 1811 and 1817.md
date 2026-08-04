@@ -15,7 +15,7 @@ A reviewed transcription of Somerset County marriage-license data reports entrie
 ## Evidence supporting
 
 - [[Somerset MDGenWeb - Major Selby marriage license transcription]] records both entries and identifies the material as a transcription of clerk's marriage-license lists from LDS microfilms 0014417 and 0003602.
-- [[FamilySearch - Somerset County marriage licenses typescript 1796-1831]] is a separately reviewed image of a 1949 typescript from film 14417, item 5. Its 1811 page pairs "Selby Major" with "Larmer Leah" and gives 29 November; it corroborates the reported names and date only.
+- [[FamilySearch - Somerset County marriage licenses typescript 1796-1831]] is a separately reviewed image of a 1949 typescript from film 14417, item 5. Its 1811 page pairs "Selby Major" with "Larmer Leah" on 29 November, and its next page lists "1817 Jun. 23 -- Selby Major -- Mezick Harriet"; it corroborates the reported names and dates only.
 - [[FamilySearch - Major Selby and Harriet Mezick 1817 marriage index]] independently reports the same 1817 names and date. It is corroboration only because its underlying image was not available for review, and its displayed place fields conflict between Calvert and Worcester counties.
 
 ## Analysis and limit
