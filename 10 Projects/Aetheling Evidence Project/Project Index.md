@@ -99,6 +99,8 @@ These facts establish the historical Wessex, Plantagenet, and medieval Stafford 
 
 ## Other verified and active research areas
 
+The detailed colonial ledger is [[Colonial Selby Source Facts 1701-1790]].
+
 - [[Selby has a documented English and Scottish habitational surname origin]] — linguistic and geographic context only.
 - [[Stafford has a documented English habitational surname origin]] — linguistic and geographic context only.
 - [[Angelo Atkinson was grandfather of Sarah Selby and William Atkinson Selby, children of John Selby]] — narrowly confirmed from the reviewed 1766 will.
@@ -106,7 +108,9 @@ These facts establish the historical Wessex, Plantagenet, and medieval Stafford 
 - [[Thomas Selby who conveyed Simpleton in 1725 was grandson of its Thomas Selby patentee]] — confirmed within the reviewed deed's stated descent.
 - [[Thomas Selby of Worcester County was the father of John Selby]] — confirmed for the named will relationship.
 - [[John Selby named James Daniel and William Selby as sons in his 1790 will]] — confirmed for the named will family group.
-- [[Major Selby Sr parentage remains unproven]] — the Maryland-to-later-Selby bridge remains active research.
+- [[Major Selby was assessed for part of Choice in Worcester County in 1783]] — confirmed only as an official archival-index entry for 140 acres in Acquango Hundred.
+- [[1785 Worcester guardianship record identifies Major Selby as orphan of John Selby]] — confirmed for a minor reported about seven years old, with John Selby Esquire serving as guardian.
+- [[Major Selby Sr parentage remains unproven]] — the adult 1783 assessment entry, the minor 1785 guardianship record, and the later Kentucky/Indiana records must not be merged without an identity-specific bridge.
 - [[Etheldred Peters parentage remains unproven]] — the reviewed records establish activities and family clues but not parentage.
 
 ## Unresolved bridges and cautions
@@ -116,11 +120,13 @@ These facts establish the historical Wessex, Plantagenet, and medieval Stafford 
 - Do not infer that a Louisiana or North Carolina Stafford descends from the medieval Stafford nobility without the complete intervening chain.
 - The Maryland-to-Caswell-to-Mississippi-to-Louisiana Stafford migration remains a research hypothesis until each parent-child and migration step is supported independently.
 - The Selby, Stafford, Townsend, White, Atkinson, Schoolfield, Parker, and related gateway theories must remain separate until their specific colonial-to-English links are proved.
+- Do not merge the adult Major Selby indexed in the 1783 assessment with the minor Major Selby recorded in the 1785 guardian bond. The age and legal-status conflict requires separate identities unless a correcting or explanatory record is found.
 
 ## Core project notes
 
 - [[Vault-First Research Rules]]
 - [[Modern Selby Stafford Evidence State]]
+- [[Colonial Selby Source Facts 1701-1790]]
 - [[Source Material Inventory|Aetheling Evidence Project - Source Material Inventory]]
 - [[Wayfarers Tome Fact and Source Inventory]]
 - [[Research Lead Sweep - 2026-07-28]]
@@ -133,6 +139,9 @@ These facts establish the historical Wessex, Plantagenet, and medieval Stafford 
 - [ ] Identify James B. Selby's parents from civil, probate, census, church, or death records.
 - [ ] Identify Sarah E. Stafford/Selby's parents from marriage, death, probate, birth, or census records.
 - [ ] Build any connection between the two modern Selby families one generation at a time.
+- [ ] Retrieve the original 1783 Worcester assessment page for Major Selby and trace the 140-acre *Choice* interest through deeds, surveys, probate, and releases.
+- [ ] Follow the minor Major Selby from the 1785 guardian bond through guardian accounts, land releases, marriage, deeds, and probate before comparing him with later same-named men.
+- [ ] Continue distinguishing the Worcester County men named Thomas Selby and John Selby through original wills, deeds, and estate files.
 - [ ] Continue the Major Selby parentage and colonial Selby evidence work without using the GEDCOM as proof.
 - [ ] Keep the public Wayfarer's Tome synchronized only after the underlying vault claims and source notes are reviewed.
 
@@ -144,3 +153,4 @@ These facts establish the historical Wessex, Plantagenet, and medieval Stafford 
 - 2026-08-03 — Documented the 1854 Benjamin Selby–Sophia E. Stone license papers, the 1860 Benjamin/Sophia household, and the Docie/Docia/Dora record sequence.
 - 2026-08-03 — Documented Sarah E. Stafford with Frederick E. Selby in the 1930 New Orleans census and James B. Selby/Sarah E. Selby as Frederick's reported parents in the 1953 marriage license.
 - 2026-08-04 — Adopted the vault-first workflow, excluded the current GEDCOM unless explicitly requested, recorded **Sophia Docia Elizabeth Stone Selby** as the preferred correlated identity, preserved all source-exact name forms, and retained the missing explicit Elizabeth citation as an open research gap.
+- 2026-08-04 — Added the colonial Selby source-fact ledger for 1701–1790, incorporated the confirmed will, deed, assessment, and guardianship facts, and recorded the adult-1783 versus minor-1785 Major Selby identity conflict without merging the records.
