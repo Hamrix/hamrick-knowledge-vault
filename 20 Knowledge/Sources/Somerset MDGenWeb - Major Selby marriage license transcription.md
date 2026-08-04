@@ -24,9 +24,9 @@ The 1817 Major Selby-Harriet Mezick entry is also listed under the bride's surna
 
 ## Reliability and limitations
 
-This is a user-hosted derivative transcription, not a reviewed image of the original clerk's license list or a minister's return. Its own introductory note distinguishes license issue dates from a completed marriage ceremony. The FamilySearch marriage index independently reports the same pair and date, but it too is an index rather than a reviewed original return.
+This is a user-hosted derivative transcription, not a reviewed image of the original clerk's license list or a minister's return. Its own introductory note distinguishes license issue dates from a completed marriage ceremony. The FamilySearch marriage index independently reports the same pair and date, but it too is an index rather than a reviewed original return; its displayed place fields conflict between Calvert and Worcester counties.
 
-The agreement supports a research-grade conclusion that two derivative indexes report the same 1811 and 1817 license entries. It does not prove that either ceremony was performed, identify Major Selby's parents, establish Harriet Mezick's parentage, identify the 1817 groom with the Major Selby later in Indiana, or connect any person to Benjamin Selby, the 1783 Worcester taxpayer, or a royal line.
+The agreement supports a research-grade conclusion that two derivative indexes report the same 1811 and 1817 names and dates. The conflicting FamilySearch place extraction means that neither source can safely establish the 1817 location without the original clerk's record. They do not prove that either ceremony was performed, identify Major Selby's parents, establish Harriet Mezick's parentage, identify the 1817 groom with the Major Selby later in Indiana, or connect any person to Benjamin Selby, the 1783 Worcester taxpayer, or a royal line.
 
 ## Claims supported
 
