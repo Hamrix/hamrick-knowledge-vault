@@ -1,9 +1,9 @@
 ---
 type: claim
 status: active
-confidence: tentative
+confidence: weak
 privacy: internal
-last-reviewed: 2026-07-28
+last-reviewed: 2026-08-08
 ---
 
 # Major Selby Sr.'s parents remain unproven
@@ -32,6 +32,8 @@ Major Selby Sr., recorded in the 1783 Worcester County assessment with 140 acres
 ## Conflicts
 
 Some compiled family trees identify William Selby and Levinah Atkinson as Major's parents. That conclusion is presently a hypothesis, not a documented parent-child relationship.
+
+Release 0.9 adds an adult Major Selby purchasing Bourbon County land in 1811, two uncorrelated Nicholas County census pages in 1820, and direct proof that Major was Polly Selby's father in 1825. None names Major's parents. See [[Early records naming Major Selby cannot yet be merged into one man]] and [[William Atkinson Selby to Major Selby remains unproven]].
 
 ## Analysis
 

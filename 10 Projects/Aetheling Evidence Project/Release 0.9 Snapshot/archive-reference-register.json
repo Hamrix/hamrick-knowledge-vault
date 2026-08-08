@@ -1,0 +1,315 @@
+[
+  {
+    "id": "ARC-06B46C53F651",
+    "repository": "DPRI",
+    "reference": "DPRI/2/23",
+    "verification": "official_catalogue_mismatch",
+    "mentions": [
+      {
+        "source": "Aethelred Master Outline.pdf",
+        "locator": "page 1"
+      }
+    ],
+    "flags": [
+      "wrong_record_type",
+      "wrong_date_range"
+    ],
+    "verified_note": "Durham's official probate catalogue identifies DPRI/2/23 as will register 23, dated 1774-1775. It is not a 1703 manorial court roll and cannot support the described Selby v Ogle proceeding.",
+    "official_source_url": "https://collections.durham.ac.uk/schmit/ark%3A/32150/s13t945q763.pdf",
+    "checked_on": "2026-07-29"
+  },
+  {
+    "id": "ARC-DUR-BIII2",
+    "repository": "Durham University Library Archives and Special Collections",
+    "reference": "Palatinate MSS B.III.2, folio 14v",
+    "verification": "official_catalogue_not_located",
+    "mentions": [
+      {
+        "source": "Selby_Manor_Evidence_Bundle_vFinal.pdf",
+        "locator": "pages 1-2, 8, 10"
+      }
+    ],
+    "flags": [
+      "unsigned_certification",
+      "repository_confirmation_required"
+    ],
+    "verified_note": "The corpus supplies only its own transcript/certification block. No repository-supplied image, signature, or exact official catalogue record has been produced.",
+    "official_source_url": "https://dur.ac.uk/things-to-do/venues/historic-libraries-at-palace-green/using-the-collections/",
+    "checked_on": "2026-07-29"
+  },
+  {
+    "id": "ARC-82DE228C75BF",
+    "repository": "GRO",
+    "reference": "GRO (England",
+    "verification": "not_a_usable_archive_reference",
+    "mentions": [
+      {
+        "source": "Selby_Manor_Evidence_Bundle_vFinal.pdf",
+        "locator": "page 1"
+      }
+    ],
+    "flags": [
+      "machine_extraction_fragment"
+    ],
+    "verified_note": "This is a broken text fragment from a dossier table, not a complete GRO index reference."
+  },
+  {
+    "id": "ARC-A98702D488E2",
+    "repository": "GRO",
+    "reference": "GRO Birth Index 9d/821 (Selby, Yorks)",
+    "verification": "incomplete_index_reference",
+    "mentions": [
+      {
+        "source": "Annotated Pedigree Summary (1).pdf",
+        "locator": "page 1"
+      },
+      {
+        "source": "Selby_Manor_Evidence_Bundle_vFinal.pdf",
+        "locator": "page 6"
+      },
+      {
+        "source": "Selby_Manor_Evidence_Bundle_vFinal.pdf",
+        "locator": "page 10"
+      }
+    ],
+    "flags": [
+      "year_quarter_district_required"
+    ],
+    "verified_note": "Volume and page alone are not a complete GRO reference. A year, quarter, registration district, name, and matching index result are required before ordering.",
+    "official_source_url": "https://www.gov.uk/research-family-history"
+  },
+  {
+    "id": "ARC-6BA3F5CA24DA",
+    "repository": "GRO",
+    "reference": "GRO PDF pp",
+    "verification": "not_a_usable_archive_reference",
+    "mentions": [
+      {
+        "source": "Selby_Manor_Evidence_Bundle_vFinal.pdf",
+        "locator": "page 8"
+      }
+    ],
+    "flags": [
+      "machine_extraction_fragment"
+    ],
+    "verified_note": "This is a broken text fragment from a dossier table, not a complete GRO index reference."
+  },
+  {
+    "id": "ARC-HE-1316283",
+    "repository": "Historic England",
+    "reference": "List Entry No. 1316283",
+    "verification": "official_catalogue_verified",
+    "mentions": [],
+    "flags": [
+      "corrected_reference"
+    ],
+    "verified_note": "Official entry for The White House, Old Hull Road, Cliffe; Grade II, listed 10 April 1986."
+  },
+  {
+    "id": "ARC-E39F5113ABDD",
+    "repository": "Historic England",
+    "reference": "List Entry No. 1316447",
+    "verification": "official_catalogue_mismatch",
+    "mentions": [
+      {
+        "source": "Head of Partnerships & Community En.txt",
+        "locator": "whole file"
+      }
+    ],
+    "flags": [
+      "correct_entry_1316283",
+      "wrong_property"
+    ],
+    "verified_note": "Official entry 1316447 is Reighton Hall, not The White House at Cliffe."
+  },
+  {
+    "id": "ARC-2E8346D333EE",
+    "repository": "Land Registry",
+    "reference": "NYK12345",
+    "verification": "likely_placeholder_no_official_copy",
+    "mentions": [
+      {
+        "source": "Head of Partnerships & Community En.txt",
+        "locator": "whole file"
+      },
+      {
+        "source": "Selby_Manor_Evidence_Bundle_vFinal.pdf",
+        "locator": "page 1"
+      },
+      {
+        "source": "Selby_Manor_Evidence_Bundle_vFinal.pdf",
+        "locator": "page 3"
+      },
+      {
+        "source": "Selby_Manor_Evidence_Bundle_vFinal.pdf",
+        "locator": "page 5"
+      },
+      {
+        "source": "Selby_Manor_Evidence_Bundle_vFinal.pdf",
+        "locator": "page 8"
+      },
+      {
+        "source": "Selby_Manor_Evidence_Bundle_vFinal.pdf",
+        "locator": "page 9"
+      },
+      {
+        "source": "Selby_Manor_Evidence_Bundle_vFinal.pdf",
+        "locator": "page 10"
+      },
+      {
+        "source": "Selby_Manor_Evidence_Bundle_vFinal.pdf",
+        "locator": "page 13"
+      },
+      {
+        "source": "Selby_Manor_Whitehouse_Claim_Dossier.docx",
+        "locator": "paragraph 7"
+      },
+      {
+        "source": "Selby_Manor_Whitehouse_Claim_Dossier.docx",
+        "locator": "paragraph 11"
+      },
+      {
+        "source": "Whitehouse-steward-selby Lineage Backup 21 June 2025.pdf",
+        "locator": "page 4"
+      }
+    ],
+    "flags": [
+      "likely_placeholder"
+    ]
+  },
+  {
+    "id": "ARC-299DF24009D8",
+    "repository": "Land Registry",
+    "reference": "YK226948",
+    "verification": "official_copy_required",
+    "mentions": [
+      {
+        "source": "Whitehouse-steward-selby Lineage Backup 21 June 2025.pdf",
+        "locator": "page 3"
+      }
+    ],
+    "flags": [
+      "property_link_unverified"
+    ],
+    "official_source_url": "https://www.gov.uk/get-information-about-property-and-land/search-the-register"
+  },
+  {
+    "id": "ARC-A9C325CE50C6",
+    "repository": "Land Registry",
+    "reference": "YK382751",
+    "verification": "official_copy_required",
+    "mentions": [
+      {
+        "source": "Whitehouse-steward-selby Lineage Backup 21 June 2025.pdf",
+        "locator": "page 3"
+      }
+    ],
+    "flags": [
+      "property_link_unverified"
+    ],
+    "official_source_url": "https://www.gov.uk/get-information-about-property-and-land/search-the-register"
+  },
+  {
+    "id": "ARC-MDR-1843SEL",
+    "repository": "The National Archives, Manorial Documents Register",
+    "reference": "1843/SEL/12-19",
+    "verification": "unconfirmed_reference",
+    "mentions": [
+      {
+        "source": "Whitehouse-steward-selby Lineage Backup 21 June 2025.pdf",
+        "locator": "page 3"
+      }
+    ],
+    "flags": [
+      "potential_placeholder",
+      "exact_mdr_entry_required"
+    ],
+    "verified_note": "No exact official MDR entry has been preserved. The reference remains a lead, not evidence of a manor or surviving documents.",
+    "official_source_url": "https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/manorial-documents-lordships-how-to-use-manorial-document-register/",
+    "checked_on": "2026-07-29"
+  },
+  {
+    "id": "ARC-AE484C0DA766",
+    "repository": "TNA",
+    "reference": "C 135/117/4",
+    "verification": "exact_item_relevance_unverified",
+    "mentions": [
+      {
+        "source": "Aethelred Master Outline.pdf",
+        "locator": "page 1"
+      }
+    ],
+    "flags": [
+      "complete_catalogue_capture_and_copy_required"
+    ]
+  },
+  {
+    "id": "ARC-68A9689990A7",
+    "repository": "TNA",
+    "reference": "E 179/216/493",
+    "verification": "official_database_no_match",
+    "mentions": [
+      {
+        "source": "Aethelred Master Outline.pdf",
+        "locator": "page 1"
+      },
+      {
+        "source": "Selby_Manor_Evidence_Bundle_vFinal.pdf",
+        "locator": "page 1"
+      },
+      {
+        "source": "Selby_Manor_Evidence_Bundle_vFinal.pdf",
+        "locator": "page 5"
+      },
+      {
+        "source": "Selby_Manor_Evidence_Bundle_vFinal.pdf",
+        "locator": "page 8"
+      },
+      {
+        "source": "Selby_Manor_Evidence_Bundle_vFinal.pdf",
+        "locator": "page 13"
+      }
+    ],
+    "flags": [
+      "duplicate_spelling_normalized",
+      "exact_reference_not_found"
+    ],
+    "verified_note": "A direct lookup for 216/493 in The National Archives' official E 179 database returned no record. Treat the citation as invalid or mistyped until TNA supplies a corrected reference.",
+    "official_source_url": "https://www.nationalarchives.gov.uk/E179/default.asp",
+    "checked_on": "2026-07-29"
+  },
+  {
+    "id": "ARC-21E23757AA5F",
+    "repository": "TNA",
+    "reference": "E 372/3",
+    "verification": "exact_item_relevance_unverified",
+    "mentions": [
+      {
+        "source": "Last Aetheling Harmonised Portfolio June2025.docx",
+        "locator": "paragraph 7"
+      },
+      {
+        "source": "Last Aetheling Harmonised Portfolio June2025.docx",
+        "locator": "paragraph 38"
+      }
+    ],
+    "flags": [
+      "complete_catalogue_capture_and_copy_required"
+    ]
+  },
+  {
+    "id": "ARC-86A3041709CB",
+    "repository": "TNA",
+    "reference": "PROB 11/794",
+    "verification": "exact_item_relevance_unverified",
+    "mentions": [
+      {
+        "source": "Last Aetheling Harmonised Portfolio June2025.docx",
+        "locator": "paragraph 11"
+      }
+    ],
+    "flags": [
+      "complete_catalogue_capture_and_copy_required"
+    ]
+  }
+]

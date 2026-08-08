@@ -1,0 +1,114 @@
+[
+  {
+    "id": "ROUTE-001",
+    "repository": "Louisiana Secretary of State, Louisiana State Archives",
+    "record_scope": "Orleans Parish marriage records, including 1884",
+    "url": "https://vitalrecords.sos.la.gov/Marriages/DataView.aspx?pid=36",
+    "route_status": "official_access_route_verified",
+    "scope_note": "The official search provides access to microfilmed Orleans Parish marriage records. It does not independently verify the reported book and folio until the specific entry is retrieved."
+  },
+  {
+    "id": "ROUTE-002",
+    "repository": "Kentucky Department for Libraries and Archives",
+    "record_scope": "Death certificates 1911-1967 and probate/will research requests",
+    "url": "https://kdla.ky.gov/Archives-and-Reference/Pages/Records-Requests.aspx",
+    "route_status": "official_access_route_verified",
+    "scope_note": "KDLA lists death and probate/will request routes. A request or on-site inspection is still required for the specific record."
+  },
+  {
+    "id": "ROUTE-003",
+    "repository": "US National Archives and Records Administration",
+    "record_scope": "1910 federal population census schedules",
+    "url": "https://www.archives.gov/research/census/1910",
+    "route_status": "official_research_route",
+    "scope_note": "Repository-level route; the exact Lawrenceburg enumeration citation remains to be accessioned."
+  },
+  {
+    "id": "ROUTE-004",
+    "repository": "State Archives of North Carolina",
+    "record_scope": "County government, estate, probate, and tax records",
+    "url": "https://archives.ncdcr.gov/researchers/collections/government-records",
+    "route_status": "official_access_route_verified",
+    "scope_note": "Repository-level holdings route; the cited Swift Creek image and 1788 estate file must be requested and accessioned separately."
+  },
+  {
+    "id": "ROUTE-005",
+    "repository": "Maryland State Archives",
+    "record_scope": "1783 Worcester County Assessment, Acquango Hundred",
+    "url": "https://www.msa.maryland.gov/msa/stagser/s1400/s1437/html/1437wo.html",
+    "route_status": "official_record_page_verified",
+    "scope_note": "Official transcription/index context; preserve exact page context and do not merge the adult taxpayer with a person reportedly born in 1783."
+  },
+  {
+    "id": "ROUTE-006",
+    "repository": "Historic England",
+    "record_scope": "List entry 1316447, Reighton Hall",
+    "url": "https://historicengland.org.uk/listing/the-list/list-entry/1316447",
+    "route_status": "official_catalogue_record_verified",
+    "scope_note": "This official record disproves the corpus's use of 1316447 for The White House in Cliffe."
+  },
+  {
+    "id": "ROUTE-007",
+    "repository": "Historic England",
+    "record_scope": "List entry 1316283, The White House, Old Hull Road, Cliffe",
+    "url": "https://historicengland.org.uk/listing/the-list/list-entry/1316283",
+    "route_status": "official_catalogue_record_verified",
+    "scope_note": "Architectural list identification only; it does not prove project ownership, descent, lordship, or manorial rights."
+  },
+  {
+    "id": "ROUTE-008",
+    "repository": "Durham University Library Archives and Special Collections",
+    "record_scope": "Durham probate records and search-room access",
+    "url": "https://dur.ac.uk/things-to-do/venues/historic-libraries-at-palace-green/using-the-collections/",
+    "route_status": "official_access_route_verified",
+    "scope_note": "Durham asks researchers to identify full shelfmarks and book an appointment. Specific dossier citations remain unverified until the corresponding descriptions and images are obtained."
+  },
+  {
+    "id": "ROUTE-009",
+    "repository": "The National Archives (UK)",
+    "record_scope": "E 179 taxation records and manorial research",
+    "url": "https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/taxation-before-1689/",
+    "route_status": "official_research_route_verified",
+    "scope_note": "The guide establishes the correct series context and E 179 database route; it does not validate the project's exact piece citation."
+  },
+  {
+    "id": "ROUTE-010",
+    "repository": "HM Land Registry",
+    "record_scope": "Title registers, title plans, official copies, and historical title registers",
+    "url": "https://www.gov.uk/get-information-about-property-and-land/search-the-register",
+    "route_status": "official_access_route_verified",
+    "scope_note": "Online copies are informational; official copies are required where proof of ownership is needed. A title register concerns registered land and must not be conflated with an unregistered lordship title."
+  },
+  {
+    "id": "ROUTE-011",
+    "repository": "HM Land Registry",
+    "record_scope": "Lordship titles, manorial land, and manorial rights",
+    "url": "https://www.gov.uk/government/publications/manors/practice-guide-22-manors",
+    "route_status": "official_legal_guidance_verified",
+    "scope_note": "The guidance treats lordship, land, and rights as separate elements and notes that first registration of a lordship title has not been possible since 13 October 2003."
+  },
+  {
+    "id": "ROUTE-012",
+    "repository": "The National Archives (UK)",
+    "record_scope": "Manorial Documents Register",
+    "url": "https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/manorial-documents-lordships-how-to-use-manorial-document-register/",
+    "route_status": "official_research_route_verified",
+    "scope_note": "The MDR locates manorial documents; it is not a register of title to lordships and does not establish present ownership or rights."
+  },
+  {
+    "id": "ROUTE-013",
+    "repository": "General Register Office for England and Wales",
+    "record_scope": "Historical civil-registration indexes and certificate orders",
+    "url": "https://www.gov.uk/research-family-history",
+    "route_status": "official_access_route_verified",
+    "scope_note": "A complete index result requires the event year/quarter, registration district, volume, and page. The route does not verify the dossier's incomplete 9d/821 fragment."
+  },
+  {
+    "id": "ROUTE-014",
+    "repository": "The National Archives E 179 database",
+    "record_scope": "Direct reference and contextual searches for medieval and early-modern taxation records",
+    "url": "https://www.nationalarchives.gov.uk/E179/default.asp",
+    "route_status": "official_database_verified",
+    "scope_note": "The official database returned no direct match for 216/493 on 29 July 2026. Search by place, tax, date, and document type or obtain staff correction."
+  }
+]

@@ -27,7 +27,7 @@ An indexed 5 January 1854 Kentucky marriage record names **Benjamine Selby** and
 
 Those papers prove the Sophia Bryan-to-Sophia Stone relationship and the license transaction, but they do **not** prove that their Benjamin Selby is the Benjamin reported as Frederick Payne Selby's father in 1884. Nor do they show that Sophia E. Stone and Docia Stone were the same person. They may be two different women married to different men of the same name, two wives of one man, or a given-name variation; none of those explanations is adopted without an identity-specific bridge.
 
-A reviewed 1938 death certificate for Robert C. Selby reports his parents as Benjamin Selby and **Dora Stone**, while an image-unavailable 1874 birth index for *Roberts Selby* reports Benjamin Selby and **Docie Stone**. See [[FamilySearch - Robert C Selby 1938 Kentucky death certificate image]]. The similar father, place, and near birth date make a Docie/Docia/Dora variation worth investigating, but the records' dates are not identical and neither document uses Sophia. This is not proof that Docia was Sophia E. Stone.
+A re-reviewed 1938 death certificate for Robert C. Selby reports his parents as Benjamin Selby and handwritten **Docie/Docia Stone**; the FamilySearch index's **Dora Stone** rendering is not supported by the original. An image-unavailable 1874 birth index for *Roberts Selby* also reports Benjamin Selby and **Docie Stone**. See [[FamilySearch - Robert C Selby 1938 Kentucky death certificate image]]. The similar father, place, and near birth date strengthen the identity lead, but the dates are not identical and neither document uses Sophia. This is not proof that Docia was Sophia E. Stone.
 
 ## Next research action
 

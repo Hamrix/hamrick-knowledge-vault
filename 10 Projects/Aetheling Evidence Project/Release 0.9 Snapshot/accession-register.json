@@ -1,0 +1,352 @@
+[
+  {
+    "id": "ACC-001",
+    "record": "1884 Orleans Parish marriage register entry for Frederick Payne Selby and Elizabeth Dolan",
+    "claim_anchor": "CLM-0029",
+    "local_status": "described_not_accessioned",
+    "custodian": "Louisiana Secretary of State, Louisiana State Archives",
+    "expected_locator": "Orleans Parish marriage records, reportedly Book 19, folio 168",
+    "finding": "The immutable corpus contains a modern description, but no standalone archival image or certified copy with its own hash.",
+    "next_action": "Search the official marriage index, request the register image, preserve the delivered filename and receipt, hash it, and cite the page or folio exactly.",
+    "route_ids": [
+      "ROUTE-001"
+    ],
+    "publication": "metadata_only_until_accessioned_and_reviewed"
+  },
+  {
+    "id": "ACC-002",
+    "record": "1938 Kentucky death certificate used in the recent Selby chain",
+    "claim_anchor": "CLM-0030",
+    "local_status": "original_image_accessioned_hashed",
+    "custodian": "Kentucky Department for Libraries and Archives / FamilySearch digital image",
+    "expected_locator": "Robert C. Selby death certificate, Jefferson County, 13 March 1938; registered no. 7736; FamilySearch image 3Q9M-C9YK-Z9VM-7",
+    "finding": "The original certificate is preserved as acquisitions/official/familysearch/3Q9M-C9YK-Z9VM-7/3Q9M-C9YK-Z9VM-7.jpg (1,052,001 bytes; SHA-256 9D946641123D679CE0D5EF89063D93183DA0D1E3145D8DF96EFB221CC9AE3217). It names Robert's father as Benjamin Selby and his mother as Docie or Docia Stone. The FamilySearch index reading 'Dora Stone' is contradicted by the image and by the 1874 birth index.",
+    "next_action": "Obtain the KDLA archival citation and reconcile the certificate number; correlate the informant, Sallie Selby, and the parent-name statement with Robert's birth, marriage, census, obituary, and cemetery records.",
+    "route_ids": [
+      "ROUTE-002"
+    ],
+    "publication": "public_metadata_and_transcription_pending_image_rights"
+  },
+  {
+    "id": "ACC-003",
+    "record": "1910 Lawrenceburg household schedule used for Benjamin Selby identity analysis",
+    "claim_anchor": "CLM-0031",
+    "local_status": "described_not_accessioned",
+    "custodian": "US National Archives and Records Administration",
+    "expected_locator": "1910 United States census, Lawrenceburg, Kentucky; enumeration identifiers not yet reconciled",
+    "finding": "No standalone census schedule image or full archival citation exists in the immutable source directory.",
+    "next_action": "Capture the full schedule image and NARA citation, including state, county, enumeration district, sheet, dwelling, family, publication, and roll.",
+    "route_ids": [
+      "ROUTE-003"
+    ],
+    "publication": "redacted_excerpt_only_after_accession_review"
+  },
+  {
+    "id": "ACC-004",
+    "record": "1786 Swift Creek tax list entry for Etheldred Peters and son John",
+    "claim_anchor": "CLM-0034",
+    "local_status": "review_described_copy_missing",
+    "custodian": "State Archives of North Carolina",
+    "expected_locator": "Treasurer's and Comptroller's Papers, Craven County, Box 9, 1786 Swift Creek tax list",
+    "finding": "The July audit records direct image review, but that image is not present as an immutable accession in the current corpus.",
+    "next_action": "Add the reviewed image or repository copy, record the exact archival hierarchy and image/page number, then hash it without changing the original filename.",
+    "route_ids": [
+      "ROUTE-004"
+    ],
+    "publication": "metadata_only_until_accessioned"
+  },
+  {
+    "id": "ACC-005",
+    "record": "1783 Worcester County assessment entry for Major Selby and 140 acres of Choice",
+    "claim_anchor": "CLM-0036",
+    "local_status": "review_described_copy_missing",
+    "custodian": "Maryland State Archives",
+    "expected_locator": "1783 Worcester County Assessment, Acquango Hundred",
+    "finding": "An official online reference was reviewed, but a preserved local copy and capture metadata are absent from the immutable corpus.",
+    "next_action": "Preserve a rights-compliant capture or citation package with access date, page context, and hash.",
+    "route_ids": [
+      "ROUTE-005"
+    ],
+    "publication": "official_link_and_transcription_only"
+  },
+  {
+    "id": "ACC-006",
+    "record": "Historic England list entry cited for The White House, Old Hull Road, Cliffe",
+    "claim_anchor": "CLM-0038",
+    "local_status": "official_catalogue_mismatch",
+    "custodian": "Historic England",
+    "expected_locator": "The White House, list entry 1316283",
+    "finding": "The corpus cites 1316447, but the official list identifies that number as Reighton Hall. The official White House entry is 1316283.",
+    "next_action": "Correct the project citation to 1316283. Treat the list entry as architectural identification only; obtain deeds and title records separately for ownership or manorial propositions.",
+    "route_ids": [
+      "ROUTE-006",
+      "ROUTE-007"
+    ],
+    "publication": "public_correction"
+  },
+  {
+    "id": "ACC-007",
+    "record": "Purported 1703 Durham Palatinate transcript, shelfmark B.III.2",
+    "claim_anchor": null,
+    "local_status": "unsigned_transcription_unverified",
+    "custodian": "Repository identity to be confirmed with Durham University Library Archives and Special Collections",
+    "expected_locator": "Palatinate MSS B.III.2, as stated in the project dossier",
+    "finding": "The dossier presents a certification block with no archivist name, signature, or certification date and includes no repository-supplied image.",
+    "next_action": "Ask Durham staff to confirm the collection, shelfmark, document identity, and wording; obtain a complete image or official reproduction and provenance documentation.",
+    "route_ids": [
+      "ROUTE-008"
+    ],
+    "publication": "do_not_present_as_certified"
+  },
+  {
+    "id": "ACC-008",
+    "record": "The National Archives taxation reference E 179/216/493",
+    "claim_anchor": null,
+    "local_status": "official_database_no_match_copy_missing",
+    "custodian": "The National Archives (UK)",
+    "expected_locator": "E 179/216/493",
+    "finding": "The official E 179 database returned no direct match for 216/493. The repeated dossier citation is therefore invalid or mistyped unless TNA supplies a correction; no order receipt or record image is present.",
+    "next_action": "Search the E 179 database by place, tax, date, and document type; ask TNA to reconcile the claimed request identifier; accession only the corrected catalogue record and complete image.",
+    "route_ids": [
+      "ROUTE-009",
+      "ROUTE-014"
+    ],
+    "publication": "public_citation_warning"
+  },
+  {
+    "id": "ACC-009",
+    "record": "HM Land Registry title number NYK12345",
+    "claim_anchor": "CLM-0009",
+    "local_status": "likely_placeholder_no_official_copy",
+    "custodian": "HM Land Registry",
+    "expected_locator": "Unknown; the project text states that a title is to be created",
+    "finding": "The number is repeated in draft-derived material, but no title register, title plan, official copy, or filing receipt is present.",
+    "next_action": "Do not use this number as evidence. Search the register or index map for the exact parcel and retain the official result or receipt.",
+    "route_ids": [
+      "ROUTE-010",
+      "ROUTE-011"
+    ],
+    "publication": "public_placeholder_warning"
+  },
+  {
+    "id": "ACC-010",
+    "record": "HM Land Registry title numbers YK226948 and YK382751",
+    "claim_anchor": null,
+    "local_status": "references_unverified_no_official_copies",
+    "custodian": "HM Land Registry",
+    "expected_locator": "YK226948; YK382751",
+    "finding": "The numbers occur in one project PDF, but the corpus contains no official registers or plans linking them to the claimed property.",
+    "next_action": "Order current official copies and plans, verify the property description and tenure, and keep ownership analysis separate from any lordship title or manorial rights analysis.",
+    "route_ids": [
+      "ROUTE-010",
+      "ROUTE-011"
+    ],
+    "publication": "reference_leads_only"
+  },
+  {
+    "id": "ACC-011",
+    "record": "Durham probate reference DPRI/2/23",
+    "claim_anchor": null,
+    "local_status": "official_catalogue_mismatch",
+    "custodian": "Durham University Library Archives and Special Collections",
+    "expected_locator": "DPRI/2/23 (roman I), a pre-1858 Durham probate will-register reference",
+    "finding": "Durham's official catalogue identifies DPRI/2/23 as will register 23, dated 1774-1775. It cannot be the 1703 Selby v Ogle manorial court roll described in the project outline.",
+    "next_action": "Retire DPRI/2/23 from the 1703 court-roll claim. Ask Durham staff to confirm or reject the separate Palatinate MSS B.III.2, folio 14v citation and obtain a complete repository copy.",
+    "route_ids": [
+      "ROUTE-008"
+    ],
+    "publication": "public_correction"
+  },
+  {
+    "id": "ACC-012",
+    "record": "Angelo Atkinson will, Maryland Prerogative Court, Liber 34, folio 156",
+    "claim_anchor": "CLM-0042",
+    "local_status": "official_volume_accessioned_hashed",
+    "custodian": "Maryland State Archives",
+    "expected_locator": "MSA S538-50; Liber 34; folio 156; PDF page 158",
+    "finding": "The complete official will volume is preserved as acquisitions/official/maryland-state-archives/msa_s538_000050.pdf (89,143,054 bytes; SHA-256 679C9B3E01BC65D6A46C8933FD2E65E341EEE40FB903E19A83CB1DA4C5D0C7AC). The indexed testator is also preserved in mdsa_s539_1.pdf (SHA-256 622502973D14E554A0F8FFD8046D64E836C2C5B87F71745ED6E1A1F9AEC09198).",
+    "next_action": "Obtain the probate packet, inventory, administration accounts, and any related deeds; create a diplomatic transcription reviewed by a second reader.",
+    "route_ids": [],
+    "publication": "public_metadata_and_short_transcription_only_pending_rights_review"
+  },
+  {
+    "id": "ACC-013",
+    "record": "1929 Headen family Bible transcript and Selby lineage notes",
+    "claim_anchor": "CLM-0044",
+    "local_status": "secondary_source_accessioned_hashed",
+    "custodian": "FamilySearch digital collection / original publication custodian to identify",
+    "expected_locator": "G006169.pdf, pages 13 and 15",
+    "finding": "The secondary PDF is preserved as acquisitions/secondary/G006169.pdf (1,770,307 bytes; SHA-256 0690212592D12B114BF80A747E16732CFE6F0404140C0F1B85484FD5CB6DEC15). It gives the 1782 marriage from a Bible transcript and labels the exact 1809 death as tradition.",
+    "next_action": "Identify the Bible's present custodian; image its title page, publication data, full family-register pages, binding, handwriting, and provenance; then search independent church and civil substitutes.",
+    "route_ids": [],
+    "publication": "public_citation_and_paraphrase_only"
+  },
+  {
+    "id": "ACC-014",
+    "record": "Worcester County estate index used for the 1809 William Atkinson Selby test",
+    "claim_anchor": "CLM-0046",
+    "local_status": "official_index_accessioned_hashed_negative_search",
+    "custodian": "Maryland State Archives",
+    "expected_locator": "MDSA C2517-1",
+    "finding": "The official index is preserved as acquisitions/official/maryland-state-archives/mdsa_c2517_1.pdf (13,556,883 bytes; SHA-256 8AF33F822328CB905A02D2F1C7F154282409F911A28F57799F6198C89C14D85D). No matching 1809 William Atkinson Selby estate entry was found. This is a scoped negative result, not proof that he did not die then.",
+    "next_action": "Search adjacent estate series, inventories, administration bonds, accounts, guardian records, land records, court minutes, newspapers, and Bourbon County records from 1808 through 1812.",
+    "route_ids": [],
+    "publication": "public_negative-search-method_and_locator"
+  },
+  {
+    "id": "ACC-015",
+    "record": "Bourbon County order binding out Rhody Selby, infant orphan of W. A. Selby deceased",
+    "claim_anchor": "CLM-0047",
+    "local_status": "original_image_accessioned_hashed",
+    "custodian": "Bourbon County Clerk / FamilySearch digital image",
+    "expected_locator": "Order dated 7 January 1811; FamilySearch image 3Q9M-CSLX-V5KP",
+    "finding": "The original image is preserved as acquisitions/official/familysearch/3Q9M-CSLX-V5KP/image.jpg (1,019,836 bytes; SHA-256 9FD7124D128DC89F261F4C3A74797755EB6FC2D2FF0A19B6C703C60C05DFA574). It directly identifies Rhody as William's infant orphan and gives an age benchmark.",
+    "next_action": "Identify the exact volume and page, obtain the adjacent orders and any later apprenticeship, guardianship, freedom, marriage, probate, or land records for Rhody.",
+    "route_ids": [],
+    "publication": "public_metadata_and_transcription_pending_image_rights"
+  },
+  {
+    "id": "ACC-016",
+    "record": "Benjamin Selby and Sophia E. Stone marriage record, 5 January 1854",
+    "claim_anchor": "CLM-0050",
+    "local_status": "original_image_accessioned_hashed",
+    "custodian": "Shelby County Clerk / FamilySearch digital image",
+    "expected_locator": "Shelby County, Kentucky; FamilySearch image 3QSQ-G937-27DK",
+    "finding": "The original Shelby County marriage-certificate image is preserved as acquisitions/official/familysearch/3QSQ-G937-27DK/image.jpg (1,185,139 bytes; SHA-256 6131C877B3C0732B586D279A7FBFE2C845E468B114C806C15B008343E2EAD1F9). It states Benjamin's age, Frankfort residence and Henry County birthplace and Sophia's age, Shelby County residence and Mississippi birthplace.",
+    "next_action": "Obtain the complete bond, consent, return, and register context and search for Benjamin's birth, apprenticeship, guardianship, obituary, death, probate, and bar-admission records.",
+    "route_ids": [],
+    "publication": "public_metadata_and_transcription_pending_image_rights"
+  },
+  {
+    "id": "ACC-017",
+    "record": "1880 United States census, Benjamin Selby household",
+    "claim_anchor": "CLM-0051",
+    "local_status": "original_image_accessioned_hashed",
+    "custodian": "U.S. National Archives / FamilySearch digital image",
+    "expected_locator": "FamilySearch image 33S7-9YBH-9LC",
+    "finding": "The census image is preserved as acquisitions/official/familysearch/33S7-9YBH-9LC/33S7-9YBH-9LC.jpg (1,948,278 bytes; SHA-256 5F3731ACA86630017D24C52E41D413689D18294A3E4A519817233C31BA62EAFF). It places Payne, age 18, in Ben and Docia Selby's household and records Kentucky as the parents' reported birthplaces.",
+    "next_action": "Capture the full archival census citation and correlate the household with 1850, 1860, 1870, marriage, death, probate, city-directory, newspaper, and cemetery records.",
+    "route_ids": [],
+    "publication": "public_citation_and_transcription"
+  },
+  {
+    "id": "ACC-018",
+    "record": "William Antrobus and Polly Selby marriage authorization and bond, 16 August 1825",
+    "claim_anchor": "CLM-0057",
+    "local_status": "two_original_images_accessioned_hashed",
+    "custodian": "Nicholas County Clerk / FamilySearch digital images",
+    "expected_locator": "Nicholas County, Kentucky; images 33SQ-G1GN-YWN and 33S7-L1GN-P78",
+    "finding": "The authorization is preserved at acquisitions/official/familysearch/33SQ-G1GN-YWN/33SQ-G1GN-YWN.jpg (541,311 bytes; SHA-256 F9179289BAA0F9572E1569A9AE541F603ED4E2D83AA553E65A57C1454FD1A3AF). The bond is preserved at acquisitions/official/familysearch/33S7-L1GN-P78/33S7-L1GN-P78.jpg (557,257 bytes; SHA-256 3888B160EB2A6C2F7618895731E685ACABB44F95FFB32316D3931DEA3D3CC18E). Both name Polly as Major Selby's daughter.",
+    "next_action": "Obtain the minister's return and register entry; correlate Polly, Major, witnesses, bondsmen, and neighbors in Nicholas tax, deed, probate, and census records.",
+    "route_ids": [],
+    "publication": "public_metadata_and_transcription_pending_image_rights"
+  },
+  {
+    "id": "ACC-019",
+    "record": "1820 Nicholas County census entries indexed for Major Selby",
+    "claim_anchor": "CLM-0062",
+    "local_status": "two_original_images_accessioned_hashed",
+    "custodian": "U.S. National Archives / FamilySearch digital images",
+    "expected_locator": "Nicholas County pages 111 and 129; FamilySearch images 33S7-9YYJ-TY9 and 33SQ-GYYJ-BZS",
+    "finding": "Page 111 is preserved as acquisitions/official/familysearch/33S7-9YYJ-TY9/33S7-9YYJ-TY9.jpg (833,132 bytes; SHA-256 7D882FBEA5D1AFB644A4BBC7CAD7BA93A3B40CF063D47CF0D49A2B1D9BA484A6). Page 129 is preserved as acquisitions/official/familysearch/33SQ-GYYJ-BZS/33SQ-GYYJ-BZS.jpg (736,855 bytes; SHA-256 25DB0F923197EB23E25FFE0BCCC1AAF462844182771346AC5B2FC44AA17234D4). Both distinct page images are now available, but the two Major Selby index entries remain uncorrelated.",
+    "next_action": "Create diplomatic row transcriptions for both entries, then compare household tick marks, neighbors, tax districts, deeds, and later censuses before deciding whether the records represent two men, duplicate enumeration, or an index error.",
+    "route_ids": [],
+    "publication": "public_metadata_and_transcription_pending_image_rights"
+  },
+  {
+    "id": "ACC-020",
+    "record": "1811 Bourbon County deed to Major Selby and grantor index",
+    "claim_anchor": "CLM-0055",
+    "local_status": "original_deed_and_index_images_accessioned_hashed",
+    "custodian": "Bourbon County Clerk / FamilySearch digital images",
+    "expected_locator": "Deed Book H, page 456; deed image 3Q9M-CSLX-V5CN; index image 3Q9M-CS4K-2Q9G-P",
+    "finding": "The deed is preserved at acquisitions/official/familysearch/3Q9M-CSLX-V5CN/3Q9M-CSLX-V5CN.jpg (830,130 bytes; SHA-256 F8B262140A2E7938349383C681FAF2ACA8032E2EF1331C50AD6A2EF613FF3200). The index is preserved at acquisitions/official/familysearch/3Q9M-CS4K-2Q9G-P/3Q9M-CS4K-2Q9G-P.jpg (992,359 bytes; SHA-256 FC4947AEEC0D2A8D1994A5D90D19A6EF084824F5E623896A6BE8ACC7E8E2DCBD).",
+    "next_action": "Trace the tract forward and backward, obtain tax entries and later conveyances, and test whether spouse, heirs, neighbors, or witnesses identify this Major Selby.",
+    "route_ids": [],
+    "publication": "public_metadata_and_transcription_pending_image_rights"
+  },
+  {
+    "id": "ACC-021",
+    "record": "1840 Frankfort census household headed by Benjamin Selby",
+    "claim_anchor": "CLM-0063",
+    "local_status": "original_image_accessioned_hashed",
+    "custodian": "U.S. National Archives / FamilySearch digital image",
+    "expected_locator": "1840 United States census, Frankfort, Franklin County, Kentucky, page 328, NARA M704; FamilySearch image 33SQ-GYYT-9M6C",
+    "finding": "The original schedule is preserved as acquisitions/official/familysearch/33SQ-GYYT-9M6C/33SQ-GYYT-9M6C.jpg (2,088,372 bytes; SHA-256 7E0C7A599149E2325F80120710C8A7FAD65CE7F4316AD3E1E5D9FDEB1C286EE3). The row reports one free white male aged 50-59 and no male aged 15-19, so it is not a household headed by the Benjamin born about 1824-1825 and does not place that younger Benjamin in the household.",
+    "next_action": "Identify the older Benjamin through deeds, probate, tax, and the 1811 Adair County marriage; trace every 1840 household member without attaching the younger Benjamin by name alone.",
+    "route_ids": [],
+    "publication": "public_citation_and_transcription"
+  },
+  {
+    "id": "ACC-022",
+    "record": "Benjamin Selby admission to the Henry County bar, 9 April 1849",
+    "claim_anchor": "CLM-0065",
+    "local_status": "original_image_accessioned_hashed",
+    "custodian": "Henry County Clerk / FamilySearch digital image",
+    "expected_locator": "Henry County Circuit Court order book, 9 April 1849, page 10; FamilySearch image 3Q9M-CSLL-BSJT-V",
+    "finding": "The original double-page image is preserved as acquisitions/official/familysearch/3Q9M-CSLL-BSJT-V/3Q9M-CSLL-BSJT-V.jpg (1,144,030 bytes; SHA-256 55B7C01E9D0C7056CABBB386C2F6F186EBA95CD4E7B6963B719B9DC77C168C3F). It records that Benjamin Selby and George C. Drane were permitted to practice as attorneys and counselors at law and took the prescribed oath.",
+    "next_action": "Trace Benjamin in bar directories, court appearances, newspapers, professional biographies, and law-office associates; use those records to seek a birthplace or parent statement.",
+    "route_ids": [],
+    "publication": "public_metadata_and_transcription_pending_image_rights"
+  },
+  {
+    "id": "ACC-023",
+    "record": "William McCracken will witnessed and proved by Benjamin Selby, 1860",
+    "claim_anchor": "CLM-0066",
+    "local_status": "original_image_accessioned_hashed",
+    "custodian": "Henry County Clerk / FamilySearch digital image",
+    "expected_locator": "Henry County will book, William McCracken will dated 26 May 1860 and proved November 1860; FamilySearch image 33SQ-GP3T-5X6",
+    "finding": "The original will-book image is preserved as acquisitions/official/familysearch/33SQ-GP3T-5X6/33SQ-GP3T-5X6.jpg (2,438,096 bytes; SHA-256 406AAC0E3DC160016FC0348B613841661955E9F68D4429D85ABC2B8A1F74F5BD). Ben Selby and E. P. Thomas Jr. witnessed the will, and the probate entry says Benjamin Selby and Thomas proved it.",
+    "next_action": "Trace William McCracken, E. P. Thomas Jr., George M. Jessee, and adjacent landowners as Benjamin's associates; search the same court and deed series for parentage-bearing instruments.",
+    "route_ids": [],
+    "publication": "public_metadata_and_transcription_pending_image_rights"
+  },
+  {
+    "id": "ACC-024",
+    "record": "Scarborough Parker estate account naming William Atkinson Selby as a payee",
+    "claim_anchor": "CLM-0067",
+    "local_status": "two_original_images_accessioned_hashed",
+    "custodian": "Worcester County probate office / FamilySearch digital images",
+    "expected_locator": "Account of Thomas Parker, Mary his wife executrix, and Samuel Taylor, executors of Scarborough Parker; inventory exhibited 9 January 1789; images 3Q9M-CSTB-QQGP-J and 3Q9M-CSTB-QQRG-5",
+    "finding": "The first account page is preserved as acquisitions/official/familysearch/3Q9M-CSTB-QQGP-J/3Q9M-CSTB-QQGP-J.jpg (1,040,118 bytes; SHA-256 E8FA14F320540EC9CB30C4F3B1740546B3A8C10AA866123AE7A4DC6A7DEACCEF). The continuation is preserved as acquisitions/official/familysearch/3Q9M-CSTB-QQRG-5/008344063_00217.jpg (968,575 bytes; SHA-256 A283CC6BBB620358E1AC1DBF3FB08DE1A231E948D3096A83E07101F9BB98A750). It records payment to William Atkinson Selby on an account proved, receipted, and allowed by court. Although FamilySearch surfaced the image under a Bourbon County collection label, the original heading identifies Worcester County and the Scarborough Parker estate.",
+    "next_action": "Identify the exact Worcester record series, volume, folio, and account date; trace the Parker, Taylor, Townsend, Selby, and Victor associates and the underlying claim or receipt.",
+    "route_ids": [],
+    "publication": "public_metadata_and_transcription_pending_image_rights"
+  },
+  {
+    "id": "ACC-025",
+    "record": "John Atkinson estate distribution order and appeal bond, August 1780",
+    "claim_anchor": "CLM-0068",
+    "local_status": "two_original_images_accessioned_hashed",
+    "custodian": "Worcester County Orphans' Court / FamilySearch digital images",
+    "expected_locator": "Worcester County Orphans' Court, August 1780, pages 132-133; FamilySearch images 3Q9M-CSYX-BSJ1-8 and 3Q9M-CSYX-BSVS-Q",
+    "finding": "The distribution order is preserved as acquisitions/official/familysearch/3Q9M-CSYX-BSJ1-8/3Q9M-CSYX-BSJ1-8.jpg (1,464,489 bytes; SHA-256 FC6FF0F8497032BDD576FB99547580A9B409C58A59D2D042C92F4DAEFAC81E64). The appeal bond is preserved as acquisitions/official/familysearch/3Q9M-CSYX-BSVS-Q/3Q9M-CSYX-BSVS-Q.jpg (1,426,445 bytes; SHA-256 5F746812D58877B163BC7C7E47D123E30549C6571C03D791F23B13AB3EFA6176). The order names Angelo Atkinson, John Atkinson, John Selby, William Atkinson Selby, Rachel Flemming, Mary White, and Nancy White as John Atkinson's residuary legatees. The bond repeats the group and recites John Atkinson's will of 21 March 1779 and widow/executrix Mary, later wife of Levin Blake.",
+    "next_action": "Recover John Atkinson's complete 1779 will and the appeal disposition; determine the stated relationships of every residuary legatee and correlate them with Angelo Atkinson's 1766 will and Selby deeds.",
+    "route_ids": [],
+    "publication": "public_metadata_and_short_transcription_pending_image_rights"
+  },
+  {
+    "id": "ACC-026",
+    "record": "Joshua Atkinson will naming Sarah, Rachel, Angelo, and John Atkinson, 1773",
+    "claim_anchor": "CLM-0070",
+    "local_status": "two_original_images_accessioned_hashed",
+    "custodian": "Worcester County probate office / FamilySearch digital images",
+    "expected_locator": "Joshua Atkinson will dated 22 January 1773 and proved 23 April 1773, will-book pages 143-144; FamilySearch images 33SQ-GTBJ-S5K6 and 33SQ-GTBJ-S5GZ",
+    "finding": "The first will page is preserved as acquisitions/official/familysearch/33SQ-GTBJ-S5K6/33SQ-GTBJ-S5K6.jpg (1,864,162 bytes; SHA-256 A54B98938E90332D47CF972E308C8FF7394A1619A965B98C57E6CEF7765B3934). The continuation is preserved as acquisitions/official/familysearch/33SQ-GTBJ-S5GZ/33SQ-GTBJ-S5GZ.jpg (1,918,307 bytes; SHA-256 6701F3BEC71F00E98E1EF96FE0F548DA36FEB5B8E684D57BF6861B859B75F1F5). Joshua names wife Sarah and children Rachel, Angelo, and John. He leaves the underage Angelo in the care of Solomon Townsend, with William Townsend as successor if Solomon dies before Angelo reaches twenty-one.",
+    "next_action": "Trace Joshua's land descriptions, the Townsend guardianship, and later deeds of Rachel, Angelo, and John; keep this underage Angelo separate from the older Angelo whose will was proved in 1766.",
+    "route_ids": [],
+    "publication": "public_metadata_and_short_transcription_pending_image_rights"
+  },
+  {
+    "id": "ACC-027",
+    "record": "1874 Henry County birth index for Roberts Selby",
+    "claim_anchor": "CLM-0064",
+    "local_status": "official_index_reviewed_image_unavailable",
+    "custodian": "Kentucky vital-record custodian / FamilySearch index",
+    "expected_locator": "Roberts Selby birth, 15 April 1874, Henry County, Kentucky; FamilySearch ARK FWKK-B5Q, parent entries FWKK-B57 and FWKK-B5W",
+    "finding": "The FamilySearch index names Benjamin Selby and Docie Stone as Roberts Selby's parents. FamilySearch marks the original image unavailable, so no standalone image or hash was obtained.",
+    "next_action": "Obtain the original county or state birth return and reconcile Roberts with Robert C. Selby using later census, marriage, and death records.",
+    "route_ids": [],
+    "publication": "public_index_citation_with_image_unavailable_warning"
+  }
+]

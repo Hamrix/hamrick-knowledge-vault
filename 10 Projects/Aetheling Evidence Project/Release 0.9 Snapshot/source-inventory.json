@@ -1,0 +1,149 @@
+[
+  {
+    "filename": "1-61.pdf",
+    "relative_path": "sources/1-61.pdf",
+    "extension": ".pdf",
+    "bytes": 17875607,
+    "sha256": "aae3d31cd37710ef5a007269ad04cf4b62200608c09b4014ac578e9fd5aee398",
+    "status": "extracted",
+    "page_count": 61
+  },
+  {
+    "filename": "101-132.pdf",
+    "relative_path": "sources/101-132.pdf",
+    "extension": ".pdf",
+    "bytes": 9078780,
+    "sha256": "4ef65ab1afcbeb82d1e2f0d7a1c50c7f43488146916fad4967a3efeacd4e232d",
+    "status": "extracted",
+    "page_count": 32
+  },
+  {
+    "filename": "62-100.pdf",
+    "relative_path": "sources/62-100.pdf",
+    "extension": ".pdf",
+    "bytes": 11054796,
+    "sha256": "73f71986fdf38cf46406426cca20aabbd27d8da6b81edddba289564ad83a3344",
+    "status": "extracted",
+    "page_count": 39
+  },
+  {
+    "filename": "Aethelred Master Lineage (1).docx",
+    "relative_path": "sources/Aethelred Master Lineage (1).docx",
+    "extension": ".docx",
+    "bytes": 15213,
+    "sha256": "cab8827d9b1dd96d567dc46c60c312f4b01d105d1d9eea1abdf8240ddfec5cf2",
+    "status": "extracted",
+    "paragraph_count": 91,
+    "table_count": 0
+  },
+  {
+    "filename": "Aethelred Master Lineage.docx",
+    "relative_path": "sources/Aethelred Master Lineage.docx",
+    "extension": ".docx",
+    "bytes": 13734,
+    "sha256": "b5ae7aad2ea7e462005eeb5658e24affee1d2586111bdbb1069cc64c09be9c08",
+    "status": "extracted",
+    "paragraph_count": 67,
+    "table_count": 0
+  },
+  {
+    "filename": "Aethelred Master Outline.pdf",
+    "relative_path": "sources/Aethelred Master Outline.pdf",
+    "extension": ".pdf",
+    "bytes": 24757,
+    "sha256": "24b54f17cdd43f3aee8e5f4556c5290eaebcefa9fa25cb46e39f0a03bc1dd2c8",
+    "status": "extracted",
+    "page_count": 1
+  },
+  {
+    "filename": "Annotated Pedigree Summary (1).pdf",
+    "relative_path": "sources/Annotated Pedigree Summary (1).pdf",
+    "extension": ".pdf",
+    "bytes": 17627,
+    "sha256": "039fe4f53fc6009c3d1e1d2ab82ef53da526bc23a68c49b90d269e61281d5366",
+    "status": "extracted",
+    "page_count": 1
+  },
+  {
+    "filename": "Canonical_Archive_Complete_Lord_Americ_Aethelred_2025.docx",
+    "relative_path": "sources/Canonical_Archive_Complete_Lord_Americ_Aethelred_2025.docx",
+    "extension": ".docx",
+    "bytes": 38549,
+    "sha256": "5cd4091e3768a65a0d39744ea30644b8cff3b2b28e0bf8220e13c6f07eebbefd",
+    "status": "extracted",
+    "paragraph_count": 83,
+    "table_count": 0
+  },
+  {
+    "filename": "Head of Partnerships & Community En.txt",
+    "relative_path": "sources/Head of Partnerships & Community En.txt",
+    "extension": ".txt",
+    "bytes": 1757,
+    "sha256": "697ad3cb4b28aa806a28d7f1346ecf2d9e2b631b40b3f4ba8ba078280c1e77ef",
+    "status": "extracted"
+  },
+  {
+    "filename": "Last Aetheling Harmonised Portfolio June2025.docx",
+    "relative_path": "sources/Last Aetheling Harmonised Portfolio June2025.docx",
+    "extension": ".docx",
+    "bytes": 14590,
+    "sha256": "ed93beea1b5bf8b87cbb2b5d878dd92053263d2abf18bbd1e9f8948da96a52f5",
+    "status": "extracted",
+    "paragraph_count": 54,
+    "table_count": 0
+  },
+  {
+    "filename": "Selby_de_Lacy_Trace_Verification_Dossier.docx",
+    "relative_path": "sources/Selby_de_Lacy_Trace_Verification_Dossier.docx",
+    "extension": ".docx",
+    "bytes": 37344,
+    "sha256": "23c7c965fdf06c9562c5f4c346a7d61dad7e03bb65b5fa98c89fbcea49ae2c7f",
+    "status": "extracted",
+    "paragraph_count": 8,
+    "table_count": 0
+  },
+  {
+    "filename": "Selby_extended - 2025 06 22 19-17.ged",
+    "relative_path": "sources/Selby_extended - 2025 06 22 19-17.ged",
+    "extension": ".ged",
+    "bytes": 2134923,
+    "sha256": "4db84ef930b22e5ebc1c1b38dea4787fdb35ac2f01d468e9d359d96e546dd940",
+    "status": "extracted",
+    "line_count": 95936,
+    "record_counts": {
+      "INDI": 3026,
+      "FAM": 774,
+      "SOUR": 259,
+      "REPO": 2,
+      "OBJE": 1042
+    }
+  },
+  {
+    "filename": "Selby_Manor_Evidence_Bundle_vFinal.pdf",
+    "relative_path": "sources/Selby_Manor_Evidence_Bundle_vFinal.pdf",
+    "extension": ".pdf",
+    "bytes": 295899,
+    "sha256": "a6f511325e8376d9341819353ab4734d866d7900bf8ae328ab18a495e422ad95",
+    "status": "extracted",
+    "page_count": 15
+  },
+  {
+    "filename": "Selby_Manor_Whitehouse_Claim_Dossier.docx",
+    "relative_path": "sources/Selby_Manor_Whitehouse_Claim_Dossier.docx",
+    "extension": ".docx",
+    "bytes": 37686,
+    "sha256": "39be9a9b3b71bcedef42252c8538ffabb52f9e70d35f25cb1eacc458ab747f96",
+    "status": "extracted",
+    "paragraph_count": 11,
+    "table_count": 0
+  },
+  {
+    "filename": "Whitehouse-steward-selby Lineage Backup 21 June 2025.pdf",
+    "relative_path": "sources/Whitehouse-steward-selby Lineage Backup 21 June 2025.pdf",
+    "extension": ".pdf",
+    "bytes": 35919,
+    "sha256": "131a72ce61087555f031f3065c23534a7b840234864bfa24a0acdd5cb257af14",
+    "status": "extracted",
+    "page_count": 4
+  }
+]

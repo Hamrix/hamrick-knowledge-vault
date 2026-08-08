@@ -1,0 +1,900 @@
+[
+  {
+    "id": "CLM-0001",
+    "category": "identity",
+    "claim": "The modern project uses the cultural style 'Lord Americ Aethelred, The Last Aetheling'.",
+    "status": "tradition_myth",
+    "confidence": "low",
+    "public": true,
+    "sources": [
+      "Canonical_Archive_Complete_Lord_Americ_Aethelred_2025.docx"
+    ],
+    "note": "Use of a style is observable; its legal or historical validity is not established."
+  },
+  {
+    "id": "CLM-0002",
+    "category": "lineage",
+    "claim": "The subject descends in an unbroken documented line from the Anglo-Saxon royal house.",
+    "status": "sourced_unverified",
+    "confidence": "low",
+    "public": true,
+    "sources": [
+      "Last Aetheling Harmonised Portfolio June2025.docx",
+      "Aethelred Master Lineage.docx",
+      "Aethelred Master Lineage (1).docx"
+    ],
+    "note": "Derivative narratives repeat the claim; every generational link requires independent proof."
+  },
+  {
+    "id": "CLM-0003",
+    "category": "lineage",
+    "claim": "The post-Conquest bridge from Aethelmaer to the Selby/de Lacy line is documented.",
+    "status": "inference",
+    "confidence": "low",
+    "public": true,
+    "sources": [
+      "Aethelred Master Lineage (1).docx"
+    ],
+    "note": "The asserted bridge is not established by the corpus as a continuous proof chain."
+  },
+  {
+    "id": "CLM-0004",
+    "category": "genealogy",
+    "claim": "The GEDCOM contains 3,026 individual and 774 family records.",
+    "status": "verified",
+    "confidence": "high",
+    "public": true,
+    "sources": [
+      "Selby_extended - 2025 06 22 19-17.ged"
+    ],
+    "note": "Verified as a fact about the file, not the truth of each genealogical record."
+  },
+  {
+    "id": "CLM-0005",
+    "category": "estate",
+    "claim": "Selby Whitehouse is a currently recoverable estate worth approximately GBP 2.1 million.",
+    "status": "sourced_unverified",
+    "confidence": "low",
+    "public": true,
+    "sources": [
+      "Aethelred Master Lineage (1).docx"
+    ],
+    "note": "No official title register, valuation, or legal decision in the audited corpus establishes this."
+  },
+  {
+    "id": "CLM-0006",
+    "category": "filing",
+    "claim": "A first-registration application for Selby Manor/The White House is pending.",
+    "status": "sourced_unverified",
+    "confidence": "low",
+    "public": true,
+    "sources": [
+      "Head of Partnerships & Community En.txt"
+    ],
+    "note": "A draft letter is not a filing receipt or confirmation."
+  },
+  {
+    "id": "CLM-0007",
+    "category": "archive_reference",
+    "claim": "NYK12345 is the Land Registry title number for Selby Manor.",
+    "status": "conflicted",
+    "confidence": "low",
+    "public": true,
+    "sources": [
+      "Head of Partnerships & Community En.txt"
+    ],
+    "note": "Pattern and context indicate a placeholder; treat as potentially fabricated until official confirmation."
+  },
+  {
+    "id": "CLM-0008",
+    "category": "estate",
+    "claim": "Historic Selby or de Lacy association proves current ownership or entitlement to Whitehouse property.",
+    "status": "legal_opinion",
+    "confidence": "low",
+    "public": true,
+    "sources": [
+      "Selby_Manor_Whitehouse_Claim_Dossier.docx",
+      "Selby_Manor_Evidence_Bundle_vFinal.pdf"
+    ],
+    "note": "Historic association, genealogy, title, and modern ownership are distinct questions."
+  },
+  {
+    "id": "CLM-0009",
+    "category": "legal",
+    "claim": "Descendant clauses in 1925 and 2002 legislation confirm a right of petition or recovery.",
+    "status": "legal_opinion",
+    "confidence": "low",
+    "public": true,
+    "sources": [
+      "Aethelred Master Lineage (1).docx"
+    ],
+    "note": "Requires citation to exact provisions and qualified legal review."
+  },
+  {
+    "id": "CLM-0010",
+    "category": "filing",
+    "claim": "Five bona vacantia parcel filings are eligible before 2035.",
+    "status": "sourced_unverified",
+    "confidence": "low",
+    "public": true,
+    "sources": [
+      "Aethelred Master Lineage (1).docx"
+    ],
+    "note": "No official case identifiers, estate notices, or eligibility determinations were found in the initial pass."
+  },
+  {
+    "id": "CLM-0011",
+    "category": "citation",
+    "claim": "The modern dossiers cite TNA, Victoria County History, Open Domesday, parish, probate, and manorial sources.",
+    "status": "verified",
+    "confidence": "high",
+    "public": true,
+    "sources": [
+      "Aethelred Master Lineage (1).docx",
+      "Annotated Pedigree Summary (1).pdf"
+    ],
+    "note": "Verified only as a description of citations present; individual citations remain to be checked."
+  },
+  {
+    "id": "CLM-0012",
+    "category": "method",
+    "claim": "A composite validation confidence of 97.9% is supported by a reproducible method.",
+    "status": "conflicted",
+    "confidence": "low",
+    "public": true,
+    "sources": [
+      "Aethelred Master Lineage (1).docx"
+    ],
+    "note": "No reproducible statistical model was identified; numeric scores are retired."
+  },
+  {
+    "id": "CLM-0013",
+    "category": "person",
+    "claim": "Recent-generation records consistently identify the birth year and relationship of Hamrick E. Selby I.",
+    "status": "conflicted",
+    "confidence": "low",
+    "public": true,
+    "sources": [
+      "Annotated Pedigree Summary (1).pdf",
+      "Aethelred Master Lineage (1).docx"
+    ],
+    "note": "The corpus gives incompatible dates and father/grandfather relationships."
+  },
+  {
+    "id": "CLM-0014",
+    "category": "privacy",
+    "claim": "The corpus contains private contact, birth-certificate, living-person, and DNA identifiers.",
+    "status": "verified",
+    "confidence": "high",
+    "public": true,
+    "sources": [
+      "Canonical_Archive_Complete_Lord_Americ_Aethelred_2025.docx",
+      "Annotated Pedigree Summary (1).pdf"
+    ],
+    "note": "Values are intentionally omitted from public outputs."
+  },
+  {
+    "id": "CLM-0015",
+    "category": "institution",
+    "claim": "Named heritage or heraldic institutions have validated the principal claim.",
+    "status": "sourced_unverified",
+    "confidence": "low",
+    "public": true,
+    "sources": [
+      "Aethelred Master Lineage (1).docx"
+    ],
+    "note": "No authenticated endorsement or decision letter was identified."
+  },
+  {
+    "id": "CLM-0016",
+    "category": "source",
+    "claim": "The three numbered PDFs reproduce published pedigree material with embedded scholarly citations.",
+    "status": "verified",
+    "confidence": "moderate",
+    "public": true,
+    "sources": [
+      "1-61.pdf",
+      "62-100.pdf",
+      "101-132.pdf"
+    ],
+    "note": "The files contain cited pedigree text; relevance to the asserted modern descent requires a proven bridge."
+  },
+  {
+    "id": "CLM-0017",
+    "category": "lineage",
+    "claim": "Alwinus Selby in Domesday records is a direct ancestor in the claimed line.",
+    "status": "inference",
+    "confidence": "low",
+    "public": true,
+    "sources": [
+      "Aethelred Master Lineage (1).docx"
+    ],
+    "note": "Name/place association is insufficient to prove biological descent."
+  },
+  {
+    "id": "CLM-0018",
+    "category": "lineage",
+    "claim": "A Thomas Selby migrated from Yorkshire to Virginia in the seventeenth century and is the required bridge ancestor.",
+    "status": "sourced_unverified",
+    "confidence": "low",
+    "public": true,
+    "sources": [
+      "Aethelred Master Lineage (1).docx"
+    ],
+    "note": "Requires origin, migration, identity, and parentage records."
+  },
+  {
+    "id": "CLM-0019",
+    "category": "estate",
+    "claim": "Values assigned to Combe Manor, Cliffe Hall, and Twizell fragments are current official valuations.",
+    "status": "sourced_unverified",
+    "confidence": "low",
+    "public": true,
+    "sources": [
+      "Canonical_Archive_Complete_Lord_Americ_Aethelred_2025.docx"
+    ],
+    "note": "No valuation reports or title-matched official data were found."
+  },
+  {
+    "id": "CLM-0020",
+    "category": "legal",
+    "claim": "Royal or noble descent alone creates entitlement to ownerless property in England and Wales.",
+    "status": "legal_opinion",
+    "confidence": "low",
+    "public": true,
+    "sources": [
+      "Canonical_Archive_Complete_Lord_Americ_Aethelred_2025.docx"
+    ],
+    "note": "Do not publish as fact; obtain qualified legal advice."
+  },
+  {
+    "id": "CLM-0021",
+    "category": "lineage",
+    "claim": "The proposed modern Selby line reaches King Æthelred II through Wessex, Plantagenet, and Stafford maternal bridges.",
+    "status": "sourced_unverified",
+    "confidence": "low",
+    "public": true,
+    "sources": [
+      "Ancestral Legacy brief, 25 July 2026"
+    ],
+    "note": "The route is a research hypothesis. A citation-backed proof table is still required for every parent-child link."
+  },
+  {
+    "id": "CLM-0022",
+    "category": "tradition",
+    "claim": "The recurring family name Ethelred intentionally honors direct descent from King Æthelred II.",
+    "status": "tradition_myth",
+    "confidence": "low",
+    "public": true,
+    "sources": [
+      "Ancestral Legacy brief, 25 July 2026"
+    ],
+    "note": "The naming pattern and the reason attributed to it are separate propositions; contemporary family evidence is needed to establish intent."
+  },
+  {
+    "id": "CLM-0023",
+    "category": "lineage",
+    "claim": "Selby and Stafford intermarriages create a documented ancestral double loop or pedigree collapse.",
+    "status": "sourced_unverified",
+    "confidence": "low",
+    "public": true,
+    "sources": [
+      "Ancestral Legacy brief, 25 July 2026"
+    ],
+    "note": "Both return paths and every repeated ancestor must be demonstrated with dated relationship records."
+  },
+  {
+    "id": "CLM-0024",
+    "category": "military",
+    "claim": "Frederic Ethelred Selby transferred from regular service on 15 February 1943 and appears under the Office of the Provost Marshal General in October 1944 and August 1945.",
+    "status": "sourced_unverified",
+    "confidence": "moderate",
+    "public": true,
+    "sources": [
+      "Ancestral Legacy brief, 25 July 2026"
+    ],
+    "note": "The dates are specific and testable, but the underlying personnel orders, rosters, or archival images still need precise citations."
+  },
+  {
+    "id": "CLM-0025",
+    "category": "military",
+    "claim": "Frederic Ethelred Selby performed counter-intelligence work and handled high-ranking captured Japanese imperial personnel.",
+    "status": "inference",
+    "confidence": "low",
+    "public": true,
+    "sources": [
+      "Ancestral Legacy brief, 25 July 2026"
+    ],
+    "note": "An OPMG association does not establish a specific intelligence or prisoner-processing assignment."
+  },
+  {
+    "id": "CLM-0026",
+    "category": "association",
+    "claim": "Frederic Ethelred Selby later served as a Grand Worshipful Master in Louisiana's 16th Masonic District.",
+    "status": "sourced_unverified",
+    "confidence": "low",
+    "public": true,
+    "sources": [
+      "Ancestral Legacy brief, 25 July 2026"
+    ],
+    "note": "The lodge, jurisdiction, exact office title, and year require confirmation in proceedings, district records, or minutes."
+  },
+  {
+    "id": "CLM-0027",
+    "category": "migration",
+    "claim": "The Dolan and Carr/Naghten branches connect the family to documented nineteenth-century Irish migration into New Orleans.",
+    "status": "sourced_unverified",
+    "confidence": "low",
+    "public": true,
+    "sources": [
+      "Ancestral Legacy brief, 25 July 2026"
+    ],
+    "note": "The proposed Irish localities are useful leads, but the identity chain into the Louisiana family remains to be demonstrated."
+  },
+  {
+    "id": "CLM-0028",
+    "category": "lineage",
+    "claim": "Edith Barrett Stites provides a verified Revolutionary War lineage, with related family artifacts preserved by the Museum of Cape May County.",
+    "status": "sourced_unverified",
+    "confidence": "low",
+    "public": true,
+    "sources": [
+      "Ancestral Legacy brief, 25 July 2026"
+    ],
+    "note": "Patriot service, the relationship path, and artifact provenance are three separate evidence questions."
+  },
+  {
+    "id": "CLM-0029",
+    "category": "genealogy",
+    "claim": "Frederick Payne Selby was recorded as the son of Benjamin Selby and Docia Elizabeth Stone when he married Elizabeth Dolan in New Orleans on 20 December 1884.",
+    "status": "verified",
+    "confidence": "high",
+    "public": true,
+    "sources": [
+      "Orleans Parish marriage register, Book 19, folio 168"
+    ],
+    "note": "The reviewed register identifies Frederick, gives his age and birthplace, and names both parents; it is the current documentary anchor for this Selby branch."
+  },
+  {
+    "id": "CLM-0030",
+    "category": "genealogy",
+    "claim": "Robert C. Selby's 1938 Louisville death certificate names Benjamin Selby and Docia Stone as his parents.",
+    "status": "verified",
+    "confidence": "high",
+    "public": true,
+    "sources": [
+      "Kentucky death certificate for Robert C. Selby, 13 March 1938, FamilySearch image 3Q9M-C9YK-Z9VM-7"
+    ],
+    "note": "The original certificate is accessioned and names father Benjamin Selby and mother Docie/Docia Stone; the FamilySearch index incorrectly renders her name as Dora. Informant Sallie Selby was Robert's wife, so the certificate verifies what the record states while the biological accuracy remains informant-supplied evidence."
+  },
+  {
+    "id": "CLM-0031",
+    "category": "identity",
+    "claim": "The 1910 Lawrenceburg household of Benjamin 'Ben' Selby Jr., Hettie 'Etta' Willis, and James G. W. Selby is not evidence for Benjamin Selby Sr.'s later life or remarriage.",
+    "status": "verified",
+    "confidence": "high",
+    "public": true,
+    "sources": [
+      "1910 Lawrenceburg household identification; July 2026 audit correction"
+    ],
+    "note": "An earlier father-and-son conflation has been withdrawn; this household must not be used to place Benjamin Sr. in Lawrenceburg in 1910."
+  },
+  {
+    "id": "CLM-0032",
+    "category": "lineage",
+    "claim": "Major Selby is the father of Benjamin Selby Sr.",
+    "status": "inference",
+    "confidence": "low",
+    "public": true,
+    "sources": [
+      "Reported 1850 Henry County household",
+      "RootsWeb and MyHeritage leads"
+    ],
+    "note": "No reviewed relationship-bearing record names Major as Benjamin Sr.'s father; shared residence cannot by itself prove parentage."
+  },
+  {
+    "id": "CLM-0033",
+    "category": "lineage",
+    "claim": "Thomas Selby of the Bourbon County and Maryland migration cluster is Major Selby's father.",
+    "status": "inference",
+    "confidence": "low",
+    "public": true,
+    "sources": [
+      "RootsWeb and compiled Bourbon County lineage leads"
+    ],
+    "note": "Migration patterns, names, and online trees are leads only; a relationship-bearing probate, deed, tax, or guardianship record is required."
+  },
+  {
+    "id": "CLM-0034",
+    "category": "genealogy",
+    "claim": "The 1786 Swift Creek tax list records Etheldred Peters as the taxpayer and John Peters as his son.",
+    "status": "verified",
+    "confidence": "high",
+    "public": true,
+    "sources": [
+      "North Carolina State Archives, Treasurer's and Comptroller's Papers, Craven County, Box 9, 1786 Swift Creek tax list"
+    ],
+    "note": "Direct image inspection corrects a reversed published abstract and establishes the household reading, but not Etheldred's own parentage."
+  },
+  {
+    "id": "CLM-0035",
+    "category": "origin",
+    "claim": "Etheldred Peters was born in Lancashire in 1730, immigrated as a young man, and was the son of a named English or Pennsylvania Peters family.",
+    "status": "inference",
+    "confidence": "low",
+    "public": true,
+    "sources": [
+      "Compiled family assertions",
+      "FamilySearch Catalog 456868"
+    ],
+    "note": "No reviewed record currently establishes the exact birthplace, immigration story, occupation, or parents; the 1788 Craven estate file is the priority target."
+  },
+  {
+    "id": "CLM-0036",
+    "category": "identity",
+    "claim": "The adult Major Selby taxed on 140 acres of 'Choice' in Worcester County in 1783 is the same person reported as born in 1783.",
+    "status": "conflicted",
+    "confidence": "low",
+    "public": true,
+    "sources": [
+      "Maryland State Archives, 1783 Worcester County Assessment, Acquango Hundred",
+      "Compiled Major Selby profile"
+    ],
+    "note": "The taxpayer was already an adult landholder, so the identities cannot be merged without contrary evidence and may represent different men."
+  },
+  {
+    "id": "CLM-0037",
+    "category": "dna",
+    "claim": "The public Selby Y-DNA Project currently documents a genetic subgroup or baseline for Major Selby's direct paternal line.",
+    "status": "sourced_unverified",
+    "confidence": "low",
+    "public": true,
+    "sources": [
+      "FamilyTreeDNA Selby Project public results, reviewed 27 July 2026"
+    ],
+    "note": "The reviewed public view showed ungrouped results and no published Major Selby subgroup; DNA cannot assign documentary parentage by itself."
+  },
+  {
+    "id": "CLM-0038",
+    "category": "property_identity",
+    "claim": "Historic England list entry 1316447 identifies The White House, Old Hull Road, Cliffe.",
+    "status": "conflicted",
+    "confidence": "high",
+    "public": true,
+    "sources": [
+      "Head of Partnerships & Community En.txt",
+      "Historic England, National Heritage List for England, entries 1316447 and 1316283"
+    ],
+    "note": "Official catalogue review decisively contradicts the cited number: 1316447 is Reighton Hall; The White House at Old Hull Road, Cliffe is 1316283. The corrected list entry identifies a listed building but does not prove ownership, lordship, or manorial rights."
+  },
+  {
+    "id": "CLM-0039",
+    "category": "archive_reference",
+    "claim": "Durham probate reference DPRI/2/23 identifies a 1703 Selby v Ogle manorial court roll.",
+    "status": "conflicted",
+    "confidence": "high",
+    "public": true,
+    "sources": [
+      "Aethelred Master Outline.pdf",
+      "Durham University Library, Durham Probate Records: pre-1858 will registers 1-29"
+    ],
+    "note": "The official catalogue identifies DPRI/2/23 as will register 23, dated 1774-1775. It is the wrong record type and date range for the asserted 1703 proceeding."
+  },
+  {
+    "id": "CLM-0040",
+    "category": "archive_reference",
+    "claim": "E 179/216/493 is a valid TNA reference for the asserted 1666 Whitehouse/Cliffe hearth-tax record.",
+    "status": "conflicted",
+    "confidence": "high",
+    "public": true,
+    "sources": [
+      "Aethelred Master Outline.pdf",
+      "Selby_Manor_Evidence_Bundle_vFinal.pdf",
+      "The National Archives E 179 database"
+    ],
+    "note": "The official E 179 direct-reference lookup returned no match for 216/493. This does not identify the correct record; it means the repeated citation must be corrected before the transcript or claim is relied upon."
+  },
+  {
+    "id": "CLM-0041",
+    "category": "digital_integrity",
+    "claim": "The GEDCOM checksum printed in the evidence bundle authenticates the uploaded GEDCOM in the current corpus.",
+    "status": "conflicted",
+    "confidence": "high",
+    "public": true,
+    "sources": [
+      "Selby_Manor_Evidence_Bundle_vFinal.pdf",
+      "Selby_extended - 2025 06 22 19-17.ged",
+      "source-catalogue.json"
+    ],
+    "note": "The printed checksum does not match the uploaded GEDCOM's verified SHA-256. It may describe a missing 'Cleaned GEDCOM v4', so it cannot authenticate the present file."
+  },
+  {
+    "id": "CLM-0042",
+    "category": "lineage",
+    "claim": "William Atkinson Selby was a son of John Selby and a grandson of Angelo Atkinson.",
+    "status": "verified",
+    "confidence": "high",
+    "public": true,
+    "sources": [
+      "Angelo Atkinson will, Maryland Prerogative Court, Liber 34, folio 156 (MSA S538-50)",
+      "msa_s538_000050.pdf, PDF page 158"
+    ],
+    "note": "Angelo's proved 1766 will directly identifies Sarah Selby and William Atkinson Selby as the daughter and son of John Selby and calls them his grandchildren. This proves the two stated relationships, but the clause does not name their mother."
+  },
+  {
+    "id": "CLM-0043",
+    "category": "lineage",
+    "claim": "Mary Atkinson, daughter of Angelo Atkinson, was William Atkinson Selby's mother and John Selby's wife.",
+    "status": "sourced_unverified",
+    "confidence": "moderate",
+    "public": true,
+    "sources": [
+      "Maryland State Archives, A Biographical Dictionary of the Maryland Legislature, William Atkinson Selby biography",
+      "Angelo Atkinson will, MSA S538-50"
+    ],
+    "note": "The MSA biography states the relationship, and Angelo's will independently proves William was Angelo's grandson and John's son. The will does not name Mary or state that she was John Selby's wife, so a marriage, administration, deed, or other direct relationship-bearing record is still required."
+  },
+  {
+    "id": "CLM-0044",
+    "category": "marriage",
+    "claim": "William Atkinson Selby married Sarah White Townsend on 28 February 1782.",
+    "status": "sourced_unverified",
+    "confidence": "moderate",
+    "public": true,
+    "sources": [
+      "Headen family Bible transcript published in 1929, G006169.pdf, page 15"
+    ],
+    "note": "The date and couple appear in a 1929 transcript attributed to a family Bible. The original Bible, its title page, handwriting, custody, and any contemporaneous church or civil entry have not been inspected. Worcester County's surviving official marriage series begins later."
+  },
+  {
+    "id": "CLM-0045",
+    "category": "legal_event",
+    "claim": "William Atkinson Selby was indicted in Worcester County in June 1779 for going over to the enemy.",
+    "status": "sourced_unverified",
+    "confidence": "moderate",
+    "public": true,
+    "sources": [
+      "Maryland State Archives, William Atkinson Selby legislative biography",
+      "Worcester County Court criminal proceedings, C2035-2, 1778-1779, K reverse, MdHR 9706-2"
+    ],
+    "note": "The official MSA biography reports the indictment and supplies an archival series lead. The underlying order-book pages, indictment, recognizance, securities, and final disposition have not yet been imaged, so the exact charge and outcome remain unverified."
+  },
+  {
+    "id": "CLM-0046",
+    "category": "death",
+    "claim": "William Atkinson Selby died on 2 August 1809 in Worcester County, Maryland, or Bourbon County, Kentucky.",
+    "status": "tradition_myth",
+    "confidence": "low",
+    "public": true,
+    "sources": [
+      "1929 lineage notes, G006169.pdf, page 13",
+      "Worcester County estate index, MDSA C2517-1"
+    ],
+    "note": "The 1929 notes expressly label the exact death as tradition. No matching 1809 Worcester probate entry was found in the official estate index, and no Bourbon probate has been located. The January 1811 Bourbon orphan order only proves death before that date."
+  },
+  {
+    "id": "CLM-0047",
+    "category": "lineage",
+    "claim": "Rhody Selby, born about 17 April 1800, was an infant orphan of William A. Selby, deceased.",
+    "status": "verified",
+    "confidence": "high",
+    "public": true,
+    "sources": [
+      "Bourbon County, Kentucky, court/deed order dated 7 January 1811, FamilySearch image 3Q9M-CSLX-V5KP"
+    ],
+    "note": "The original record directly calls Rhody an infant orphan of W. A. Selby deceased and states that Rhody would be eleven on the following 17 April. It proves one child and that William died before 7 January 1811; it is not a probate file."
+  },
+  {
+    "id": "CLM-0048",
+    "category": "archive_reference",
+    "claim": "An 1809 Bourbon County probate or estate file for William Atkinson Selby has been identified.",
+    "status": "conflicted",
+    "confidence": "high",
+    "public": true,
+    "sources": [
+      "Bourbon County orphan order, FamilySearch image 3Q9M-CSLX-V5KP",
+      "1929 lineage notes, G006169.pdf"
+    ],
+    "note": "No 1809 Bourbon probate file or locator has been found. The record recovered is a January 1811 orphan order. It supports death and Rhody's parentage but cannot be cited as a will, inventory, settlement, guardianship file, or complete heir list."
+  },
+  {
+    "id": "CLM-0049",
+    "category": "identity",
+    "claim": "The GEDCOM couple William Atkinson Selbee (1457-1509) and Sarah White Townsend (1462-1509) represents the eighteenth-century Maryland couple.",
+    "status": "conflicted",
+    "confidence": "high",
+    "public": true,
+    "sources": [
+      "Selby_extended - 2025 06 22 19-17.ged"
+    ],
+    "note": "The GEDCOM assigns fifteenth-century dates to a near-identical name pair, creating a sixteenth-to-eighteenth-century identity collision. These entries are quarantined and must not be used as evidence for the Maryland marriage."
+  },
+  {
+    "id": "CLM-0050",
+    "category": "marriage",
+    "claim": "Benjamin Selby married Sophia E. Stone in Shelby County, Kentucky, on 5 January 1854.",
+    "status": "verified",
+    "confidence": "high",
+    "public": true,
+    "sources": [
+      "Shelby County marriage record, FamilySearch image 3QSQ-G937-27DK"
+    ],
+    "note": "The original record identifies Benjamin of Frankfort, age 29, born in Henry County, and Sophia E. Stone, age 17, born in Mississippi, and records their marriage on 5 January 1854."
+  },
+  {
+    "id": "CLM-0051",
+    "category": "lineage",
+    "claim": "Frederick Payne Selby was a son of Benjamin Selby and Sophia or Docia Elizabeth Stone Selby.",
+    "status": "verified",
+    "confidence": "high",
+    "public": true,
+    "sources": [
+      "1884 Orleans Parish marriage register description for Frederick Payne Selby and Elizabeth Dolan",
+      "1880 United States census, Benjamin Selby household, FamilySearch image 33S7-9YBH-9LC",
+      "1854 Benjamin Selby-Sophia E. Stone marriage, FamilySearch image 3QSQ-G937-27DK"
+    ],
+    "note": "The 1884 relationship-bearing marriage entry names Frederick's parents; the 1880 original census places Payne, age 18, in the household of Ben and Docia Selby. The 1854 marriage proves the parental couple's marriage."
+  },
+  {
+    "id": "CLM-0052",
+    "category": "identity",
+    "claim": "Sophia E. Stone in the 1854 marriage and Docia Elizabeth Selby in the later family record are the same woman.",
+    "status": "inference",
+    "confidence": "moderate",
+    "public": true,
+    "sources": [
+      "1854 Shelby County marriage record, FamilySearch image 3QSQ-G937-27DK",
+      "1880 United States census, FamilySearch image 33S7-9YBH-9LC",
+      "1874 Henry County birth index for Roberts Selby, FamilySearch ARK FWKK-B57",
+      "1938 Kentucky death certificate for Robert C. Selby, FamilySearch image 3Q9M-C9YK-Z9VM-7",
+      "1884 Orleans Parish marriage register description"
+    ],
+    "note": "The spouse, age progression, family structure, Stone surname, and two independent records naming Robert's mother Docie/Docia Stone strengthen the correlation. No inspected record explicitly states that Sophia and Docia were the same woman, so this remains an inference."
+  },
+  {
+    "id": "CLM-0053",
+    "category": "census",
+    "claim": "In 1880 Benjamin Selby's household reported that both of his parents were born in Kentucky.",
+    "status": "sourced_unverified",
+    "confidence": "moderate",
+    "public": true,
+    "sources": [
+      "1880 United States census, Benjamin Selby household, FamilySearch image 33S7-9YBH-9LC"
+    ],
+    "note": "This is a direct reading of the census fields but the informant is unknown and census parent-birthplace answers can be inaccurate. It materially conflicts with assigning Benjamin to a Maryland-born Major Selby without additional proof."
+  },
+  {
+    "id": "CLM-0054",
+    "category": "lineage",
+    "claim": "Major Selby was Benjamin Selby's father.",
+    "status": "conflicted",
+    "confidence": "low",
+    "public": true,
+    "sources": [
+      "Aethelred project lineage assertions",
+      "1880 United States census, FamilySearch image 33S7-9YBH-9LC",
+      "Henry Circuit Court attorney admission, 9 April 1849, FamilySearch image 3Q9M-CSLL-BSJT-V",
+      "William McCracken will and probate, 1860, FamilySearch image 33SQ-GP3T-5X6",
+      "Compiled FamilySearch profiles for Benjamin and Major Selby"
+    ],
+    "note": "No inspected birth, marriage, probate, guardianship, deed, census, obituary, Bible, court, or bar record names Major as Benjamin's father. Benjamin's 1849 attorney admission and 1860 probate-witness appearance establish his adult Henry County network but supply no parentage. The asserted link remains open and must not be published as fact."
+  },
+  {
+    "id": "CLM-0055",
+    "category": "identity",
+    "claim": "A Major Selby was an adult land purchaser in Bourbon County, Kentucky, in 1811.",
+    "status": "verified",
+    "confidence": "high",
+    "public": true,
+    "sources": [
+      "Bourbon County Deed Book H, page 456, FamilySearch image 3Q9M-CSLX-V5CN",
+      "Bourbon County grantor index, FamilySearch image 3Q9M-CS4K-2Q9G-P"
+    ],
+    "note": "Joseph K. Glenn and others conveyed roughly 100 acres derived from James Dudley's estate to Major Selby of Bourbon County on 27 June 1811; the deed was recorded 3 February 1812. This proves an adult Kentucky identity but no relationship to William A. Selby."
+  },
+  {
+    "id": "CLM-0056",
+    "category": "identity",
+    "claim": "All early records naming Major Selby refer to one man.",
+    "status": "conflicted",
+    "confidence": "high",
+    "public": true,
+    "sources": [
+      "1783 Worcester County, Maryland, assessment",
+      "1811 Bourbon County Deed Book H, page 456",
+      "1820 Nicholas County, Kentucky, census entries on pages 111 and 129",
+      "Compiled profile reporting a Major Selby born in 1781 or 1783 in Maryland"
+    ],
+    "note": "The 1783 assessment requires an adult landholder, while the compiled profile describes a man born about 1781-1783. The Bourbon and Nicholas records require separate correlation, and two distinct 1820 census index entries appear on pages 111 and 129. These identities may not be merged without relationship and chronology proof."
+  },
+  {
+    "id": "CLM-0057",
+    "category": "lineage",
+    "claim": "Polly Selby, who married William Antrobus in Nicholas County in 1825, was a daughter of Major Selby.",
+    "status": "verified",
+    "confidence": "high",
+    "public": true,
+    "sources": [
+      "Nicholas County marriage authorization, FamilySearch image 33SQ-G1GN-YWN",
+      "Nicholas County marriage bond, FamilySearch image 33S7-L1GN-P78"
+    ],
+    "note": "Two independent parts of the original marriage file name Polly as Major Selby's daughter. The authorization states that her father personally consented; the bond is executed by William Antrobus and Major Selby."
+  },
+  {
+    "id": "CLM-0058",
+    "category": "lineage",
+    "claim": "The 1825 William Antrobus-Polly Selby marriage file proves Polly was William Atkinson Selby's daughter.",
+    "status": "conflicted",
+    "confidence": "high",
+    "public": true,
+    "sources": [
+      "Nicholas County marriage authorization, FamilySearch image 33SQ-G1GN-YWN",
+      "Nicholas County marriage bond, FamilySearch image 33S7-L1GN-P78",
+      "FamilySearch attachment to William Atkinson Selby profile L63H-9MF"
+    ],
+    "note": "The original records expressly identify Major Selby—not William Atkinson Selby—as Polly's father. William was already deceased by January 1811. The online attachment creates a false generational bridge and must be detached from the proof chain."
+  },
+  {
+    "id": "CLM-0059",
+    "category": "lineage",
+    "claim": "William Atkinson Selby was Major Selby's father.",
+    "status": "conflicted",
+    "confidence": "low",
+    "public": true,
+    "sources": [
+      "Aethelred project lineage assertions",
+      "Angelo Atkinson will, MSA S538-50",
+      "Bourbon orphan order, FamilySearch image 3Q9M-CSLX-V5KP",
+      "1825 Nicholas County marriage file"
+    ],
+    "note": "No inspected record names Major as William's son. Angelo's will proves William's earlier ancestry and the Bourbon order proves Rhody as William's child, but neither names Major. The 1825 file previously used as a child link instead identifies Major as Polly's father."
+  },
+  {
+    "id": "CLM-0060",
+    "category": "lineage",
+    "claim": "Thomas Selby of Bourbon County was Major Selby's father.",
+    "status": "inference",
+    "confidence": "low",
+    "public": true,
+    "sources": [
+      "Aethelred project lineage assertions",
+      "Compiled Selby profiles and tax references"
+    ],
+    "note": "No inspected relationship-bearing record proves this parent-child link, and the multiple Major Selby identity problem prevents safe correlation. Probate, guardianship, deeds, tax adjacency, and church records must be searched before promotion."
+  },
+  {
+    "id": "CLM-0061",
+    "category": "identity",
+    "claim": "A William Selby appearing as a Bourbon County estate-sale purchaser in 1813 was William Atkinson Selby.",
+    "status": "conflicted",
+    "confidence": "high",
+    "public": true,
+    "sources": [
+      "1813 George Mountjoy estate sale record",
+      "7 January 1811 Bourbon orphan order for Rhody Selby"
+    ],
+    "note": "William A. Selby was already described as deceased in January 1811, so an adult William Selby purchasing in 1813 must be treated as another person unless the date or reading is disproved."
+  },
+  {
+    "id": "CLM-0062",
+    "category": "archive_reference",
+    "claim": "The two indexed 1820 Nicholas County census entries for Major Selby have been fully correlated as duplicates or separate households.",
+    "status": "conflicted",
+    "confidence": "moderate",
+    "public": true,
+    "sources": [
+      "1820 Nicholas County census, page 111, FamilySearch image 33S7-9YYJ-TY9",
+      "1820 Nicholas County census, page 129, FamilySearch image 33SQ-GYYJ-BZS"
+    ],
+    "note": "Both distinct original census pages are now preserved. Their different page neighborhoods are visible, but the two Major Selby entries still require household-column transcription and correlation with tax districts, deeds, and later censuses before deciding whether they are two men, duplicate enumeration, or an index problem."
+  },
+  {
+    "id": "CLM-0063",
+    "category": "identity",
+    "claim": "The Benjamin Selby heading a Frankfort household in 1840 was not the Benjamin Selby born about 1824-1825.",
+    "status": "verified",
+    "confidence": "high",
+    "public": true,
+    "sources": [
+      "1840 Franklin County census, Frankfort, page 328, FamilySearch image 33SQ-GYYT-9M6C"
+    ],
+    "note": "The original census row reports one free white male aged 50-59 and no male aged 15-19. The household head was therefore an older Benjamin, not the later Henry County attorney, and the row does not place the younger Benjamin in that household."
+  },
+  {
+    "id": "CLM-0064",
+    "category": "genealogy",
+    "claim": "The 1874 Henry County birth index for Roberts Selby names Benjamin Selby and Docie Stone as his parents.",
+    "status": "sourced_unverified",
+    "confidence": "moderate",
+    "public": true,
+    "sources": [
+      "Kentucky birth index for Roberts Selby, 15 April 1874, FamilySearch ARK FWKK-B57"
+    ],
+    "note": "The indexed entry independently agrees with Robert C. Selby's 1938 death certificate, but the underlying birth-register image was not available for inspection and the one-year difference from the death certificate's reported birth date remains unresolved."
+  },
+  {
+    "id": "CLM-0065",
+    "category": "event",
+    "claim": "Benjamin Selby was admitted to practice as an attorney and counsellor at law in Henry Circuit Court on 9 April 1849.",
+    "status": "verified",
+    "confidence": "high",
+    "public": true,
+    "sources": [
+      "Henry Circuit Court order, 9 April 1849, FamilySearch image 3Q9M-CSLL-BSJT-V"
+    ],
+    "note": "The original court order names Benjamin Selby with George C. Drane and records that each took the prescribed oath. It establishes Benjamin's occupation and a precise Henry County anchor, but does not name his parents."
+  },
+  {
+    "id": "CLM-0066",
+    "category": "event",
+    "claim": "Ben Selby witnessed William McCracken's 1860 will and Benjamin Selby proved it in Henry County probate court.",
+    "status": "verified",
+    "confidence": "high",
+    "public": true,
+    "sources": [
+      "William McCracken will dated 26 May 1860 and November 1860 probate, FamilySearch image 33SQ-GP3T-5X6"
+    ],
+    "note": "The original will and probate entry provide a second Henry County professional-network anchor for Benjamin. The record contains no parentage statement."
+  },
+  {
+    "id": "CLM-0067",
+    "category": "event",
+    "claim": "William Atkinson Selby received an allowed payment from the Worcester County estate of Scarborough Parker after the estate inventory was exhibited in 1789.",
+    "status": "verified",
+    "confidence": "high",
+    "public": true,
+    "sources": [
+      "Scarborough Parker estate account, pages 216-217, FamilySearch images 3Q9M-CSTB-QQGP-J and 3Q9M-CSTB-QQRG-5"
+    ],
+    "note": "The original continuation page records payment to William Atkinson Selby. FamilySearch full-text discovery mislabeled the material as a Bourbon County court case, while the document header and parties identify Worcester County; the original governs the citation."
+  },
+  {
+    "id": "CLM-0068",
+    "category": "genealogy",
+    "claim": "An August 1780 Worcester County Orphans' Court order names Angelo Atkinson, John Atkinson, John Selby, William Atkinson Selby, Rachel Flemming, Mary White, and Nancy White as residuary legatees of John Atkinson.",
+    "status": "verified",
+    "confidence": "high",
+    "public": true,
+    "sources": [
+      "John Atkinson estate distribution order, August 1780, FamilySearch image 3Q9M-CSYX-BSJ1-8"
+    ],
+    "note": "The order directly proves the named group and places John Selby and William Atkinson Selby together in the Atkinson estate. It does not state each legatee's relationship to John Atkinson, so it cannot by itself prove a parent-child link."
+  },
+  {
+    "id": "CLM-0069",
+    "category": "legal_assertion",
+    "claim": "A 25 August 1780 appeal bond recites that John Atkinson made a will dated 21 March 1779 and binds Levin Blake and George Layfield to the same residuary legatees named in the estate dispute.",
+    "status": "verified",
+    "confidence": "high",
+    "public": true,
+    "sources": [
+      "John Atkinson estate appeal bond, 25 August 1780, FamilySearch image 3Q9M-CSYX-BSVS-Q"
+    ],
+    "note": "The bond identifies the testator's will date and confirms the litigating group. It also records that Mary, John Atkinson's executrix and widow, had married Levin Blake. Recovery of the 1779 will and appeal disposition is now the highest-value relationship test."
+  },
+  {
+    "id": "CLM-0070",
+    "category": "genealogy",
+    "claim": "Joshua Atkinson's 1773 Worcester County will names wife Sarah and children Rachel, Angelo, and John, and places underage Angelo under Townsend guardianship.",
+    "status": "verified",
+    "confidence": "high",
+    "public": true,
+    "sources": [
+      "Joshua Atkinson will dated 22 January 1773 and proved 23 April 1773, FamilySearch images 33SQ-GTBJ-S5K6 and 33SQ-GTBJ-S5GZ"
+    ],
+    "note": "Joshua directed that son Angelo be cared for by Solomon Townsend, with William Townsend as successor if Solomon died before Angelo reached twenty-one. The record proves a direct Atkinson-Townsend association but no Selby parentage."
+  },
+  {
+    "id": "CLM-0071",
+    "category": "identity",
+    "claim": "The Angelo Atkinson who was under twenty-one in 1773 was the same man whose will was proved in 1766.",
+    "status": "disproven",
+    "confidence": "high",
+    "public": true,
+    "sources": [
+      "Angelo Atkinson will proved 1766, MSA S538-50",
+      "Joshua Atkinson will proved 1773, FamilySearch images 33SQ-GTBJ-S5K6 and 33SQ-GTBJ-S5GZ"
+    ],
+    "note": "A person living and under twenty-one in 1773 cannot be the deceased testator whose will was proved in 1766. At least two distinct men named Angelo Atkinson must be maintained in the identity model."
+  }
+]

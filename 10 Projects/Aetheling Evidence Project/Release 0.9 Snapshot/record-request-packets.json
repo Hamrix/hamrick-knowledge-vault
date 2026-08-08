@@ -1,0 +1,565 @@
+[
+  {
+    "id": "RR-001",
+    "priority": "P0",
+    "title": "1884 Frederick Payne Selby–Elizabeth Dolan marriage register",
+    "claim_ids": [
+      "CLM-0029"
+    ],
+    "repository": "Louisiana Secretary of State, Louisiana State Archives",
+    "route_ids": [
+      "ROUTE-001"
+    ],
+    "objective": "Preserve the complete relationship-bearing record already described as reviewed.",
+    "search_parameters": "Orleans Parish; 20 December 1884; Frederick Payne Selby and Elizabeth Dolan; reported Book 19, folio 168.",
+    "request_fields": [
+      "index entry",
+      "complete register page",
+      "book and folio",
+      "record date",
+      "party ages and birthplaces",
+      "parents",
+      "witnesses and officiant"
+    ],
+    "acceptance_test": "The delivered image visibly includes the named couple and reported locator; provenance, filename, rights, receipt, and SHA-256 are logged.",
+    "privacy": "Metadata and a rights-cleared transcription may be public; preserve the archival image privately until rights review.",
+    "status": "Draft ready; no order, payment, filing, or message has been submitted. User approval is required before any fee or external submission."
+  },
+  {
+    "id": "RR-002",
+    "priority": "P0",
+    "title": "1938 Robert C. Selby Louisville death certificate",
+    "claim_ids": [
+      "CLM-0030"
+    ],
+    "repository": "Kentucky Department for Libraries and Archives",
+    "route_ids": [
+      "ROUTE-002"
+    ],
+    "objective": "Accession the certificate and distinguish the informant's statements from facts recorded by the registrar or physician.",
+    "search_parameters": "Robert Carr or Robert C. Selby; died 15 March 1938; Louisville/Jefferson County, Kentucky; born about 18 April 1875.",
+    "request_fields": [
+      "certificate number",
+      "full certificate image",
+      "death and burial data",
+      "parents as reported",
+      "informant name and relationship",
+      "filing date"
+    ],
+    "acceptance_test": "The certificate identity matches date, place, spouse or household context, and the informant is recorded separately from the asserted parents.",
+    "privacy": "Deceased-person metadata may be cited; the certificate image stays restricted pending rights and family-sensitivity review.",
+    "status": "Draft ready; no order, payment, filing, or message has been submitted. User approval is required before any fee or external submission."
+  },
+  {
+    "id": "RR-003",
+    "priority": "P0",
+    "title": "1910 Lawrenceburg Benjamin Selby Jr. household schedule",
+    "claim_ids": [
+      "CLM-0031"
+    ],
+    "repository": "US National Archives and Records Administration",
+    "route_ids": [
+      "ROUTE-003"
+    ],
+    "objective": "Preserve the household schedule that separates Benjamin Jr. from Benjamin Sr.",
+    "search_parameters": "1910 census; Lawrenceburg, Anderson County, Kentucky; Benjamin or Ben Selby, Hettie or Etta Willis, and James G. W. Selby.",
+    "request_fields": [
+      "state and county",
+      "enumeration district",
+      "sheet",
+      "dwelling and family numbers",
+      "publication and roll",
+      "full schedule image"
+    ],
+    "acceptance_test": "The exact household is located and the full archival citation is captured; the schedule is not used to infer an unlisted relationship.",
+    "privacy": "Use a redacted or rights-cleared excerpt only after accession review.",
+    "status": "Draft ready; no order, payment, filing, or message has been submitted. User approval is required before any fee or external submission."
+  },
+  {
+    "id": "RR-004",
+    "priority": "P0",
+    "title": "Superseded Major Selby Henry County estate hypothesis",
+    "claim_ids": [
+      "CLM-0032",
+      "CLM-0036"
+    ],
+    "repository": "No request should be sent under this formulation; use RR-017 and RR-018",
+    "route_ids": [
+      "ROUTE-002"
+    ],
+    "objective": "Preserve the audit trail for a discarded request that prematurely merged a Maryland/Indiana Major Selby profile with Benjamin Selby's Henry County birthplace.",
+    "search_parameters": "Do not order a post-1861 Henry County Major Selby estate on the prior identity assumption. Separate the 1783 Worcester, 1811 Bourbon, 1820 Nicholas, and later Maryland/Indiana records first.",
+    "request_fields": [
+      "case or packet number",
+      "will or administration bond",
+      "inventory and sale bill",
+      "settlement accounts",
+      "heirs or distributees",
+      "guardian bonds",
+      "post-death deeds"
+    ],
+    "acceptance_test": "Not applicable. RR-017 governs Major Selby identity separation and RR-018 governs Benjamin Selby's parentage.",
+    "privacy": "Historic records only; do not infer identity across same-name men without dates, places, and associates.",
+    "status": "Superseded on 2026-08-08 before submission; no order, payment, filing, or message was made."
+  },
+  {
+    "id": "RR-005",
+    "priority": "P0",
+    "title": "Robert Benjamin Selby–Docia Stone marriage and Stone parentage",
+    "claim_ids": [
+      "CLM-0029",
+      "CLM-0030"
+    ],
+    "repository": "Kentucky state or county marriage custodian; Henry and adjacent counties first",
+    "route_ids": [
+      "ROUTE-002"
+    ],
+    "objective": "Document the marriage and test the GEDCOM's proposed Docia–Frank Stone–Sophia MNU Stone Bryant family rather than merging names by assumption.",
+    "search_parameters": "Robert Benjamin or Benjamin Selby, born 1826; Docia/Dosea Stone, born about 1836–1840; marriage likely before Frederick's 1861 birth; Kentucky and nearby jurisdictions.",
+    "request_fields": [
+      "license",
+      "bond",
+      "return",
+      "consent",
+      "minister or officiant",
+      "residence",
+      "parent or guardian references",
+      "original image and exact locator"
+    ],
+    "acceptance_test": "The parties are matched through age, residence, associates, and later household records; Sophia and Docia remain separate unless a record proves otherwise.",
+    "privacy": "Historic deceased persons; publish conclusions only after resolving alternate names and identity conflicts.",
+    "status": "Draft ready; no order, payment, filing, or message has been submitted. User approval is required before any fee or external submission."
+  },
+  {
+    "id": "RR-006",
+    "priority": "P0",
+    "title": "1788 Etheldred Peters Craven County estate file",
+    "claim_ids": [
+      "CLM-0034",
+      "CLM-0035"
+    ],
+    "repository": "State Archives of North Carolina",
+    "route_ids": [
+      "ROUTE-004"
+    ],
+    "objective": "Identify heirs, administrators, land, debts, and associates without assuming an English birthplace or parentage.",
+    "search_parameters": "Craven County, North Carolina; Etheldred/Ethelred Peters; estate activity in or about 1788.",
+    "request_fields": [
+      "administration bond",
+      "inventory",
+      "sale bill",
+      "accounts",
+      "petitions",
+      "heirs or distributees",
+      "land descriptions",
+      "box, folder, volume, page, and image identifiers"
+    ],
+    "acceptance_test": "Complete file or explicit negative search result is preserved; origin claims remain separate from local family relationships.",
+    "privacy": "Historic record; metadata and transcription may be public after rights review.",
+    "status": "Draft ready; no order, payment, filing, or message has been submitted. User approval is required before any fee or external submission."
+  },
+  {
+    "id": "RR-007",
+    "priority": "P0",
+    "title": "1786 Swift Creek tax-list preservation copy",
+    "claim_ids": [
+      "CLM-0034"
+    ],
+    "repository": "State Archives of North Carolina",
+    "route_ids": [
+      "ROUTE-004"
+    ],
+    "objective": "Add the already reviewed taxpayer/son entry to the immutable accession store.",
+    "search_parameters": "Treasurer's and Comptroller's Papers; Craven County; Box 9; 1786 Swift Creek tax list; Etheldred Peters and John Peters.",
+    "request_fields": [
+      "complete image",
+      "front/back if present",
+      "box and folder hierarchy",
+      "page or image number",
+      "repository citation",
+      "reproduction terms"
+    ],
+    "acceptance_test": "The image supports the transcription at the stated locator and receives filename, receipt, rights, and SHA-256 metadata.",
+    "privacy": "Historic record; publish only a rights-cleared image or transcription.",
+    "status": "Draft ready; no order, payment, filing, or message has been submitted. User approval is required before any fee or external submission."
+  },
+  {
+    "id": "RR-008",
+    "priority": "P1",
+    "title": "1783 Worcester County assessment context for Major Selby",
+    "claim_ids": [
+      "CLM-0036"
+    ],
+    "repository": "Maryland State Archives",
+    "route_ids": [
+      "ROUTE-005"
+    ],
+    "objective": "Preserve the official assessment context and keep the adult taxpayer separate from a man reportedly born in 1783.",
+    "search_parameters": "1783 Worcester County Assessment; Acquango Hundred; Major Selby; 140 acres called Choice.",
+    "request_fields": [
+      "full page or leaf",
+      "volume and page",
+      "column headings",
+      "adjacent entries",
+      "land name and acreage",
+      "stable official URL or reproduction metadata"
+    ],
+    "acceptance_test": "The adult landholder context is visible; no parentage or later-life identity is inferred from the assessment alone.",
+    "privacy": "Official historic metadata and transcription may be public.",
+    "status": "Draft ready; no order, payment, filing, or message has been submitted. User approval is required before any fee or external submission."
+  },
+  {
+    "id": "RR-009",
+    "priority": "P0",
+    "title": "Durham shelfmark correction and B.III.2 repository inquiry",
+    "claim_ids": [
+      "CLM-0039"
+    ],
+    "repository": "Durham University Library Archives and Special Collections",
+    "route_ids": [
+      "ROUTE-008"
+    ],
+    "objective": "Retire DPRI/2/23 as a 1703 court-roll citation and ask staff to confirm whether Palatinate MSS B.III.2, folio 14v exists as described.",
+    "search_parameters": "Purported 1703 'Selby v Ogle' manorial court roll; claimed Palatinate MSS B.III.2, folio 14 verso; separate erroneous citation DPRI/2/23.",
+    "request_fields": [
+      "collection title",
+      "full current shelfmark",
+      "catalogue description",
+      "date and jurisdiction",
+      "folio identification",
+      "complete reproduction",
+      "staff confirmation of any superseded citation"
+    ],
+    "acceptance_test": "A repository response or catalogue entry independently identifies the item; the unsigned dossier certification is not accepted.",
+    "privacy": "Repository correspondence may be quoted only with permission; catalogue facts may be cited publicly.",
+    "status": "Draft ready; no order, payment, filing, or message has been submitted. User approval is required before any fee or external submission."
+  },
+  {
+    "id": "RR-010",
+    "priority": "P0",
+    "title": "White House parcel identification and official title copies",
+    "claim_ids": [
+      "CLM-0005",
+      "CLM-0007",
+      "CLM-0008",
+      "CLM-0038"
+    ],
+    "repository": "HM Land Registry",
+    "route_ids": [
+      "ROUTE-010",
+      "ROUTE-011"
+    ],
+    "objective": "Identify the exact parcel associated with Historic England 1316283 before making any ownership, lordship, or rights proposition.",
+    "search_parameters": "The White House, Old Hull Road, Cliffe; map search and index-map search if address search is inconclusive; quarantine NYK12345.",
+    "request_fields": [
+      "title number returned by official search",
+      "register",
+      "title plan",
+      "index-map result",
+      "historical registers if relevant",
+      "deeds referred to in the register",
+      "receipts and search dates"
+    ],
+    "acceptance_test": "The property description and plan match the exact building/parcel; registered land, lordship title, manorial land, and manorial rights remain separate analyses.",
+    "privacy": "Do not republish current private ownership or contact details beyond lawful, necessary citation; use official copies for legal proof.",
+    "status": "Draft ready; no order, payment, filing, or message has been submitted. User approval is required before any fee or external submission."
+  },
+  {
+    "id": "RR-011",
+    "priority": "P0",
+    "title": "TNA E 179 hearth-tax reference correction",
+    "claim_ids": [
+      "CLM-0040"
+    ],
+    "repository": "The National Archives (UK)",
+    "route_ids": [
+      "ROUTE-009",
+      "ROUTE-014"
+    ],
+    "objective": "Identify the correct hearth-tax piece for Whitehouse/Cliffe after the official E 179 direct-reference lookup returned no match for 216/493.",
+    "search_parameters": "Hearth tax, 1662–1674; Cliffe/Whitehouse and relevant East or North Riding jurisdiction; claimed reference E 179/216/493; purported order reference to be proven separately.",
+    "request_fields": [
+      "correct E 179 piece or item",
+      "tax grant and collection",
+      "date",
+      "place-name headings",
+      "rotulet or membrane",
+      "order history or receipt",
+      "complete image and catalogue description"
+    ],
+    "acceptance_test": "The corrected catalogue record exists and the image actually contains the relied-upon place/person text; a dossier transcription alone is rejected.",
+    "privacy": "Catalogue metadata may be public; publish images only under applicable rights terms.",
+    "status": "Draft ready; no order, payment, filing, or message has been submitted. User approval is required before any fee or external submission."
+  },
+  {
+    "id": "RR-012",
+    "priority": "P0",
+    "title": "Original Headen family Bible and independent 1782 Selby-Townsend marriage evidence",
+    "claim_ids": [
+      "CLM-0044"
+    ],
+    "repository": "Present Bible custodian; Maryland State Archives; Worcester County churches and historical societies",
+    "route_ids": [],
+    "objective": "Replace the 1929 Bible transcript with a provenance-complete image of the original entry and an independent contemporaneous or near-contemporaneous marriage record.",
+    "search_parameters": "William Atkinson Selby; Sarah White Townsend; 28 February 1782; Snow Hill, Worcester County, Maryland; Headen Bible; Townsend and Selby family papers.",
+    "request_fields": [
+      "Bible title and publication pages",
+      "complete family-register leaves",
+      "binding and handwriting images",
+      "chain of custody",
+      "church register or minister return",
+      "license, bond, consent, or newspaper notice",
+      "repository locator and rights"
+    ],
+    "acceptance_test": "The original entry is visibly linked to the Bible and its custody, or an independent record names the couple and date. A later unsourced family-tree copy is rejected.",
+    "privacy": "Historic metadata may be public; redact current private owner contact details unless permission is given.",
+    "status": "Draft ready; no message, order, payment, or visit has been submitted or booked."
+  },
+  {
+    "id": "RR-013",
+    "priority": "P0",
+    "title": "Complete 1779 William Atkinson Selby treason proceeding",
+    "claim_ids": [
+      "CLM-0045"
+    ],
+    "repository": "Maryland State Archives",
+    "route_ids": [],
+    "objective": "Recover every surviving page for the indictment for going over to the enemy, including recognizance, securities, continuances, witnesses, plea, and final disposition.",
+    "search_parameters": "Worcester County Court; June 1779 and adjacent terms; William Atkinson Selby, William Selby, William of John; C2035-2, 1778-1779, K reverse; MdHR 9706-2; microfilm CM1112-2, pages 1-120; related criminal papers and recognizance series.",
+    "request_fields": [
+      "complete order-book pages",
+      "indictment or information",
+      "recognizance bond",
+      "names of securities and witnesses",
+      "continuances and marginal notes",
+      "final judgment or dismissal",
+      "series, volume, folio, image, and rights"
+    ],
+    "acceptance_test": "The delivered pages identify the defendant and preserve the full procedural sequence; an index or biography alone does not prove the charge language or outcome.",
+    "privacy": "Eighteenth-century court metadata and a rights-cleared transcription may be public.",
+    "status": "Draft ready; likely search-room or staff-copy request. No request or payment has been submitted."
+  },
+  {
+    "id": "RR-014",
+    "priority": "P1",
+    "title": "William Atkinson Selby 1780 militia and public-service evidence",
+    "claim_ids": [
+      "CLM-0045"
+    ],
+    "repository": "Maryland State Archives and Maryland Historical Society collections",
+    "route_ids": [],
+    "objective": "Test whether later militia or public-service records resolve the 1779 proceeding and distinguish William Atkinson Selby from other Worcester men named William Selby.",
+    "search_parameters": "William Atkinson Selby; Worcester County militia; 1779-1782; reported 1780 page 211; legislative biography source notes; William of John; Nassawadux/Pocomoke Hundred.",
+    "request_fields": [
+      "complete muster or appointment page",
+      "unit, rank, date, and locality",
+      "pay or supply records",
+      "oath or loyalty record",
+      "adjacent names",
+      "repository locator and rights"
+    ],
+    "acceptance_test": "The original record identifies the man with enough name, locality, associates, or kinship evidence to distinguish him from same-name alternatives.",
+    "privacy": "Historic metadata may be public.",
+    "status": "Draft ready; no external request has been submitted."
+  },
+  {
+    "id": "RR-015",
+    "priority": "P0",
+    "title": "Angelo Atkinson probate packet and Mary Atkinson parentage test",
+    "claim_ids": [
+      "CLM-0042",
+      "CLM-0043"
+    ],
+    "repository": "Maryland State Archives and Worcester County land/probate offices",
+    "route_ids": [],
+    "objective": "Find a direct record naming Mary Atkinson as John Selby's wife or William Atkinson Selby's mother while preserving the already proven Angelo-John-William relationships.",
+    "search_parameters": "Angelo, Angele, Angel, or Angello Atkinson; will proved 1766; John Selby; Mary Atkinson or Selby; Sarah, William Atkinson, and John Selby; Worcester and Somerset Counties.",
+    "request_fields": [
+      "original will packet",
+      "probate act and witnesses",
+      "inventory and appraisement",
+      "administration accounts and distributions",
+      "receipts from legatees",
+      "guardian records",
+      "deeds, marriage agreements, and releases"
+    ],
+    "acceptance_test": "A contemporary record expressly connects Mary to John or William, or a documented proof argument combines independent records without circular reliance on the MSA biography.",
+    "privacy": "Eighteenth-century records may be public, subject to archive image rights.",
+    "status": "Initial will and index accessioned; supporting probate and land records remain to be requested."
+  },
+  {
+    "id": "RR-016",
+    "priority": "P0",
+    "title": "William A. Selby death, estate, and complete Bourbon orphan reconstruction",
+    "claim_ids": [
+      "CLM-0046",
+      "CLM-0047",
+      "CLM-0048",
+      "CLM-0059",
+      "CLM-0061"
+    ],
+    "repository": "Bourbon County Clerk; Kentucky Department for Libraries and Archives; Maryland State Archives",
+    "route_ids": [],
+    "objective": "Determine when and where William died, reconstruct every heir or orphan, and test—not assume—any relationship to Major Selby.",
+    "search_parameters": "William Atkinson Selby, William A. Selby, W. A. Selby, William Selby; 1808-1812; Bourbon County and Worcester County; Rhody born about 17 April 1800; orphan, apprenticeship, guardian, probate, inventory, sale, account, deed, tax, and court-order records.",
+    "request_fields": [
+      "will or administration bond",
+      "inventory and sale bill",
+      "settlement and distribution",
+      "guardian or apprenticeship orders",
+      "heirs and widow",
+      "land and tax cessation",
+      "adjacent court orders before and after 7 January 1811",
+      "negative-search log for each series"
+    ],
+    "acceptance_test": "A relationship-bearing original record identifies wife, child, heir, guardian, or estate representative. The Rhody order alone is not represented as a complete probate or heir list.",
+    "privacy": "Historic records may be public; retain archive receipts and image-rights terms privately.",
+    "status": "One direct orphan order accessioned; no 1809 probate has been found or claimed as complete."
+  },
+  {
+    "id": "RR-017",
+    "priority": "P0",
+    "title": "Major Selby identity separation and parentage proof",
+    "claim_ids": [
+      "CLM-0055",
+      "CLM-0056",
+      "CLM-0057",
+      "CLM-0059",
+      "CLM-0060",
+      "CLM-0062"
+    ],
+    "repository": "Worcester County and Maryland State Archives; Bourbon and Nicholas County clerks; Kentucky Department for Libraries and Archives; U.S. National Archives",
+    "route_ids": [],
+    "objective": "Separate the adult 1783 Worcester landholder, the 1811 Bourbon purchaser, the 1820 Nicholas household or households, and the later Maryland-born compiled profile before assigning parents or children.",
+    "search_parameters": "Major, Mager, Majer, or Magor Selby; Worcester 1775-1800; Bourbon 1800-1820; Nicholas 1810-1840; Choice tract; Deed Book H page 456; 1820 census pages 111 and 129; Polly Selby and William Antrobus; all tax, deed, probate, church, marriage, military, and court records.",
+    "request_fields": [
+      "full 1783 assessment context",
+      "all Bourbon and Nicholas deeds and tax entries",
+      "both 1820 census pages",
+      "marriage bonds and consents",
+      "probate and guardianship files",
+      "migration or land-sale records",
+      "spouse, heirs, witnesses, neighbors, and signatures or marks"
+    ],
+    "acceptance_test": "Each record is assigned to an identity only after chronology, geography, household structure, associates, and relationship evidence agree. Name similarity alone is rejected.",
+    "privacy": "Historic records may be public, subject to repository rights.",
+    "status": "The 1811 deed, both distinct 1820 census pages, and the 1825 daughter proof are accessioned; household transcription and identity correlation remain open."
+  },
+  {
+    "id": "RR-018",
+    "priority": "P0",
+    "title": "Benjamin Selby parentage and Henry County origin proof",
+    "claim_ids": [
+      "CLM-0050",
+      "CLM-0051",
+      "CLM-0052",
+      "CLM-0053",
+      "CLM-0054",
+      "CLM-0063",
+      "CLM-0064",
+      "CLM-0065",
+      "CLM-0066"
+    ],
+    "repository": "Henry, Franklin, Trimble, and Oldham County clerks and courts; Kentucky Department for Libraries and Archives; local newspapers and bar records",
+    "route_ids": [],
+    "objective": "Identify Benjamin's parents from original relationship-bearing records and test the project assertion that Major Selby was his father.",
+    "search_parameters": "Benjamin or Ben Selby, born about 1824-1827 in Henry County, Kentucky; admitted to the Henry Circuit Court bar 9 April 1849 with George C. Drane; witnessed William McCracken's 1860 will with E. P. Thomas Jr.; lawyer in Frankfort; married Sophia E. Stone 5 January 1854; children including Frederick Payne and Robert C. Selby; 1820-1890; Selby households in Henry, Trimble, Oldham, Franklin, and adjacent counties.",
+    "request_fields": [
+      "birth or baptism",
+      "minor guardianship or apprenticeship",
+      "school and bar-admission files",
+      "marriage bond, consent, and witnesses",
+      "death certificate and obituary",
+      "will, administration, and heir deeds",
+      "cemetery or Bible record",
+      "tax and census cluster",
+      "siblings and collateral probate"
+    ],
+    "acceptance_test": "A contemporary record names a parent, or a documented proof argument uses multiple independent sources and eliminates competing Selby households. The 1880 parent-birthplace report is weighed but not treated as conclusive.",
+    "privacy": "Nineteenth-century records may be public; do not publish modern descendants' private information.",
+    "status": "Marriage, census, 1849 bar-admission, 1860 probate-witness, 1874 birth-index, and 1938 child death-certificate anchors are documented. The 1840 Frankfort head was an older Benjamin. No inspected record currently names the younger Benjamin's parents."
+  },
+  {
+    "id": "RR-019",
+    "priority": "P1",
+    "title": "Frederick Payne Selby parental-couple closure packet",
+    "claim_ids": [
+      "CLM-0029",
+      "CLM-0051",
+      "CLM-0052"
+    ],
+    "repository": "Louisiana State Archives; U.S. National Archives; Franklin County records; cemetery and newspaper repositories",
+    "route_ids": [
+      "ROUTE-001"
+    ],
+    "objective": "Convert the currently described 1884 marriage anchor into an accessioned image and resolve Sophia versus Docia as the same mother.",
+    "search_parameters": "Frederick Payne Selby and Elizabeth Dolan, 20 December 1884, Orleans Parish, reportedly Book 19 folio 168; Benjamin Selby; Sophia E., Docia E., or Docia Elizabeth Stone; Payne Selby born about 1861-1862 Kentucky.",
+    "request_fields": [
+      "official marriage index and full register page",
+      "parents and birthplaces",
+      "witnesses and officiant",
+      "Benjamin and spouse death records",
+      "obituaries and cemetery records",
+      "family Bible or probate references",
+      "complete citation, receipt, rights, and hash"
+    ],
+    "acceptance_test": "The 1884 image is accessioned and an independent record explicitly equates or consistently identifies Sophia and Docia Elizabeth Stone Selby.",
+    "privacy": "Historic metadata may be public; preserve certified copies and receipts privately until rights review.",
+    "status": "The 1874 child birth index and 1938 child death certificate independently name Docie/Docia Stone, strengthening the correlation; the official 1884 image and an explicit Sophia-Docia identity statement remain to be recovered."
+  },
+  {
+    "id": "RR-020",
+    "priority": "P0",
+    "title": "John Atkinson 1779 will and 1780 appeal-disposition relationship test",
+    "claim_ids": [
+      "CLM-0043",
+      "CLM-0068",
+      "CLM-0069"
+    ],
+    "repository": "Worcester County Register of Wills and Orphans' Court; Maryland State Archives",
+    "route_ids": [],
+    "objective": "Recover the complete 21 March 1779 will of John Atkinson and the final disposition of the August 1780 distribution appeal so the exact relationships of John Selby, William Atkinson Selby, and the other residuary legatees can be tested.",
+    "search_parameters": "John Atkinson, will dated 21 March 1779; widow and executrix Mary, later wife of Levin Blake; residuary legatees Angelo Atkinson, John Atkinson, John Selby, William Atkinson Selby, Rachel Flemming, Mary White, and Nancy White; Worcester County probate, Orphans' Court, appeal, administration-account, receipt, and release series, 1779-1785.",
+    "request_fields": [
+      "complete will and probate act",
+      "all codicils and witnesses",
+      "estate inventory and accounts",
+      "distribution petitions and orders",
+      "appeal transcript and final disposition",
+      "legatee receipts and releases",
+      "guardianship or minor-status records",
+      "exact series, volume, folio, image, and rights"
+    ],
+    "acceptance_test": "A contemporary original states the relationship or distributive share of one or more named legatees, or the complete file supports a documented proof argument without assuming that all residuary legatees were children.",
+    "privacy": "Eighteenth-century metadata and rights-cleared transcriptions may be public.",
+    "status": "Distribution order and appeal bond accessioned. The will and final appeal disposition have not yet been recovered."
+  },
+  {
+    "id": "RR-021",
+    "priority": "P1",
+    "title": "Atkinson same-name separation and Townsend guardianship packet",
+    "claim_ids": [
+      "CLM-0042",
+      "CLM-0043",
+      "CLM-0070",
+      "CLM-0071"
+    ],
+    "repository": "Worcester County probate, land, and court offices; Maryland State Archives",
+    "route_ids": [],
+    "objective": "Separate the older Angelo Atkinson whose will was proved in 1766 from Joshua Atkinson's underage son Angelo living in 1773, then trace the latter's Townsend guardianship and adult deeds without merging identities.",
+    "search_parameters": "Angelo, Angel, Angele, or Angello Atkinson; Joshua Atkinson; Sarah, Rachel, and John Atkinson; Solomon and William Townsend; Worcester County, 1760-1800; guardian bonds, accounts, land partitions, deeds, tax lists, wills, inventories, and marriage records.",
+    "request_fields": [
+      "guardian appointment and bond",
+      "annual guardian accounts",
+      "age or birth evidence",
+      "land inherited from Joshua",
+      "deeds after majority",
+      "signatures or marks",
+      "spouse, children, associates, and exact localities",
+      "negative-search log for each series"
+    ],
+    "acceptance_test": "Each Angelo is represented as a separate identity with a non-overlapping chronology and independently supported family, land, or guardian context.",
+    "privacy": "Eighteenth-century metadata may be public, subject to repository image rights.",
+    "status": "Joshua's 1773 will and the older Angelo's 1766 will are accessioned; the disproof of a single identity is complete, but the younger Angelo's life reconstruction remains open."
+  }
+]
