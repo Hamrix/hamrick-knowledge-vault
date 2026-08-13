@@ -33,6 +33,8 @@ The 2026-08-09 [[Generation Proof Continuation - 2026-08-09|generation proof con
 
 The 2026-08-13 [[Generation Proof Continuation - 2026-08-13|generation proof continuation]] follows an older Worcester generation downward. A visually reviewed 1948 compiled genealogy reports Major among the children of Thomas and Elizabeth Selby and cites Thomas-family deeds involving *Choice* and *Dull Folly*. Because the list derives from later family testimony, it remains a targeted hypothesis. Authenticated probate images now distinguish two Charles Parker estates: Collins Parker administered the first in 1761, while a second Charles made a will in 1787 that directly named wife Ann and sons John, Charles, Selby, and Thomas. The will proves Selby Parker was Charles's son; Selby then administered that estate in 1788. Prerogative Court Liber 38 independently corroborates the earlier administration and inventory but shows that two additional indexed folios are unrelated surety appearances, not kinship evidence. The original Liber 48 account further confirms Collins's administrative role and was passed on 21 May 1762, but names no heirs or relationship. The records do not connect Selby Parker to a person named Major Selby or identify the Maryland testator as Margaret Selby's Kentucky brother Charles.
 
+The same continuation now reaches the complete JW 21 Orphans Court volume through the Worcester County Library Digital Archive. A visually reviewed guardian bond dated 11 June 1790 directly identifies George Selby and Elizabeth Selby as orphans of Parker Selby, deceased. This proves two additional Parker-to-child links while preserving the identity boundary: no reviewed record yet joins their father to the Parker described in 1791 as Captain John Selby's son.
+
 ## Workstreams
 
 - Modern documented lineage
@@ -131,6 +133,8 @@ Use the Genealogical Proof Standard:
 - [[The later Nicholas County Henry Selby is strongly identified as Major Selbys son]]
 - [[FamilySearch - Margaret Selby 1836 will and estate settlements]]
 - [[Maryland State Archives - Charles Parker 1762 Worcester administration account]]
+- [[Worcester Digital Archive - Parker Selby children 1790 guardian bond]]
+- [[Parker Selby was father of George and Elizabeth Selby]]
 
 The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby workstreams remain research targets. None is currently a proven lineage in this vault.
 
@@ -198,6 +202,8 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 - [ ] Retrieve the later Charles Parker estate's 1790 account or distribution from JW 21, 1793 second inventory from LH 2, and Orphans Court proceedings; transcribe distribution and later-identity statements
 
 ## Change log
+
+- 2026-08-13 - Located the complete Worcester Orphans Court Proceedings JW 21 film in the Worcester County Library Digital Archive. Visual review of the June Court 1790 index and manuscript pages did not expose the indexed Charles Parker target, so that search remains open. The same review recovered an 11 June 1790 guardian bond directly calling George and Elizabeth orphans of deceased Parker Selby. Added the two confirmed parent-child links without merging this Parker into the 1791 Captain John Selby estate cluster.
 
 - 2026-08-13 - Reviewed every Liber 38 folio assigned to Charles and Collins Parker in the Maryland colonial probate index. Folio 93 corroborates Collins's administration with Charles and John Parker as sureties, and folio 163 records Charles Parker's inventory. Folios 133 and 328 instead show Charles Parker serving as surety in the Angus Marsden and Micajah Burgess estates. A manual review of the alphabetical Hudson Worcester balance-book film found no Charles Parker entry between Parramore and the Samuel and George Parker entries. None of these records states Collins's kinship to the decedent.
 - 2026-08-13 - Used the Maryland Prerogative Court accounts index to locate Charles Parker at Liber 48, folio 128, then reviewed the original folios 128-129. The account confirms Collins Parker as administrator and was sworn and passed on 21 May 1762, but it names no heirs and defines no relationship. The remaining later-estate targets are Worcester distribution book JW 21 for 1790 and inventory book LH 2 for 1793; the archive guide marks those images as searchroom-only.

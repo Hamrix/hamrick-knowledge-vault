@@ -75,6 +75,16 @@ The account names no heirs, makes no distribution to a family class, and does no
 | Selby Parker - Schoolfield Parker - John Selby (of Ezekiel) | Bond-party association confirmed; remaining relationships unknown | Original 1788 bond names the parties; the will resolves only Selby's relationship to Charles. |
 | Worcester Charles Parker - Margaret Selby's brother Charles | Unproved | No migration or person-specific cross-reference joins the Maryland decedent to the Kentucky executor. |
 | Selby Parker - any Major Selby | Unproved | The shared word Selby is a given name in one record set and a surname in the other; no reviewed record identifies the men or links their families. |
+| Parker Selby - George Selby and Elizabeth Selby | Confirmed | A contemporary 11 June 1790 guardian bond directly calls George and Elizabeth orphans of deceased Parker Selby. |
+| The children's father Parker - Captain John Selby's son Parker | Unproved | The 1790 guardianship and 1791 de bonis non bond are close in date and county, but no reviewed docket cross-reference explicitly joins the two records. |
+
+## JW 21 Orphans Court follow-up
+
+The Worcester County Library Digital Archive exposes the complete JW 21 Orphans Court Proceedings volume despite the Maryland State Archives guide's searchroom limitation on its own image interface. The archive's film header identifies JW 21 as covering 1789-1791 and including guardian bonds, annual valuations, and distributions.
+
+Visual review of the June Court 1790 index pages and manuscript pages 44-48 found no Charles Parker entry at the indexed 28 May 1790 target. That absence is not treated as proof that the account is missing: the estate index may point to the separate distribution series contained elsewhere on the film, and the June docket includes continuations from prior court terms.
+
+The same review recovered [[Worcester Digital Archive - Parker Selby children 1790 guardian bond]]. On 11 June 1790, George Selby and Elizabeth Selby were each expressly described as orphans of Parker Selby, deceased, and placed under Nancy Gunby's guardianship. This directly proves [[Parker Selby was father of George and Elizabeth Selby|Parker-to-George and Parker-to-Elizabeth]]. It does not yet connect those children to the Parker identified in 1791 as a son of Captain John Selby.
 
 ## Next proof targets
 
@@ -83,6 +93,7 @@ The account names no heirs, makes no distribution to a family class, and does no
 3. Search Thomas and Elizabeth Selby probate, church, deed, and estate records for an explicit complete child class or a direct mention of Major.
 4. Research John Selby (of Ezekiel) and the bond-signature conflict through independent probate, deed, tax, church, and signature records.
 5. Keep all Major identity clusters separate until a record explicitly bridges age, family, residence, or title.
+6. Trace George and Elizabeth Selby's guardian accounts and later receipts, then compare their estate references against the 1791 Parker Selby de bonis non bond.
 
 ## Sources and claims added
 
@@ -104,3 +115,5 @@ The account names no heirs, makes no distribution to a family class, and does no
 - [[Charles Parker identified Selby Parker as his son in his 1787 will]]
 - [[FamilySearch - Charles Parker 1761-1762 testamentary proceedings]]
 - [[Maryland State Archives - Charles Parker 1762 Worcester administration account]]
+- [[Worcester Digital Archive - Parker Selby children 1790 guardian bond]]
+- [[Parker Selby was father of George and Elizabeth Selby]]
