@@ -15,6 +15,7 @@ An original Worcester County administration bond dated 11 February 1761 names Co
 ## Evidence supporting
 
 - [[FamilySearch - Charles Parker 1761 Worcester administration bond]] records the visually reviewed original bond and letters.
+- [[FamilySearch - Charles Parker 1761-1762 testamentary proceedings]] independently abstracts the same administration at Prerogative Court Liber 38, folio 93.
 - [[Maryland State Archives - Charles Parker Worcester estate index]] separately indexes the administration on 12 February 1761 and names Collins as administrator with Charles and John Parker as sureties.
 
 ## Evidence against
@@ -27,7 +28,7 @@ FamilySearch OCR misreads the bond and letters years. Visual review, the estate 
 
 ## Analysis
 
-The record establishes a tightly associated Parker probate group. It does not state whether any bound party was a son, brother, nephew, creditor, neighbor, or other associate of the decedent. The bound Charles Parker is necessarily a living participant distinct from the deceased Charles Parker, but the record gives no relationship between them.
+The records establish a tightly associated Parker probate group. They do not state whether any bound party was a son, brother, nephew, creditor, neighbor, or other associate of the decedent. The bound Charles Parker is necessarily a living participant distinct from the deceased Charles Parker, but neither the county bond nor the Prerogative Court abstract gives a relationship between them.
 
 ## Confidence rationale
 
@@ -35,4 +36,4 @@ The record establishes a tightly associated Parker probate group. It does not st
 
 ## Next research action
 
-Retrieve the May 1762 account and related Orphans Court proceedings for heir, legatee, or distribution language. Keep this intestate administration separate from the later Charles Parker will proved in 1788.
+Retrieve the May 1762 account and related Orphans Court proceedings for heir, legatee, or distribution language. Liber 38 folios 133 and 328 are collateral surety appearances, not the estate account. Keep this intestate administration separate from the later Charles Parker will proved in 1788.

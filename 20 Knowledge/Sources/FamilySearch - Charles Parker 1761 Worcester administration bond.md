@@ -23,6 +23,10 @@ The original recorded bond names **Collins Parker, Charles Parker, and John Park
 
 Visual review reads the bond date as 11 February 1761 and the letters date as 12 February 1761. FamilySearch's automated transcript renders the final digit inconsistently as 1760 and 1766. The general estate index uses 12 February 1761, corresponding to the grant of letters. The original manuscript and estate sequence control over the OCR.
 
+## Independent record-book corroboration
+
+[[FamilySearch - Charles Parker 1761-1762 testamentary proceedings]] records the Prerogative Court abstract at Liber 38, folio 93. It independently names Collins Parker as administrator and living Charles Parker and John Parker as sureties for the deceased Charles Parker's estate. The abstract uses 12 February 1761, aligning with the grant of letters rather than changing the original bond's visually read execution date of 11 February.
+
 ## Reliability and limitations
 
 This is a contemporary recorded administration bond and directly proves the administrative and bond-party roles. It does not state how Collins Parker, the bound Charles Parker, John Parker, and the deceased Charles Parker were related. In particular, the repeated Charles name must not be treated as proof that the co-obligor and decedent were the same person.

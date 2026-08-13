@@ -30,6 +30,10 @@ This is a contemporary recorded probate instrument and is direct evidence that S
 
 The FamilySearch automated transcript renders the oath year as 1767. Visual review of the original page and correlation with the 1761 estate index support 1761; the OCR reading is not adopted.
 
+## Independent record-book corroboration
+
+[[FamilySearch - Charles Parker 1761-1762 testamentary proceedings]] records the Prerogative Court entry at Liber 38, folio 163, stating that Charles Parker's inventory was among the Worcester County proceedings exhibited and ordered recorded. That abstract confirms the inventory's transmission and recording but adds no kinship or distribution language.
+
 ## File integrity
 
 - Downloaded image retained outside Git: `image (26).jpg`

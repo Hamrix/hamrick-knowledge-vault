@@ -35,10 +35,13 @@ This official archival index confirms two same-name estate entries, the administ
 
 The original 1761 inventory names Samuel Parker and Phillip P. Parker under "Kin." The original 1788 inventory names John Parker and Ann Parker under "Nearest of Kin." The 1787 will now directly identifies John as the later Charles's son, Ann as his wife, and Selby Parker as his son. The 1790 account, 1793 second inventory, and Orphans Court proceedings remain necessary for distribution and later-identity evidence.
 
+The separate Maryland colonial probate index for Testamentary Proceedings assigns Liber 38 folios **93-133-163-328** to both Charles Parker and Collins Parker. Direct page review in [[FamilySearch - Charles Parker 1761-1762 testamentary proceedings]] shows that folio 93 abstracts the estate administration and folio 163 records Charles Parker's inventory, while folios 133 and 328 are Charles Parker surety appearances in other estates. Only folio 93 names Collins. The duplicated folio string is therefore a retrieval aid, not proof that both men appear on every page or were related.
+
 ## Corroborating digital surrogate
 
 - FamilySearch, *General index to estates, 1742-1908*, DGS 005080354, image 55 of 87, 1761 Charles Parker row: https://www.familysearch.org/ark:/61903/3:1:33S7-9T1D-YZY?view=fullText&keywords=Charles+Parker&lang=en
 - FamilySearch, same film, image 58 of 87, 1788 Charles Parker row: https://www.familysearch.org/ark:/61903/3:1:33S7-9T1D-YZ2?view=fullText&keywords=Charles+Parker&lang=en&groupId=M9LR-V8C
+- Maryland State Archives, Probate Records, Colonial, Index, volume 16, page 108, Charles and Collins Parker entries: https://msa.maryland.gov/megafile/msa/stagser/s500/s530/000000/000016/pdf/mdsa_s530_16.pdf
 - Downloaded image 55 retained outside Git: `image (25).jpg`
 - SHA-256: `1CCBDAE80A5231FD70776CF9A15FD114C13EE34C5B7FEFA150C79FAEACC7EAC5`
 
