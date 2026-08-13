@@ -33,4 +33,3 @@ At a FamilySearch Center or affiliate library, open film 14543 / DGS 8141714 and
 ## Claims supported
 
 - [[Parker Selby was father of George and Elizabeth Selby]] - source-location and access support only; no confidence change.
-

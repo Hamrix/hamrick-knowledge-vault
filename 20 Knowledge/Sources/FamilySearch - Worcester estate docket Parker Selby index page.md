@@ -33,4 +33,3 @@ This is a page-image review of the county estate docket, but a docket is an inde
 ## Claims supported
 
 - [[The 1790 and 1791 Parker Selby records describe different estate histories]]
-
