@@ -27,13 +27,15 @@ Full review of the higher-resolution FamilySearch surrogate corrects the earlier
 - a later Charles Parker row with **Selby Parker** as administrator and bond dated 16 February 1788, on FamilySearch image 58;
 - the later row's account and additional-inventory columns, which direct research to 28 May 1790 and 12 March 1793 filings.
 
+The separate Prerogative Court accounts index now resolves the earlier estate's account citation as Liber 48, folio 128. Direct review is recorded in [[Maryland State Archives - Charles Parker 1762 Worcester administration account]].
+
 The 1761 row appears on FamilySearch image 55 and the 1788 row on image 58. Charles Parker's will dated 7 June 1787 independently proves that the 1788 testator could not be the man already deceased in 1761. The earlier version of this note also misread the first administration date as 16 February 1786. Alignment against the administrator and surety columns, plus the original 1761 bond and inventory, corrects the indexed date to **12 February 1761**. The original bond was executed on 11 February, with letters granted on 12 February. Both corrections are recorded explicitly rather than silently replacing the prior readings.
 
 ## Reliability and limitations
 
 This official archival index confirms two same-name estate entries, the administrators' names, the 1761 sureties, and the indexed filing targets. It does not itself state relationships, identify either Charles as Margaret Selby's father or brother, or connect either Maryland estate to the later Kentucky Charles Parker whom Margaret Selby called her brother.
 
-The original 1761 inventory names Samuel Parker and Phillip P. Parker under "Kin." The original 1788 inventory names John Parker and Ann Parker under "Nearest of Kin." The 1787 will now directly identifies John as the later Charles's son, Ann as his wife, and Selby Parker as his son. The 1790 account, 1793 second inventory, and Orphans Court proceedings remain necessary for distribution and later-identity evidence.
+The original 1761 inventory names Samuel Parker and Phillip P. Parker under "Kin." The original 1762 account names Collins Parker as administrator but no heirs and no relationship. The original 1788 inventory names John Parker and Ann Parker under "Nearest of Kin." The 1787 will now directly identifies John as the later Charles's son, Ann as his wife, and Selby Parker as his son. The 1790 account or distribution, 1793 second inventory, and Orphans Court proceedings remain necessary for later-estate distribution and identity evidence.
 
 The separate Maryland colonial probate index for Testamentary Proceedings assigns Liber 38 folios **93-133-163-328** to both Charles Parker and Collins Parker. Direct page review in [[FamilySearch - Charles Parker 1761-1762 testamentary proceedings]] shows that folio 93 abstracts the estate administration and folio 163 records Charles Parker's inventory, while folios 133 and 328 are Charles Parker surety appearances in other estates. Only folio 93 names Collins. The duplicated folio string is therefore a retrieval aid, not proof that both men appear on every page or were related.
 

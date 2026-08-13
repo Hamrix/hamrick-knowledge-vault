@@ -79,11 +79,12 @@ The 2026-08-13 [[Generation Proof Continuation - 2026-08-13]] adds a visually re
 - [[FamilySearch - Charles Parker 1761 Worcester administration bond]] - original bond naming Collins Parker administrator and Charles and John Parker as bound parties.
 - [[FamilySearch - Charles Parker 1761 Worcester inventory]] - original inventory naming Samuel Parker and Phillip P. Parker under "Kin."
 - [[FamilySearch - Charles Parker 1761-1762 testamentary proceedings]] - Prerogative Court abstracts corroborating the 1761 administration and inventory while separating two later Charles Parker surety appearances from the estate.
+- [[Maryland State Archives - Charles Parker 1762 Worcester administration account]] - original Prerogative Court account, Liber 48 folios 128-129, confirming Collins Parker's administrative role and the 21 May 1762 passage without naming heirs or a relationship.
 - [[FamilySearch - Charles Parker 1788 Worcester administration bond]] - original bond and letters naming Selby Parker administrator and the three bound parties.
 - [[FamilySearch - Charles Parker 1788 Worcester inventory]] - original inventory naming John Parker and Ann Parker under "Nearest of Kin."
 - [[FamilySearch - Charles Parker 1787 Worcester County will]] - recorded will directly identifying wife Ann and sons John, Charles, Selby, and Thomas, with additional daughters and Polly's heirs.
 - [[FamilySearch - James Campbell 1766 Worcester will]] - collateral financial or legal association mentioning Charles Parker; no kinship or identity bridge.
-- [[FamilySearch - Charles Parker account search negative result 2026-08-13]] - authenticated search log retained as an OCR false-negative audit; manual volume browsing later found the will, while the accounts and second inventory remain unresolved.
+- [[FamilySearch - Charles Parker account search negative result 2026-08-13]] - authenticated search log retained as an OCR false-negative audit; manual volume browsing later found the will and archive-series work found the 1762 account, while the 1790 filing and 1793 second inventory remain unresolved.
 
 - [[Bosworth-Toller - æþeling]] — scholarly historical dictionary entry.
 - [[Dumville 1979 - The ætheling]] — peer-reviewed study of the title and royal succession.
@@ -204,4 +205,5 @@ These are research targets, not facts. No family-tree connection should be creat
 - [x] Retrieve Charles Parker's 1788 inventory and administration bond; record its nearest-kin and bond-party language without assigning unstated relationships.
 - [x] Retrieve Charles Parker's 1761 administration bond; record Collins Parker's administration and Charles and John Parker's bond roles without assigning unstated relationships.
 - [x] Retrieve Charles Parker's 1787 will and record the directly stated wife, child, executor, and witness relationships.
-- [ ] Retrieve the separate estates' 1762 account, 1790 account, 1793 second inventory, and Orphans Court proceedings; search for distribution and later-identity statements.
+- [x] Retrieve the earlier Charles Parker estate's original 1762 account in Prerogative Court Accounts Liber 48, folios 128-129; record that it names Collins as administrator but no heirs or relationship.
+- [ ] Retrieve the later Charles Parker estate's 1790 account or distribution from Worcester JW 21, 1793 second inventory from LH 2, and Orphans Court proceedings; search for distribution and later-identity statements. The archive guide currently marks the relevant volume images as searchroom-only.

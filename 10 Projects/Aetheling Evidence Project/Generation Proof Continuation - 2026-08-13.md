@@ -44,7 +44,13 @@ The Maryland colonial probate index assigns Testamentary Proceedings Liber 38 fo
 - folio 133 names Charles Parker and Samuel Dreaden as sureties for Mary Marsden in the Angus Marsden estate; and
 - folio 328 names Charles Parker and Adam Stevenson as sureties for Daniel Burgess in the Micajah Burgess estate.
 
-The shared index string is not four kinship-bearing references for both Charles and Collins. Only folio 93 names Collins, and none of the four states his relationship to the decedent. Folios 133 and 328 are collateral appearances by a Charles Parker, not continuations of Charles Parker's estate. The indexed May 1762 account remains unlocated.
+The shared index string is not four kinship-bearing references for both Charles and Collins. Only folio 93 names Collins, and none of the four states his relationship to the decedent. Folios 133 and 328 are collateral appearances by a Charles Parker, not continuations of Charles Parker's estate.
+
+## Original 1762 account follow-up
+
+The Maryland Prerogative Court accounts index locates Charles Parker's entry at **Liber 48, folio 128, Worcester County**. Direct visual review of [[Maryland State Archives - Charles Parker 1762 Worcester administration account]] establishes that Collins Parker filed the account as administrator and that it was sworn and passed on 21 May 1762. Folios 128-129 record the inventory charge, debts and administrative payments, and a small balance in the administrator's favor.
+
+The account names no heirs, makes no distribution to a family class, and does not state Collins's relationship to Charles. It strengthens the bounded estate timeline but does not supply the missing generational link. The separate 28 May 1790 account or distribution remains targeted to Worcester distribution book JW 21, and the 12 March 1793 second inventory to inventory book LH 2; the Maryland State Archives guide currently marks the relevant images as searchroom-only.
 
 ## Reviewed collateral hit
 
@@ -52,7 +58,7 @@ The shared index string is not four kinship-bearing references for both Charles 
 
 ## Account and will-copy search
 
-[[FamilySearch - Charles Parker account search negative result 2026-08-13]] records the authenticated full-text searches for the indexed 1762 and 1790 accounts, 1793 second inventory, and will copy. The will was subsequently found by manually browsing the exact 1783-1790 will volume, proving the search result was a false negative. A further manual review of the Hudson Worcester balance-book compilation found Samuel and George Parker entries but no Charles Parker entry at the alphabetical surname transition. Because that film is a later distribution abstract rather than the original account book, the account and second-inventory targets remain unresolved and require original-volume or archive-request work.
+[[FamilySearch - Charles Parker account search negative result 2026-08-13]] records the authenticated full-text searches for the indexed 1762 and 1790 accounts, 1793 second inventory, and will copy. The will was subsequently found by manually browsing the exact 1783-1790 will volume, proving the search result was a false negative. The 1762 account was then recovered through the Maryland State Archives accounts index and original-volume route. A further manual review of the Hudson Worcester balance-book compilation found Samuel and George Parker entries but no Charles Parker entry at the alphabetical surname transition. The remaining 1790 and 1793 targets require the original Worcester distribution and inventory volumes or an archive request.
 
 ## Generation-link assessment
 
@@ -73,7 +79,7 @@ The shared index string is not four kinship-bearing references for both Charles 
 ## Next proof targets
 
 1. Retrieve Worcester Deeds B:203, F:542, and G:303 and the 10 April 1802 Thomas Jr. conveyance; construct a parcel-by-parcel title table for *Choice* and *Dull Folly*.
-2. Retrieve the separate estates' 1762 and 1790 accounts, the 1793 second inventory, and Orphans Court proceedings; transcribe every distribution and later-identity reference. Do not substitute Liber 38 folios 133 or 328, which are now proved to be collateral surety appearances.
+2. Retrieve the 1790 account or distribution from Worcester distribution book JW 21, the 1793 second inventory from inventory book LH 2, and related Orphans Court proceedings; transcribe every distribution and later-identity reference. Do not substitute Liber 38 folios 133 or 328, which are now proved to be collateral surety appearances.
 3. Search Thomas and Elizabeth Selby probate, church, deed, and estate records for an explicit complete child class or a direct mention of Major.
 4. Research John Selby (of Ezekiel) and the bond-signature conflict through independent probate, deed, tax, church, and signature records.
 5. Keep all Major identity clusters separate until a record explicitly bridges age, family, residence, or title.
@@ -97,3 +103,4 @@ The shared index string is not four kinship-bearing references for both Charles 
 - [[FamilySearch - Charles Parker 1787 Worcester County will]]
 - [[Charles Parker identified Selby Parker as his son in his 1787 will]]
 - [[FamilySearch - Charles Parker 1761-1762 testamentary proceedings]]
+- [[Maryland State Archives - Charles Parker 1762 Worcester administration account]]
