@@ -23,7 +23,7 @@ The parent-child wording is direct for the two people named in the bond. The sam
 
 This claim deliberately does not merge the decedent with another Parker Selby. In particular, it does not prove that he was the ca. 1746/47 Parker reported as John Selby Esq.'s father in the legislative biography or the Parker whose 1773 will named brothers James and John. Those identities require the original earlier estate docket, land division, or a relationship-bearing chancery record.
 
-[[Worcester Digital Archive - Parker Selby children 1790 guardian bond]] separately proves that a deceased Parker Selby was father of minor George and Elizabeth in June 1790. The close date and shared county make that guardianship a strong comparison target, but the reviewed bond does not expressly join the two estates. The children are therefore not assigned to Captain John's line through this claim.
+[[Worcester Digital Archive - Parker Selby children 1790 guardian bond]] separately proves that a deceased Parker Selby was father of minor George and Elizabeth in June 1790. The official index records multiple late Parker estate tracks, including an April 1789 estate under Nancy Selby, a January 1790 estate under James Selby, and this 1791 de bonis non estate formerly administered by John Selby, Esquire. The guardian bond names no docket or paternal grandfather, so the children are not assigned to Captain John's line through this claim.
 
 ## Confidence rationale
 
@@ -31,4 +31,4 @@ This claim deliberately does not merge the decedent with another Parker Selby. I
 
 ## Next research action
 
-Retrieve the original opening papers and docket for this Parker estate and compare its first administrator, dates, land, heirs, and account history with the 1790 George-and-Elizabeth guardianship, the ca. 1746/47 estate, and the 1795 Parker chancery case.
+Retrieve this estate's 1776 opening record, 1791 inventory, and 1793 account. Compare its land and heirs with the 1790 executor-led estate without merging the files.

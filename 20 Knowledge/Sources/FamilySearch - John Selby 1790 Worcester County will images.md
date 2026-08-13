@@ -22,6 +22,7 @@ Digitized manuscript will record. The will occupies the opening and continuation
 
 - The testator signs as John Selby; the probate entry identifies him as John Selby, Esquire, late of Worcester County.
 - The will calls James Selby, Daniel Selby, and William Selby the testator's sons.
+- It calls Nancy Gunby the testator's daughter. It separately calls George a son of Nancy, Betsey Selby a daughter of Nancy, and John Selby a son of Nancy.
 - It repeatedly calls Major Selby the testator's grandson and expressly names **"Major Selby son of John"** among four grandsons: William Selby son of Daniel, Major Selby son of John, John Selby son of Nancy Gunby, and Parker Selby son of James.
 - It gives land and personal property to Major, directs delivery at maturity or marriage, and includes Major in a survivorship devise with son James and the other named grandsons.
 - The will names Ann Selby as the testator's wife and executrix. The probate material records her oath and her election of dower on 10 December 1790.
@@ -43,6 +44,8 @@ The will proves the colonial minor Major's place in this family. It does not ide
 
 - [[John Selby named James Daniel and William Selby as sons in his 1790 will]]
 - [[John Selby Esq was grandfather of Major Selby through his son John]]
+- [[John Selby was father of Nancy Gunby and grandfather of George and Betsey Selby]]
+- [[Nancy Gunby is strongly identified as mother of George and Elizabeth Selby]]
 
 ## Claims contradicted
 

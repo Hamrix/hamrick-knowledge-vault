@@ -76,7 +76,9 @@ The account names no heirs, makes no distribution to a family class, and does no
 | Worcester Charles Parker - Margaret Selby's brother Charles | Unproved | No migration or person-specific cross-reference joins the Maryland decedent to the Kentucky executor. |
 | Selby Parker - any Major Selby | Unproved | The shared word Selby is a given name in one record set and a surname in the other; no reviewed record identifies the men or links their families. |
 | Parker Selby - George Selby and Elizabeth Selby | Confirmed | A contemporary 11 June 1790 guardian bond directly calls George and Elizabeth orphans of deceased Parker Selby. |
-| The children's father Parker - Captain John Selby's son Parker | Unproved | The 1790 guardianship and 1791 de bonis non bond are close in date and county, but no reviewed docket cross-reference explicitly joins the two records. |
+| The children's father Parker - Captain John Selby's son Parker | Unproved and not merged | The index records multiple separate Parker estate tracks. The guardian bond names no docket or paternal grandfather. |
+| John Selby - daughter Nancy Gunby - her children George and Betsey Selby | Confirmed | John's 1790 will directly states both generations within one testamentary family group. |
+| Betsey Selby in John's will - Elizabeth Selby in Parker's guardian bond | Strongly identified | Both are Nancy's minor daughter in the same 1790 Worcester cluster, and Betsey is a common form of Elizabeth; no reviewed record expressly equates the names. |
 
 ## JW 21 Orphans Court follow-up
 
@@ -86,6 +88,16 @@ Visual review of the June Court 1790 index pages and manuscript pages 44-48 foun
 
 The same review recovered [[Worcester Digital Archive - Parker Selby children 1790 guardian bond]]. On 11 June 1790, George Selby and Elizabeth Selby were each expressly described as orphans of Parker Selby, deceased, and placed under Nancy Gunby's guardianship. This directly proves [[Parker Selby was father of George and Elizabeth Selby|Parker-to-George and Parker-to-Elizabeth]]. It does not yet connect those children to the Parker identified in 1791 as a son of Captain John Selby.
 
+## Parker estate differentiation and downward proof
+
+Direct review of [[FamilySearch - Parker Selby 1790 Worcester executor bond]] establishes that James Selby qualified as executor under one deceased Parker Selby's will on 29 January 1790, with William Selby and Dennis Hudson bound with him. [[Maryland State Archives - Parker Selby Worcester estate index]] places that bond, a 24 June 1790 inventory, and a 15 May 1792 account in a row labeled Parker "of Wm."
+
+The separate [[FamilySearch - Parker Selby 1791 Worcester de bonis non bond]] appoints James Selby and John Gunby administrators de bonis non and says John Selby, Esquire, had been the former administrator. The index places it in a separate Parker "of John" row. [[The 1790 and 1791 Parker Selby records describe different estate histories]]. A third row records filings on 3 and 18 April 1789 under Nancy Selby, followed by a 1791 inventory, later accounts, and a distribution. This Nancy-administered track is the leading candidate for the children's father, but the guardian bond does not state its docket, so the identity remains unproved.
+
+John Selby's 1790 will supplies a maternal cluster. It calls Nancy Gunby his daughter, George her son, Betsey Selby her daughter, and John Selby her son. Read with the June guardian bond, this [[Nancy Gunby is strongly identified as mother of George and Elizabeth Selby|strongly identifies Nancy as mother of George and Elizabeth or Betsey]], but no single reviewed record yet calls Nancy Parker's widow or expressly equates Elizabeth with Betsey.
+
+[[Scarborough 1951 - George Selby 1802 Pleasant Grove deed transcription]] reports an enrolled Worcester deed calling George the eldest son and heir at law of deceased Parker Selby. It independently corroborates Parker-to-George and identifies Liber V, folios 236-238 as the original target. Because only the printed transcription has been reviewed, the deed is not yet used to extend Parker's paternal line.
+
 ## Next proof targets
 
 1. Retrieve Worcester Deeds B:203, F:542, and G:303 and the 10 April 1802 Thomas Jr. conveyance; construct a parcel-by-parcel title table for *Choice* and *Dull Folly*.
@@ -93,7 +105,7 @@ The same review recovered [[Worcester Digital Archive - Parker Selby children 17
 3. Search Thomas and Elizabeth Selby probate, church, deed, and estate records for an explicit complete child class or a direct mention of Major.
 4. Research John Selby (of Ezekiel) and the bond-signature conflict through independent probate, deed, tax, church, and signature records.
 5. Keep all Major identity clusters separate until a record explicitly bridges age, family, residence, or title.
-6. Trace George and Elizabeth Selby's guardian accounts and later receipts, then compare their estate references against the 1791 Parker Selby de bonis non bond.
+6. Retrieve the April 1789 Nancy Selby opening papers, 25 August 1791 inventory, later accounts and distribution, plus Worcester Deed Liber V, folios 236-238; then trace George and Elizabeth through guardian receipts.
 
 ## Sources and claims added
 
@@ -117,3 +129,9 @@ The same review recovered [[Worcester Digital Archive - Parker Selby children 17
 - [[Maryland State Archives - Charles Parker 1762 Worcester administration account]]
 - [[Worcester Digital Archive - Parker Selby children 1790 guardian bond]]
 - [[Parker Selby was father of George and Elizabeth Selby]]
+- [[FamilySearch - Parker Selby 1790 Worcester executor bond]]
+- [[Maryland State Archives - Parker Selby Worcester estate index]]
+- [[The 1790 and 1791 Parker Selby records describe different estate histories]]
+- [[Nancy Gunby is strongly identified as mother of George and Elizabeth Selby]]
+- [[John Selby was father of Nancy Gunby and grandfather of George and Betsey Selby]]
+- [[Scarborough 1951 - George Selby 1802 Pleasant Grove deed transcription]]

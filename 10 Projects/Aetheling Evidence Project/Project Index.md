@@ -35,6 +35,8 @@ The 2026-08-13 [[Generation Proof Continuation - 2026-08-13|generation proof con
 
 The same continuation now reaches the complete JW 21 Orphans Court volume through the Worcester County Library Digital Archive. A visually reviewed guardian bond dated 11 June 1790 directly identifies George Selby and Elizabeth Selby as orphans of Parker Selby, deceased. This proves two additional Parker-to-child links while preserving the identity boundary: no reviewed record yet joins their father to the Parker described in 1791 as Captain John Selby's son.
 
+Further review now distinguishes at least three late Parker estate tracks: an April 1789 file under Nancy Selby, a January 1790 executor bond under James Selby indexed "of Wm.," and a June 1791 de bonis non file formerly administered by John Selby, Esquire, indexed "of John." The guardian bond names no docket, so George and Elizabeth are not attached to any paternal grandfather from those entries. John Selby's November 1790 will independently calls Nancy Gunby his daughter, George her son, and Betsey Selby her daughter. Combined with Nancy's June guardianship of Parker's orphans George and Elizabeth, this strongly identifies Nancy as their mother without yet proving her marriage to Parker in one instrument. A printed transcription of Worcester Deed Liber V:236-238 also calls George the eldest son and heir at law of deceased Parker; the original deed remains the next verification target.
+
 ## Workstreams
 
 - Modern documented lineage
@@ -135,6 +137,12 @@ Use the Genealogical Proof Standard:
 - [[Maryland State Archives - Charles Parker 1762 Worcester administration account]]
 - [[Worcester Digital Archive - Parker Selby children 1790 guardian bond]]
 - [[Parker Selby was father of George and Elizabeth Selby]]
+- [[FamilySearch - Parker Selby 1790 Worcester executor bond]]
+- [[Maryland State Archives - Parker Selby Worcester estate index]]
+- [[The 1790 and 1791 Parker Selby records describe different estate histories]]
+- [[Nancy Gunby is strongly identified as mother of George and Elizabeth Selby]]
+- [[John Selby was father of Nancy Gunby and grandfather of George and Betsey Selby]]
+- [[Scarborough 1951 - George Selby 1802 Pleasant Grove deed transcription]]
 
 The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby workstreams remain research targets. None is currently a proven lineage in this vault.
 
@@ -202,6 +210,8 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 - [ ] Retrieve the later Charles Parker estate's 1790 account or distribution from JW 21, 1793 second inventory from LH 2, and Orphans Court proceedings; transcribe distribution and later-identity statements
 
 ## Change log
+
+- 2026-08-13 - Distinguished three late Parker Selby estate tracks: an April 1789 file under Nancy Selby, a January 1790 James-executor file indexed "of Wm.," and a June 1791 de bonis non file indexed "of John." The guardian bond names no docket, so George and Elizabeth remain unattached to a paternal grandfather. John Selby's 1790 will strongly identifies guardian Nancy Gunby as their mother, and an 1802 deed transcription calls George Parker's eldest son and heir; original deed and estate-file retrieval remain pending.
 
 - 2026-08-13 - Located the complete Worcester Orphans Court Proceedings JW 21 film in the Worcester County Library Digital Archive. Visual review of the June Court 1790 index and manuscript pages did not expose the indexed Charles Parker target, so that search remains open. The same review recovered an 11 June 1790 guardian bond directly calling George and Elizabeth orphans of deceased Parker Selby. Added the two confirmed parent-child links without merging this Parker into the 1791 Captain John Selby estate cluster.
 
