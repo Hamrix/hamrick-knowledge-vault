@@ -60,7 +60,7 @@ This creates a sharper research problem: determine how Poplar Hill and Exon Enla
 
 This creates a concrete upstream hypothesis for the adult Major assessed on part of *Choice* in 1783, but it does not prove the relationship or identify the listed child with that landholder. The compiled title narrative appears to leave a roughly 136-acre residue with Thomas Jr., while the assessment lists Major with 140 acres. Original deeds, surveys, assessment pages, and estate divisions must explain that apparent tension before tract similarity is treated as identity evidence.
 
-The same continuation now includes the original Charles Parker probate instruments. [[FamilySearch - Charles Parker 1761 Worcester administration bond]] names Collins Parker administrator, with a living Charles Parker and John Parker as bound parties. [[FamilySearch - Charles Parker 1761 Worcester inventory]] names Samuel Parker and Phillip P. Parker under "Kin." [[FamilySearch - Charles Parker 1788 Worcester administration bond]] names Selby Parker administrator and associates him with Schoolfield Parker and John Selby (of Ezekiel). [[FamilySearch - Charles Parker 1788 Worcester inventory]] names John Parker and Ann Parker under "Nearest of Kin." These are direct probate-role and kin-designation facts, but none states an exact relationship or identifies the decedent with Margaret Selby's Kentucky brother.
+The same continuation now includes two distinct Charles Parker probate clusters. [[FamilySearch - Charles Parker 1761 Worcester administration bond]] names Collins Parker administrator, with a living Charles Parker and John Parker as bound parties, while [[FamilySearch - Charles Parker 1761 Worcester inventory]] names Samuel Parker and Phillip P. Parker under "Kin." A different Charles made [[FamilySearch - Charles Parker 1787 Worcester County will]], directly naming wife Ann and children including son Selby Parker. [[FamilySearch - Charles Parker 1788 Worcester administration bond]] then names Selby administrator and associates him with Schoolfield Parker and John Selby (of Ezekiel). This proves [[Charles Parker identified Selby Parker as his son in his 1787 will|Charles-to-Selby Parker]] but does not identify Selby Parker with a person named Major Selby or connect the testator to Margaret Selby's Kentucky brother Charles.
 
 ## Next research action
 
@@ -80,7 +80,7 @@ Also retrieve and transcribe:
 - *John Selby v. Anthony Bacon and George S. Gunby*, filed 22 Jul. 1808, Worcester County, estate of Parker Selby, MSA S512-6-5087; Chancery Record 105, p. 770.
 - John Selby's 1790 will/trust and any related estate papers.
 - Worcester Deeds B:203, F:542, and G:303 and the 1802 Thomas Jr. conveyance affecting *Choice* and *Dull Folly*.
-- Charles Parker's 1762 account, 1790 account, 1793 second inventory, will copy, and related Orphans Court proceedings.
+- The separate Charles Parker estates' 1762 account, 1790 account, 1793 second inventory, and related Orphans Court proceedings.
 
 ## Sources
 
@@ -99,6 +99,7 @@ Also retrieve and transcribe:
 - [[FamilySearch - Charles Parker 1761 Worcester inventory]]
 - [[FamilySearch - Charles Parker 1788 Worcester administration bond]]
 - [[FamilySearch - Charles Parker 1788 Worcester inventory]]
+- [[FamilySearch - Charles Parker 1787 Worcester County will]]
 - [Maryland State Archives, Patents, Worcester, Tract Index (S1602)](https://guide.msa.maryland.gov/pages/series.aspx?id=S1602) (including 1761 *Choice*, 242 acres, S1602-1293)
 - [Archives of Maryland, vol. 18 index, p. 722](https://msa.maryland.gov/megafile/msa/speccol/sc2900/sc2908/000001/000018/html/am18--722.html)
 - [Archives of Maryland, Council-journal volume list](https://msa.maryland.gov/megafile/msa/speccol/sc2900/sc2908/html/executive.html)

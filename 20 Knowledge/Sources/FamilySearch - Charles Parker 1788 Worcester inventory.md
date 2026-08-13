@@ -26,7 +26,7 @@ The record separately names Samuel Handy and Levin Henderson as greatest credito
 
 ## Reliability and limitations
 
-This contemporary recorded probate instrument is direct evidence that John Parker and Ann Parker were entered as Charles Parker's nearest kin for this inventory. It does not state their exact relationships to Charles or to each other. Appraisers, creditors, and persons appearing in the desperate-debt lists are not treated as kin unless another record says so.
+This contemporary recorded probate instrument is direct evidence that John Parker and Ann Parker were entered as Charles Parker's nearest kin for this inventory. The inventory alone does not state their exact relationships, but [[FamilySearch - Charles Parker 1787 Worcester County will]] independently identifies John as Charles's son and Ann as Charles's wife. Appraisers, creditors, and persons appearing in the desperate-debt lists are not treated as kin unless another record says so.
 
 The same John Parker may be the John Parker indexed as a surety in the 1761 administration, but the records do not expressly state identity across the 27-year interval. That correlation remains a research hypothesis.
 
@@ -39,6 +39,7 @@ The same John Parker may be the John Parker indexed as a surety in the 1761 admi
 
 - [[Selby Parker administered Charles Parkers Worcester estate]]
 - [[John and Ann Parker were recorded as nearest kin to Charles Parker in 1788]]
+- [[Charles Parker identified Selby Parker as his son in his 1787 will]]
 
 ## Claims contradicted
 

@@ -15,6 +15,7 @@ Charles Parker's Worcester County inventory, dated 29 April 1788, names John Par
 ## Evidence supporting
 
 - [[FamilySearch - Charles Parker 1788 Worcester inventory]] records the visually reviewed original inventory.
+- [[FamilySearch - Charles Parker 1787 Worcester County will]] independently identifies John as Charles's son and Ann as Charles's wife and co-executor.
 
 ## Evidence against
 
@@ -22,12 +23,12 @@ No evidence against the literal nearest-kin entries was located.
 
 ## Conflicts
 
-The inventory does not state the exact relationship of John or Ann to Charles, nor does it establish Ann's maiden or married identity. Ann is not identified with any other Parker or Selby woman on name alone.
+The inventory alone does not state the exact relationship. The will resolves the bounded relationship by naming John as a son and Ann as the testator's wife. It does not establish Ann's maiden name, parents, or identity with any other Parker or Selby woman.
 
 ## Confidence rationale
 
-`confirmed`: the original recorded inventory expressly places John and Ann Parker under "Nearest of Kin." The confidence does not extend to an unstated relationship.
+`confirmed`: the original recorded inventory expressly places John and Ann Parker under "Nearest of Kin," and the will directly states their son and wife relationships to Charles.
 
 ## Next research action
 
-Retrieve the 1790 account, 1793 second inventory, will copy, and Orphans Court proceedings for heir, devisee, and distribution language.
+Retrieve the 1790 account, 1793 second inventory, and Orphans Court proceedings for distribution and later-identity evidence.

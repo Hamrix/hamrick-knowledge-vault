@@ -25,7 +25,7 @@ The opening line clearly names John Selby with the parenthetical identifier "of 
 
 ## Reliability and limitations
 
-This original recorded bond directly proves the administrative role and the named bond-party association. It does not state how Selby Parker, Schoolfield Parker, John Selby, Ezekiel Selby, or Charles Parker were related. The phrase "of Ezekiel" is retained as a contemporary identifier and is not expanded into a parent-child claim without corroboration.
+This original recorded bond directly proves the administrative role and the named bond-party association. The bond itself does not state relationships, but [[FamilySearch - Charles Parker 1787 Worcester County will]] now directly calls Selby Parker the testator's son. No reviewed record defines Schoolfield Parker's relationship or expands "John Selby (of Ezekiel)" into a parent-child claim.
 
 ## File integrity
 
@@ -36,6 +36,7 @@ This original recorded bond directly proves the administrative role and the name
 
 - [[Selby Parker administered Charles Parkers Worcester estate]]
 - [[Selby Parker was bonded with Schoolfield Parker and John Selby of Ezekiel for Charles Parkers estate]]
+- [[Charles Parker identified Selby Parker as his son in his 1787 will]]
 
 ## Claims contradicted
 

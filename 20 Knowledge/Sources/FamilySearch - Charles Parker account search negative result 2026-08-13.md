@@ -1,6 +1,6 @@
 ---
 type: research-log
-status: active
+status: superseded-in-part
 privacy: internal
 date: 2026-08-13
 project: Aetheling Evidence Project
@@ -22,7 +22,11 @@ Can FamilySearch Full-Text Search expose Charles Parker's indexed May 1762 accou
 
 ## Result
 
-The searches located or repeated the known 1761 administration bond, 1761 inventory, estate indexes and dockets, the 1788 inventory, and collateral occurrences of the name Charles Parker. They did not expose an identifiable image of the May 1762 account, 28 May 1790 account, 12 March 1793 second inventory, or will copy.
+The searches located or repeated the known 1761 administration bond, 1761 inventory, estate indexes and dockets, the 1788 inventory, and collateral occurrences of the name Charles Parker. They did not expose an identifiable image of the May 1762 account, 28 May 1790 account, 12 March 1793 second inventory, or will copy through the search-results route.
+
+## Subsequent resolution
+
+Manual browsing of the Worcester `Wills 1783-1790 vol 13` waypoint located the will on FamilySearch DGS 005080348, image 383. [[FamilySearch - Charles Parker 1787 Worcester County will]] records the result. The account and second-inventory targets remain unresolved. The negative search is retained because it documents a real OCR retrieval failure, not because the will was absent.
 
 ## Limitation
 
@@ -35,6 +39,7 @@ This is a negative search result, not evidence that the records do not survive. 
 - [[FamilySearch - Charles Parker 1761 Worcester inventory]]
 - [[FamilySearch - Charles Parker 1788 Worcester administration bond]]
 - [[FamilySearch - Charles Parker 1788 Worcester inventory]]
+- [[FamilySearch - Charles Parker 1787 Worcester County will]]
 
 ## Next action
 

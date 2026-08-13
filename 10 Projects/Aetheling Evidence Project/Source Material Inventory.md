@@ -20,7 +20,7 @@ The 2026-08-08 [[Aetheling Evidence Release 0.9 Integration - 2026-08-08]] adds 
 
 The 2026-08-09 [[Generation Proof Continuation - 2026-08-09]] adds two visually reviewed primary-source groups: Jesse Henderson's December 1821 heir division with Jesse Henderson's 1823 lot-2 deed to Henry Selby, and Margaret Selby's 1836 will with the 1835 Major Selby and 1839-1840 Margaret Selby estate settlements. The original downloaded images remain outside the Git-backed vault; citations and bounded transcriptions are recorded in the source notes.
 
-The 2026-08-13 [[Generation Proof Continuation - 2026-08-13]] adds a visually reviewed 1948 compiled genealogy, the official Worcester estate index, and original FamilySearch images for Charles Parker's 1761 administration bond, 1761 inventory, 1788 administration bond, and 1788 inventory. The genealogy supplies a Thomas-Elizabeth-Major hypothesis but remains derivative family testimony. The probate originals prove named kin, nearest-kin, administrator, appraiser, and bond-party roles while leaving every exact relationship unresolved. A James Campbell will mention is retained only as a non-kin association. Downloaded images and review screenshots remain outside the Git-backed vault; citations and available SHA-256 hashes are preserved in source notes.
+The 2026-08-13 [[Generation Proof Continuation - 2026-08-13]] adds a visually reviewed 1948 compiled genealogy, the official Worcester estate index, and original FamilySearch images for two distinct Charles Parker probate clusters. The genealogy supplies a Thomas-Elizabeth-Major hypothesis but remains derivative family testimony. The 1761 records prove administration, bond-party, and kin associations without degrees. The later Charles's 1787 will directly names wife Ann and a child group including son Selby Parker; the 1788 bond and inventory continue that estate. A James Campbell will mention is retained only as a non-kin association. Downloaded images and review screenshots remain outside the Git-backed vault; citations and available SHA-256 hashes are preserved in source notes.
 
 ## Release 0.9 original and derivative sources
 
@@ -75,13 +75,14 @@ The 2026-08-13 [[Generation Proof Continuation - 2026-08-13]] adds a visually re
 ## Independently located sources
 
 - [[Bunce 1948 - Some of the Ancestors Selby genealogy]] - derivative compiled genealogy preserving a named family-statement provenance and specific Worcester deed targets; not independent parentage proof.
-- [[Maryland State Archives - Charles Parker Worcester estate index]] - official estate-index entry confirming Selby Parker as administrator and identifying inventory and account targets.
+- [[Maryland State Archives - Charles Parker Worcester estate index]] - official index with separate 1761 and 1788 Charles Parker estate rows and later filing targets.
 - [[FamilySearch - Charles Parker 1761 Worcester administration bond]] - original bond naming Collins Parker administrator and Charles and John Parker as bound parties.
 - [[FamilySearch - Charles Parker 1761 Worcester inventory]] - original inventory naming Samuel Parker and Phillip P. Parker under "Kin."
 - [[FamilySearch - Charles Parker 1788 Worcester administration bond]] - original bond and letters naming Selby Parker administrator and the three bound parties.
 - [[FamilySearch - Charles Parker 1788 Worcester inventory]] - original inventory naming John Parker and Ann Parker under "Nearest of Kin."
+- [[FamilySearch - Charles Parker 1787 Worcester County will]] - recorded will directly identifying wife Ann and sons John, Charles, Selby, and Thomas, with additional daughters and Polly's heirs.
 - [[FamilySearch - James Campbell 1766 Worcester will]] - collateral financial or legal association mentioning Charles Parker; no kinship or identity bridge.
-- [[FamilySearch - Charles Parker account search negative result 2026-08-13]] - authenticated search log for the still-missing 1762 and 1790 accounts, 1793 second inventory, and will copy; OCR limitations prevent an absence conclusion.
+- [[FamilySearch - Charles Parker account search negative result 2026-08-13]] - authenticated search log retained as an OCR false-negative audit; manual volume browsing later found the will, while the accounts and second inventory remain unresolved.
 
 - [[Bosworth-Toller - æþeling]] — scholarly historical dictionary entry.
 - [[Dumville 1979 - The ætheling]] — peer-reviewed study of the title and royal succession.
@@ -201,4 +202,5 @@ These are research targets, not facts. No family-tree connection should be creat
 - [ ] Retrieve Worcester Deeds B:203, F:542, and G:303 and the 1802 Thomas Jr. conveyance; reconstruct title to *Choice* and *Dull Folly* before testing the reported Thomas-Elizabeth-Major link.
 - [x] Retrieve Charles Parker's 1788 inventory and administration bond; record its nearest-kin and bond-party language without assigning unstated relationships.
 - [x] Retrieve Charles Parker's 1761 administration bond; record Collins Parker's administration and Charles and John Parker's bond roles without assigning unstated relationships.
-- [ ] Retrieve Charles Parker's 1762 account, 1790 account, 1793 second inventory, will copy, and Orphans Court proceedings; search for heir, devisee, and distribution statements.
+- [x] Retrieve Charles Parker's 1787 will and record the directly stated wife, child, executor, and witness relationships.
+- [ ] Retrieve the separate estates' 1762 account, 1790 account, 1793 second inventory, and Orphans Court proceedings; search for distribution and later-identity statements.

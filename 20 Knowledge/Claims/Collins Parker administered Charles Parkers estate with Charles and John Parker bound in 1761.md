@@ -35,4 +35,4 @@ The record establishes a tightly associated Parker probate group. It does not st
 
 ## Next research action
 
-Retrieve the May 1762 account, any will copy, and related Orphans Court proceedings for heir, legatee, or distribution language.
+Retrieve the May 1762 account and related Orphans Court proceedings for heir, legatee, or distribution language. Keep this intestate administration separate from the later Charles Parker will proved in 1788.

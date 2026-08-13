@@ -15,6 +15,7 @@ The opening text of Charles Parker's 16 February 1788 Worcester County administr
 ## Evidence supporting
 
 - [[FamilySearch - Charles Parker 1788 Worcester administration bond]] records the visually reviewed original bond and continuation.
+- [[FamilySearch - Charles Parker 1787 Worcester County will]] directly identifies Selby Parker as Charles's son but does not define the other bond parties' relationships.
 
 ## Evidence against
 
@@ -26,7 +27,7 @@ The third signature is overwritten or difficult and may read James or John Selby
 
 ## Analysis
 
-The record places a Selby-named participant in the Parker estate cluster and supplies the upstream identifier Ezekiel. It does not state that John was Ezekiel's son, that any named bond party was related to Charles Parker, or that this Charles was Margaret Selby's brother.
+The bond places the parties in one probate transaction and supplies the identifier Ezekiel. The will now proves that Selby Parker was Charles's son. It does not state that John was Ezekiel's son, define Schoolfield Parker's or John Selby's relationship to Charles, or identify this Charles as Margaret Selby's brother.
 
 ## Confidence rationale
 

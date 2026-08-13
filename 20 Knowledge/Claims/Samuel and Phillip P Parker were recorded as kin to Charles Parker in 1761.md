@@ -30,4 +30,4 @@ The inventory does not state the degree of either relationship. No parent-child,
 
 ## Next research action
 
-Retrieve the 1762 account, any will copy, and related Orphans Court proceedings for a complete heir or distribution statement. The administration bond has now been reviewed and supplies bond-party roles but no exact kinship.
+Retrieve the 1762 account and related Orphans Court proceedings for a complete heir or distribution statement. The administration bond has now been reviewed and supplies bond-party roles but no exact kinship. Keep this 1761 estate separate from the later Charles Parker will proved in 1788.
