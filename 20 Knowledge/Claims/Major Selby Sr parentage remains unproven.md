@@ -3,7 +3,7 @@ type: claim
 status: active
 confidence: weak
 privacy: internal
-last-reviewed: 2026-08-08
+last-reviewed: 2026-08-13
 ---
 
 # Major Selby Sr.'s parents remain unproven
@@ -54,6 +54,14 @@ A follow-up public-source sweep found that the same tract pair in Major Selby's 
 
 This creates a sharper research problem: determine how Poplar Hill and Exon Enlarged moved among John Selby, Major Selby, Zadock Selby, and William Selby of Zadock. The corrected Parker Selby estate cases involve different tract sets and are broader Selby-estate context only. This does not prove Major's father.
 
+## 2026-08-13 Thomas Selby hypothesis
+
+[[Bunce 1948 - Some of the Ancestors Selby genealogy]] visually confirms that a 1948 compiled genealogy lists Major among the children of Thomas Selby and Elizabeth, tentatively called Houston. The list is explicitly attributed to a statement of Capt. John Selby, and the compiler acknowledges that destroyed records made the information difficult to substantiate. The source also cites Thomas-family deeds involving *Choice* and *Dull Folly*.
+
+This creates a concrete upstream hypothesis for the adult Major assessed on part of *Choice* in 1783, but it does not prove the relationship or identify the listed child with that landholder. The compiled title narrative appears to leave a roughly 136-acre residue with Thomas Jr., while the assessment lists Major with 140 acres. Original deeds, surveys, assessment pages, and estate divisions must explain that apparent tension before tract similarity is treated as identity evidence.
+
+The same continuation confirmed from [[Maryland State Archives - Charles Parker Worcester estate index]] that Selby Parker administered a Charles Parker estate. This is a promising collateral-family record set because the inventories may name next of kin, but the index gives no relationship and does not identify the decedent with Margaret Selby's Kentucky brother.
+
 ## Next research action
 
 Obtain and transcribe the complete chancery paper:
@@ -71,6 +79,8 @@ Also retrieve and transcribe:
 - *Joseph Delestatius and Sarah Delestatius v. John Selby*, filed 12 Nov. 1795, Worcester County, estate of Parker Selby, MSA S512-6-4837; Chancery Record 38, p. 341.
 - *John Selby v. Anthony Bacon and George S. Gunby*, filed 22 Jul. 1808, Worcester County, estate of Parker Selby, MSA S512-6-5087; Chancery Record 105, p. 770.
 - John Selby's 1790 will/trust and any related estate papers.
+- Worcester Deeds B:203, F:542, and G:303 and the 1802 Thomas Jr. conveyance affecting *Choice* and *Dull Folly*.
+- Charles Parker's 1788 and 1793 inventories, 1790 account, administration papers, and related Orphans Court proceedings.
 
 ## Sources
 
@@ -83,6 +93,8 @@ Also retrieve and transcribe:
 - [Maryland State Archives, Chancery Court Papers index, 1795-1796](https://msa.maryland.gov/msa/stagser/s500/s512/html/s512c.html)
 - [Maryland State Archives, Chancery Court Papers index, 1807-1808](https://msa.maryland.gov/msa/stagser/s500/s512/html/s512i.html)
 - [[Maryland State Archives - Parker Selby chancery case indexes]]
+- [[Bunce 1948 - Some of the Ancestors Selby genealogy]]
+- [[Maryland State Archives - Charles Parker Worcester estate index]]
 - [Maryland State Archives, Patents, Worcester, Tract Index (S1602)](https://guide.msa.maryland.gov/pages/series.aspx?id=S1602) (including 1761 *Choice*, 242 acres, S1602-1293)
 - [Archives of Maryland, vol. 18 index, p. 722](https://msa.maryland.gov/megafile/msa/speccol/sc2900/sc2908/000001/000018/html/am18--722.html)
 - [Archives of Maryland, Council-journal volume list](https://msa.maryland.gov/megafile/msa/speccol/sc2900/sc2908/html/executive.html)

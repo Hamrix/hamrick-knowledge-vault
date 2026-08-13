@@ -3,7 +3,7 @@ type: research
 status: active
 privacy: internal
 created: 2026-07-27
-last-reviewed: 2026-08-09
+last-reviewed: 2026-08-13
 ---
 
 # Aetheling Evidence Project - Source Material Inventory
@@ -19,6 +19,8 @@ The 2026-07-28 [[Research Lead Sweep - 2026-07-28]] adds public-source leads for
 The 2026-08-08 [[Aetheling Evidence Release 0.9 Integration - 2026-08-08]] adds a complete non-private audit snapshot under `Release 0.9 Snapshot`, including the 71-claim ledger, 27-accession register, 21 governed request packets, source catalogue, archive-reference register, data model, proof packet, generation-link matrix, backlog, and release manifests. Original images, private identity clusters, living-person exports, and restricted files were intentionally excluded from the Git-backed vault.
 
 The 2026-08-09 [[Generation Proof Continuation - 2026-08-09]] adds two visually reviewed primary-source groups: Jesse Henderson's December 1821 heir division with Jesse Henderson's 1823 lot-2 deed to Henry Selby, and Margaret Selby's 1836 will with the 1835 Major Selby and 1839-1840 Margaret Selby estate settlements. The original downloaded images remain outside the Git-backed vault; citations and bounded transcriptions are recorded in the source notes.
+
+The 2026-08-13 [[Generation Proof Continuation - 2026-08-13]] adds a visually reviewed 1948 compiled genealogy and the official Worcester estate index entry naming Selby Parker as administrator of Charles Parker's estate. The genealogy supplies a specific Thomas-Elizabeth-Major hypothesis and deed targets, but it is derivative family testimony. The estate index supplies an administrative fact and record-retrieval path, not a kinship statement.
 
 ## Release 0.9 original and derivative sources
 
@@ -71,6 +73,9 @@ The 2026-08-09 [[Generation Proof Continuation - 2026-08-09]] adds two visually 
 - [[Headen family Bible transcript and Selby family notes - 1929]]
 
 ## Independently located sources
+
+- [[Bunce 1948 - Some of the Ancestors Selby genealogy]] - derivative compiled genealogy preserving a named family-statement provenance and specific Worcester deed targets; not independent parentage proof.
+- [[Maryland State Archives - Charles Parker Worcester estate index]] - official estate-index entry confirming Selby Parker as administrator and identifying inventory and account targets.
 
 - [[Bosworth-Toller - æþeling]] — scholarly historical dictionary entry.
 - [[Dumville 1979 - The ætheling]] — peer-reviewed study of the title and royal succession.
@@ -187,3 +192,5 @@ These are research targets, not facts. No family-tree connection should be creat
 - [ ] Retrieve John Selby Jr.'s 1782 bond and first and second estate accounts; trace Kendal Smock and Leah through deeds, dower releases, and guardianship records.
 - [ ] Retrieve the complete 1779 William Atkinson Selby criminal proceeding and final disposition.
 - [ ] Recover the original 1874 Roberts Selby birth return and reconcile the 1874/1875 date difference.
+- [ ] Retrieve Worcester Deeds B:203, F:542, and G:303 and the 1802 Thomas Jr. conveyance; reconstruct title to *Choice* and *Dull Folly* before testing the reported Thomas-Elizabeth-Major link.
+- [ ] Retrieve Charles Parker's 1788 and 1793 inventories, 1790 account, administration papers, and Orphans Court proceedings; search for next-of-kin and heir statements.

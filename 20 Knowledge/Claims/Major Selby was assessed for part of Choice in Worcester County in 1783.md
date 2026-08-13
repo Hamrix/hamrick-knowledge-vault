@@ -3,7 +3,7 @@ type: claim
 status: active
 confidence: confirmed
 privacy: public
-last-reviewed: 2026-08-03
+last-reviewed: 2026-08-13
 ---
 
 # Major Selby was assessed for part of Choice in Worcester County in 1783
@@ -27,7 +27,7 @@ No evidence against the indexed entry was located in this review.
 
 ## Conflicts
 
-The assessment entry contains no age or family relationship. It is therefore insufficient to identify this man with a later Major Selby of the same name, including one reported by compiled trees as born in 1783.
+The assessment entry contains no age or family relationship. It is therefore insufficient to identify this man with a later Major Selby of the same name, including one reported by compiled trees as born in 1783. [[Bunce 1948 - Some of the Ancestors Selby genealogy]] reports a different Major as a child of Thomas and Elizabeth Selby and cites their *Choice* deeds, but that derivative report supplies neither an identity statement nor a chain of title to this 140-acre entry.
 
 ## Analysis
 
@@ -39,4 +39,4 @@ The record establishes only that the archive index associates a person named Maj
 
 ## Next research action
 
-Locate and review the original MSA S1161-11-5 assessment page, then trace title to the 140-acre part of *Choice* through deeds, surveys, probate, and releases before evaluating any family connection.
+Locate and review the original MSA S1161-11-5 assessment page, then trace title to the 140-acre part of *Choice* through deeds, surveys, probate, and releases. Include Worcester Deeds B:203, F:542, and G:303 and the 1802 Thomas Jr. conveyance before evaluating the reported Thomas-Elizabeth-Major family connection.

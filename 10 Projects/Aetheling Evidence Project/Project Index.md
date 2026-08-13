@@ -2,7 +2,7 @@
 type: project
 status: active
 privacy: internal
-last-reviewed: 2026-08-09
+last-reviewed: 2026-08-13
 ---
 
 # Aetheling Evidence Project
@@ -30,6 +30,8 @@ The same-day [[Generation Proof Continuation - 2026-08-08|generation proof conti
 Continued review adds Major's consecutive 1811-1813 Bourbon tax entries, a related 1811 Dudley-heirs deed bearing his marked witness attestation, the 1812 ejectment service, and an 1815 survey labeling Major Selby's house and improvement. This extends the reviewed Bourbon cluster through 1815 and narrows the unbridged interval to the 1820 Nicholas household to five years. Major's 1833 Nicholas County will names wife Peggy, son Henry, and daughter Polly Anterbus, independently confirms Major-to-Polly, and proves the Kentucky testator was not the Hamilton County, Indiana, Major alive in 1850 and 1860. A derivative Worcester index reports Major Selby and Hester Cottingham on 8 December 1808 in reciprocal entries; the exact original target is now Worcester County Court Marriage Licenses, MSA C2027, but the record and identity remain unresolved.
 
 The 2026-08-09 [[Generation Proof Continuation - 2026-08-09|generation proof continuation]] adds Jesse Henderson's original 1821 heir division, Henry Selby's 1823 acquisition of heir Jesse's lot 2, and Margaret Selby's 1836 will. Margaret directly identifies Major as her deceased husband, Charles Parker as her brother, Mary Antrobus as her daughter, William Preston Antrobus as her grandson, and Kitty and Duland as her granddaughters and daughters of Henry Selby. These records strongly identify the later Nicholas County Henry as Major's son while preserving the final cross-record identity below confirmed status. They do not prove Margaret was Henry's mother or identify Nelly Henderson with Eleanor Selby.
+
+The 2026-08-13 [[Generation Proof Continuation - 2026-08-13|generation proof continuation]] follows an older Worcester generation downward. A visually reviewed 1948 compiled genealogy reports Major among the children of Thomas and Elizabeth Selby and cites Thomas-family deeds involving *Choice* and *Dull Folly*. Because the list derives from later family testimony, it is a targeted hypothesis rather than a proved link. The official Worcester estate index also confirms Selby Parker as administrator of Charles Parker's estate, creating a high-value inventory and next-of-kin target without stating a relationship.
 
 ## Workstreams
 
@@ -188,8 +190,12 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 - [ ] Locate the receipt or order behind Major's 1803 Ann Selby estate share and trace him from Worcester in September 1803 to Bourbon County in August 1807
 - [ ] Retrieve the land conveyance or estate division connecting Parker Selby's 750-acre devise to the later John Selby Esq.
 - [ ] Prove or reject Major Selby → Benjamin Selby from relationship-bearing originals
+- [ ] Prove or reject the reported Thomas and Elizabeth Selby to Major link using the original *Choice* and *Dull Folly* deeds, probate, and estate records
+- [ ] Retrieve Charles Parker's 1788 and 1793 Worcester inventories and 1790 account; transcribe next-of-kin and heir statements before assigning any Parker relationship
 
 ## Change log
+
+- 2026-08-13 - Visually reviewed Bunce's 1948 compiled Selby genealogy and confirmed that it reports Major among the children of Thomas and Elizabeth Selby, with the list attributed to Capt. John Selby. Recorded the report as a derivative upstream hypothesis, not parentage proof. Visually reviewed the official Worcester estate index and confirmed Selby Parker as administrator of Charles Parker's estate, with 1788 and 1793 inventories and a 1790 account now targeted for relationship-bearing evidence. FamilySearch image work remains pending account sign-in.
 
 - 2026-08-09 - Retrieved Jesse Henderson's original 1821 heir division and the 1823 deed by which heir Jesse Henderson conveyed lot 2 to Henry Selby. The division assigns Henry lots 3 and 8, Levin lot 4, Susan lot 1, and William lot 6; this corrects earlier OCR uncertainty and shows Henry controlled at least six of eight shares by 1830. Retrieved Margaret Selby's 1836 will and related estate settlements. Margaret directly names Major as her deceased husband, Charles Parker as her brother, Mary Antrobus as her daughter, William Preston Antrobus as her grandson, and Kitty and Duland as granddaughters and daughters of Henry. The later Nicholas Henry is upgraded to a strong identification as Major's son, but Margaret-to-Henry maternity and Nelly-to-Eleanor identity remain unproved.
 
