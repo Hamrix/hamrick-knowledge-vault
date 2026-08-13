@@ -18,6 +18,7 @@ The Parker Selby executor bond dated 29 January 1790 and the Parker Selby admini
 - [[FamilySearch - Parker Selby 1790 Worcester executor bond]] appoints James Selby executor under Parker's will.
 - [[FamilySearch - Parker Selby 1791 Worcester de bonis non bond]] appoints James Selby and John Gunby administrators de bonis non and identifies deceased John Selby, Esquire, as the former administrator.
 - [[Maryland State Archives - Parker Selby Worcester estate index]] places the filings in separate rows labeled Parker "of Wm." and Parker "of John," with different inventories and accounts. A third row records April 1789 filings under Nancy Selby.
+- [[FamilySearch - Worcester estate docket Parker Selby index page]] independently exposes the early docket image and confirms the April 1789 Nancy Selby / Parker track.
 
 ## Analysis and limits
 
@@ -31,4 +32,4 @@ This proves that the records describe distinct estate tracks. The January 1790 e
 
 ## Next research action
 
-Retrieve the April 1789 Nancy Selby opening papers, its 1791 inventory and later accounts or distribution, the 1790 James Selby executor estate papers, and Worcester Deed Liber V, folios 236-238. Compare names and land with the George-and-Elizabeth guardianship.
+Retrieve the April 1789 Nancy Selby opening papers, its 1791 inventory and later accounts or distribution, and the 1790 James Selby executor estate papers. At a FamilySearch Center or affiliate library, inspect Worcester Deed Liber V, folios 236-238 on film 14543 / DGS 8141714. Compare names and land with the George-and-Elizabeth guardianship.

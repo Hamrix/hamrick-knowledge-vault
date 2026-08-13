@@ -98,6 +98,12 @@ John Selby's 1790 will supplies a maternal cluster. It calls Nancy Gunby his dau
 
 [[Scarborough 1951 - George Selby 1802 Pleasant Grove deed transcription]] reports an enrolled Worcester deed calling George the eldest son and heir at law of deceased Parker Selby. It independently corroborates Parker-to-George and identifies Liber V, folios 236-238 as the original target. Because only the printed transcription has been reviewed, the deed is not yet used to extend Parker's paternal line.
 
+## Exact deed-film and estate-docket retrieval targets
+
+[[FamilySearch Catalog - Worcester Land Records Liber V-W]] now identifies the original 1802 deed volume as FamilySearch film 14543 / DGS 8141714. The Maryland State Archives independently describes volume V as CE30-21, covering 1801-1803. The signed-in FamilySearch catalog marks the film and its full-text search as available only at a FamilySearch Center or affiliate library. The original folios were not reviewed, so the reported eldest-son and heir-at-law language remains derivative corroboration.
+
+[[FamilySearch - Worcester estate docket Parker Selby index page]] adds a stable image for Estate Docket T4215/C1993-1, DGS 105017200, image 69. It visually confirms the separate April 1789 Parker track under Nancy Selby and its later inventory and accounting trail. As an index, it does not call Nancy Parker's widow, name George or Elizabeth, or assign their guardian bond to this estate.
+
 ## Next proof targets
 
 1. Retrieve Worcester Deeds B:203, F:542, and G:303 and the 10 April 1802 Thomas Jr. conveyance; construct a parcel-by-parcel title table for *Choice* and *Dull Folly*.
@@ -105,7 +111,7 @@ John Selby's 1790 will supplies a maternal cluster. It calls Nancy Gunby his dau
 3. Search Thomas and Elizabeth Selby probate, church, deed, and estate records for an explicit complete child class or a direct mention of Major.
 4. Research John Selby (of Ezekiel) and the bond-signature conflict through independent probate, deed, tax, church, and signature records.
 5. Keep all Major identity clusters separate until a record explicitly bridges age, family, residence, or title.
-6. Retrieve the April 1789 Nancy Selby opening papers, 25 August 1791 inventory, later accounts and distribution, plus Worcester Deed Liber V, folios 236-238; then trace George and Elizabeth through guardian receipts.
+6. At a FamilySearch Center or affiliate library, retrieve Worcester Deed Liber V, folios 236-238 from film 14543 / DGS 8141714. Separately retrieve the April 1789 Nancy Selby opening papers, 25 August 1791 inventory, later accounts and distribution; then trace George and Elizabeth through guardian receipts.
 
 ## Sources and claims added
 
@@ -135,3 +141,5 @@ John Selby's 1790 will supplies a maternal cluster. It calls Nancy Gunby his dau
 - [[Nancy Gunby is strongly identified as mother of George and Elizabeth Selby]]
 - [[John Selby was father of Nancy Gunby and grandfather of George and Betsey Selby]]
 - [[Scarborough 1951 - George Selby 1802 Pleasant Grove deed transcription]]
+- [[FamilySearch Catalog - Worcester Land Records Liber V-W]]
+- [[FamilySearch - Worcester estate docket Parker Selby index page]]

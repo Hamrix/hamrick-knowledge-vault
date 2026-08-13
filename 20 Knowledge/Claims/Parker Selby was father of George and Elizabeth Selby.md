@@ -17,6 +17,7 @@ A Worcester County guardian bond dated 11 June 1790 identifies George Selby and 
 
 - [[Worcester Digital Archive - Parker Selby children 1790 guardian bond]] calls George and Elizabeth "orphans of Parker Selby deceased," records both as minors, and places them under Nancy Gunby's guardianship.
 - [[Scarborough 1951 - George Selby 1802 Pleasant Grove deed transcription]] reports that an enrolled 1802 deed calls George Parker's eldest son and heir at law. This is corroboration and an original-deed retrieval lead, not a substitute for Liber V.
+- [[FamilySearch Catalog - Worcester Land Records Liber V-W]] locates the original target at film 14543 / DGS 8141714 and MSA CE30-21 but documents that the film is center-or-affiliate restricted; the deed itself remains unreviewed.
 
 ## Analysis and limits
 
@@ -32,4 +33,4 @@ In this probate context, the repeated identification as Parker's orphans is dire
 
 ## Next research action
 
-Retrieve the original 1802 deed at Worcester Liber V, folios 236-238, the April 1789 Nancy Selby estate opening papers, its 1791 inventory and later accounts, and the children's guardian receipts.
+At a FamilySearch Center or affiliate library, retrieve the original 1802 deed at Worcester Liber V, folios 236-238, film 14543 / DGS 8141714. Separately retrieve the April 1789 Nancy Selby estate opening papers, its 1791 inventory and later accounts, and the children's guardian receipts.

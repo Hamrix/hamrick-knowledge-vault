@@ -27,6 +27,8 @@ If accurate to the original, the deed independently confirms Parker-to-George an
 
 This is a page-image review of a printed deed transcription, not the original deed image. It provides a precise archival target and detailed legal wording, but transcription error remains possible. The father-son statement is therefore used as corroboration and a retrieval lead until Liber V, folios 236-238 are inspected directly.
 
+[[FamilySearch Catalog - Worcester Land Records Liber V-W]] now identifies that original as FamilySearch film 14543 / DGS 8141714 and Maryland State Archives CE30-21. The signed-in FamilySearch catalog restricts the film to a FamilySearch Center or affiliate library, so the original was not reviewed on 13 August 2026 and this source's evidentiary status does not change.
+
 The book's surrounding family conclusions are not treated as independent evidence for this Selby line.
 
 ## File integrity

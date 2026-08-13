@@ -9,8 +9,8 @@ status: active
 
 - [ ] Continue visual inspection of Worcester JW 21 (1789-1791), now accessible through the Worcester County Library Digital Archive, for the indexed 28 May 1790 Charles Parker filing; the reviewed June Court index pages did not display a Charles Parker entry
 - [ ] Request or inspect Worcester inventory book LH 2 (1792-1795), MSA C2017-5, for the 12 March 1793 Charles Parker second inventory
-- [ ] Retrieve Worcester Deed Liber V:236-238 and verify the 8 October 1802 deed calling George Selby eldest son and heir at law of Parker Selby
-- [ ] Retrieve the 3 and 18 April 1789 Nancy Selby estate opening papers, 25 August 1791 inventory, 1792 and 1795 accounts, and 1 November 1793 distribution; test whether this is the father of George and Elizabeth
+- [ ] At a FamilySearch Center or affiliate library, open Worcester Liber V-W on film 14543 / DGS 8141714 and retrieve V:236-238; verify the 8 October 1802 deed calling George Selby eldest son and heir at law of Parker Selby
+- [ ] Retrieve the 3 and 18 April 1789 Nancy Selby estate opening papers, 25 August 1791 inventory, 1792 and 1795 accounts, and 1 November 1793 distribution; begin from Estate Docket T4215/C1993-1, DGS 105017200, image 69, and test whether this is the father of George and Elizabeth
 - [ ] Keep the January 1790 James-executor estate indexed "of Wm." separate; retrieve its 24 June 1790 inventory and 15 May 1792 account only as a comparison file
 - [ ] Trace George and Elizabeth Selby through guardian accounts and receipts; test Nancy Gunby's strongly identified maternal role and the Elizabeth-to-Betsey identity
 - [ ] Keep the separate 1791 Parker "of John" de bonis non estate out of George and Elizabeth's line unless an original record explicitly joins them

@@ -37,6 +37,8 @@ The same continuation now reaches the complete JW 21 Orphans Court volume throug
 
 Further review now distinguishes at least three late Parker estate tracks: an April 1789 file under Nancy Selby, a January 1790 executor bond under James Selby indexed "of Wm.," and a June 1791 de bonis non file formerly administered by John Selby, Esquire, indexed "of John." The guardian bond names no docket, so George and Elizabeth are not attached to any paternal grandfather from those entries. John Selby's November 1790 will independently calls Nancy Gunby his daughter, George her son, and Betsey Selby her daughter. Combined with Nancy's June guardianship of Parker's orphans George and Elizabeth, this strongly identifies Nancy as their mother without yet proving her marriage to Parker in one instrument. A printed transcription of Worcester Deed Liber V:236-238 also calls George the eldest son and heir at law of deceased Parker; the original deed remains the next verification target.
 
+The exact original-deed target is now pinned to FamilySearch film 14543 / DGS 8141714 and Maryland State Archives CE30-21. FamilySearch restricts that film to a center or affiliate library, so the original remains unreviewed. A separate FamilySearch image of Estate Docket T4215/C1993-1 independently confirms the April 1789 Nancy Selby estate track but supplies no relationship language.
+
 ## Workstreams
 
 - Modern documented lineage
@@ -143,6 +145,8 @@ Use the Genealogical Proof Standard:
 - [[Nancy Gunby is strongly identified as mother of George and Elizabeth Selby]]
 - [[John Selby was father of Nancy Gunby and grandfather of George and Betsey Selby]]
 - [[Scarborough 1951 - George Selby 1802 Pleasant Grove deed transcription]]
+- [[FamilySearch Catalog - Worcester Land Records Liber V-W]]
+- [[FamilySearch - Worcester estate docket Parker Selby index page]]
 
 The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby workstreams remain research targets. None is currently a proven lineage in this vault.
 

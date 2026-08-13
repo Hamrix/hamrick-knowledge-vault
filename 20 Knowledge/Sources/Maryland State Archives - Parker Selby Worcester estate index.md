@@ -36,3 +36,7 @@ This is an official twentieth-century estate index derived from the probate file
 ## Claims supported
 
 - [[The 1790 and 1791 Parker Selby records describe different estate histories]]
+
+## Independent digital cross-check
+
+[[FamilySearch - Worcester estate docket Parker Selby index page]] provides a second digital image of the early estate docket at DGS 105017200, image 69. It confirms the Nancy Selby / Parker track and its April 1789 opening dates, but remains an index rather than an underlying estate instrument.
