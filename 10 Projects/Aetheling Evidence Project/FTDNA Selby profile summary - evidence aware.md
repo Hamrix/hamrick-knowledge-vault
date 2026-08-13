@@ -3,7 +3,7 @@ type: research-profile
 status: active
 confidence: tentative
 privacy: private
-last-reviewed: 2026-07-27
+last-reviewed: 2026-08-08
 ---
 
 # FTDNA Selby profile summary - evidence-aware version
@@ -13,6 +13,8 @@ last-reviewed: 2026-07-27
 **Paternal surname:** Selby  
 **Tester:** Hamrick Aethelred Selby II  
 **Earliest working paternal ancestor:** Major Selby, reportedly born 1 Aug. 1783 in Maryland and died 13 Nov. 1861 in Hamilton County, Indiana; reportedly married Harriet Messick/Mezick in 1817 and migrated through Kentucky to Indiana.
+
+**Identity correction:** a different Major Selby of Nicholas County, Kentucky, made a will in 1833 naming wife Peggy and children Henry and Polly and was dead when that will was proved in August 1833. He cannot be the Hamilton County, Indiana, man alive in 1850 and 1860. The reported Kentucky-to-Indiana migration for the paternal target is therefore not established by the Bourbon/Nicholas records.
 
 I am seeking to identify Major Selby's parents and to place his direct paternal line within the colonial Eastern Shore Selby families of Maryland and Virginia. The paper trail before Major remains unresolved.
 
@@ -48,3 +50,4 @@ No relationship before Major Selby is asserted by this profile.
 - [[FamilySearch - Angelo Atkinson 1766 Worcester County will images]]
 - [[Thomas Selby Sr c1635-1702]]
 - [[Selby Y-DNA project does not yet document the Major Selby line]]
+- [[The Nicholas County Major Selby dead by 1833 was not the Indiana Major alive in 1850]]

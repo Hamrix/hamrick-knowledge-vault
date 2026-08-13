@@ -4,7 +4,7 @@ source-class: primary
 repository: Nicholas County Clerk / FamilySearch
 reference: "Marriage authorization and bond, 1825-08-16, images 33SQ-G1GN-YWN and 33S7-L1GN-P78"
 date: 1825-08-16
-accessed: 2026-08-08
+accessed: 2026-08-09
 privacy: internal
 project: Aetheling Evidence Project
 ---
@@ -21,7 +21,7 @@ The authorization records Major Selby's personal consent for his daughter Polly'
 
 ## Reliability and limitations
 
-The two original documents independently establish Major Selby as Polly's father. They do not name William Atkinson Selby and do not prove a relationship between Major and William.
+The two original documents independently establish Major Selby as Polly's father. Margaret Selby's 1836 will later calls Mary Antrobus her daughter and William Preston Antrobus her grandson. That record strongly correlates Mary with this Antrobus family but does not literally identify Mary as Polly. The records do not name William Atkinson Selby and do not prove a relationship between Major and William.
 
 ## File integrity
 
@@ -33,4 +33,4 @@ The two original documents independently establish Major Selby as Polly's father
 
 - [[Major Selby was Polly Selbys father in the 1825 marriage file]]
 - [[The 1825 Polly Selby file does not prove William Atkinson Selby was her father]]
-
+- [[Margaret Selby named Mary Antrobus as daughter and William Preston Antrobus as grandson]]

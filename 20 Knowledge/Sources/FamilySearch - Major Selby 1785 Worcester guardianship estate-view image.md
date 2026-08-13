@@ -24,7 +24,7 @@ The later estate-view record again calls Major "Orphan of John Selby" and identi
 
 These are reviewed digitized images of original Worcester County court records. The guardian bond directly supports that the recorded Major was John Selby's child, that John was deceased, and that Major was reported to be about seven on 1 July 1785. The estate-view record independently repeats the child-father identification.
 
-The records do not state Major's exact birth date, mother's identity, the father's exact identity beyond the shared name, or a relationship between the guardian, the co-obligors, and the child. They also do not prove that this minor Major was the adult Major Selby assessed in Worcester County in 1783, or the Maryland-born Major Selby later recorded in Kentucky and Indiana. In fact, an adult assessed in 1783 cannot automatically be equated with a person still under guardianship in 1785.
+The records do not state Major's exact birth date, mother's identity, the father's exact identity beyond the shared name, or a relationship between the guardian, the co-obligors, and the child. They also do not prove that this minor Major was the adult Major Selby assessed in Worcester County in 1783, the Kentucky man dead by 1833, or the Maryland-born Indiana man alive in 1850 and 1860. In fact, an adult assessed in 1783 cannot be equated with a person still under guardianship in 1785, and the Kentucky and Indiana men are now separately established identities.
 
 ## Claims supported
 

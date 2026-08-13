@@ -15,13 +15,16 @@ Major Selby Sr., recorded in the 1783 Worcester County assessment with 140 acres
 ## Documented Selby-Atkinson context
 
 - [[FamilySearch - Angelo Atkinson 1766 Worcester County will images]] is a reviewed primary manuscript. Angelo calls Sarah Selby and William Atkinson Selby his grandchildren and explicitly identifies them as the daughter and son of John Selby. The will separately names a grandson John Selby, but does not state that grandson's parent. It does not say whether John Selby the father was Angelo's son or son-in-law, and it does not name Major Selby.
+- [[FamilySearch - John Atkinson 1779 Worcester County will images]] calls Angelo Atkinson the testator's father and Joshua Atkinson his brother. It also expressly names John and William Atkinson Selby as John Selby's two sons. This independently strengthens the older Atkinson and Selby generation but does not identify the son John with the 1782 decedent or name Major.
+- The 1782 John Selby Jr. docket names administrator Leah Selby and sureties Jacob Selby and Nehemiah Dorman. The 1793 third account names Kendal Smock and Leah his wife as the continuing administrators. Neither record names a child, heir, or Major Selby.
 - The 1783 assessment lists Major Selby with "Choice, pt, 140 acres" in Acquango Hundred, Worcester County.
 - In 1797, Major Selby was a party to a Worcester County chancery petition involving the tracts Poplar Hill and Exon Enlarged.
 - John Atkinson's 1750 will records Levinah Selby, wife of William Selby the younger, and names her sons William and John. This documents an earlier Selby-Atkinson connection but does not name Major.
 
 ## Evidence against / limits
 
-- [[FamilySearch - Major Selby 1785 Worcester guardianship estate-view image]] directly identifies a **minor** Major Selby as the orphan of John Selby. It does not identify that minor with the adult Major Selby assessed in 1783; the two entries cannot be merged merely because they share a name and county. It is therefore evidence for a distinct, still-unresolved identity question, not proof of the 1783 adult's parentage.
+- [[FamilySearch - Major Selby 1785 Worcester guardianship estate-view image]], [[FamilySearch - John Selby 1790 Worcester County will images]], and [[FamilySearch - John Selby Esq 1795 Worcester final account]] now directly prove that the **minor** Major Selby was the son of deceased John Selby and grandson of John Selby Esq. This resolves the minor's bounded colonial parentage.
+- Those records do not identify that minor with the **adult** Major Selby assessed in 1783. A person reported about seven in 1785 could not have been the adult landholder in 1783. The two entries must remain separate unless the 1783 assessment belongs to an estate, guardian, or otherwise mischaracterized entry.
 - A will's omission of a person is not, by itself, proof that the omitted person was not a child or grandchild. Angelo Atkinson's will cannot by itself disprove Major as a son of John Selby and Mary Atkinson unless it expressly identifies a complete class of their children or another primary record resolves the relationship.
 - No primary document reviewed names Major as the son of John Selby and Mary Atkinson, or as the son of William Selby and Levinah Atkinson.
 - Sharing the tract name "Choice" does not establish descent or a chain of title. The patent, surveys, estate divisions, deeds, and any releases must connect Angelo's tract to Major's 140 acres.
@@ -33,11 +36,13 @@ Major Selby Sr., recorded in the 1783 Worcester County assessment with 140 acres
 
 Some compiled family trees identify William Selby and Levinah Atkinson as Major's parents. That conclusion is presently a hypothesis, not a documented parent-child relationship.
 
-Release 0.9 adds an adult Major Selby purchasing Bourbon County land in 1811, two uncorrelated Nicholas County census pages in 1820, and direct proof that Major was Polly Selby's father in 1825. None names Major's parents. See [[Early records naming Major Selby cannot yet be merged into one man]] and [[William Atkinson Selby to Major Selby remains unproven]].
+Release 0.9 adds an adult Major Selby purchasing Bourbon County land in 1811 and direct proof that the Nicholas County Major was Polly Selby's father in 1825. Continued review found his 1811 Bourbon tax entry and his 1833 Nicholas County will naming wife Peggy, son Henry, and daughter Polly. None names Major's parents. The 1833 probate also proves that this Kentucky man was not the Hamilton County, Indiana, Major alive in 1850 and 1860. See [[Early records naming Major Selby cannot yet be merged into one man]], [[The Nicholas County Major Selby dead by 1833 was not the Indiana Major alive in 1850]], and [[William Atkinson Selby to Major Selby remains unproven]].
 
 ## Analysis
 
-The reviewed records establish a real Selby-Atkinson group in the right county and period, but no reviewed primary record connects it to Major Selby. The strongest immediate clue is the 1797 chancery packet. A petition to sell Poplar Hill and Exon Enlarged may state whether Major held his interest as heir, purchaser, spouse, or trustee. The packet is therefore more probative than tax assessments, tract-name similarities, or omissions from a will.
+The reviewed records establish at least two nearby Selby networks. The Atkinson records prove that one John Selby had sons John and William Atkinson Selby. The separate elder-John estate proves another explicit chain, John Selby Esq. -> son John -> minor Major. No person-specific record merges the Atkinson-line John with either man in the grandfather-to-Major chain.
+
+The later family-history problem has therefore split into two identity questions: identify the 1807-1833 Kentucky Major with the proved 1785 minor, the adult 1783 Worcester landholder, or neither; and separately identify the 1820 Somerset/1840-1860 Indiana Major with an earlier Maryland man. The 1797 chancery packet remains a strong clue because it may state whether its Major held land as heir, purchaser, spouse, or trustee.
 
 ## 2026-07-28 land-estate lead
 
@@ -61,6 +66,7 @@ Then reconstruct title to "Choice" from the Angelo Atkinson patent forward, usin
 
 Also retrieve and transcribe:
 
+- The 1782 John Selby Jr. bond, 1783 inventory, first and second estate accounts, and Kendal Smock-Leah Selby deeds or releases.
 - *George Hall vs. William Selby of Zadock*, 1810, Worcester County, estate of Zadock Selby, Chancery Record 91, p. 233, MSA S512-3-2427.
 - *Joseph Delestatius and Sarah Delestatius v. John Selby*, filed 12 Nov. 1795, Worcester County, estate of Parker Selby, MSA S512-6-4837; Chancery Record 38, p. 341.
 - *John Selby v. Anthony Bacon and George S. Gunby*, filed 22 Jul. 1808, Worcester County, estate of Parker Selby, MSA S512-6-5087; Chancery Record 105, p. 770.

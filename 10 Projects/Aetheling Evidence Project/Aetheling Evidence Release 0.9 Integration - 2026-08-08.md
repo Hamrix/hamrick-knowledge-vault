@@ -7,7 +7,7 @@ created: 2026-08-08
 last-reviewed: 2026-08-08
 release: "0.9"
 ---
-
+  
 # Aetheling Evidence Release 0.9 Integration - 2026-08-08
 
 ## Conclusion
@@ -44,7 +44,7 @@ Private identity-cluster files, living-person exports, original record images, a
 | ACC-016 | 1854 Benjamin Selby–Sophia E. Stone marriage | [[FamilySearch - Benjamin Selby and Sophia E Stone 1854 Shelby County marriage-license images]] | Shelby County record; Benjamin was a Frankfort resident |
 | ACC-017 | 1880 Benjamin/Docia/Payne household | [[FamilySearch - Ben Selby 1880 US census image]] | Household and reported parent-birthplace evidence |
 | ACC-018 | 1825 Antrobus–Polly file | [[FamilySearch - William Antrobus and Polly Selby 1825 Nicholas marriage file]] | Direct Major → Polly proof; false William attachment corrected |
-| ACC-019 | two 1820 Nicholas Major Selby pages | [[FamilySearch - Major Selby 1820 Nicholas census pages 111 and 129]] | Both originals preserved; identity correlation open |
+| ACC-019 | two images indexed for 1820 Nicholas Major Selby | [[FamilySearch - Major Selby 1820 Nicholas census pages 111 and 129]] | Page 111 contains one transcribed Major household; page 129 is a nonmatching or mislinked image |
 | ACC-020 | 1811 Bourbon deed to Major Selby | [[FamilySearch - Major Selby 1811 Bourbon deed and index]] | Adult identity proved; kinship unproved |
 | ACC-021 | 1840 older Benjamin household | [[FamilySearch - Benjamin Selby 1840 Frankfort census image]] | Younger Benjamin excluded from the household |
 | ACC-022 | 1849 Benjamin bar admission | [[FamilySearch - Benjamin Selby 1849 Henry Circuit Court bar admission]] | Occupation and associate anchor; no parentage |
@@ -62,6 +62,7 @@ Private identity-cluster files, living-person exports, original record images, a
 3. The 1825 Polly Selby record proves Major Selby was her father. Its online attachment to William Atkinson Selby is not parentage evidence.
 4. FamilySearch's Bourbon County discovery label for the Scarborough Parker account conflicts with the original Worcester County heading and parties. The original controls.
 5. At least two different men named Angelo Atkinson are required: the older testator deceased by 1766 and Joshua's underage son living in 1773.
+6. The two preserved 1820 Nicholas County images do not contain two Major Selby entries. Page 111 contains one household with a male age 26-44, a female age 10-15, and a female age 26-44; page 129 contains no Major Selby entry.
 
 ## Current generation-link status
 
@@ -70,7 +71,8 @@ Private identity-cluster files, living-person exports, original record images, a
 - John Selby → William Atkinson Selby: `confirmed` from the 1766 will.
 - William Atkinson Selby + Sarah White Townsend: `moderate`; reported in the 1929 Bible transcript, original unavailable.
 - William Atkinson Selby → Rhody Selby: `confirmed` from the 1811 orphan order.
-- William Atkinson Selby → Major Selby: unproved.
+- Deceased John Selby → minor Major Selby, about seven in 1785: `confirmed` as a bounded record pair; the father's exact identity and the child's later identity remain open.
+- William Atkinson Selby → Major Selby: unproved and in tension with the 1785 guardian record if that minor is the later target.
 - Major Selby → Polly Selby: `confirmed` from the 1825 marriage file.
 - Major Selby → Benjamin Selby: unproved.
 - Benjamin and Docie/Docia Stone → Robert C. Selby: certificate statement `confirmed`; biological accuracy remains informant-supplied.
@@ -79,7 +81,8 @@ Private identity-cluster files, living-person exports, original record images, a
 ## Uncertainty and conflicts preserved
 
 - [[Early records naming Major Selby cannot yet be merged into one man]]
-- [[The two 1820 Nicholas County Major Selby entries remain uncorrelated]]
+- [[One Major Selby household appears in the reviewed 1820 Nicholas census images]]
+- [[The two 1820 Nicholas County Major Selby entries remain uncorrelated]] (superseded by image review)
 - [[William Atkinson Selby to Major Selby remains unproven]]
 - [[Major Selby to Benjamin Selby remains unproven]]
 - [[The claimed 1809 William Atkinson Selby probate has not been located]]
@@ -101,7 +104,6 @@ Release 0.9 deployed as Sites version 21 with custom owner-only access and no ex
 1. Retrieve John Atkinson's 1779 will, accounts, legatee receipts, and appeal disposition.
 2. Complete the 1779 William Atkinson Selby indictment, recognizance, securities, and final disposition.
 3. Reconstruct William's 1808–1812 Bourbon and Worcester death, estate, orphan, tax, and land trail.
-4. Transcribe and correlate both 1820 Nicholas County Major Selby pages.
+4. Trace the single verified 1820 Nicholas County Major household in tax and deed records and correlate it with the 1811 Bourbon deed, the 1785 minor, and the 1825 Polly marriage file.
 5. Use Benjamin's 1849 bar cohort and 1860 probate associates to locate obituary, biography, death, probate, and collateral-family evidence.
 6. Recover the original 1874 Roberts Selby birth return.
-

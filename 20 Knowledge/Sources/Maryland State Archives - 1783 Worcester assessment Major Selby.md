@@ -4,7 +4,7 @@ source-class: archival-index
 repository: Maryland State Archives
 reference: 1783 Tax Assessment, Worcester County, Acquango Hundred, MSA S1161-11-5
 date: 1783
-accessed: 2026-08-03
+accessed: 2026-08-08
 privacy: public
 ---
 
@@ -22,10 +22,12 @@ Official online index/transcription to Maryland's 1783 tax assessment records.
 
 - The Worcester County Acquango Hundred section indexes Major Selby with "Choice, pt, 140 acres."
 - It cites the source reference MSA S1161-11-5 and repository location 1/4/5/54.
+- The same official assessment index separately lists Atkinson landholders in Pocomoke Hundred, including Angelo Atkinson on *Choice*, 267 acres, and *Sandy Lott*, 75 acres; William Atkinson on *Atkinsons Outlet*, 60 acres, and *Choice*, 300 acres; and multiple other Atkinson entries.
+- The same index separately lists William Selby entries, including a Mattapony surety note and several Queponco/Pocomoke tract entries. These nearby surname clusters are research context only and do not prove kinship.
 
 ## Reliability and limitations
 
-This is an official archival index/transcription, rather than a reviewed image of the original assessment page. It verifies an indexed assessment entry but does not give age, parentage, residence beyond the hundred, or a chain of title. An adult assessed in 1783 cannot automatically be identified with a person merely reported to have been born in 1783.
+This is an official archival index/transcription, rather than a reviewed image of the original assessment page. It verifies indexed assessment entries but does not give age, parentage, residence beyond the hundred, household structure, or a chain of title. The Atkinson and Selby surname clusters are useful for land-neighborhood research, but they cannot substitute for a relationship-bearing probate, deed, guardianship, church, or Bible record. An adult assessed in 1783 cannot automatically be identified with a person merely reported to have been born in 1783.
 
 ## Claims supported
 

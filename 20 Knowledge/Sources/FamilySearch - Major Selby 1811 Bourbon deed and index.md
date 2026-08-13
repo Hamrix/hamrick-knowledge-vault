@@ -2,7 +2,7 @@
 type: source
 source-class: primary
 repository: Bourbon County Clerk / FamilySearch
-reference: "Bourbon County Deed Book H, page 456"
+reference: "Bourbon County Deed Book H, page 456; related Dudley-heirs deed proved 15 July 1811"
 date: 1811-06-27
 accessed: 2026-08-08
 privacy: internal
@@ -13,15 +13,15 @@ project: Aetheling Evidence Project
 
 ## Citation
 
-Bourbon County, Kentucky, Deed Book H, page 456, Joseph K. Glenn and others to Major Selby, 27 June 1811, recorded 3 February 1812; FamilySearch deed image `3Q9M-CSLX-V5CN` and grantor-index image `3Q9M-CS4K-2Q9G-P`.
+Bourbon County, Kentucky, Deed Book H, page 456, Joseph K. Glenn and others to Major Selby, 27 June 1811, recorded 3 February 1812; FamilySearch deed image `3Q9M-CSLX-V5CN` and grantor-index image `3Q9M-CS4K-2Q9G-P`. See also Walker Hawes to the heirs and legal representatives of James Dudley, proved 15 July 1811, witnessed by Major Selby, [FamilySearch image 166 of 561](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSLX-V565?view=fullText&keywords=Major+Selby&lang=en).
 
 ## Record examined
 
-The deed conveys about 100 acres derived from James Dudley's estate to Major Selby, described as of Bourbon County.
+The 27 June deed conveys about 100 acres derived from James Dudley's estate to Major Selby, described as of Bourbon County. In a related Dudley-heirs transaction proved on 15 July, Major witnessed Walker Hawes's deed alongside Armiger Lilly. The recorded attestation shows **Major his X mark Selby**.
 
 ## Reliability and limitations
 
-The original proves an adult Major Selby in Bourbon County in 1811. It does not name his parents, spouse, children, or relationship to William Atkinson Selby.
+The originals prove an adult Major Selby buying land and participating as a marked witness in the same Bourbon County Dudley-estate network within weeks in 1811. They do not name his parents, spouse, children, former residence, or relationship to William Atkinson Selby. The shared associates and transaction context strengthen correlation within the Bourbon identity cluster but do not bridge it to Worcester or Nicholas County.
 
 ## File integrity
 
@@ -33,4 +33,3 @@ The original proves an adult Major Selby in Bourbon County in 1811. It does not 
 
 - [[An adult Major Selby purchased Bourbon County land in 1811]]
 - [[William Atkinson Selby to Major Selby remains unproven]]
-

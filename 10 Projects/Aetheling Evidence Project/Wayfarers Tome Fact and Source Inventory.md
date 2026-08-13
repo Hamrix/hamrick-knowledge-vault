@@ -4,13 +4,13 @@ status: active
 privacy: internal
 project: Aetheling Evidence Project
 created: 2026-07-28
-last-reviewed: 2026-07-31
+last-reviewed: 2026-08-07
 source: Codex session; tome-companion/app/page.tsx
 app-url: "https://wayfarers-tome.hamrix.chatgpt.site"
-fact-count: 52
-source-label-count: 78
-public-source-count: 60
-vault-source-count: 18
+fact-count: 55
+source-label-count: 84
+public-source-count: 64
+vault-source-count: 20
 ---
 
 # Wayfarer's Tome Fact and Source Inventory
@@ -81,6 +81,9 @@ The ledger presents documented historical context and active research leads. It 
 | REC 051 | RESEARCH | Frederick Ethelred Selby Candidate | 1911-1992 | TENTATIVE | Reviewed 1930 census and 1953 marriage-license images identify Frederick E. Selby in New Orleans, record him as Sarah E. Stafford's son in 1930, and name James B. Selby and Sarah E. Selby as his parents on the marriage license; the license also records his marriage to Frances Marion Haskins. | These modern records require continued correlation for a complete identity and parentage proof and do not establish military/intelligence history, a project-family connection, colonial descent, or any medieval lineage. | FamilySearch - Frederick E Selby 1930 US census image; FamilySearch - Frederick E Selby 1953 Lenoir County marriage license image; Frederick Ethelred Selby 1911-1992 research lead |
 
 | REC 052 | RESEARCH | William Atkinson Selby and the Tory Rising | 1775-1784 | TENTATIVE | William Atkinson Selby was indicted in Worcester County in June 1779 for "going to the enemy"; a compiled family record reports his 1782 marriage to Sarah White Townsend and identifies Barkley Townsend Selby as their son. | The archival sources support the indictment and the Townsend-house depositions, but do not state that the marriage was a formal reconciliation, prove a pardon, or substantiate the claimed denunciation by a brother. | Maryland State Archives, Biographical Dictionary of the Maryland Legislature; Archives of Maryland, vol. 12, pp. 370-372; Selby Family Notes, William Atkinson Selby |
+| REC 053 | RESEARCH | The 1725 Simpleton Transfer | 1675-1728 | CONFIRMED | A reviewed 1725 Somerset County deed records Thomas Selby and Margaret Selby conveying the remaining Simpleton land and marsh to William Selby. Its title recital and operative language identify the grantor Thomas as a grandson of the original Simpleton patentee, Thomas Selby. | The record does not name the intervening father, identify the 1725 grantor with the Thomas Selby of the 1701 or 1758 records, or connect this tract line to Major Selby, a royal line, or a modern family. | Maryland State Archives, Thomas Selby 1725 Simpleton deed; Thomas Selby who conveyed Simpleton in 1725 was grandson of its Thomas Selby patentee |
+| REC 054 | RESEARCH | James F. Selby’s 1918 Parent Report | 1827-1918 | CONFIRMED | A reviewed 1918 Iowa death certificate for James F. Selby reports his father as Major Selby and his mother’s maiden name as Harriet Mesic; an official Iowa index independently matches the certificate reference and identity details. | The certificate does not identify the named parents with a Hamilton County household, prove their marriage, or bridge this family to earlier Maryland Selby records. | FamilySearch, James F. Selby 1918 Iowa death certificate; Iowa State Historical Society, James F. Selby 1918 death index |
+| REC 055 | RESEARCH | The 1785 Minor Major Selby | 1778-1785 | CONFIRMED | A reviewed Worcester County guardian bond dated 1 July 1785 identifies a Major Selby, about seven years old, as the orphan of John Selby, deceased; a related certificate repeats the father-child identification. | This does not identify the guardian as kin or merge the child with the separate adult Major Selby recorded in 1783 or later Kentucky and Indiana records. | FamilySearch, Major Selby 1785 Worcester guardianship image; 1785 Worcester guardianship record identifies Major Selby as orphan of John Selby |
 
 ## Public source link index
 
@@ -112,8 +115,11 @@ The ledger presents documented historical context and active research leads. It 
 - Encyclopædia Britannica (1911), Henry II: [https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Henry_II._of_England](https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Henry_II._of_England)
 - FamilySearch catalog 456868, Craven County estate files: [https://www.familysearch.org/en/search/catalog/456868](https://www.familysearch.org/en/search/catalog/456868)
 - FamilySearch catalog 646166, Craven County court minutes: [https://www.familysearch.org/en/search/catalog/646166](https://www.familysearch.org/en/search/catalog/646166)
+- FamilySearch, James F. Selby 1918 Iowa death certificate: [https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS6V-L9ZW-S?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3AQP2W-L3Q9&action=view&lang=en](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS6V-L9ZW-S?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3AQP2W-L3Q9&action=view&lang=en)
+- FamilySearch, Major Selby 1785 Worcester guardianship image: [https://www.familysearch.org/ark:/61903/3:1:33S7-9T15-R53?view=fullText&keywords=Selby&lang=en](https://www.familysearch.org/ark:/61903/3:1:33S7-9T15-R53?view=fullText&keywords=Selby&lang=en)
 - FamilyTreeDNA Selby Project results: [https://www.familytreedna.com/groups/selby/dna-results](https://www.familytreedna.com/groups/selby/dna-results)
 - FamilyTreeDNA Y-STR Results Guide: [https://help.familytreedna.com/hc/en-us/articles/4408063356303-Y-STR-Results-Guide](https://help.familytreedna.com/hc/en-us/articles/4408063356303-Y-STR-Results-Guide)
+- Iowa State Historical Society, James F. Selby 1918 death index: [https://history.iowa.gov/sites/default/files/2023-03/wayne-county.pdf](https://history.iowa.gov/sites/default/files/2023-03/wayne-county.pdf)
 - Findmypast, Britain Country Apprentices 1710-1808: [https://www.findmypast.com/articles/world-records/search-all-uk-records/education-and-work/apprentices/britain-country-apprentices-1710-1808](https://www.findmypast.com/articles/world-records/search-all-uk-records/education-and-work/apprentices/britain-country-apprentices-1710-1808)
 - Hanks, Dictionary of American Family Names: Selby: [https://www.familysearch.org/en/surname?surname=SELBY](https://www.familysearch.org/en/surname?surname=SELBY)
 - Maryland State Archives, 1783 Worcester assessment: [https://www.msa.maryland.gov/msa/stagser/s1400/s1437/html/1437wo.html](https://www.msa.maryland.gov/msa/stagser/s1400/s1437/html/1437wo.html)
@@ -121,6 +127,7 @@ The ledger presents documented historical context and active research leads. It 
 - Maryland State Archives, Biographical Dictionary of the Maryland Legislature: [https://msa.maryland.gov/megafile/msa/speccol/sc2900/sc2908/000001/000426/html/am426--721.html](https://msa.maryland.gov/megafile/msa/speccol/sc2900/sc2908/000001/000426/html/am426--721.html)
 - Maryland State Archives, Chancery Court index: [https://msa.maryland.gov/msa/stagser/s500/s512/html/s512d.html](https://msa.maryland.gov/msa/stagser/s500/s512/html/s512d.html)
 - Maryland State Archives, Patents, Worcester Tract Index S1602: [https://guide.msa.maryland.gov/pages/series.aspx?id=S1602](https://guide.msa.maryland.gov/pages/series.aspx?id=S1602)
+- Maryland State Archives, Thomas Selby 1725 Simpleton deed: [https://guide.msa.maryland.gov/pages/series.aspx?id=CE102](https://guide.msa.maryland.gov/pages/series.aspx?id=CE102)
 - McDonald, review of Matilda of Scotland (2004): [https://scholarworks.iu.edu/journals/index.php/tmr/article/view/15743](https://scholarworks.iu.edu/journals/index.php/tmr/article/view/15743)
 - National Archives apprenticeship guide: [https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/apprentices-and-masters/](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/apprentices-and-masters/)
 - Neal, Anglo-Scandinavian by-names (2023): [https://eprints.nottingham.ac.uk/74185/1/Joshua%20Neal%20-%2014312644%20-%20Thesis.pdf](https://eprints.nottingham.ac.uk/74185/1/Joshua%20Neal%20-%2014312644%20-%20Thesis.pdf)
@@ -158,6 +165,8 @@ These labels are intentionally shown in the app as vault facts or vault notes ra
 - Skinner, Worcester County wills - vault note.
 - Source Material Inventory - vault fact, points to REC 010.
 - Thomas Selby Sr. profile note - vault fact, points to REC 039.
+- Thomas Selby who conveyed Simpleton in 1725 was grandson of its Thomas Selby patentee - vault fact, points to REC 053.
+- 1785 Worcester guardianship record identifies Major Selby as orphan of John Selby - vault fact, points to REC 055.
 - Whitelaw, Virginia's Eastern Shore - vault note.
 - Worcester County will and land abstracts - vault note.
 

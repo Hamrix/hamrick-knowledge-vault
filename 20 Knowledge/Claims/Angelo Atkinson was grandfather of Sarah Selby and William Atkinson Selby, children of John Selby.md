@@ -23,6 +23,7 @@ Angelo Atkinson was the grandfather of Sarah Selby and William Atkinson Selby; t
 ## Evidence supporting
 
 - [[FamilySearch - Angelo Atkinson 1766 Worcester County will images]] is the reviewed manuscript will. Its tenth bequest calls Sarah Selby the testator's granddaughter and William Atkinson Selby his grandson, then explicitly identifies them as the daughter and son of John Selby.
+- [[FamilySearch - John Atkinson 1779 Worcester County will images]] independently identifies William Atkinson Selby and John Selby as the two sons of John Selby. This corroborates William's father while adding a separately named brother.
 
 ## Evidence against
 
@@ -34,7 +35,7 @@ The will also names a grandson John Selby, but does not state that grandson's pa
 
 ## Analysis
 
-The manuscript directly establishes that Angelo Atkinson was the grandparent of Sarah Selby and William Atkinson Selby, and that John Selby was their father. It does not state whether John Selby was Angelo's son or son-in-law, identify John's wife, name Major Selby, or prove that Major Selby descended from this group.
+The 1766 manuscript directly establishes that Angelo Atkinson was the grandparent of Sarah Selby and William Atkinson Selby, and that John Selby was their father. The 1779 will independently confirms John as William's father. Neither record states whether John Selby was Angelo's son or son-in-law, identifies John's wife, names Major Selby, or proves that Major Selby descended from this group.
 
 ## Confidence rationale
 

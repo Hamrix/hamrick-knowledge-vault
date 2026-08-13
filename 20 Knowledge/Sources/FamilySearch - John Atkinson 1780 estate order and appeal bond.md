@@ -21,7 +21,7 @@ The distribution order names Angelo Atkinson, John Atkinson, John Selby, William
 
 ## Reliability and limitations
 
-The originals directly prove the named legal group. They do not state each legatee's relationship to John Atkinson and cannot be converted into a complete child list.
+The originals directly prove the named legal group. The order and bond do not state each legatee's relationship to John Atkinson and cannot be converted into a complete child list on their own. The underlying will has now been reviewed separately: [[FamilySearch - John Atkinson 1779 Worcester County will images]] expressly identifies Joshua Atkinson as John's brother, Joshua's children Angelo, John, and Rachel, and John Selby's sons John and William Atkinson Selby.
 
 ## File integrity
 
@@ -33,4 +33,5 @@ The originals directly prove the named legal group. They do not state each legat
 
 - [[John Atkinsons 1780 estate order named seven residuary legatees]]
 - [[The 1780 appeal bond recited John Atkinsons 1779 will and repeated the legatee group]]
-
+- [[Angelo Atkinson was father of John and Joshua Atkinson]]
+- [[John Selby was father of sons John and William Atkinson Selby]]

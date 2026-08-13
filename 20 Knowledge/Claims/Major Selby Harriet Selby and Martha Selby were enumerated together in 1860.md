@@ -18,7 +18,7 @@ The 1860 federal census enumerated Major Selby, Harriet Selby, and Martha Selby 
 
 ## Analysis and limit
 
-This is a census household fact, not a stated family relationship: the 1860 schedule has no relationship-to-head column. It does not prove the household members' precise relationships, identify Major's parents, prove a connection to Benjamin Selby, or connect the Indiana Major to the adult Major Selby recorded in Maryland in 1783. The latter identification would require an intervening record that connects the Maryland and Kentucky/Indiana histories.
+This is a census household fact, not a stated family relationship: the 1860 schedule has no relationship-to-head column. It does not prove the household members' precise relationships, identify Major's parents, prove a connection to Benjamin Selby, or connect the Indiana Major to the adult Major Selby recorded in Maryland in 1783. An intervening record is still required to connect the Indiana man to an earlier Maryland identity. The Nicholas County, Kentucky, Major dead by 1833 is conclusively a different man.
 
 ## Next research action
 

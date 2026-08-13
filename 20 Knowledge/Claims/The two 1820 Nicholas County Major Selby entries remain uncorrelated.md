@@ -1,7 +1,7 @@
 ---
 type: claim
-status: active
-confidence: moderate
+status: superseded
+confidence: disproved
 privacy: internal
 project: Aetheling Evidence Project
 last-reviewed: 2026-08-08
@@ -9,19 +9,19 @@ last-reviewed: 2026-08-08
 
 # The two 1820 Nicholas County Major Selby entries remain uncorrelated
 
-## Claim
+## Superseded claim
 
-Two distinct original Nicholas County census pages are indexed for Major Selby, but the entries have not been shown to be duplicate enumeration, different men, or an index error.
+This claim is superseded. Full visual review found a Major Selby household on page 111 but no Major Selby entry on the preserved page 129 image.
 
-## Evidence supporting
+## Correcting evidence
 
 - [[FamilySearch - Major Selby 1820 Nicholas census pages 111 and 129]] preserves both pages and their hashes.
+- [[One Major Selby household appears in the reviewed 1820 Nicholas census images]] records the corrected finding and the page 111 household transcription.
 
 ## Analysis and limits
 
-Different page neighborhoods are visible, but a household-column transcription and tax, deed, neighbor, and later-census correlation are still required.
+The second indexed image was a nonmatching or mislinked page, not a second confirmed occurrence. Tax, deed, neighbor, and later-census correlation are still required for the single verified page 111 household.
 
 ## Confidence rationale
 
-`moderate`: the existence of both pages is confirmed, while their relationship remains unresolved.
-
+`disproved`: both images exist, but only page 111 contains a Major Selby entry.

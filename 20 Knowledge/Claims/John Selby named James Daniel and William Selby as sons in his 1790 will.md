@@ -3,14 +3,14 @@ type: claim
 status: active
 confidence: confirmed
 privacy: internal
-last-reviewed: 2026-08-02
+last-reviewed: 2026-08-08
 ---
 
 # John Selby named James Daniel and William Selby as sons in his 1790 will
 
 ## Claim
 
-In a Worcester County will dated 20 November 1790, John Selby named James Selby, Daniel Selby, and William Selby as his sons.
+In a Worcester County will dated 13 November 1790, John Selby named James Selby, Daniel Selby, and William Selby as his sons.
 
 ## Subjects
 
@@ -22,7 +22,7 @@ In a Worcester County will dated 20 November 1790, John Selby named James Selby,
 
 ## Evidence supporting
 
-- [[FamilySearch - John Selby 1790 Worcester County will images]] is the reviewed manuscript will. It uses the relationship term "my son" for James, Daniel, and William Selby; it is dated 20 November 1790 and was proved 10 December 1790.
+- [[FamilySearch - John Selby 1790 Worcester County will images]] is the reviewed manuscript will. It uses the relationship term "my son" for James, Daniel, and William Selby; it is dated 13 November 1790 and was proved 10 December 1790.
 
 ## Evidence against
 
@@ -34,7 +34,7 @@ The will does not identify the testator's parents or give enough information to 
 
 ## Analysis
 
-The manuscript directly establishes this parent-child group. It does not prove that this John Selby was the John named in Thomas Selby's 1758 will, that he was a son of Parker Selby, or that any of the named sons was Major Selby. Those are separate identity and connection questions requiring records that name the relevant relationship.
+The manuscript directly establishes this parent-child group. It separately identifies Major Selby as a grandson and the son of John, so Major was not one of these three named sons. The will does not prove that the testator was the John named in Thomas Selby's 1758 will or a son of Parker Selby.
 
 ## Confidence rationale
 
