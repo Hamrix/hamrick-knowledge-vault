@@ -60,7 +60,7 @@ This creates a sharper research problem: determine how Poplar Hill and Exon Enla
 
 This creates a concrete upstream hypothesis for the adult Major assessed on part of *Choice* in 1783, but it does not prove the relationship or identify the listed child with that landholder. The compiled title narrative appears to leave a roughly 136-acre residue with Thomas Jr., while the assessment lists Major with 140 acres. Original deeds, surveys, assessment pages, and estate divisions must explain that apparent tension before tract similarity is treated as identity evidence.
 
-The same continuation confirmed from [[Maryland State Archives - Charles Parker Worcester estate index]] that Selby Parker administered a Charles Parker estate. This is a promising collateral-family record set because the inventories may name next of kin, but the index gives no relationship and does not identify the decedent with Margaret Selby's Kentucky brother.
+The same continuation now includes the original Charles Parker probate instruments. [[FamilySearch - Charles Parker 1761 Worcester administration bond]] names Collins Parker administrator, with a living Charles Parker and John Parker as bound parties. [[FamilySearch - Charles Parker 1761 Worcester inventory]] names Samuel Parker and Phillip P. Parker under "Kin." [[FamilySearch - Charles Parker 1788 Worcester administration bond]] names Selby Parker administrator and associates him with Schoolfield Parker and John Selby (of Ezekiel). [[FamilySearch - Charles Parker 1788 Worcester inventory]] names John Parker and Ann Parker under "Nearest of Kin." These are direct probate-role and kin-designation facts, but none states an exact relationship or identifies the decedent with Margaret Selby's Kentucky brother.
 
 ## Next research action
 
@@ -80,7 +80,7 @@ Also retrieve and transcribe:
 - *John Selby v. Anthony Bacon and George S. Gunby*, filed 22 Jul. 1808, Worcester County, estate of Parker Selby, MSA S512-6-5087; Chancery Record 105, p. 770.
 - John Selby's 1790 will/trust and any related estate papers.
 - Worcester Deeds B:203, F:542, and G:303 and the 1802 Thomas Jr. conveyance affecting *Choice* and *Dull Folly*.
-- Charles Parker's 1788 and 1793 inventories, 1790 account, administration papers, and related Orphans Court proceedings.
+- Charles Parker's 1762 account, 1790 account, 1793 second inventory, will copy, and related Orphans Court proceedings.
 
 ## Sources
 
@@ -95,6 +95,10 @@ Also retrieve and transcribe:
 - [[Maryland State Archives - Parker Selby chancery case indexes]]
 - [[Bunce 1948 - Some of the Ancestors Selby genealogy]]
 - [[Maryland State Archives - Charles Parker Worcester estate index]]
+- [[FamilySearch - Charles Parker 1761 Worcester administration bond]]
+- [[FamilySearch - Charles Parker 1761 Worcester inventory]]
+- [[FamilySearch - Charles Parker 1788 Worcester administration bond]]
+- [[FamilySearch - Charles Parker 1788 Worcester inventory]]
 - [Maryland State Archives, Patents, Worcester, Tract Index (S1602)](https://guide.msa.maryland.gov/pages/series.aspx?id=S1602) (including 1761 *Choice*, 242 acres, S1602-1293)
 - [Archives of Maryland, vol. 18 index, p. 722](https://msa.maryland.gov/megafile/msa/speccol/sc2900/sc2908/000001/000018/html/am18--722.html)
 - [Archives of Maryland, Council-journal volume list](https://msa.maryland.gov/megafile/msa/speccol/sc2900/sc2908/html/executive.html)

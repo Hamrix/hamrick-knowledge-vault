@@ -22,12 +22,12 @@ Official printed estate index created for the Worcester County probate record se
 
 Visual review of printed page 28 of the official index, checked against the higher-resolution FamilySearch surrogate, confirms that one Charles Parker estate spans an initial 1761 administration and a later 1788 administration. The aligned entries display:
 
-- **Collins Parker**, administrator, with bond dated 12 February 1761, inventory filed in June 1761, and account filed in May 1762;
+- **Collins Parker**, administrator, with the administration indexed on 12 February 1761, inventory filed in June 1761, and account filed in May 1762;
 - sureties **Charles Parker** and **John Parker** for the 1761 administration;
 - **Selby Parker**, administrator, with bond dated 16 February 1788;
 - an inventory filed 29 April 1788, an account dated 28 May 1790, and a second inventory filed 12 March 1793.
 
-The earlier version of this note misread the first bond date as 16 February 1786. Alignment against the administrator and surety columns, plus the original 1761 inventory, corrects it to **12 February 1761**. This correction is recorded explicitly rather than silently replacing the prior reading.
+The earlier version of this note misread the first administration date as 16 February 1786. Alignment against the administrator and surety columns, plus the original 1761 bond and inventory, corrects the indexed date to **12 February 1761**. The original bond was executed on 11 February, with letters granted on 12 February. This correction and refinement are recorded explicitly rather than silently replacing the prior reading.
 
 ## Reliability and limitations
 
@@ -50,6 +50,7 @@ The original 1761 inventory names Samuel Parker and Phillip P. Parker under "Kin
 ## Claims supported
 
 - [[Selby Parker administered Charles Parkers Worcester estate]]
+- [[Collins Parker administered Charles Parkers estate with Charles and John Parker bound in 1761]]
 - [[Samuel and Phillip P Parker were recorded as kin to Charles Parker in 1761]]
 - [[John and Ann Parker were recorded as nearest kin to Charles Parker in 1788]]
 
