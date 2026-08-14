@@ -17,7 +17,7 @@ Nancy Gunby is strongly identified as the mother of George Selby and Elizabeth o
 
 - [[FamilySearch - John Selby 1790 Worcester County will images]] calls Nancy Gunby the testator's daughter, calls George a son of Nancy, and calls Betsey Selby a daughter of Nancy.
 - [[Worcester Digital Archive - Parker Selby children 1790 guardian bond]] places George Selby and Elizabeth Selby, both orphans of Parker Selby, under Nancy Gunby's guardianship seven months earlier.
-- [[FamilySearch - John and Nancy Gunby 1792-1795 Parker Selby estate accounts]] directly identifies Nancy as John Gunby's wife and as executrix of Parker Selby's will, tying the Nancy Gunby identity to Parker's estate administration.
+- [[FamilySearch - John and Nancy Gunby 1792-1795 Parker Selby estate accounts]] directly identifies Nancy as John Gunby's wife and as executrix of Parker Selby's will in four successive accounts, tying the Nancy Gunby identity to Parker's estate administration.
 - [[FamilySearch - Nancy Selby 1789 Parker Selby executor bond]] independently records Nancy Selby in the same executrix role before the 1790 will and guardianship.
 
 ## Analysis and limits
@@ -32,4 +32,4 @@ No single reviewed instrument states all three propositions together: Nancy as P
 
 ## Next research action
 
-Retrieve Parker's missing will, the 1791 inventory, the 1793 distribution and third account, and the children's later guardian accounts or receipts. Seek one instrument expressly identifying Nancy as Parker's widow or equating Elizabeth with Betsey.
+Retrieve Parker's missing will, the 1791 inventory, the 1793 distribution, and the children's later guardian accounts or receipts. Seek one instrument expressly identifying Nancy as Parker's widow or equating Elizabeth with Betsey. The distribution target is LH 3, MSA C2007-2; the guardian-account target is JW 17, MSA C2013-1, which the Maryland State Archives currently marks restricted.

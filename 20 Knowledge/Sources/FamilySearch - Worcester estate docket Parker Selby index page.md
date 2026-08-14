@@ -18,7 +18,7 @@ Worcester County, Maryland, Register of Wills, *Estate Docket T4215/C1993-1*, vo
 
 The digitally available estate-docket image is a primary index page rather than an estate instrument. Visual review confirms a Parker Selby row naming Nancy Selby and dated 3 April 1789, followed by a separate 18 April 1789 filing in the same indexed track. The row also points to an inventory filed 25 August 1791 and later account or distribution dates in 1792, 1793, and 1795.
 
-The page also contains neighboring Selby and Parker entries. Dense column alignment and imperfect automated transcription make the official row structure and original underlying instruments controlling.
+The page also contains neighboring Selby and Parker entries. Dense column alignment and imperfect automated transcription make the official row structure and original underlying instruments controlling. Direct review has now recovered all four accounts represented by the 1792-1795 accounting sequence.
 
 ## Genealogical value
 
@@ -28,7 +28,7 @@ It does not state that Nancy was Parker's widow, identify George or Elizabeth, s
 
 ## Reliability and limitations
 
-This is a page-image review of the county estate docket, but a docket is an index and finding aid. The 1789 executor bond and the 1792 and 1795 accounts have now been reviewed. The 1791 inventory, 1793 third account and distribution, and guardian settlements remain necessary.
+This is a page-image review of the county estate docket, but a docket is an index and finding aid. The 1789 executor bond and all four accounts from 1792 through 1795 have now been reviewed. The 1791 inventory, 1793 distribution, and guardian settlements remain necessary.
 
 ## Claims supported
 
