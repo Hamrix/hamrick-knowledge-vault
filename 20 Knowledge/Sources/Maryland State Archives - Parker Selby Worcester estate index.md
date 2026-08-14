@@ -40,3 +40,7 @@ This is an official twentieth-century estate index derived from the probate file
 ## Independent digital cross-check
 
 [[FamilySearch - Worcester estate docket Parker Selby index page]] provides a second digital image of the early estate docket at DGS 105017200, image 69. It confirms the Nancy Selby / Parker track and its April 1789 opening dates, but remains an index rather than an underlying estate instrument.
+
+## Underlying records retrieved
+
+Authenticated FamilySearch review has now recovered [[FamilySearch - Nancy Selby 1789 Parker Selby executor bond]] and [[FamilySearch - John and Nancy Gunby 1792-1795 Parker Selby estate accounts]]. The bond names Nancy Selby as executrix of Parker's will on 8 April 1789. The 1792 and 1795 accounts identify Nancy as John Gunby's wife and repeat her executrix role. These originals confirm that the index's 1789, 1791, 1792, and 1795 entries form one Nancy-administered track. The 1791 inventory, 1793 third account, and distribution remain retrieval targets.

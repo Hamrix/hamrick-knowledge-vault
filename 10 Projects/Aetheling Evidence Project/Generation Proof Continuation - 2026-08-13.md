@@ -78,6 +78,7 @@ The account names no heirs, makes no distribution to a family class, and does no
 | Parker Selby - George Selby and Elizabeth Selby | Confirmed | A contemporary 11 June 1790 guardian bond directly calls George and Elizabeth orphans of deceased Parker Selby. |
 | The children's father Parker - Captain John Selby's son Parker | Unproved and not merged | The index records multiple separate Parker estate tracks. The guardian bond names no docket or paternal grandfather. |
 | John Selby - daughter Nancy Gunby - her children George and Betsey Selby | Confirmed | John's 1790 will directly states both generations within one testamentary family group. |
+| Nancy, wife of John Gunby - executrix of Parker Selby's will | Confirmed | The 1792 and 1795 estate accounts directly state Nancy's marriage and executrix role; the 1789 bond names Nancy Selby in the same office. |
 | Betsey Selby in John's will - Elizabeth Selby in Parker's guardian bond | Strongly identified | Both are Nancy's minor daughter in the same 1790 Worcester cluster, and Betsey is a common form of Elizabeth; no reviewed record expressly equates the names. |
 
 ## JW 21 Orphans Court follow-up
@@ -92,9 +93,11 @@ The same review recovered [[Worcester Digital Archive - Parker Selby children 17
 
 Direct review of [[FamilySearch - Parker Selby 1790 Worcester executor bond]] establishes that James Selby qualified as executor under one deceased Parker Selby's will on 29 January 1790, with William Selby and Dennis Hudson bound with him. [[Maryland State Archives - Parker Selby Worcester estate index]] places that bond, a 24 June 1790 inventory, and a 15 May 1792 account in a row labeled Parker "of Wm."
 
-The separate [[FamilySearch - Parker Selby 1791 Worcester de bonis non bond]] appoints James Selby and John Gunby administrators de bonis non and says John Selby, Esquire, had been the former administrator. The index places it in a separate Parker "of John" row. [[The 1790 and 1791 Parker Selby records describe different estate histories]]. A third row records filings on 3 and 18 April 1789 under Nancy Selby, followed by a 1791 inventory, later accounts, and a distribution. This Nancy-administered track is the leading candidate for the children's father, but the guardian bond does not state its docket, so the identity remains unproved.
+The separate [[FamilySearch - Parker Selby 1791 Worcester de bonis non bond]] appoints James Selby and John Gunby administrators de bonis non and says John Selby, Esquire, had been the former administrator. The index places it in a separate Parker "of John" row. [[The 1790 and 1791 Parker Selby records describe different estate histories]].
 
-John Selby's 1790 will supplies a maternal cluster. It calls Nancy Gunby his daughter, George her son, Betsey Selby her daughter, and John Selby her son. Read with the June guardian bond, this [[Nancy Gunby is strongly identified as mother of George and Elizabeth Selby|strongly identifies Nancy as mother of George and Elizabeth or Betsey]], but no single reviewed record yet calls Nancy Parker's widow or expressly equates Elizabeth with Betsey.
+The third track is now supported by its underlying records. [[FamilySearch - Nancy Selby 1789 Parker Selby executor bond]] names Nancy Selby as executrix of Parker's will on 8 April 1789. [[FamilySearch - John and Nancy Gunby 1792-1795 Parker Selby estate accounts]] identifies John Gunby and Nancy his wife as accountants and repeats Nancy's executrix role on 31 December 1792 and 28 April 1795. The final account refers back to a third account exhibited 30 November 1793. These originals prove [[Nancy wife of John Gunby was executrix of Parker Selbys will in 1792|Nancy's marriage to John Gunby and administration of Parker's estate]], but they name no heirs and do not call Nancy Parker's widow. The guardian bond still does not state its docket, so the children's assignment to this exact estate remains unproved.
+
+John Selby's 1790 will supplies a maternal cluster. It calls Nancy Gunby his daughter, George her son, Betsey Selby her daughter, and John Selby her son. Read with the June guardian bond and Nancy's now-documented administration of Parker's estate, this [[Nancy Gunby is strongly identified as mother of George and Elizabeth Selby|strongly identifies Nancy as mother of George and Elizabeth or Betsey]], but no single reviewed record yet calls Nancy Parker's widow or expressly equates Elizabeth with Betsey.
 
 [[Scarborough 1951 - George Selby 1802 Pleasant Grove deed transcription]] reports an enrolled Worcester deed calling George the eldest son and heir at law of deceased Parker Selby. It independently corroborates Parker-to-George and identifies Liber V, folios 236-238 as the original target. Because only the printed transcription has been reviewed, the deed is not yet used to extend Parker's paternal line.
 
@@ -102,7 +105,7 @@ John Selby's 1790 will supplies a maternal cluster. It calls Nancy Gunby his dau
 
 [[FamilySearch Catalog - Worcester Land Records Liber V-W]] now identifies the original 1802 deed volume as FamilySearch film 14543 / DGS 8141714. The Maryland State Archives independently describes volume V as CE30-21, covering 1801-1803. The signed-in FamilySearch catalog marks the film and its full-text search as available only at a FamilySearch Center or affiliate library. The original folios were not reviewed, so the reported eldest-son and heir-at-law language remains derivative corroboration.
 
-[[FamilySearch - Worcester estate docket Parker Selby index page]] adds a stable image for Estate Docket T4215/C1993-1, DGS 105017200, image 69. It visually confirms the separate April 1789 Parker track under Nancy Selby and its later inventory and accounting trail. As an index, it does not call Nancy Parker's widow, name George or Elizabeth, or assign their guardian bond to this estate.
+[[FamilySearch - Worcester estate docket Parker Selby index page]] adds a stable image for Estate Docket T4215/C1993-1, DGS 105017200, image 69. Its opening and account entries are now confirmed by the original 1789 bond and 1792-1795 accounts. The remaining underlying targets are the 25 August 1791 inventory, 30 November 1793 third account, and 1 November 1793 distribution. None of the reviewed records calls Nancy Parker's widow, names George or Elizabeth as heirs, or assigns their guardian bond to this estate.
 
 ## Next proof targets
 
@@ -111,7 +114,7 @@ John Selby's 1790 will supplies a maternal cluster. It calls Nancy Gunby his dau
 3. Search Thomas and Elizabeth Selby probate, church, deed, and estate records for an explicit complete child class or a direct mention of Major.
 4. Research John Selby (of Ezekiel) and the bond-signature conflict through independent probate, deed, tax, church, and signature records.
 5. Keep all Major identity clusters separate until a record explicitly bridges age, family, residence, or title.
-6. At a FamilySearch Center or affiliate library, retrieve Worcester Deed Liber V, folios 236-238 from film 14543 / DGS 8141714. Separately retrieve the April 1789 Nancy Selby opening papers, 25 August 1791 inventory, later accounts and distribution; then trace George and Elizabeth through guardian receipts.
+6. At a FamilySearch Center or affiliate library, retrieve Worcester Deed Liber V, folios 236-238 from film 14543 / DGS 8141714. Separately retrieve the Nancy-administered estate's 25 August 1791 inventory, 30 November 1793 third account, and 1 November 1793 distribution; then trace George and Elizabeth through guardian receipts.
 
 ## Sources and claims added
 
@@ -132,6 +135,9 @@ John Selby's 1790 will supplies a maternal cluster. It calls Nancy Gunby his dau
 - [[FamilySearch - Charles Parker 1787 Worcester County will]]
 - [[Charles Parker identified Selby Parker as his son in his 1787 will]]
 - [[FamilySearch - Charles Parker 1761-1762 testamentary proceedings]]
+- [[FamilySearch - Nancy Selby 1789 Parker Selby executor bond]]
+- [[FamilySearch - John and Nancy Gunby 1792-1795 Parker Selby estate accounts]]
+- [[Nancy wife of John Gunby was executrix of Parker Selbys will in 1792]]
 - [[Maryland State Archives - Charles Parker 1762 Worcester administration account]]
 - [[Worcester Digital Archive - Parker Selby children 1790 guardian bond]]
 - [[Parker Selby was father of George and Elizabeth Selby]]
