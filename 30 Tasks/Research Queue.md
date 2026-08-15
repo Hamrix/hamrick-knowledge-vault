@@ -12,9 +12,9 @@ status: active
 - [ ] Locate Frederick Payne Selby's death record, obituary, or city-directory sequence to resolve the 1900 Frank P. versus Frederick P. name variation
 - [ ] Resolve Sophia E. Stone and Docia Stone through a direct alias, death, obituary, deed, or probate record
 - [ ] Request the Benjamin Selby political-disability application or supporting papers from National Archives Identifier 563356, citing private act chapter 171, approved 3 March 1871
-- [ ] Retrieve Hon. Benjamin Selby's estate packet, probate index, tax discontinuity, obituary, legislative personnel records, or guardianship record naming the younger Benjamin
-- [ ] Manually inspect Lingan Wilson Selby's complete 1821 Adair estate administration, land partitions, tax cessation, and Maryland collateral probate for an explicit son Benjamin
-- [ ] Resolve the elder Benjamin auditor-date conflict between the 1878 biography and the Kentucky Auditor historical list through original legislative or executive records
+- [ ] Retrieve Hon. Benjamin Selby's estate packet, tax discontinuity, obituary, or guardianship record naming the younger Benjamin; the Franklin Will Book 2 index and bounded 1844-1846 settlement review produced no relationship-bearing record
+- [ ] Trace Lingan Wilson Selby's Adair tax and land cessation through 1821, inspect the complete estate administration and distribution, and follow the 1809 Prince George's County land authority for an explicit son Benjamin
+- [ ] Resolve the elder Benjamin office conflict through original legislative or executive records; the official list identifies a different Benjamin Shelby as auditor from 1820-1834 and Thomas S. Page from 1834-1846
 - [ ] Seek a direct record naming the younger Benjamin's mother; Elizabeth McClain remains only a candidate based on her 1811 marriage to the elder Benjamin
 - [ ] Continue visual inspection of Worcester JW 21 (1789-1791), now accessible through the Worcester County Library Digital Archive, for the indexed 28 May 1790 Charles Parker filing; the reviewed June Court index pages did not display a Charles Parker entry
 - [ ] Request or inspect Worcester inventory book LH 2 (1792-1795), MSA C2017-5, for the 12 March 1793 Charles Parker second inventory
@@ -35,6 +35,9 @@ status: active
 
 ## Completed
 
+- [x] Retrieved Lingan W. Selby's 1809 Adair power of attorney conveying his Prince George's County land interest; upgraded the Maryland-to-Adair Lingan identity to strong while preserving the unproved Benjamin bridge
+- [x] Manually reviewed Franklin Will Book 2's S index and bracketed the 1844-1846 estate-settlement terms; found no Selby will or relationship-bearing settlement and recorded the incomplete intestate-bond coverage
+- [x] Reviewed Kentucky's linked auditor biography; it identifies the 1820-1834 auditor as a different Benjamin Shelby and requires the younger-to-Hon. Benjamin link to be downgraded from strong to moderate
 - [x] Verified the 1878 biography, 1883 interview, 1844 Lucy S. Hunter marriage, 1847-1849 Trimble court orders, and 1850 household; upgraded younger Benjamin -> Hon. Benjamin to strong while preserving the missing original parent-child record
 - [x] Reviewed Lingan Wilson Selby's 1821 Adair estate inventory and targeted elder-Benjamin probate and guardianship searches; found no proof of Hon. Benjamin -> Lingan and logged the OCR limitations
 - [x] Verified William Magruder Selby's 1773 will naming Lingan Wilson Selby as son; recorded the relationship as a confirmed but disconnected upstream evidence island

@@ -22,10 +22,10 @@ Audit Frederick Payne Selby as a historical anchor, prove each adjacent generati
 | Frederick P. or Frank P. Selby -> Frederick Payne Selby | Strong identity correlation | The 1884 marriage, 1886 birth, 1900 census household, 1910 marriage, and 1938 death records agree on spouse, child, chronology, and Orleans locality. No reviewed record explicitly equates Frank with Frederick. |
 | Frederick Payne Selby -> Benjamin Selby and Docia Stone | Confirmed | Frederick's reviewed 1884 marriage license directly names both parents; the 1880 census independently places Ben with son Payne. |
 | Docia Stone -> Sophia E. Stone identity -> mother Sophia Bryan | Strong maternal extension | The 1854 consent directly calls Sophia Stone the daughter of Sophia Bryan. The 1854-1880 spouse, age, county, child, and Stone-name sequence strongly identifies Sophia as Docia, but no record expressly equates the given names. |
-| Younger Benjamin Selby -> Hon. Benjamin Selby | Strong | The 1878 biography explicitly names the father, the 1883 interview independently says the father was state auditor, and original 1844-1850 records identify the younger subject. No original parent-child record has yet been found. |
+| Younger Benjamin Selby -> Hon. Benjamin Selby | Moderate | The 1878 biography explicitly names the father, and original 1844-1850 records identify the younger subject. The 1883 auditor description is not independent corroboration because the official auditor chronology and linked biography identify a different Benjamin Shelby. No original parent-child record has yet been found. |
 | Younger Benjamin Selby -> mother | Unproved | The elder Benjamin married Elizabeth McClain in 1811, but no reviewed record identifies her as the younger man's mother. |
 | Hon. Benjamin Selby -> Lingan Wilson Selby | Unproved | FamilySearch assigns this relationship without a relationship-bearing source. Lingan's 1821 Adair estate inventory names no family member, and targeted probate and guardianship searches were negative but OCR-limited. |
-| William Magruder Selby -> Lingan Wilson Selby | Confirmed upstream island | William's 1773 will directly names Lingan as a son. This link is not connected to Hon. Benjamin or the Frederick Payne chain. |
+| William Magruder Selby -> Lingan Wilson Selby | Confirmed relationship; Adair identity strong | William's 1773 will directly names Lingan as a son. A 1809 Adair power of attorney now strongly identifies that son with the later Adair Lingan through his Prince George's County land, but the link is still not connected to Hon. Benjamin or the Frederick Payne chain. |
 
 ## New evidence
 
@@ -44,12 +44,16 @@ Audit Frederick Payne Selby as a historical anchor, prove each adjacent generati
 - [[Ben Selby of Eminence was reportedly son of Hon Benjamin Selby]]
 - [[Hon Benjamin Selby to Lingan Wilson Selby remains unproven]]
 - [[William Magruder Selby named Lingan Wilson Selby as his son]]
+- [[FamilySearch - Lingan W Selby 1809 Adair power of attorney]]
+- [[Lingan W Selby of Adair retained Prince Georges County land in 1809]]
+- [[The Adair Lingan W Selby is strongly identified as William Magruder Selbys son]]
+- [[FamilySearch - Franklin County Selby probate negative search 1824-1854]]
 
 ## Upstream result
 
-Frederick Payne is a useful verified historical anchor because his 1884 original marriage license names his parents. The confirmed paternal chain reaches Benjamin Selby and Docia Stone. On Docia's side, the strong Sophia-to-Docia identity correlation provisionally reaches one generation farther to Sophia Bryan, whose 1854 consent directly calls Sophia Stone her daughter. On Benjamin's side, period evidence now strongly identifies his father as an older Hon. Benjamin Selby, but the relationship remains below confirmed because no original parent-child record has been found. This finding does not prove that Frederick Payne is the user's ancestor until every private modern parent-child link down to the user is separately documented.
+Frederick Payne is a useful verified historical anchor because his 1884 original marriage license names his parents. The confirmed paternal chain reaches Benjamin Selby and Docia Stone. On Docia's side, the strong Sophia-to-Docia identity correlation provisionally reaches one generation farther to Sophia Bryan, whose 1854 consent directly calls Sophia Stone her daughter. On Benjamin's side, a period biography reports his father as an older Hon. Benjamin Selby, but that relationship is now moderate rather than strong because no original parent-child record has been found and the auditor narrative is demonstrably conflicted. This finding does not prove that Frederick Payne is the user's ancestor until every private modern parent-child link down to the user is separately documented.
 
-The current connected upstream stop is Hon. Benjamin Selby at strong confidence. The tree's next assignment to Lingan Wilson Selby is unsupported by its attached records and derives in part from an old email note. Original review confirms Lingan's 1821 Adair estate but finds no heir statement. William Magruder Selby's will separately confirms Lingan as his son; this is a valid older relationship, but it remains an upstream evidence island until the Hon. Benjamin-to-Lingan bridge is proved.
+The current connected upstream stop is the younger Benjamin Selby's reported father, Hon. Benjamin Selby, at moderate confidence. The tree's next assignment to Lingan Wilson Selby is unsupported by its attached records and derives in part from an old email note. Original review confirms Lingan's 1821 Adair estate but finds no heir statement. The new 1809 power of attorney directly ties Adair's Lingan W. Selby to Prince George's County land, making his identity as William Magruder Selby's named son strong. That older relationship is no longer geographically disconnected from the Adair man, but it still remains disconnected from Hon. Benjamin until the missing parent-child bridge is proved.
 
 ## Identity cautions
 
@@ -57,6 +61,7 @@ The current connected upstream stop is Hon. Benjamin Selby at strong confidence.
 - Major Selby to the younger Benjamin remains unsupported and is contradicted by stronger period evidence naming Hon. Benjamin as the father. The 1833 Nicholas County will names Henry and Polly but not Benjamin.
 - Elizabeth McClain is a candidate mother only; her 1811 marriage to the elder Benjamin does not prove maternity.
 - Hon. Benjamin to Lingan Wilson Selby remains unproved despite the online-tree assignment.
+- The 1878 and 1883 auditor statements conflict with the official 1820-1846 officeholder chronology and linked Benjamin Shelby biography; they cannot independently corroborate the father's identity.
 - The older Worcester, Bourbon, Nicholas, Maryland/Indiana, and reported Thomas-and-Elizabeth Major Selby clusters must remain separate unless a relationship-bearing record bridges them.
 
 ## Next proof targets
@@ -65,10 +70,10 @@ The current connected upstream stop is Hon. Benjamin Selby at strong confidence.
 2. Obtain the original 1886 James birth record and independently transcribe the 1910 marriage parent fields.
 3. Locate Frederick Payne Selby's death record, obituary, or city-directory sequence to resolve the Frank/Frederick name variation.
 4. Resolve Sophia E. Stone and Docia Stone through a direct alias, death, obituary, deed, or probate record.
-5. Retrieve the elder Hon. Benjamin Selby's estate packet, probate index, tax discontinuity, obituary, legislative personnel records, or a guardianship record naming the younger Benjamin.
-6. Manually inspect Lingan Wilson Selby's estate administration, land partitions, tax cessation, and Maryland collateral probate for an explicit son Benjamin.
+5. Retrieve the elder Hon. Benjamin Selby's estate packet, probate index, tax discontinuity, obituary, legislative personnel records, or a guardianship record naming the younger Benjamin; the bounded Franklin will and settlement search was negative.
+6. Trace Lingan Wilson Selby's tax and land cessation through 1821, inspect his complete estate administration and distribution, and follow the 1809 Prince George's County land authority for an explicit son Benjamin.
 7. Continue the younger Benjamin's political-disability petition request behind private act chapter 171 of 3 March 1871 as an identity and biography source, not as a presumed parentage record.
 
 ## Accuracy boundary
 
-No original relationship-bearing record currently carries the connected line above the younger Benjamin Selby. The Hon. Benjamin father identification is strong period evidence, not a confirmed original-record link. William Magruder-to-Lingan is confirmed but disconnected. No public or Git-backed note should present a continuous user-to-Frederick, Frederick-to-Hon. Benjamin, Lingan, Major, colonial, medieval, or royal descent until every adjacent link is independently supported.
+No original relationship-bearing record currently carries the connected line above the younger Benjamin Selby. The Hon. Benjamin father identification is a moderate period report, not a confirmed original-record link. William Magruder-to-Lingan is confirmed, and the Adair-to-Maryland Lingan identity is strong, but both remain disconnected from Hon. Benjamin. No public or Git-backed note should present a continuous user-to-Frederick, Frederick-to-Hon. Benjamin, Lingan, Major, colonial, medieval, or royal descent until every adjacent link is independently supported.
