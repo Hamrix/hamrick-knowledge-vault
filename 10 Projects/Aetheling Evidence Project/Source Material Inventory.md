@@ -3,7 +3,7 @@ type: research
 status: active
 privacy: internal
 created: 2026-07-27
-last-reviewed: 2026-08-13
+last-reviewed: 2026-08-14
 ---
 
 # Aetheling Evidence Project - Source Material Inventory
@@ -70,7 +70,7 @@ The 2026-08-13 [[Generation Proof Continuation - 2026-08-13]] adds a visually re
 - [[FamilySearch - Roberts Selby 1874 Henry County birth index]]
 - [[FamilySearch - Robert C Selby 1938 Kentucky death certificate image]]
 - [[Maryland State Archives - Worcester estate index 1809 William Atkinson Selby negative search]]
-- [[Headen family Bible transcript and Selby family notes - 1929]]
+- [[Headen family Bible transcript and Selby family notes - 1929]] - the 18-page PDF is now preserved in the vault under its supplied filename; its Yorkshire-origin, immigration, and Maryland-to-Kentucky statements remain derivative research leads.
 
 ## Independently located sources
 
@@ -175,6 +175,7 @@ These are research targets, not facts. No family-tree connection should be creat
 - [ ] Obtain the existing lineage chart or GEDCOM as unverified research input.
 - [ ] Obtain birth, marriage, death, probate, census, land, military, and other identity-specific records for the most recent generations first.
 - [ ] Record the provenance of every supplied report, family narrative, and tree.
+- [ ] Test the 1929 tradition that William Atkinson Selby was born in Yorkshire about 1758 and reached Worcester County, Maryland, using passenger, naturalization, church, land-entry, tax, probate, militia, and associates' records; do not attach him to the Biddleston pedigree without an explicit bridge.
 - [ ] Convert each proposed parent-child link into one atomic claim note.
 - [ ] Search from the documented present backward; do not begin by trying to attach a modern family to a medieval pedigree.
 - [ ] Keep [[Wayfarers Tome Fact and Source Inventory]] synchronized with the public app after evidence or source-link updates.
