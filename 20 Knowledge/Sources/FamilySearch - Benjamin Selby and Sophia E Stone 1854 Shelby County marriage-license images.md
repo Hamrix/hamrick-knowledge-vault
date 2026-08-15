@@ -5,6 +5,7 @@ repository: Shelby County, Kentucky / FamilySearch
 reference: "Shelby County marriage-license papers, Benjamin Selby and Sophia E. Stone"
 date: 1854-01-04
 accessed: 2026-08-03
+last-reviewed: 2026-08-14
 privacy: internal
 ---
 
@@ -22,12 +23,13 @@ Image 249 is Sophia Bryan's signed consent, dated 4 January 1854, authorizing th
 
 These are reviewed digitized images of the original county marriage-license papers. They directly establish Sophia Bryan's description of Sophia Stone as her daughter and the issuance of a license for the named parties.
 
-The reviewed papers do not contain a minister's return or other proof that the ceremony was performed. They also do not identify this Benjamin Selby as the Benjamin named as Frederick Payne Selby's father in 1884, identify either party's ancestry beyond Sophia Bryan's stated relationship to Sophia Stone, or establish a connection to Major Selby, the colonial Maryland research lines, medieval Staffords, or a royal descent.
+The reviewed papers do not contain a minister's return or other proof that the ceremony was performed. They do not establish the later identities by themselves. Correlation with the 1860 census, 1872 deed, 1874 birth index, 1880 census, and two sons' parent reports strongly identifies this couple with later Benjamin and Docia, but no record expressly equates Sophia and Docia. The papers do not establish a connection to Major Selby, the colonial Maryland research lines, medieval Staffords, or a royal descent.
 
 ## Claims supported
 
 - [[Sophia Bryan identified Sophia Stone as her daughter in 1854 marriage-license consent]]
 - [[A marriage license was issued for Benjamin Selby and Sophia E Stone in 1854]]
+- [[Sophia E Stone is strongly identified as Docia Stone wife of Benjamin Selby]]
 
 ## File or URL
 

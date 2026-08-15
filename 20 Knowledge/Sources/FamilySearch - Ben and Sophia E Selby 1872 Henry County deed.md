@@ -29,8 +29,8 @@ The deed does not name either spouse's parents. It does not connect Benjamin to 
 ## Claims supported
 
 - [[Ben Selby and Sophia E Selby were husband and wife in 1872]]
+- [[Sophia E Stone is strongly identified as Docia Stone wife of Benjamin Selby]]
 
 ## File or URL
 
 https://www.familysearch.org/ark:/61903/3:1:3Q9M-C33W-L9BZ-Z?view=fullText&keywords=Selby&lang=en
-

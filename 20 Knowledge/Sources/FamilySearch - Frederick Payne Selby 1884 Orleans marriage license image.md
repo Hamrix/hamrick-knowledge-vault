@@ -5,6 +5,7 @@ repository: Orleans Parish Recorder of Births Marriages and Deaths / FamilySearc
 reference: "Orleans Parish marriage license, Frederick Payne Selby and Elizabeth Dolan"
 date: 1884-12-18
 accessed: 2026-08-03
+last-reviewed: 2026-08-14
 privacy: internal
 ---
 
@@ -29,6 +30,9 @@ It does not establish Benjamin Selby or Docia Stone's own ancestry, make Frederi
 - [[Frederick Payne Selby 1884 marriage license identifies Benjamin Selby as his father]]
 - [[Frederick Payne Selby 1884 marriage license identifies Docia Stone as his mother]]
 - [[Frederick Payne Selby married Elizabeth Dolan in 1884]]
+- [[Frank P Selby in 1900 is strongly identified as Frederick Payne Selby]]
+- [[James Benjamin Sanford Selby was son of Frederick P Selby and Elizabeth Dolan]]
+- [[Sophia E Stone is strongly identified as Docia Stone wife of Benjamin Selby]]
 
 ## Claims contradicted
 

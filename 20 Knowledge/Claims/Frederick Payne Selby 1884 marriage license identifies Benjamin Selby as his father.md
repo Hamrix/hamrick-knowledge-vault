@@ -3,7 +3,7 @@ type: claim
 status: active
 confidence: confirmed
 privacy: internal
-last-reviewed: 2026-08-03
+last-reviewed: 2026-08-14
 ---
 
 # Frederick Payne Selby's 1884 marriage license identifies Benjamin Selby as his father
@@ -23,4 +23,4 @@ The license gives direct reported parentage, and the earlier original census ind
 
 ## Next research action
 
-Seek Benjamin Selby's civil death, marriage, census, and probate records, and correlate every candidate before extending the line.
+Seek Benjamin Selby's civil death, probate, obituary, guardianship, and collateral-estate records. Request the federal political-disability petition file behind private act chapter 171 before extending the line.

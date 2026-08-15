@@ -27,6 +27,7 @@ It does not state relationships among household members. It therefore does not p
 ## Claims supported
 
 - [[Benjn Selby and Sophia Selby were enumerated in the same 1860 Oldham County household]]
+- [[Sophia E Stone is strongly identified as Docia Stone wife of Benjamin Selby]]
 
 ## File or URL
 

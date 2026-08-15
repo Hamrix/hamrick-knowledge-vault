@@ -35,6 +35,7 @@ The certificate was completed decades after the reported birth, so the parental 
 
 - [[Robert C Selbys 1938 death certificate names Benjamin Selby and Docie or Docia Stone]]
 - [[Robert C Selbys 1938 death certificate reports Benjamin Selby and Dora Stone as parents]] (preserved correction note)
+- [[Sophia E Stone is strongly identified as Docia Stone wife of Benjamin Selby]]
 
 ## File or URL
 

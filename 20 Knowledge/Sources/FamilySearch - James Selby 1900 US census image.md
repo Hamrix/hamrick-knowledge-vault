@@ -5,6 +5,7 @@ repository: U.S. National Archives and Records Administration / FamilySearch
 reference: "Twelfth Census of the United States, 1900, New Orleans, Orleans Parish, Louisiana, Frank P. Selby household"
 date: 1900-06-02
 accessed: 2026-08-03
+last-reviewed: 2026-08-14
 privacy: internal
 ---
 
@@ -22,11 +23,13 @@ The reviewed original schedule lists Frank P. Selby as household head, Elizabeth
 
 This is a reviewed image of an original federal census schedule. It directly establishes the reported 1900 household relationship.
 
-The schedule does not give James's full middle names, and the head is written “Frank P.,” not “Frederick Payne.” It therefore does not by itself prove that this is the same Frederick Payne Selby named in the 1884 license, though the 1886 indexed birth record and locality are relevant correlation leads. It does not establish an older Selby, colonial, medieval, or royal connection.
+The schedule does not give James's full middle names, and the head is written “Frank P.,” not “Frederick Payne.” It therefore does not prove either exact identity by itself. The 1886 birth index, 1910 full-name marriage record, and 1938 death index now strongly identify James and materially support the Frank-to-Frederick correlation, but no reviewed record explicitly states that Frank and Frederick were the same man. It does not establish an older Selby, colonial, medieval, or royal connection.
 
 ## Claims supported
 
 - [[James Selby was enumerated as Frank P and Elizabeth D Selbys son in 1900]]
+- [[James Benjamin Sanford Selby was son of Frederick P Selby and Elizabeth Dolan]]
+- [[Frank P Selby in 1900 is strongly identified as Frederick Payne Selby]]
 
 ## Claims contradicted
 

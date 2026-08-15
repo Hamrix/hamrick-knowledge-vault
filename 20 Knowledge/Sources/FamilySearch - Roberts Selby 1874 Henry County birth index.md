@@ -26,4 +26,4 @@ The underlying image was unavailable and no file hash could be obtained. The ent
 ## Claims supported
 
 - [[The 1874 Roberts Selby birth index names Benjamin Selby and Docie Stone]]
-
+- [[Sophia E Stone is strongly identified as Docia Stone wife of Benjamin Selby]]

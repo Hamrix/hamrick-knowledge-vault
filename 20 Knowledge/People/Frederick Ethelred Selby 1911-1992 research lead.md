@@ -4,7 +4,7 @@ status: research-lead
 confidence: tentative
 privacy: internal
 created: 2026-07-28
-last-reviewed: 2026-07-28
+last-reviewed: 2026-08-14
 project: Aetheling Evidence Project
 ---
 
@@ -14,9 +14,11 @@ project: Aetheling Evidence Project
 
 A 2026-07-28 exact-name search found a public indexed FamilySearch person page for **Frederick Ethelred Selby**, FamilySearch id **LLWQ-6MV**.
 
-The indexed summary identifies a man born 21 Dec. 1911 in Louisiana, son of James Benjamin Sanford Selby, and died in November 1992 with New Orleans/Louisiana context.
+The indexed summary identifies a man born 21 December 1911 in Louisiana, son of James Benjamin Sanford Selby, and died in November 1992 with New Orleans/Louisiana context. The profile relationship is treated only as a lead.
 
-This note remains a research lead. Reviewed images now include the 1930 and 1940 federal censuses and a 1953 Lenoir County marriage license. The censuses enumerate Frederick E. Selby as a son in a New Orleans female Selby/Stafford household; the marriage license names his parents as James B. Selby (deceased) and Sarah E. Selby (living), and records his marriage to Frances Marion Haskins. These are bounded modern-record relationships, not a connection to the colonial or medieval workstreams.
+This note remains a research lead. Reviewed images now include the 1930 and 1940 federal censuses and a 1953 Lenoir County marriage license. The censuses enumerate Frederick E. Selby as a son in a New Orleans female Selby/Stafford household; the marriage license names his parents as James B. Selby, deceased, and Sarah E. Selby, living, and records his marriage to Frances Marion Haskins.
+
+The 1910 marriage record for James Benjamin Sanford Selby and Evelyn Stafford and the 1938 James B. Selby death index now make the 1953 father's full-name identity strong. It is not confirmed because no reviewed Frederick birth record or child-naming probate record explicitly joins Frederick to full-name James, and the Evelyn/Sarah name forms remain unresolved. These are bounded modern-record relationships, not a connection to the colonial or medieval workstreams or to a living person.
 
 ## What this changes
 
@@ -31,7 +33,7 @@ The project previously logged no reliable identity-specific search hit for Frede
 
 ## Next research actions
 
-- [ ] Open the FamilySearch profile and list every attached source.
+- [x] Open the FamilySearch profile and review the attached-source list.
 - [ ] Verify birth with Louisiana/Mississippi birth or delayed-birth records.
 - [ ] Verify residence and family through federal census records.
 - [ ] Verify death with Social Security, Louisiana death, cemetery, obituary, probate, or funeral records.
@@ -48,3 +50,6 @@ The project previously logged no reliable identity-specific search hit for Frede
 - [[Frederick E Selby 1953 marriage license identifies James B Selby as his father]]
 - [[Frederick E Selby 1953 marriage license identifies Sarah E Selby as his mother]]
 - [[Frederick E Selby married Frances Marion Haskins in 1953]]
+- [[James B Selby named as Frederick E Selbys father is strongly identified as James Benjamin Sanford Selby]]
+- [[FamilySearch - James Benjamin Sanford Selby 1910 Orleans marriage license image]]
+- [[FamilySearch - James B Selby 1938 Orleans death index]]

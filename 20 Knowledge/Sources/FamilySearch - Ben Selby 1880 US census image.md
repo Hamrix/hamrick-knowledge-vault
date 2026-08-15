@@ -28,6 +28,7 @@ The page records “Payne Selby,” whereas the 1884 marriage license calls the 
 
 - [[Frederick Payne Selby 1884 marriage license identifies Benjamin Selby as his father]]
 - [[Frederick Payne Selby 1884 marriage license identifies Docia Stone as his mother]]
+- [[Sophia E Stone is strongly identified as Docia Stone wife of Benjamin Selby]]
 
 ## Claims contradicted
 

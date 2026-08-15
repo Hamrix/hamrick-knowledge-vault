@@ -2,7 +2,7 @@
 type: project
 status: active
 privacy: internal
-last-reviewed: 2026-08-13
+last-reviewed: 2026-08-14
 ---
 
 # Aetheling Evidence Project
@@ -38,6 +38,8 @@ The same continuation now reaches the complete JW 21 Orphans Court volume throug
 Further review now distinguishes at least three late Parker estate tracks: an April 1789 file under Nancy Selby, a January 1790 executor bond under James Selby indexed "of Wm.," and a June 1791 de bonis non file formerly administered by John Selby, Esquire, indexed "of John." The original 8 April 1789 bond names Nancy Selby as executrix of Parker's will. All four accounts from 1792 through 1795 identify her as John Gunby's wife while continuing the same executrix role. The guardian bond still names no docket, so George and Elizabeth are not attached to any paternal grandfather from those entries. John Selby's November 1790 will independently calls Nancy Gunby his daughter, George her son, and Betsey Selby her daughter. Combined with Nancy's June guardianship of Parker's orphans George and Elizabeth and her documented administration of Parker's estate, this strongly identifies Nancy as their mother without yet proving that she was Parker's wife or that Elizabeth and Betsey were one person. A printed transcription of Worcester Deed Liber V:236-238 also calls George the eldest son and heir at law of deceased Parker; the original deed remains the next verification target.
 
 The exact original-deed target is now pinned to FamilySearch film 14543 / DGS 8141714 and Maryland State Archives CE30-21. FamilySearch restricts that film to a center or affiliate library, so the original remains unreviewed. Estate Docket T4215/C1993-1 and the underlying 1789 bond and complete four-account sequence now confirm the April track and Nancy's later marriage to John Gunby. The 1791 inventory, 1793 distribution, and a direct Parker-to-heirs statement remain open. The distribution is now pinned to LH 3, MSA C2007-2; guardian accounts are pinned to JW 17, MSA C2013-1, which the archive marks restricted.
+
+The 2026-08-14 [[Frederick Payne Selby Upstream Proof - 2026-08-14|Frederick Payne upstream audit]] establishes a documented historical chain with explicit confidence boundaries. Three official vital-record entries strongly support James Benjamin Sanford Selby as son of Frederick P. Selby and Elizabeth Dolan. The 1884 original license and 1880 census independently confirm Frederick Payne Selby as son of Benjamin Selby and Docia Stone. James B. Selby as Frederick E. Selby's father and Frank P. as Frederick Payne are each strong identity correlations rather than confirmed aliases. Sophia E. Stone is also strongly identified as Docia Stone across the 1854-1880 Benjamin Selby sequence; if that identity holds, Sophia Bryan's 1854 consent supplies the next maternal generation. Benjamin's parents remain unproved, and no living user-to-Frederick descent is asserted in this Git-backed vault.
 
 ## Workstreams
 
@@ -106,6 +108,14 @@ Use the Genealogical Proof Standard:
 - [[Wayfarers Tome Fact and Source Inventory]]
 - [[Wayfarers Tome Session Backup - 2026-07-28]]
 - [[Aetheling Evidence Release 0.9 Integration - 2026-08-08]]
+- [[Frederick Payne Selby Upstream Proof - 2026-08-14]]
+- [[James Benjamin Sanford Selby was son of Frederick P Selby and Elizabeth Dolan]]
+- [[Frank P Selby in 1900 is strongly identified as Frederick Payne Selby]]
+- [[James B Selby named as Frederick E Selbys father is strongly identified as James Benjamin Sanford Selby]]
+- [[Sophia E Stone is strongly identified as Docia Stone wife of Benjamin Selby]]
+- [[FamilySearch - James Benjamin Sanford Selby 1886 Orleans birth index]]
+- [[FamilySearch - James Benjamin Sanford Selby 1910 Orleans marriage license image]]
+- [[FamilySearch - James B Selby 1938 Orleans death index]]
 - [[Thomas Rule linked the 1815 Bourbon survey network to Nicholas County land in 1817]]
 - [[FamilySearch - Thomas Rule 1817 Nicholas County Haws survey deeds]]
 - [[FamilySearch - Burns 1936 Nicholas deed abstract 1796-1818]]
@@ -151,7 +161,7 @@ Use the Genealogical Proof Standard:
 - [[FamilySearch Catalog - Worcester Land Records Liber V-W]]
 - [[FamilySearch - Worcester estate docket Parker Selby index page]]
 
-The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby workstreams remain research targets. None is currently a proven lineage in this vault.
+The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby workstreams remain research targets. Several bounded parent-child relationships are now proven or strongly supported, but no continuous lineage from a living person to Frederick Payne or from Benjamin Selby to an older Major, colonial, medieval, or royal line is established in this vault.
 
 ## Sources
 
@@ -191,6 +201,11 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 
 ## Next actions
 
+- [ ] Obtain Frederick E. Selby's birth record or a 1920 household record naming both parents; use it to test the strong James Benjamin Sanford Selby identity
+- [ ] Obtain the original 1886 James birth record and independently transcribe the 1910 marriage parent fields
+- [ ] Locate Frederick Payne Selby's death record, obituary, or city-directory sequence that resolves the Frank/Frederick name variation
+- [ ] Resolve Sophia E. Stone and Docia Stone through a direct alias, death, obituary, deed, or probate record
+- [ ] Continue Benjamin Selby parentage research through death, probate, obituary, guardianship, collateral estates, and the political-disability petition file behind private act chapter 171
 - [ ] Import existing lineage claims as claim records
 - [ ] Create one evidence note per parent-child link
 - [ ] Separate proven modern generations from medieval hypotheses
@@ -218,6 +233,8 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 - [ ] Retrieve the later Charles Parker estate's 1790 account or distribution from JW 21, 1793 second inventory from LH 2, and Orphans Court proceedings; transcribe distribution and later-identity statements
 
 ## Change log
+
+- 2026-08-14 - Audited Frederick Payne Selby as a historical anchor. Added the 1886 James birth index, reviewed 1910 marriage image and index, and 1938 death index. These records strongly support James Benjamin Sanford Selby as son of Frederick P. Selby and Elizabeth Dolan. Correlation makes Frank P. in 1900 strongly identifiable as Frederick Payne and James B. in the 1953 Frederick E. license strongly identifiable as full-name James, but both identity bridges remain below confirmed. Frederick Payne's 1884 license and the 1880 Ben-Payne household confirm Benjamin Selby and Docia Stone as the next upstream generation. The 1854-1880 sequence strongly identifies Sophia E. Stone as Docia; through that still-unconfirmed identity, Sophia Bryan is the next maternal-generation lead. Benjamin's parents remain unproved.
 
 - 2026-08-13 - Recovered the second and third Nancy-administered Parker Selby accounts, completing the sequence passed or exhibited on 31 December 1792, 19 February 1793, 30 November 1793, and 28 April 1795. Every heading identifies John Gunby and Nancy his wife and repeats Nancy's executrix role, but no account names heirs or states Nancy's relationship to Parker. Pinned the remaining 1 November 1793 distribution to LH 3, MSA C2007-2, and the children's guardian-account range to JW 17, MSA C2013-1; the latter is restricted. Archive OCR searches missed John Gunby despite his verified presence, so those failures are recorded as OCR limitations rather than evidence of absence.
 
