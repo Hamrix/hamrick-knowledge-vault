@@ -1,8 +1,8 @@
 ---
 type: source
 source-class: derivative-biographical-lead
-repository: Biographical Encyclopaedia of Kentucky / web transcription
-reference: "Ben Selby profile, The Biographical Encyclopaedia of Kentucky (1878)"
+repository: Biographical Encyclopaedia of Kentucky / web transcription / Internet Archive scan record
+reference: "Ben Selby profile, The Biographical Encyclopaedia of Kentucky (1878), p. 580"
 date: 1878
 accessed: 2026-08-04
 last-reviewed: 2026-08-15
@@ -13,14 +13,19 @@ privacy: internal
 
 ## Citation lead
 
-*The Biographical Encyclopaedia of Kentucky of the Dead and Living Men of the Nineteenth Century* (1878), biographical entry for Ben Selby; web transcription consulted during the 2026-08-04 research session.
+*The Biographical Encyclopaedia of Kentucky of the Dead and Living Men of the Nineteenth Century* (Cincinnati: J. M. Armstrong & Company, 1878), **p. 580**, biographical entry for Ben Selby.
 
-Research URL:
+LDS Genealogy transcription:
 https://ldsgenealogy.com/KY/books/The-Biographical-encyclopaedia-of-Kentucky-of-the-dead-and-living-men-of-the-nineteenth-century-part-101.htm
+
+Internet Archive scan record:
+https://archive.org/details/biographicalency00arms
+
+Internet Archive identifier: `biographicalency00arms`.
 
 ## Reported contents
 
-The web transcription reports that Ben Selby:
+The page-580 transcription reports that Ben Selby:
 
 - was born 31 January 1826 in Columbia, Adair County, Kentucky;
 - was a son of Hon. Benjamin Selby;
@@ -30,6 +35,8 @@ The web transcription reports that Ben Selby:
 - moved to Eminence in 1872.
 
 The same entry reportedly describes the elder Hon. Benjamin Selby as Maryland-born, first settled in Bourbon County, later resident in Adair County, a long-serving Kentucky legislator, and Auditor of Public Accounts until his death in 1845.
+
+The transcription further reports that younger Ben spent three years in his father's office, became State Librarian and Superintendent of Public Property in 1851 for two years, was elected Clerk of the State Senate in 1859 and resigned during that winter, and was elected Henry County attorney in 1866 for eight years.
 
 ## Correlation
 
@@ -45,11 +52,13 @@ See [[1878 Kentucky biography auditor chronology conflicts with official Kentuck
 
 ## Reliability and limitations
 
-This is a near-contemporary published biography created while the younger Ben Selby was living, and its distinctive combination of birth place, occupation, residence, and spouses gives it high identity value. However, the vault has not yet reviewed a scan of the original printed page. The present note therefore records a strong derivative research lead rather than a fully inspected original publication.
+This is a near-contemporary published biography created while the younger Ben Selby was living, and its distinctive combination of birth place, occupation, residence, and spouses gives it high identity value. The Internet Archive catalog confirms a digitized 946-page copy of the 1878 volume from the Allen County Public Library Genealogy Center. The LDS Genealogy transcription identifies the entry on printed page 580.
+
+However, the browser could not render the downloadable PDF page during the 2026-08-15 verification pass, so the vault still has not visually inspected the original page image. The relationship therefore remains a **strong derivative lead rather than image-confirmed evidence**.
 
 The profile supports the reported father-son relationship between Hon. Benjamin Selby and Ben Selby born in 1826. It does not identify Hon. Benjamin's parents and does not prove that Lingan Wilson Selby and Drucilla Fowler were his parents.
 
-The web transcription page itself warns that its text was generated using AI and may contain errors; therefore exact wording, page number, and the disputed auditor passage must be checked against the scan.
+The LDS Genealogy page warns that its text was generated using AI and may contain errors; exact wording should therefore be checked against the page image before quoting it in a final evidentiary submission.
 
 ## Claims supported
 
@@ -58,4 +67,4 @@ The web transcription page itself warns that its text was generated using AI and
 
 ## Next action
 
-Obtain and preserve an image of the original 1878 printed entry, including title page, page number, and full profile text. Then seek Hon. Benjamin Selby's obituary, legislative memorial, probate, and contemporary Kentucky executive records for independent corroboration and parental identification.
+Open or download the Internet Archive scan and visually inspect printed page 580. Preserve a page image or local archival copy, then seek Hon. Benjamin Selby's obituary, legislative memorial, probate, and contemporary Kentucky executive records for independent corroboration and parental identification.
