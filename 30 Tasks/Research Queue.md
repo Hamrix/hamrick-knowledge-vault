@@ -12,6 +12,10 @@ status: active
 - [ ] Locate Frederick Payne Selby's death record, obituary, or city-directory sequence to resolve the 1900 Frank P. versus Frederick P. name variation
 - [ ] Resolve Sophia E. Stone and Docia Stone through a direct alias, death, obituary, deed, or probate record
 - [ ] Request the Benjamin Selby political-disability application or supporting papers from National Archives Identifier 563356, citing private act chapter 171, approved 3 March 1871
+- [ ] Retrieve Hon. Benjamin Selby's estate packet, probate index, tax discontinuity, obituary, legislative personnel records, or guardianship record naming the younger Benjamin
+- [ ] Manually inspect Lingan Wilson Selby's complete 1821 Adair estate administration, land partitions, tax cessation, and Maryland collateral probate for an explicit son Benjamin
+- [ ] Resolve the elder Benjamin auditor-date conflict between the 1878 biography and the Kentucky Auditor historical list through original legislative or executive records
+- [ ] Seek a direct record naming the younger Benjamin's mother; Elizabeth McClain remains only a candidate based on her 1811 marriage to the elder Benjamin
 - [ ] Continue visual inspection of Worcester JW 21 (1789-1791), now accessible through the Worcester County Library Digital Archive, for the indexed 28 May 1790 Charles Parker filing; the reviewed June Court index pages did not display a Charles Parker entry
 - [ ] Request or inspect Worcester inventory book LH 2 (1792-1795), MSA C2017-5, for the 12 March 1793 Charles Parker second inventory
 - [ ] At a FamilySearch Center or affiliate library, open Worcester Liber V-W on film 14543 / DGS 8141714 and retrieve V:236-238; verify the 8 October 1802 deed calling George Selby eldest son and heir at law of Parker Selby
@@ -31,6 +35,10 @@ status: active
 
 ## Completed
 
+- [x] Verified the 1878 biography, 1883 interview, 1844 Lucy S. Hunter marriage, 1847-1849 Trimble court orders, and 1850 household; upgraded younger Benjamin -> Hon. Benjamin to strong while preserving the missing original parent-child record
+- [x] Reviewed Lingan Wilson Selby's 1821 Adair estate inventory and targeted elder-Benjamin probate and guardianship searches; found no proof of Hon. Benjamin -> Lingan and logged the OCR limitations
+- [x] Verified William Magruder Selby's 1773 will naming Lingan Wilson Selby as son; recorded the relationship as a confirmed but disconnected upstream evidence island
+- [x] Corrected the 1840 census logic: the younger Benjamin was fourteen, so the missing fifteen-to-nineteen male column could not exclude him as an unnamed household member
 - [x] Added and correlated James Benjamin Sanford Selby's 1886 birth index, original 1910 marriage record, and 1938 death index; recorded the parent pair Frederick P. Selby and Elizabeth Dolan as strong and preserved the restricted-image limitations
 - [x] Audited Frederick Payne Selby as an upstream anchor; confirmed Benjamin Selby and Docia Stone as the next directly supported generation while leaving Benjamin's parents and Major-to-Benjamin unproved
 - [x] Recovered the second and third Nancy-administered Parker Selby accounts, completing the four-account sequence through 1795; the new accounts preserve the John-and-Nancy identity but name no heirs

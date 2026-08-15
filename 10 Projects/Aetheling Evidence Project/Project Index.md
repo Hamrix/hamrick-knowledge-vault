@@ -41,6 +41,8 @@ The exact original-deed target is now pinned to FamilySearch film 14543 / DGS 81
 
 The 2026-08-14 [[Frederick Payne Selby Upstream Proof - 2026-08-14|Frederick Payne upstream audit]] establishes a documented historical chain with explicit confidence boundaries. Three official vital-record entries strongly support James Benjamin Sanford Selby as son of Frederick P. Selby and Elizabeth Dolan. The 1884 original license and 1880 census independently confirm Frederick Payne Selby as son of Benjamin Selby and Docia Stone. James B. Selby as Frederick E. Selby's father and Frank P. as Frederick Payne are each strong identity correlations rather than confirmed aliases. Sophia E. Stone is also strongly identified as Docia Stone across the 1854-1880 Benjamin Selby sequence; if that identity holds, Sophia Bryan's 1854 consent supplies the next maternal generation. Benjamin's parents remain unproved, and no living user-to-Frederick descent is asserted in this Git-backed vault.
 
+The continued 2026-08-14 upstream review strengthens, but does not complete, Benjamin's paternal link. The original 1878 biography explicitly calls the younger Eminence lawyer son of Hon. Benjamin Selby; an 1883 interview independently says his father had been state auditor, and the original 1844 Lucy S. Hunter marriage plus the 1847-1850 Trimble records identify the younger subject. This makes younger Benjamin -> Hon. Benjamin strong, not confirmed. Hon. Benjamin -> Lingan Wilson Selby remains unproved: the tree assignment has no relationship-bearing source, and Lingan's 1821 Adair estate record names no family. William Magruder Selby's 1773 will separately confirms Lingan as his son, creating a valid upstream evidence island that must not be joined across the missing bridge.
+
 ## Workstreams
 
 - Modern documented lineage
@@ -113,6 +115,15 @@ Use the Genealogical Proof Standard:
 - [[Frank P Selby in 1900 is strongly identified as Frederick Payne Selby]]
 - [[James B Selby named as Frederick E Selbys father is strongly identified as James Benjamin Sanford Selby]]
 - [[Sophia E Stone is strongly identified as Docia Stone wife of Benjamin Selby]]
+- [[Ben Selby of Eminence was reportedly son of Hon Benjamin Selby]]
+- [[Benjamin Selby married Lucy S Hunter in 1844]]
+- [[The 1850 Trimble lawyer Ben Selby is strongly identified as the later Henry County attorney]]
+- [[Hon Benjamin Selby to Lingan Wilson Selby remains unproven]]
+- [[William Magruder Selby named Lingan Wilson Selby as his son]]
+- [[Armstrong 1878 - Ben Selby biographical sketch]]
+- [[FamilySearch - Benjamin Selby and Lucy S Hunter 1844 Indiana marriage]]
+- [[FamilySearch - Lingan Wilson Selby 1821 Adair estate inventory]]
+- [[FamilySearch - William Magruder Selby 1773 will]]
 - [[FamilySearch - James Benjamin Sanford Selby 1886 Orleans birth index]]
 - [[FamilySearch - James Benjamin Sanford Selby 1910 Orleans marriage license image]]
 - [[FamilySearch - James B Selby 1938 Orleans death index]]
@@ -205,7 +216,10 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 - [ ] Obtain the original 1886 James birth record and independently transcribe the 1910 marriage parent fields
 - [ ] Locate Frederick Payne Selby's death record, obituary, or city-directory sequence that resolves the Frank/Frederick name variation
 - [ ] Resolve Sophia E. Stone and Docia Stone through a direct alias, death, obituary, deed, or probate record
-- [ ] Continue Benjamin Selby parentage research through death, probate, obituary, guardianship, collateral estates, and the political-disability petition file behind private act chapter 171
+- [ ] Retrieve Hon. Benjamin Selby's estate packet, probate index, tax discontinuity, obituary, legislative personnel records, or guardianship entry naming the younger Benjamin
+- [ ] Prove or reject Hon. Benjamin Selby -> Lingan Wilson Selby through Lingan's estate administration, land partitions, tax cessation, and Maryland collateral probate; do not use the unsourced tree relationship
+- [ ] Resolve the elder Benjamin auditor-date conflict between the 1878 biography and Kentucky Auditor historical list through original legislative or executive records
+- [ ] Continue the younger Benjamin's political-disability petition request behind private act chapter 171 as an identity source
 - [ ] Import existing lineage claims as claim records
 - [ ] Create one evidence note per parent-child link
 - [ ] Separate proven modern generations from medieval hypotheses
@@ -233,6 +247,8 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 - [ ] Retrieve the later Charles Parker estate's 1790 account or distribution from JW 21, 1793 second inventory from LH 2, and Orphans Court proceedings; transcribe distribution and later-identity statements
 
 ## Change log
+
+- 2026-08-14 - Continued upstream from Frederick Payne Selby. Verified the original 1878 biography explicitly naming the younger Eminence lawyer as son of Hon. Benjamin Selby, the 1883 interview reporting that his father had been state auditor, the 1844 Benjamin Selby-Lucy S. Hunter marriage, the 1847-1849 Trimble court orders, and the 1850 Trimble lawyer household. The combined younger-to-elder relationship is strong but awaits an original parent-child record. Reviewed the elder Benjamin's 1811 marriage and 1830-1840 censuses, Lingan Wilson Selby's 1821 Adair estate inventory, and targeted negative probate and guardianship searches. No reviewed record proves Hon. Benjamin as Lingan's son. William Magruder Selby's 1773 will directly names Lingan Wilson Selby as son, confirming only that disconnected upstream link. Corrected the 1840 census analysis: the younger Benjamin was fourteen, so the absence of a male aged fifteen to nineteen could not exclude him as an unnamed household member.
 
 - 2026-08-14 - Audited Frederick Payne Selby as a historical anchor. Added the 1886 James birth index, reviewed 1910 marriage image and index, and 1938 death index. These records strongly support James Benjamin Sanford Selby as son of Frederick P. Selby and Elizabeth Dolan. Correlation makes Frank P. in 1900 strongly identifiable as Frederick Payne and James B. in the 1953 Frederick E. license strongly identifiable as full-name James, but both identity bridges remain below confirmed. Frederick Payne's 1884 license and the 1880 Ben-Payne household confirm Benjamin Selby and Docia Stone as the next upstream generation. The 1854-1880 sequence strongly identifies Sophia E. Stone as Docia; through that still-unconfirmed identity, Sophia Bryan is the next maternal-generation lead. Benjamin's parents remain unproved.
 

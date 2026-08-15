@@ -4,7 +4,7 @@ status: active
 confidence: strong
 privacy: internal
 project: Aetheling Evidence Project
-last-reviewed: 2026-08-08
+last-reviewed: 2026-08-14
 ---
 
 # Major Selby to Benjamin Selby remains unproven
@@ -24,6 +24,9 @@ No inspected birth, marriage, guardianship, probate, deed, census, obituary, Bib
 - [[Library of Congress - Ben Selby Kentucky public chronology 1859-1886]] supplies legal, political, Henry County, and Eminence identity context but no kinship statement.
 - [[The Adair County Benjamin Selby was older than the Henry County attorney]] separates an older same-name Kentucky lawyer whose records should not be assigned to the target.
 - [[FamilySearch - Major Selby 1833 Nicholas County will and 1835 inventory]] names Major's wife Peggy, son Henry, and daughter Polly, but does not name Benjamin.
+- [[Armstrong 1878 - Ben Selby biographical sketch]] explicitly identifies the younger attorney's father as Hon. Benjamin Selby, not Major Selby.
+- [[Courier-Journal - Col Ben Selby 1883 interview]] independently says the younger attorney's father had been Kentucky state auditor.
+- [[Ben Selby of Eminence was reportedly son of Hon Benjamin Selby]] records the strong alternate father identification and its limits.
 
 The FamilySearch Henry County will index and wills volumes 15-16, covering 1873-1910, were searched by full-text transcript on 8 August 2026. No will of Benjamin Selby was discovered. This is an OCR-dependent negative search, not proof that he left no will or estate file.
 
@@ -33,7 +36,7 @@ The Henry County deed index produced Selby citations, including the 1872 Ben-Sop
 
 The 1833 Nicholas County will is the strongest reviewed probate evidence for the Kentucky Major's immediate family. Its omission of Benjamin weighs against assigning Benjamin to that household, especially because the testator made explicit nominal provisions for Henry and Polly, but omission is not conclusive proof that no other child existed.
 
-The inherited Major → Benjamin link remains open and cannot support a continuous descent.
+The inherited Major -> Benjamin link remains unsupported and is now contradicted by stronger period evidence identifying Hon. Benjamin Selby as the younger attorney's father. The evidence does not establish that Major and Hon. Benjamin were unrelated, but it provides no basis for inserting Major as the direct father.
 
 ## Confidence rationale
 
@@ -41,4 +44,4 @@ The 1850 Major Selby household in Hamilton County, Indiana, does not contain Ben
 
 The highest-value new target is the application or supporting file behind private act chapter 171 of 3 March 1871. National Archives Identifier 563356 covers House petitions and related records for removal of political disabilities through March 1871; such applications can contain age, officeholding, residence, and a statement of wartime conduct. A targeted archival request should name Benjamin Selby, Henry County, Kentucky, the act date, and private act chapter 171.
 
-`strong`: the research gap is documented across multiple original record types. This is not proof that Major was not the father.
+`strong`: the research gap is documented across multiple original record types, and two period accounts support a different father identity. This is not absolute proof that every possible Major Selby theory is false, but the direct Major-to-younger-Benjamin claim should not be used.
