@@ -119,10 +119,13 @@ Use the Genealogical Proof Standard:
 - [[Benjamin Selby married Lucy S Hunter in 1844]]
 - [[The 1850 Trimble lawyer Ben Selby is strongly identified as the later Henry County attorney]]
 - [[Hon Benjamin Selby to Lingan Wilson Selby remains unproven]]
+- [[Benjamin Selby administered Lingan Wilson Selbys estate in 1821]]
+- [[Mary Selby was widow of Lingan Wilson Selby in 1821]]
 - [[William Magruder Selby named Lingan Wilson Selby as his son]]
 - [[Armstrong 1878 - Ben Selby biographical sketch]]
 - [[FamilySearch - Benjamin Selby and Lucy S Hunter 1844 Indiana marriage]]
 - [[FamilySearch - Lingan Wilson Selby 1821 Adair estate inventory]]
+- [[FamilySearch - Lingan Wilson Selby Adair administration and widow orders 1821]]
 - [[FamilySearch - Lingan W Selby 1809 Adair power of attorney]]
 - [[Lingan W Selby of Adair retained Prince Georges County land in 1809]]
 - [[The Adair Lingan W Selby is strongly identified as William Magruder Selbys son]]
@@ -221,7 +224,9 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 - [ ] Locate Frederick Payne Selby's death record, obituary, or city-directory sequence that resolves the Frank/Frederick name variation
 - [ ] Resolve Sophia E. Stone and Docia Stone through a direct alias, death, obituary, deed, or probate record
 - [ ] Retrieve Hon. Benjamin Selby's estate packet, probate index, tax discontinuity, obituary, legislative personnel records, or guardianship entry naming the younger Benjamin
-- [ ] Prove or reject Hon. Benjamin Selby -> Lingan Wilson Selby through Lingan's estate administration, land partitions, tax cessation, and Maryland collateral probate; do not use the unsourced tree relationship
+- [x] Identify Lingan Wilson Selby's Adair administrator and widow in Court Order Book D; Benjamin Selby's fiduciary role and Mary Selby's spousal relationship are confirmed, but no child or heir is named
+- [ ] Request Lingan's administration bond, loose estate packet, and Mary Selby's widow-allotment return from the Adair County Clerk or Kentucky archival holdings; FamilySearch exposes no separate administrator-bond series
+- [ ] Prove or reject Hon. Benjamin Selby -> Lingan Wilson Selby through land partitions, tax cessation, and Maryland collateral probate; do not use the unsourced tree relationship
 - [ ] Resolve the elder Benjamin auditor-date conflict between the 1878 biography and Kentucky Auditor historical list through original legislative or executive records
 - [ ] Continue the younger Benjamin's political-disability petition request behind private act chapter 171 as an identity source
 - [ ] Import existing lineage claims as claim records
@@ -251,6 +256,8 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 - [ ] Retrieve the later Charles Parker estate's 1790 account or distribution from JW 21, 1793 second inventory from LH 2, and Orphans Court proceedings; transcribe distribution and later-identity statements
 
 ## Change log
+
+- 2026-08-14 - Recovered Adair County Court Order Book D entries granting Benjamin Selby administration of Lingan Wilson Selby's estate on 5 February 1821 and directly identifying Mary Selby as Lingan's widow on 2 July 1821. Corrected the July inventory-return citation from an unrelated February 1827 ARK to image 165. A sequential transcript-assisted review of images 151-546 found no later Lingan settlement, distribution, child, heir, or relationship statement, and the FamilySearch Adair catalog exposed no separate administrator-bond series. Benjamin's administrator role is confirmed, but Hon. Benjamin-to-Lingan remains unproved because the court never calls him kin.
 
 - 2026-08-14 - Retrieved Lingan W. Selby's 1809 Adair power of attorney authorizing conveyance of all his Prince George's County, Maryland, land and corroborated it with the deed index, 1803 estate-appraisal service, and 1809-1810 tax appearances. This upgrades the Maryland-to-Adair Lingan identity to strong while leaving Hon. Benjamin-to-Lingan unproved. A manual Franklin Will Book 2 index review and bounded 1844-1846 settlement search found no relationship record. Kentucky's linked auditor biography identifies the 1820-1834 officeholder as a different Benjamin Shelby, and Thomas S. Page held the office from 1834-1846. The younger-to-Hon. Benjamin report is therefore downgraded from strong to moderate pending an original parent-child record.
 

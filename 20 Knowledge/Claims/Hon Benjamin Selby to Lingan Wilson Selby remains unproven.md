@@ -16,6 +16,7 @@ No reviewed original record names Hon. Benjamin Selby as a son of Lingan Wilson 
 ## Evidence considered
 
 - [[FamilySearch - Lingan Wilson Selby 1821 Adair estate inventory]] confirms Lingan's Adair County estate but names no family member.
+- [[FamilySearch - Lingan Wilson Selby Adair administration and widow orders 1821]] proves that Benjamin Selby was granted administration of Lingan's estate on 5 February 1821 and that Mary Selby was Lingan's widow on 2 July 1821. The court does not identify Benjamin as kin.
 - [[FamilySearch - Benjamin Selby Adair probate appearances 1822-1823]] directly places a Benjamin in the same county's probate network immediately after Lingan's death, but neither appearance names Lingan or states a relationship.
 - [[FamilySearch - Lingan W Selby 1809 Adair power of attorney]] strongly ties the Adair Lingan to the Prince George's County family cluster but names no child or heir.
 - [[FamilySearch - elder Benjamin Selby 1811 marriage and 1830-1840 censuses]] places an older Benjamin in Adair County but names no parent.
@@ -25,7 +26,7 @@ No reviewed original record names Hon. Benjamin Selby as a son of Lingan Wilson 
 
 ## Analysis and limits
 
-Shared county, chronology, surname, probate-network proximity, and an online-tree assertion are not proof of parentage. The 1809 power of attorney substantially strengthens the identification of Adair's Lingan with William Magruder Selby's Maryland son, but it does not name Benjamin. A sequential FamilySearch transcript sweep of Will Book B images 376-525 found no later Lingan sale, settlement, distribution, or heir entry; because automated transcription is incomplete and error-prone, that is a bounded negative search rather than proof of absence. Lingan's complete estate administration, deed partitions, tax cessation, church record, or a child-naming record for Benjamin remains necessary.
+Shared county, chronology, surname, probate-network proximity, and an online-tree assertion are not proof of parentage. The 1809 power of attorney substantially strengthens the identification of Adair's Lingan with William Magruder Selby's Maryland son, but it does not name Benjamin. Benjamin's appointment as administrator is stronger evidence of direct association than the later probate-network appearances, but fiduciary service does not state a relationship. Mary is directly identified as Lingan's widow. Sequential FamilySearch transcript-assisted sweeps of Will Book B images 376-525 and Court Order Books D-E images 151-546 found no later Lingan sale, administrator settlement, distribution, child, or heir entry. Because automated transcription is incomplete and error-prone, these are bounded negative searches rather than proof of absence. Lingan's estate bond or loose packet, deed partitions, tax cessation, church record, or a child-naming record for Benjamin remains necessary.
 
 ## Confidence rationale
 
@@ -33,4 +34,4 @@ Shared county, chronology, surname, probate-network proximity, and an online-tre
 
 ## Next research action
 
-Inspect Adair County Court Order Book C around June-July 1821 and later settlement terms for appointment of an administrator or a return not copied into Will Book B. Trace Lingan's land and tax cessation and search Prince George's County land and collateral probate downward from the 1809 power of attorney for a Benjamin named as heir or relation.
+Request Lingan's original administration bond and any loose estate packet behind the 5 February 1821 Order Book D grant to Benjamin Selby from the Adair County Clerk or Kentucky archival holdings; FamilySearch's Adair catalog exposes no separate administrator-bond series. Trace Lingan's land and tax cessation, identify any widow-allotment return, and search Prince George's County land and collateral probate downward from the 1809 power of attorney for a Benjamin named as heir or relation.
