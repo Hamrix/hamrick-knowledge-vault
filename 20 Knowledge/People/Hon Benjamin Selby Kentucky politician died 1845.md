@@ -50,6 +50,7 @@ At the present evidence level, the safest factual statements are source-specific
 - [[Biographical Encyclopaedia of Kentucky - Ben Selby profile research lead]]
 - [[Kentucky Auditor of Public Accounts - office history]]
 - [[Adair County Kentucky land records index 1811-1815 - Benjamin Selby]]
+- [[McDowell Genealogy - Adair County Benjamin Selby deed and court abstracts]]
 - [[Prince Georges County MDGenWeb - William Magruder Selby will abstract]]
 
 ## Related notes
