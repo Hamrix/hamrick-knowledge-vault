@@ -2,7 +2,7 @@
 type: project
 status: active
 privacy: internal
-last-reviewed: 2026-08-14
+last-reviewed: 2026-08-20
 ---
 
 # Aetheling Evidence Project
@@ -128,6 +128,8 @@ Use the Genealogical Proof Standard:
 - [[FamilySearch - Lingan Wilson Selby Adair administration and widow orders 1821]]
 - [[FamilySearch - Lingan W Selby 1809 Adair power of attorney]]
 - [[FamilySearch - Adair Selby deed indexes and Wilson conveyance 1819-1821]]
+- [[FamilySearch and KDLA - Lingan Selby Adair probate sequence audit 1821]]
+- [[Lingan Wilson Selby Adair loose probate request packet - 2026-08-20]]
 - [[Lingan W Selby of Adair retained Prince Georges County land in 1809]]
 - [[The Adair Lingan W Selby is strongly identified as William Magruder Selbys son]]
 - [[FamilySearch - Franklin County Selby probate negative search 1824-1854]]
@@ -226,7 +228,8 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 - [ ] Resolve Sophia E. Stone and Docia Stone through a direct alias, death, obituary, deed, or probate record
 - [ ] Retrieve Hon. Benjamin Selby's estate packet, probate index, tax discontinuity, obituary, legislative personnel records, or guardianship entry naming the younger Benjamin
 - [x] Identify Lingan Wilson Selby's Adair administrator and widow in Court Order Book D; Benjamin Selby's fiduciary role and Mary Selby's spousal relationship are confirmed, but no child or heir is named
-- [ ] Request Lingan's administration bond, loose estate packet, and Mary Selby's widow-allotment return from the Adair County Clerk or Kentucky archival holdings; FamilySearch exposes no separate administrator-bond series
+- [x] Audit Lingan's complete indexed Adair probate sequence and early Circuit Court index; the county-order index lists only administrator, appraisers, inventory, and widow allotment in 1821, with no relationship-level entry
+- [ ] Submit [[Lingan Wilson Selby Adair loose probate request packet - 2026-08-20]] to KDLA or the Adair County Clerk after approval; no fee, filing, or message has been sent
 - [ ] Prove or reject Hon. Benjamin Selby -> Lingan Wilson Selby through land partitions, tax cessation, and Maryland collateral probate; do not use the unsourced tree relationship
 - [ ] Resolve the elder Benjamin auditor-date conflict between the 1878 biography and Kentucky Auditor historical list through original legislative or executive records
 - [ ] Continue the younger Benjamin's political-disability petition request behind private act chapter 171 as an identity source
@@ -257,6 +260,8 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 - [ ] Retrieve the later Charles Parker estate's 1790 account or distribution from JW 21, 1793 second inventory from LH 2, and Orphans Court proceedings; transcribe distribution and later-identity statements
 
 ## Change log
+
+- 2026-08-20 - Audited Lingan W. Selby's indexed Adair probate and heir sequence. The original county-order index lists exactly four 1821 estate actions: administrator and appraisers at D:213, inventory and appraisement at D:238, and allotment to widow at D:239. It exposes no sale, settlement, distribution, heir, partition, or guardianship entry, and early Circuit Court order and general-index searches produced no Lingan result. FamilySearch lists no separate Adair bond or loose-packet film; its guardianship category contains only a physical 2007 transcription. KDLA confirms that pre-1870 unbound settlement files may hold family material omitted from recorded books, so a precise archival request packet is drafted but unsubmitted. No record identifies Benjamin as Lingan's son or heir, and the people remain unmerged.
 
 - 2026-08-14 - Reviewed the Adair grantee and grantor index Selby pages and followed the 1819 Ghalston Wilson-to-Benjamin entry into Deed Book E, pages 79-80. The original is an ordinary conveyance through William Caldwell as Ghalston's attorney in fact and states no relationship. The associated 1821 release at pages 387-388 directly calls Jenny Wilson Ghalston's wife, eliminating the Wilson-name coincidence as evidence for Lingan. No indexed Selby conveyance named Lingan or his heirs. Adair tax searches produced only pre-death Lingan appearances and land-entry provenance hits, while the apparent later Benjamin settlement in Will Book B proved to concern Benjamin Settle or Settles. Hon. Benjamin-to-Lingan remains unproved.
 

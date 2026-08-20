@@ -4,7 +4,7 @@ status: active
 privacy: internal
 project: Aetheling Evidence Project
 created: 2026-08-14
-last-reviewed: 2026-08-14
+last-reviewed: 2026-08-20
 ---
 
 # Frederick Payne Selby Upstream Proof - 2026-08-14
@@ -24,7 +24,7 @@ Audit Frederick Payne Selby as a historical anchor, prove each adjacent generati
 | Docia Stone -> Sophia E. Stone identity -> mother Sophia Bryan | Strong maternal extension | The 1854 consent directly calls Sophia Stone the daughter of Sophia Bryan. The 1854-1880 spouse, age, county, child, and Stone-name sequence strongly identifies Sophia as Docia, but no record expressly equates the given names. |
 | Younger Benjamin Selby -> Hon. Benjamin Selby | Moderate | The 1878 biography explicitly names the father, and original 1844-1850 records identify the younger subject. The 1883 auditor description is not independent corroboration because the official auditor chronology and linked biography identify a different Benjamin Shelby. No original parent-child record has yet been found. |
 | Younger Benjamin Selby -> mother | Unproved | The elder Benjamin married Elizabeth McClain in 1811, but no reviewed record identifies her as the younger man's mother. |
-| Hon. Benjamin Selby -> Lingan Wilson Selby | Unproved | Adair Order Book D proves that Benjamin was granted administration of Lingan's estate on 5 February 1821 and that Mary Selby was Lingan's widow on 2 July 1821. Neither order calls Benjamin a son, heir, child, or relative. Transcript-assisted sweeps of Will Book B and Court Order Books D-E found no later child, heir, distribution, or relationship statement. |
+| Hon. Benjamin Selby -> Lingan Wilson Selby | Unproved | Adair Order Book D proves that Benjamin was granted administration of Lingan's estate on 5 February 1821 and that Mary Selby was Lingan's widow on 2 July 1821. The original county-order index bounds the recorded sequence to four 1821 actions at D:213 and D:238-239, with no indexed sale, settlement, distribution, heir, partition, or guardianship entry. Neither the orders nor the index calls Benjamin kin. |
 | William Magruder Selby -> Lingan Wilson Selby | Confirmed relationship; Adair identity strong | William's 1773 will directly names Lingan as a son. A 1809 Adair power of attorney now strongly identifies that son with the later Adair Lingan through his Prince George's County land, but the link is still not connected to Hon. Benjamin or the Frederick Payne chain. |
 
 ## New evidence
@@ -54,6 +54,8 @@ Audit Frederick Payne Selby as a historical anchor, prove each adjacent generati
 - [[The Adair Lingan W Selby is strongly identified as William Magruder Selbys son]]
 - [[FamilySearch - Franklin County Selby probate negative search 1824-1854]]
 - [[FamilySearch - Adair Selby deed indexes and Wilson conveyance 1819-1821]]
+- [[FamilySearch and KDLA - Lingan Selby Adair probate sequence audit 1821]]
+- [[Lingan Wilson Selby Adair loose probate request packet - 2026-08-20]]
 
 ## Deed, tax, and index continuation
 
@@ -62,12 +64,14 @@ Audit Frederick Payne Selby as a historical anchor, prove each adjacent generati
 - The Selby grantor index page shows Benjamin and Nancy in 1806 and 1809 and Benjamin in 1816. No indexed Selby grantor entry from 1821-1827 names Lingan's heirs or an estate partition. This is a bounded index result, not proof that no conveyance exists.
 - Adair tax-book full-text searches in Image Group Number `7834395` returned Lingan results in pre-death annual lists and two exact `Benjamin Selby` OCR hits in 1808 and 1810 land-entry provenance columns. No reviewed result named a post-1821 heir or child. OCR year labels and column assignments were unreliable, so the tax search remains a lead-level negative result.
 - A Will Book B index OCR reading that appeared to pair Lingan with a later Benjamin settlement was checked against the original pages. The target is Benjamin Settle or Settles, deceased, not Benjamin Selby. The separate 1819 grantee-index row for Benjamin Settles from Henry Smith is likewise unrelated. These are corrected false leads, not Selby evidence.
+- The original Adair county-order index lists only four `Lingan W. (Est.)` actions: administrator and appraisers at D:213, inventory and appraisement at D:238, and allotment to widow at D:239. No later sale, settlement, distribution, heir, partition, or guardianship entry is indexed. Exact Lingan searches in the early Circuit Court order volume and general index were also negative, but remain transcript-dependent.
+- FamilySearch's guardianship category exposes only a 2007 physical transcription, not the underlying guardian bonds. Kentucky's retention schedule warns that pre-1870 unbound estate files may preserve family information omitted from bound books. The complete surviving estate therefore requires an archival file search; the request is drafted but not submitted.
 
 ## Upstream result
 
 Frederick Payne is a useful verified historical anchor because his 1884 original marriage license names his parents. The confirmed paternal chain reaches Benjamin Selby and Docia Stone. On Docia's side, the strong Sophia-to-Docia identity correlation provisionally reaches one generation farther to Sophia Bryan, whose 1854 consent directly calls Sophia Stone her daughter. On Benjamin's side, a period biography reports his father as an older Hon. Benjamin Selby, but that relationship is now moderate rather than strong because no original parent-child record has been found and the auditor narrative is demonstrably conflicted. This finding does not prove that Frederick Payne is the user's ancestor until every private modern parent-child link down to the user is separately documented.
 
-The current connected upstream stop is the younger Benjamin Selby's reported father, Hon. Benjamin Selby, at moderate confidence. The tree's next assignment to Lingan Wilson Selby is unsupported by a relationship-bearing source and derives in part from an old email note. Original review confirms Lingan's 1821 Adair estate in Will Book B, page 99. A newly recovered Order Book D entry proves that Benjamin Selby was granted administration on 5 February 1821, and a second order directly calls Mary Selby Lingan's widow on 2 July 1821. These records materially tighten the estate network but do not identify Benjamin as kin. Bounded sequential transcript-assisted reviews of Will Book B images 376-525 and Court Order Books D-E images 151-546 found no later child, heir, distribution, or relationship statement. The Selby deed indexes likewise expose no Lingan-to-Benjamin conveyance: the apparent Wilson lead is an ordinary 1819 purchase from Ghalston Wilson through his attorney, followed by his wife Jenny's 1821 dower release. The 1809 power of attorney directly ties Adair's Lingan W. Selby to Prince George's County land, making his identity as William Magruder Selby's named son strong. That older relationship is no longer geographically disconnected from the Adair man, but it still remains disconnected from Hon. Benjamin until the missing parent-child bridge is proved.
+The current connected upstream stop is the younger Benjamin Selby's reported father, Hon. Benjamin Selby, at moderate confidence. The tree's next assignment to Lingan Wilson Selby is unsupported by a relationship-bearing source and derives in part from an old email note. Original review confirms Lingan's 1821 Adair estate in Will Book B, page 99. Order Book D proves that Benjamin Selby was granted administration on 5 February 1821, and a second order directly calls Mary Selby Lingan's widow on 2 July 1821. The original order index now confirms that the recorded estate sequence contains only four actions at D:213 and D:238-239; it supplies no sale, settlement, distribution, heir, partition, guardianship, or relationship statement. The early Circuit Court index also yielded no Lingan entry. The Selby deed indexes expose no Lingan-to-Benjamin conveyance. Kentucky's retention schedule leaves a material archival gap because pre-1870 unbound settlement files may contain family information omitted from the recorded books. The 1809 power of attorney strongly identifies Adair's Lingan as William Magruder Selby's named son, but that older relationship remains disconnected from Hon. Benjamin until a relationship-bearing record is found.
 
 ## Identity cautions
 
@@ -85,7 +89,7 @@ The current connected upstream stop is the younger Benjamin Selby's reported fat
 3. Locate Frederick Payne Selby's death record, obituary, or city-directory sequence to resolve the Frank/Frederick name variation.
 4. Resolve Sophia E. Stone and Docia Stone through a direct alias, death, obituary, deed, or probate record.
 5. Retrieve the elder Hon. Benjamin Selby's estate packet, probate index, tax discontinuity, obituary, legislative personnel records, or a guardianship record naming the younger Benjamin; the bounded Franklin will and settlement search was negative.
-6. Retrieve Lingan's administration bond and loose estate packet behind the 5 February 1821 Order Book D grant to Benjamin, locate the return of Mary Selby's widow allotment, and trace Lingan's land and tax cessation for named heirs.
+6. Submit the drafted Adair/KDLA request for Lingan's administration bond, unbound estate-settlement file, sale bill, widow-allotment return, distribution, guardianship material, and related civil case file; no order or fee has been submitted.
 7. Follow the 1809 Prince George's County land authority and Maryland collateral probate downward for an explicit son, heir, or relative named Benjamin.
 8. Continue the younger Benjamin's political-disability petition request behind private act chapter 171 of 3 March 1871 as an identity and biography source, not as a presumed parentage record.
 
