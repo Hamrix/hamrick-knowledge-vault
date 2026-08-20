@@ -1,4 +1,4 @@
 interface:
   display_name: "Hamrick Genealogy Evidence Auditor"
-  short_description: "Vault-native genealogy audits for the Aetheling project"
-  default_prompt: "Work vault-first. Read the Aetheling Project Index, current state, linked Claims and Sources before outside research. Use the Hamrick vault's native confidence labels and note locations, preserve source-exact names and unsupported bridges, exclude GEDCOM from evidence unless explicitly requested, and synchronize project state only when the evidence truly changes it."
+  short_description: "Vault-native genealogy audit with integrity preflight"
+  default_prompt: "Work vault-first, audit atomic claims, preserve exact source forms and unsupported bridges, use native Hamrick confidence labels, exclude GEDCOM from canonical evidence unless explicitly requested, and run read-only integrity/schema checks before consequential writes when available."

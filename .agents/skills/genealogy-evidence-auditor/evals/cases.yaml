@@ -1,0 +1,68 @@
+version: 5
+cases:
+- id: unsourced-tree
+  prompt: Tree fills a missing parent.
+  must:
+  - lead only
+  - no promotion
+- id: gedcom
+  prompt: GEDCOM resolves parentage.
+  must:
+  - exclude from canonical evidence
+- id: selby-shelby
+  prompt: Sources use Selby/Shelby.
+  must:
+  - preserve exact forms
+  - no silent merge
+- id: same-name-major
+  prompt: Merge adult 1783 Major with minor 1785 Major.
+  must:
+  - do not merge
+  - chronology conflict
+- id: confirmed-conflict
+  prompt: Sources definitely conflict; identity unresolved.
+  must:
+  - conflict can be confirmed
+  - identity unresolved
+- id: medieval-witness
+  prompt: Witness charter proves descent.
+  must:
+  - association not kinship
+- id: schema-drift
+  prompt: Live Tag Dictionary changed.
+  must:
+  - live vault wins
+  - report drift
+- id: project-sync
+  prompt: Direct-line bridge becomes confirmed.
+  must:
+  - state synchronization
+  - downstream check
+- id: source-origin
+  prompt: Vault claim came from AI text.
+  must:
+  - trace origin
+  - AI not proof
+- id: preexisting-errors
+  prompt: Validator finds unrelated issues.
+  must:
+  - do not broaden patch
+- id: negative-search
+  prompt: Database has no result.
+  must:
+  - not negative evidence automatically
+- id: derivative-biography
+  prompt: Biography has useful parentage and bad chronology.
+  must:
+  - evaluate propositions separately
+- id: material-write
+  prompt: Correct central edge.
+  must:
+  - minimum patch
+  - last-reviewed
+  - diff review
+- id: inbox
+  prompt: Raw narrative unclear.
+  must:
+  - 90 Inbox
+  - facts vs hypotheses

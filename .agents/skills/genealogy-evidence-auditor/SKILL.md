@@ -445,3 +445,21 @@ Before completing a substantive genealogy audit:
 - [ ] Final wording does not imply a bridge the evidence does not establish.
 
 If one of these cannot be completed, say so and preserve the lower confidence state.
+
+## 22. v5 integrity preflight
+
+For consequential vault writes, read these references first:
+
+- `references/schema-drift-and-integrity.md`
+- `references/project-state-synchronization.md`
+- `references/source-origin-firewall.md`
+
+When local filesystem access is available, run these read-only checks before writing:
+
+- `scripts/profile_vault_contract.py`
+- `scripts/validate_genealogy_integrity.py`
+- `scripts/check_project_sync.py`
+
+These checks do not adjudicate genealogy. They detect schema drift, invalid native-note structure, unresolved dependencies, and project-state synchronization hazards.
+
+If they report unrelated pre-existing issues, preserve those issues and do not broaden the current patch.
