@@ -43,6 +43,8 @@ The 2026-08-14 [[Frederick Payne Selby Upstream Proof - 2026-08-14|Frederick Pay
 
 The continued upstream review preserves the explicit 1878 report that the younger Eminence lawyer was son of Hon. Benjamin Selby, but the relationship remains moderate. Franklin's original 1845 tax list separately names Benj. Jr and Benj. Senr. Original Senate journals now prove Benjamin Selby's January 1834 appointment as Auditor of Public Accounts, his Senate confirmation, and Harry I. Bodley's January 1846 appointment in place of Ben. Selby, deceased. A contemporaneous Missouri reprint attributes to the Frankfort *Commonwealth* the death of Benjamin Selby, Auditor of State, on 25 May 1845. These records independently verify the reported father's office and death, but none states that the younger Benjamin was his son. The modern Kentucky Auditor chronology is contradicted by the originals; the 1851 librarian identity remains unresolved. Hon. Benjamin -> Lingan Wilson Selby remains unproved. A 1809 Adair power of attorney strongly identifies the Adair Lingan as William Magruder Selby's named son, but no Adair estate, deed, tax, or court record bridges Lingan to Hon. Benjamin.
 
+The 2026-08-20 [[Side Research Ingestion - 2026-08-20|side-research ingestion]] accessioned a 1904 compiled Peters genealogy and verified its relevant pages. The book documents that a Liverpool Peters noble-house tradition was published, but it supplies no pedigree proving the connection and does not mention Etheldred or Ethelred Peters, Stafford, Chaney, or Cheney. It cannot support the submitted Peters-to-Stafford bridge. The 1929 Selby booklet was already accessioned and the supplied copy is byte-for-byte identical, so it adds no independent corroboration. No people or lineage segments were merged.
+
 ## Workstreams
 
 - Modern documented lineage
@@ -106,10 +108,15 @@ Use the Genealogical Proof Standard:
 
 - [[Source Material Inventory|Aetheling Evidence Project - Source Material Inventory]]
 - [[Research Lead Sweep - 2026-07-28]]
+- [[Side Research Ingestion - 2026-08-20]]
+- [[A 1904 Peters genealogy reported an unproved Lord Petrie connection]]
+- [[Etheldred Peters parentage remains unproven]]
 - [[William Selby in Thomas Outten will abstract - 1725-1726]]
 - [[Wayfarers Tome Fact and Source Inventory]]
 - [[Wayfarers Tome Session Backup - 2026-07-28]]
 - [[Aetheling Evidence Release 0.9 Integration - 2026-08-08]]
+- [[Black 1904 - Richard Peters ancestors and descendants]]
+- [[Headen family Bible transcript and Selby family notes - 1929]]
 - [[Frederick Payne Selby Upstream Proof - 2026-08-14]]
 - [[James Benjamin Sanford Selby was son of Frederick P Selby and Elizabeth Dolan]]
 - [[Frank P Selby in 1900 is strongly identified as Frederick Payne Selby]]
@@ -258,6 +265,9 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 - [ ] Retrieve the land conveyance or estate division connecting Parker Selby's 750-acre devise to the later John Selby Esq.
 - [ ] Prove or reject Major Selby → Benjamin Selby from relationship-bearing originals
 - [ ] Prove or reject the reported Thomas and Elizabeth Selby to Major link using the original *Choice* and *Dull Folly* deeds, probate, and estate records
+- [ ] Retrieve the original 1794 Stephen Stafford-Elizabeth Peters marriage record and the cited Stafford wills before creating any Stafford-Peters parent-child chain
+- [ ] Identify the exact Burke edition and original heraldic or probate evidence behind the 1904 "Lord Petrie" tradition; do not infer a Petre descent from arms or motto alone
+- [ ] Continue Etheldred Peters's Craven record sequence without attaching him to William Peters or a Stafford line absent relationship-level evidence
 - [ ] Retrieve the Nancy-administered Parker estate's 25 August 1791 inventory, 30 November 1793 third account, and 1 November 1793 distribution; seek names of heirs and a direct statement of Nancy's relationship to Parker
 - [x] Retrieve Charles Parker's 1761 bond and inventory and 1788 bond and inventory; record administrators, bond parties, kin, and nearest kin without assigning unstated relationships
 - [x] Retrieve Charles Parker's 1787 will and record its direct wife, child, executor, and witness statements
@@ -265,6 +275,8 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 - [ ] Retrieve the later Charles Parker estate's 1790 account or distribution from JW 21, 1793 second inventory from LH 2, and Orphans Court proceedings; transcribe distribution and later-identity statements
 
 ## Change log
+
+- 2026-08-20 - Ingested the user-supplied side-research batch under the vault's evidence standard. The 1929 Selby booklet is byte-identical to the already accessioned copy. Accessioned and visually reviewed Nellie Peters Black's 1904 compiled genealogy, recorded its internal conflict over William Peters's first wife, and confirmed only that it published an unproved "Lord Petrie" tradition. A full-book text search found no Etheldred/Ethelred, Stafford, Chaney, or Cheney reference, so the book cannot support the submitted Peters-to-Stafford chain. Existing atomic Selby relationships were preserved without bridging their unresolved identity gaps; no people were merged.
 
 - 2026-08-20 - Corrected the elder Benjamin auditor chronology through visually reviewed original Senate pages. Governor John Breathitt nominated Benjamin Selby as Auditor of Public Accounts on 4 January 1834; the Senate consented on 14 January; and Selby signed the 10 October 1834 auditor statement. On 5 January 1846 Governor William Owsley appointed Harry I. Bodley in place of Ben. Selby, deceased. A 7 June 1845 *Boon's Lick times* reprint says the Frankfort *Commonwealth* announced Benjamin Selby, Auditor of State, died 25 May 1845. This verifies the reported father's office and death and exposes the modern Kentucky Auditor profile as a conflicting derivative source. It does not name kin, so younger Benjamin-to-Hon. Benjamin remains moderate and Hon. Benjamin-to-Lingan remains unproved.
 

@@ -3,7 +3,7 @@ type: claim
 status: active
 confidence: tentative
 privacy: internal
-last-reviewed: 2026-07-28
+last-reviewed: 2026-08-20
 ---
 
 # Etheldred Peters' parentage remains unproven
@@ -75,6 +75,14 @@ In the 1779 Craven County assessment, **Joseph Peters** and **Etheldred Peters**
 
 This makes the proposition that Etheldred was another child of William Peters a **testable hypothesis only**. The decisive test is whether Etheldred's 1788 estate papers, or Joseph's later records, describe a familial relationship or an inherited interest in William's estate.
 
+## 1904 Peters genealogy evaluated
+
+The user-supplied 1904 compiled genealogy [[Black 1904 - Richard Peters ancestors and descendants]] describes a Liverpool, Pennsylvania, and Georgia Peters family. A complete text extraction of its 334-page scan contains no occurrence of `Etheldred`, `Ethelred`, `Stafford`, `Chaney`, or `Cheney`. The volume therefore does not identify Etheldred as William Peters's son, does not identify an Elizabeth Peters as Etheldred's daughter, and does not support a Peters-to-Stafford bridge.
+
+The book also conflicts internally about William Peters's first wife: a post-publication supplement names Elizabeth Bayley, while the formal genealogy says the editor did not know the first wife's name. These are derivative assertions requiring original-record verification. Their presence does not resolve the North Carolina man's parentage.
+
+This negative result concerns the contents and evidentiary scope of the 1904 book. It is not proof that Etheldred was unrelated to every family described there.
+
 ## Research sequence
 
 1. Reconstruct Etheldred's North Carolina life through Craven County deeds, land warrants/patents, court minutes, tax lists, estate records, and any marriage/bible records.
@@ -111,6 +119,7 @@ The North Carolina Land Grants index reports one Craven grant for Etheldred Pete
 - [North Carolina Land Grants index, Etheldred Peters](https://www.nclandgrants.com/q/?cyid=&sbj=Peters%2C+Etheldred&xs=1) (index only; consult original grant papers)
 - [[FamilySearch - Etheldred Peters 1788 Craven estate file images]] (reviewed original estate-packet images; FamilySearch collection 1911121)
 - [[FamilySearch - Etheldred Peters 1787 Craven land-caveat court minute]] (reviewed original court-minute image)
+- [[Black 1904 - Richard Peters ancestors and descendants]] (compiled genealogy; full-book negative search found no Etheldred/Ethelred, Stafford, Chaney, or Cheney reference)
 - [FamilySearch catalog 456868: Craven County wills and estate papers](https://www.familysearch.org/en/search/catalog/456868) (repository-level locator for the original estate-file series)
 - [1787 Craven land-caveat abstract](https://eastcarolinaroots.com/king-mentions-craven-county-court-minutes-1767-1791/) (discovery aid; superseded for this claim by the reviewed original minute)
 - [1779 Craven County tax-list transcription with original-scan link](https://eastcarolinaroots.com/1779-craven-county-tax-list/) (Captain Allen's company; use only as a locality clue)
