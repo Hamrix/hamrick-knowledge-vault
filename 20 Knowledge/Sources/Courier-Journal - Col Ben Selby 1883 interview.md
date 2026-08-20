@@ -5,7 +5,7 @@ repository: FamilySearch
 reference: "Courier-Journal, 9 September 1883, page 14"
 date: 1883-09-09
 accessed: 2026-08-14
-last-reviewed: 2026-08-14
+last-reviewed: 2026-08-20
 privacy: internal
 project: Aetheling Evidence Project
 ---
@@ -22,7 +22,7 @@ The newspaper introduces Col. Ben Selby of Eminence and states that his father h
 
 ## Reliability and limitations
 
-The article is contemporary and likely drew the biographical introduction from the living interview subject, but it does not quote him directly on the father statement or give his father's name. It independently corroborates the 1878 biography's public-office description rather than independently proving the father's identity.
+The article is contemporary and likely drew the biographical introduction from the living interview subject, but it does not quote him directly on the father statement or give his father's name. [[Kentucky Senate journals - Benjamin Selby auditor appointment and death succession 1834-1846|Original Senate journals]] and [[Boons Lick Times - Benjamin Selby death notice reprint 1845|a contemporaneous death notice reprint]] now independently verify that a Benjamin Selby held the auditor office from 1834 and died in 1845. This validates the article's office description but still does not independently prove that the interview subject was the auditor's son.
 
 ## Claims supported
 

@@ -41,7 +41,7 @@ The exact original-deed target is now pinned to FamilySearch film 14543 / DGS 81
 
 The 2026-08-14 [[Frederick Payne Selby Upstream Proof - 2026-08-14|Frederick Payne upstream audit]] establishes a documented historical chain with explicit confidence boundaries. Three official vital-record entries strongly support James Benjamin Sanford Selby as son of Frederick P. Selby and Elizabeth Dolan. The 1884 original license and 1880 census independently confirm Frederick Payne Selby as son of Benjamin Selby and Docia Stone. James B. Selby as Frederick E. Selby's father and Frank P. as Frederick Payne are each strong identity correlations rather than confirmed aliases. Sophia E. Stone is also strongly identified as Docia Stone across the 1854-1880 Benjamin Selby sequence; if that identity holds, Sophia Bryan's 1854 consent supplies the next maternal generation. Benjamin's parents remain unproved, and no living user-to-Frederick descent is asserted in this Git-backed vault.
 
-The continued upstream review preserves the explicit 1878 report that the younger Eminence lawyer was son of Hon. Benjamin Selby, but the relationship remains moderate. Franklin's original 1845 tax list separately names Benj. Jr and Benj. Senr; the manually reviewed 1846 S pages contain no Selby, and the 1847 list contains one adult Benjamin without a suffix. This independently supports two-person identity and the reported elder death window but states no kinship. Expanded Franklin bonds, guardianship, order books, and the 1845-1846 legislative journals yielded no relationship-bearing record. The original 1851 librarian election names Ben Selby, yet it does not resolve the conflict between later biographies assigning that office to different men. Hon. Benjamin -> Lingan Wilson Selby remains unproved. A 1809 Adair power of attorney strongly identifies the Adair Lingan as William Magruder Selby's named son, but no Adair estate, deed, tax, or court record bridges Lingan to Hon. Benjamin.
+The continued upstream review preserves the explicit 1878 report that the younger Eminence lawyer was son of Hon. Benjamin Selby, but the relationship remains moderate. Franklin's original 1845 tax list separately names Benj. Jr and Benj. Senr. Original Senate journals now prove Benjamin Selby's January 1834 appointment as Auditor of Public Accounts, his Senate confirmation, and Harry I. Bodley's January 1846 appointment in place of Ben. Selby, deceased. A contemporaneous Missouri reprint attributes to the Frankfort *Commonwealth* the death of Benjamin Selby, Auditor of State, on 25 May 1845. These records independently verify the reported father's office and death, but none states that the younger Benjamin was his son. The modern Kentucky Auditor chronology is contradicted by the originals; the 1851 librarian identity remains unresolved. Hon. Benjamin -> Lingan Wilson Selby remains unproved. A 1809 Adair power of attorney strongly identifies the Adair Lingan as William Magruder Selby's named son, but no Adair estate, deed, tax, or court record bridges Lingan to Hon. Benjamin.
 
 ## Workstreams
 
@@ -135,6 +135,8 @@ Use the Genealogical Proof Standard:
 - [[FamilySearch - Franklin County Selby probate negative search 1824-1854]]
 - [[FamilySearch - Franklin County Benjamin Selby tax transition 1845-1847]]
 - [[Kentucky General Assembly - Selby negative search 1845-1846]]
+- [[Kentucky Senate journals - Benjamin Selby auditor appointment and death succession 1834-1846]]
+- [[Boons Lick Times - Benjamin Selby death notice reprint 1845]]
 - [[Kentucky House Journal - Ben Selby elected state librarian 1851]]
 - [[FamilySearch - William Magruder Selby 1773 will]]
 - [[FamilySearch - James Benjamin Sanford Selby 1886 Orleans birth index]]
@@ -229,12 +231,12 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 - [ ] Obtain the original 1886 James birth record and independently transcribe the 1910 marriage parent fields
 - [ ] Locate Frederick Payne Selby's death record, obituary, or city-directory sequence that resolves the Frank/Frederick name variation
 - [ ] Resolve Sophia E. Stone and Docia Stone through a direct alias, death, obituary, deed, or probate record
-- [ ] Search the 1845 Frankfort newspaper microfilm runs for Hon. Benjamin's obituary or death notice, beginning after the 21 May tax certification, and pursue unbound Franklin estate or civil files; the tax transition is documented and the expanded bound-record search is negative
+- [ ] Retrieve the original Frankfort *Commonwealth* notice following 25 May 1845 and search adjacent issues for an obituary naming relatives; then pursue unbound Franklin estate or civil files
 - [x] Identify Lingan Wilson Selby's Adair administrator and widow in Court Order Book D; Benjamin Selby's fiduciary role and Mary Selby's spousal relationship are confirmed, but no child or heir is named
 - [x] Audit Lingan's complete indexed Adair probate sequence and early Circuit Court index; the county-order index lists only administrator, appraisers, inventory, and widow allotment in 1821, with no relationship-level entry
 - [ ] Submit [[Lingan Wilson Selby Adair loose probate request packet - 2026-08-20]] to KDLA or the Adair County Clerk after approval; no fee, filing, or message has been sent
 - [ ] Prove or reject Hon. Benjamin Selby -> Lingan Wilson Selby through land partitions, tax cessation, and Maryland collateral probate; do not use the unsourced tree relationship
-- [ ] Resolve the elder Benjamin auditor-date and 1851 librarian identity conflicts through original auditor appointment, payroll, executive, and personnel records; the librarian election itself names no relatives or age
+- [x] Resolve the elder Benjamin auditor-date conflict through original appointment, signed report, and death-succession records; the modern official summary is contradicted, while the separate 1851 librarian identity remains unresolved
 - [ ] Continue the younger Benjamin's political-disability petition request behind private act chapter 171 as an identity source
 - [ ] Import existing lineage claims as claim records
 - [ ] Create one evidence note per parent-child link
@@ -263,6 +265,8 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 - [ ] Retrieve the later Charles Parker estate's 1790 account or distribution from JW 21, 1793 second inventory from LH 2, and Orphans Court proceedings; transcribe distribution and later-identity statements
 
 ## Change log
+
+- 2026-08-20 - Corrected the elder Benjamin auditor chronology through visually reviewed original Senate pages. Governor John Breathitt nominated Benjamin Selby as Auditor of Public Accounts on 4 January 1834; the Senate consented on 14 January; and Selby signed the 10 October 1834 auditor statement. On 5 January 1846 Governor William Owsley appointed Harry I. Bodley in place of Ben. Selby, deceased. A 7 June 1845 *Boon's Lick times* reprint says the Frankfort *Commonwealth* announced Benjamin Selby, Auditor of State, died 25 May 1845. This verifies the reported father's office and death and exposes the modern Kentucky Auditor profile as a conflicting derivative source. It does not name kin, so younger Benjamin-to-Hon. Benjamin remains moderate and Hon. Benjamin-to-Lingan remains unproved.
 
 - 2026-08-20 - Continued the reverse-direction audit of Hon. Benjamin Selby's reported 1845 death. Franklin's original 1845 tax list separately names Benj. Jr and Benj. Senr; no Selby appears on the manually reviewed 1846 S pages, and one adult unsuffixed Benjamin appears in 1847. This supports a two-person transition and the elder death window but not father-son kinship. Expanded executor-bond, guardian-bond, County Court order-book, and 1845-1846 House and Senate journal searches found no relationship-bearing record or memorial. The original 1851 election and 1852 register identify state librarian Ben or Benjamin Selby but do not resolve which later biography has assigned the office correctly. Hon. Benjamin-to-Lingan remains unproved and no people were merged.
 
