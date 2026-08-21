@@ -20,8 +20,9 @@ What does the record trail actually prove about Walter de Ver, Sibilla, their fa
 3. **`de Kyme` unresolved:** the original concord calls her Sibilla without that surname. Massingberd's `Sibilla de Kyme` statement depends on Harley MS 301, folio 171b, which was not located for image review.
 4. **Harley source classified:** the 1808 [[Catalogue of the Harleian Manuscripts Volume 1 - Harley MS 301]] describes MS 301 as an early modern collection of Exchequer-record transcripts, not a contemporary medieval pedigree.
 5. **Simon lead:** [[Wilkinson 1999 - Thirteenth-Century Women in Lincolnshire]] reports Simon as Walter's son and heir from *Curia Regis Rolls* VII, pages 18-19, with related litigation at page 160. The volume is restricted in the reviewed FamilySearch catalogue, so the claim remains moderate.
-6. **Walter parentage lead:** Wilkinson reports Walter as son of Gundreda de Ver and Adam fitzErneis, citing *Registrum Antiquissimum* and *Early Yorkshire Charters*. Those passages remain unreviewed, and Massingberd records competing pedigree placements. The claim remains tentative.
-7. **Repeated litigation:** [[Whiting 2021 - Lincolnshire eyre dower litigation]] identifies nine 1218-1219 dower entries for Nicholas and Sybil. These are useful corroborative targets but do not name Walter in the reviewed passage.
+6. **Paternal link proved strongly:** [[Loyd and Stenton 1950 - Sir Christopher Hattons Book of Seals entry 73]] transcribes Walter's charter calling him son of Adam of Goxhill, Robert son of Erneis his grandfather, and Adam his father. This proves the immediate paternal relationships at strong confidence.
+7. **Maternal lead remains tentative:** Wilkinson reports Gundreda de Ver as Walter's mother, citing *Registrum Antiquissimum* and *Early Yorkshire Charters*. Those passages remain unreviewed, and the direct charter does not name Walter's mother.
+8. **Repeated litigation:** [[Whiting 2021 - Lincolnshire eyre dower litigation]] identifies nine 1218-1219 dower entries for Nicholas and Sybil. These are useful corroborative targets but do not name Walter in the reviewed passage.
 
 ## Unreviewed conflict lead
 
@@ -35,12 +36,12 @@ A search-result extract for Emilia Jamroziak's 2001 Rievaulx thesis calls Sibill
 
 ## Conclusions
 
-The evidence must remain split into atomic claims. The Walter-Sibilla-Nicholas marital sequence is strong. Sibilla's `de Kyme` identification and Simon's parentage are moderate. Walter's proposed parentage is tentative. None of these medieval findings establishes a Selby-surname bridge or a connection to the user's proven ancestry.
+The evidence must remain split into atomic claims. The Walter-Sibilla-Nicholas marital sequence is strong. Walter's father Adam of Goxhill and grandfather Robert son of Erneis are also strong. Sibilla's `de Kyme` identification and Simon's son-and-heir claim are moderate. Gundreda's maternity is tentative. None of these medieval findings establishes a Selby-surname bridge or a connection to the user's proven ancestry.
 
 ## Next targets
 
 - Inspect Harley MS 301, folio 171b.
 - Inspect *Curia Regis Rolls* VII, pages 1, 18-19, 131, 160, 177, and 250.
 - Inspect the nine *Rolls of the Justices in Eyre* entries cited by Whiting.
-- Inspect *Registrum Antiquissimum* II, pages 211-212, no. 509n, and *Early Yorkshire Charters* III, page 61.
+- Inspect the Book of Seals manuscript or associated Dodsworth transcript and compare entry 73 with *Registrum Antiquissimum* II, page 212, and *Early Yorkshire Charters* III, no. 1341 and page 61.
 - Keep all medieval Ver claims separate from the Maryland Selby and documented modern lines unless a relationship-bearing chain is found.

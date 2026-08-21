@@ -36,7 +36,8 @@ Wilkinson calls the woman Sybil or Sybil de Ver in the reviewed passages. She do
 ## Claims supported
 
 - [[Simon de Ver was reported as son and heir of Walter de Ver]]
-- [[Walter de Ver was reported as son of Gundreda de Ver and Adam fitzErneis]]
+- [[Walter de Ver was son of Adam of Goxhill and grandson of Robert son of Erneis]]
+- [[Gundreda de Ver was reported as mother of Walter de Ver]]
 - [[Sibilla wife of Nicholas de Schauencurt was formerly wife of Walter de Ver]] - scholarly corroboration only; the final concord is the direct evidence.
 
 ## Claims contradicted

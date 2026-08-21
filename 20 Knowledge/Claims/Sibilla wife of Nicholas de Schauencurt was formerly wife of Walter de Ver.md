@@ -22,6 +22,7 @@ By 27 January 1220, Sibilla was wife of Nicholas de Schauencurt and Walter de Ve
 
 - [[Lincolnshire final concord CP 25-1-128-15 no 8 - 1220]]: the original final concord and its 1896 published abstract identify Sibilla as Nicholas's wife and state that she claimed dower from the free tenement of Walter de Ver, formerly her husband.
 - [[Whiting 2021 - Lincolnshire eyre dower litigation]] independently identifies nine 1218-1219 eyre entries involving Nicholas and Sybil pursuing dower from her previous marriage. This corroborates the litigation pattern but does not name Walter.
+- [[Loyd and Stenton 1950 - Sir Christopher Hattons Book of Seals entry 73]], printed page 53, independently reports from cited court records that Sybil was Walter's widow and Nicholas de Chavencurt was her second husband.
 
 ## Evidence against
 

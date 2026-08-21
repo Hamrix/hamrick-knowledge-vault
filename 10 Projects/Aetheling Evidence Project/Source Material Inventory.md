@@ -22,7 +22,7 @@ The 2026-08-09 [[Generation Proof Continuation - 2026-08-09]] adds two visually 
 
 The 2026-08-13 [[Generation Proof Continuation - 2026-08-13]] adds a visually reviewed 1948 compiled genealogy, the official Worcester estate index, and original FamilySearch images for two distinct Charles Parker probate clusters. The genealogy supplies a Thomas-Elizabeth-Major hypothesis but remains derivative family testimony. The 1761 records prove administration, bond-party, and kin associations without degrees. Liber 38 folios 93 and 163 independently corroborate the earlier Charles estate's administration and inventory; folios 133 and 328 are separately classified as collateral surety appearances and do not supply kinship. The later Charles's 1787 will directly names wife Ann and a child group including son Selby Parker; the 1788 bond and inventory continue that estate. A James Campbell will mention is retained only as a non-kin association. Downloaded images and review screenshots remain outside the Git-backed vault; citations and available SHA-256 hashes are preserved in source notes.
 
-The 2026-08-21 [[Walter de Ver and Sibilla Source Audit - 2026-08-21]] adds the original 1220 Lincolnshire final concord and published abstract, two modern doctoral theses with exact medieval-record citations, and an archival catalogue description of Harley MS 301. The concord directly proves the Walter-Sibilla-Nicholas marital sequence but does not identify Sibilla as `de Kyme`. Simon's reported parentage remains moderate and Walter's reported parentage tentative until the cited record editions are directly reviewed. No medieval finding is joined to the Selby surname or the user's documented ancestry.
+The 2026-08-21 [[Walter de Ver and Sibilla Source Audit - 2026-08-21]] adds the original 1220 Lincolnshire final concord and published abstract, two modern doctoral theses with exact medieval-record citations, an archival catalogue description of Harley MS 301, and Loyd and Stenton's edited transcription of Walter's charter. The concord directly proves the Walter-Sibilla-Nicholas marital sequence but does not identify Sibilla as `de Kyme`. Walter's charter explicitly identifies Adam of Goxhill as his father and Robert son of Erneis as his grandfather. Simon's reported son status remains moderate and Gundreda's maternity tentative until the cited record editions are directly reviewed. No medieval finding is joined to the Selby surname or the user's documented ancestry.
 
 ## Release 0.9 original and derivative sources
 
@@ -80,6 +80,7 @@ The 2026-08-21 [[Walter de Ver and Sibilla Source Audit - 2026-08-21]] adds the 
 - [[Wilkinson 1999 - Thirteenth-Century Women in Lincolnshire]] - scholarly thesis identifying exact *Curia Regis Rolls* and charter-edition targets for Simon and Walter's proposed parents; derivative until those records are reviewed.
 - [[Whiting 2021 - Lincolnshire eyre dower litigation]] - independent scholarly identification of nine Nicholas-and-Sybil dower entries from the 1218-1219 eyre.
 - [[Catalogue of the Harleian Manuscripts Volume 1 - Harley MS 301]] - archival finding aid classifying the cited manuscript as an early modern record-transcript collection; folio 171b remains unreviewed.
+- [[Loyd and Stenton 1950 - Sir Christopher Hattons Book of Seals entry 73]] - scholarly charter transcription explicitly identifying Walter's father and paternal grandfather; editorial notes corroborate the widow, second-marriage, and heir sequence.
 - [[Bunce 1948 - Some of the Ancestors Selby genealogy]] - derivative compiled genealogy preserving a named family-statement provenance and specific Worcester deed targets; not independent parentage proof.
 - [[Maryland State Archives - Charles Parker Worcester estate index]] - official index with separate 1761 and 1788 Charles Parker estate rows and later filing targets.
 - [[FamilySearch - Charles Parker 1761 Worcester administration bond]] - original bond naming Collins Parker administrator and Charles and John Parker as bound parties.
@@ -130,6 +131,7 @@ The 2026-08-21 [[Walter de Ver and Sibilla Source Audit - 2026-08-21]] adds the 
 ## Proven historical context
 
 - [[Sibilla wife of Nicholas de Schauencurt was formerly wife of Walter de Ver]] - strong medieval marital sequence only; `de Kyme`, parentage, Selby, and modern-family connections are not inferred.
+- [[Walter de Ver was son of Adam of Goxhill and grandson of Robert son of Erneis]] - strong immediate paternal relationships only; Walter's mother and older Ver ancestry remain unresolved.
 - [[Æþeling designated a prince of an English royal house]]
 - [[Humphrey Stafford was a great-grandson of Edward III through Anne of Gloucester]] — a verified medieval relationship only.
 - [[Selby has a documented English and Scottish habitational surname origin]] — surname context only; not evidence about a particular Selby family.
