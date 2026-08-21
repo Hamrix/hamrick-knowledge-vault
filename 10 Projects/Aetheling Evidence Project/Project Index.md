@@ -39,7 +39,7 @@ Further review now distinguishes at least three late Parker estate tracks: an Ap
 
 The exact original-deed target is now pinned to FamilySearch film 14543 / DGS 8141714 and Maryland State Archives CE30-21. FamilySearch restricts that film to a center or affiliate library, so the original remains unreviewed. Estate Docket T4215/C1993-1 and the underlying 1789 bond and complete four-account sequence now confirm the April track and Nancy's later marriage to John Gunby. The 1791 inventory, 1793 distribution, and a direct Parker-to-heirs statement remain open. The distribution is now pinned to LH 3, MSA C2007-2; guardian accounts are pinned to JW 17, MSA C2013-1, which the archive marks restricted.
 
-The 2026-08-14 [[Frederick Payne Selby Upstream Proof - 2026-08-14|Frederick Payne upstream audit]] establishes a documented historical chain with explicit confidence boundaries. Three official vital-record entries strongly support James Benjamin Sanford Selby as son of Frederick P. Selby and Elizabeth Dolan. The 1884 original license and 1880 census independently confirm Frederick Payne Selby as son of Benjamin Selby and Docia Stone. James B. Selby as Frederick E. Selby's father and Frank P. as Frederick Payne are each strong identity correlations rather than confirmed aliases. Sophia E. Stone is also strongly identified as Docia Stone across the 1854-1880 Benjamin Selby sequence; if that identity holds, Sophia Bryan's 1854 consent supplies the next maternal generation. Benjamin's parents remain unproved, and no living user-to-Frederick descent is asserted in this Git-backed vault.
+The 2026-08-14 [[Frederick Payne Selby Upstream Proof - 2026-08-14|Frederick Payne upstream audit]] establishes a documented historical chain with explicit confidence boundaries. A newly reviewed NUMIDENT entry supplies Frederick Ethelred Selby's exact full name and repeats James B. Selby and Sarah E. Stafford as his parents. Sarah's 1890 full-name birth index and original 1900-1910 census and marriage records resolve her as Sarah Eveline Stafford, wife of James Benjamin Sanford Selby, and confirm her parents as Ethelred H. Stafford and Fannie B. Coe. The historical Frederick-to-James-and-Sarah link is therefore confirmed. Three official vital-record entries strongly support James Benjamin Sanford Selby as son of Frederick P. Selby and Elizabeth Dolan. The 1884 original license and 1880 census independently confirm Frederick Payne Selby as son of Benjamin Selby and Docia Stone. Frank P. as Frederick Payne remains a strong identity correlation rather than a confirmed alias. Sophia E. Stone is also strongly identified as Docia Stone across the 1854-1880 Benjamin Selby sequence; if that identity holds, Sophia Bryan's 1854 consent supplies the next maternal generation. Benjamin's parents remain unproved, and no living user-to-Frederick descent is asserted in this Git-backed vault.
 
 The continued upstream review preserves the explicit 1878 report that the younger Eminence lawyer was son of Hon. Benjamin Selby, but the relationship remains moderate. Franklin's original 1845 tax list separately names Benj. Jr and Benj. Senr. Original Senate journals now prove Benjamin Selby's January 1834 appointment as Auditor of Public Accounts, his Senate confirmation, and Harry I. Bodley's January 1846 appointment in place of Ben. Selby, deceased. A contemporaneous Missouri reprint attributes to the Frankfort *Commonwealth* the death of Benjamin Selby, Auditor of State, on 25 May 1845. These records independently verify the reported father's office and death, but none states that the younger Benjamin was his son. The modern Kentucky Auditor chronology is contradicted by the originals; the 1851 librarian identity remains unresolved. Hon. Benjamin -> Lingan Wilson Selby remains unproved. A 1809 Adair power of attorney strongly identifies the Adair Lingan as William Magruder Selby's named son, but no Adair estate, deed, tax, or court record bridges Lingan to Hon. Benjamin.
 
@@ -139,6 +139,8 @@ Use the Genealogical Proof Standard:
 - [[James Benjamin Sanford Selby was son of Frederick P Selby and Elizabeth Dolan]]
 - [[Frank P Selby in 1900 is strongly identified as Frederick Payne Selby]]
 - [[James B Selby named as Frederick E Selbys father is strongly identified as James Benjamin Sanford Selby]]
+- [[Sarah E Stafford and Evelyn Stafford were Sarah Eveline Stafford]]
+- [[Sarah Eveline Stafford was daughter of Ethelred H Stafford and Fannie B Coe]]
 - [[Sophia E Stone is strongly identified as Docia Stone wife of Benjamin Selby]]
 - [[Ben Selby of Eminence was reportedly son of Hon Benjamin Selby]]
 - [[Benjamin Selby married Lucy S Hunter in 1844]]
@@ -167,6 +169,10 @@ Use the Genealogical Proof Standard:
 - [[FamilySearch - James Benjamin Sanford Selby 1886 Orleans birth index]]
 - [[FamilySearch - James Benjamin Sanford Selby 1910 Orleans marriage license image]]
 - [[FamilySearch - James B Selby 1938 Orleans death index]]
+- [[FamilySearch - Frederick Ethelred Selby NUMIDENT record]]
+- [[FamilySearch - Sarah Eveline Stafford 1890 Orleans birth index]]
+- [[FamilySearch - Eveline S Stafford 1900 US census image]]
+- [[FamilySearch - Eveline Stafford 1910 US census image]]
 - [[Thomas Rule linked the 1815 Bourbon survey network to Nicholas County land in 1817]]
 - [[FamilySearch - Thomas Rule 1817 Nicholas County Haws survey deeds]]
 - [[FamilySearch - Burns 1936 Nicholas deed abstract 1796-1818]]
@@ -252,7 +258,8 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 
 ## Next actions
 
-- [ ] Obtain Frederick E. Selby's birth record or a 1920 household record naming both parents; use it to test the strong James Benjamin Sanford Selby identity
+- [x] Identify Frederick E. Selby with both parents; his NUMIDENT entry names him Frederick Ethelred Selby and reports James B. Selby and Sarah E. Stafford, while the 1920 record found for Sarah lists her as a divorced niece and does not name Frederick
+- [ ] Obtain Frederick Ethelred Selby's original Mississippi birth record and Sarah Eveline Stafford's restricted Orleans birth certificate no. 913
 - [ ] Obtain the original 1886 James birth record and independently transcribe the 1910 marriage parent fields
 - [ ] Locate Frederick Payne Selby's death record, obituary, or city-directory sequence that resolves the Frank/Frederick name variation
 - [ ] Resolve Sophia E. Stone and Docia Stone through a direct alias, death, obituary, deed, or probate record
@@ -299,6 +306,8 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 - [ ] Retrieve the later Charles Parker estate's 1790 account or distribution from JW 21, 1793 second inventory from LH 2, and Orphans Court proceedings; transcribe distribution and later-identity statements
 
 ## Change log
+
+- 2026-08-21 - Returned to the modern historical bridge. Frederick Ethelred Selby's NUMIDENT entry supplies his exact full name and explicitly names James B. Selby and Sarah E. Stafford as his parents. Sarah's official 1890 birth index gives the combined name Sarah Eveline Stafford and parents Ethelred H. Stafford and Fannie B. Coe; original 1900 and 1910 census images and the original July 1910 marriage record correlate Eveline or Evelyn with the later Sarah E. Stafford or Selby. The Frederick-to-James-and-Sarah link and Sarah's immediate parentage are now confirmed. The 1920 Sarah entry names her as a divorced niece but does not include Frederick. The living user-to-Frederick bridge and every older unresolved identity remain outside this conclusion.
 
 - 2026-08-21 - Reviewed *Early Yorkshire Charters* III pages 60-62, Pipe Roll 1 Richard I page 61, and *Coucher Book of Selby* II page 296. The Pipe Roll twice calls Adam Guy de Ver's son-in-law, while Nicholas de Chavencurt's charter twice calls Gundreda de Ver his wife. These are now separate strong claims. Farrer's page-61 pedigree joins those facts by identifying Gundreda as Guy's daughter, Adam's wife, and Walter's mother, but its reviewed underlying records leave Guy's daughter unnamed and do not connect Gundreda to Adam or Walter. Gundreda's maternity therefore remains tentative; no medieval relationship was merged into the documented Selby line.
 

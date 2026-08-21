@@ -23,12 +23,14 @@ The original marriage-record image was opened and reviewed with its attached Fam
 
 This is a digitized image of an official marriage record paired with its record-level index. The full-name groom, parent pair, age, date, and Orleans locality agree with the 1886 birth index and 1938 death index. Because the handwriting was small in the available viewer, the attached index was used for the exact parent-name transcription; a higher-resolution independent manuscript transcription remains desirable.
 
-The record does not itself prove that the groom's wife Evelyn was the later Sarah E. Stafford or Sarah E. Selby, and it does not establish the groom's grandparents.
+The record does not by itself prove that the groom's wife Evelyn was the later Sarah E. Stafford or Sarah E. Selby. That identity is established only through correlation with the full-name 1890 birth index, original census images, Frederick's later records, and [[Sarah E Stafford and Evelyn Stafford were Sarah Eveline Stafford]]. The marriage record does not establish the groom's grandparents.
 
 ## Claims supported
 
 - [[James Benjamin Sanford Selby was son of Frederick P Selby and Elizabeth Dolan]]
 - [[James B Selby named as Frederick E Selbys father is strongly identified as James Benjamin Sanford Selby]]
+- [[Sarah E Stafford and Evelyn Stafford were Sarah Eveline Stafford]]
+- [[Sarah Eveline Stafford was daughter of Ethelred H Stafford and Fannie B Coe]]
 
 ## Claims contradicted
 

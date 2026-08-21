@@ -17,7 +17,8 @@ Audit Frederick Payne Selby as a historical anchor, prove each adjacent generati
 
 | Link | Status | Evidence boundary |
 |---|---|---|
-| Frederick E. Selby -> James B. Selby | Directly reported; full-name identity strong | Frederick's reviewed 1953 marriage license names deceased father James B. Selby. Correlation with the 1910 James Benjamin Sanford Selby marriage and 1938 death index is strong, but a birth record or child-naming probate record remains desirable. |
+| Frederick Ethelred Selby -> James Benjamin Sanford Selby and Sarah Eveline Stafford | Confirmed | Frederick's reviewed 1953 marriage license names James B. and Sarah E. Selby as his parents. His independent NUMIDENT entry supplies his exact full name and repeats James B. Selby and Sarah E. Stafford as the parent pair. Sarah's 1890 full-name birth index and 1900-1910 original records reconcile Sarah with Evelyn, wife of full-name James Benjamin Sanford Selby. |
+| Sarah Eveline Stafford -> Ethelred H. Stafford and Fannie B. Coe | Confirmed | Sarah's official 1890 birth index directly names both parents. The 1900 and 1910 original census images and the 1910 original marriage record independently repeat the family group, age, locality, and parent pair. The restricted original birth certificate remains desirable. |
 | James Benjamin Sanford Selby -> Frederick P. Selby and Elizabeth Dolan | Strong | The 1886 birth index, 1910 marriage record, and 1938 death index independently repeat the same parent pair. The original birth image remains unavailable. |
 | Frederick P. or Frank P. Selby -> Frederick Payne Selby | Strong identity correlation | The 1884 marriage, 1886 birth, 1900 census household, 1910 marriage, and 1938 death records agree on spouse, child, chronology, and Orleans locality. No reviewed record explicitly equates Frank with Frederick. |
 | Frederick Payne Selby -> Benjamin Selby and Docia Stone | Confirmed | Frederick's reviewed 1884 marriage license directly names both parents; the 1880 census independently places Ben with son Payne. |
@@ -35,6 +36,12 @@ Audit Frederick Payne Selby as a historical anchor, prove each adjacent generati
 - [[James Benjamin Sanford Selby was son of Frederick P Selby and Elizabeth Dolan]]
 - [[Frank P Selby in 1900 is strongly identified as Frederick Payne Selby]]
 - [[James B Selby named as Frederick E Selbys father is strongly identified as James Benjamin Sanford Selby]]
+- [[FamilySearch - Frederick Ethelred Selby NUMIDENT record]]
+- [[FamilySearch - Sarah Eveline Stafford 1890 Orleans birth index]]
+- [[FamilySearch - Eveline S Stafford 1900 US census image]]
+- [[FamilySearch - Eveline Stafford 1910 US census image]]
+- [[Sarah E Stafford and Evelyn Stafford were Sarah Eveline Stafford]]
+- [[Sarah Eveline Stafford was daughter of Ethelred H Stafford and Fannie B Coe]]
 - [[Sophia E Stone is strongly identified as Docia Stone wife of Benjamin Selby]]
 - [[Armstrong 1878 - Ben Selby biographical sketch]]
 - [[Courier-Journal - Col Ben Selby 1883 interview]]
@@ -80,12 +87,15 @@ Audit Frederick Payne Selby as a historical anchor, prove each adjacent generati
 
 ## Upstream result
 
-Frederick Payne is a useful verified historical anchor because his 1884 original marriage license names his parents. The confirmed paternal chain reaches Benjamin Selby and Docia Stone. On Docia's side, the strong Sophia-to-Docia identity correlation provisionally reaches one generation farther to Sophia Bryan, whose 1854 consent directly calls Sophia Stone her daughter. On Benjamin's side, a period biography reports his father as an older Hon. Benjamin Selby, but that relationship remains moderate because no original parent-child record has been found. The 1845 tax list independently establishes senior and junior Benjamin entries, while original Senate journals and a contemporaneous newspaper reprint verify the elder public official's 1834 auditor appointment and 25 May 1845 death. None supplies kinship language. This finding does not prove that Frederick Payne is the user's ancestor until every private modern parent-child link down to the user is separately documented.
+Frederick Ethelred Selby's historical parent pair is now confirmed as James Benjamin Sanford Selby and Sarah Eveline Stafford. The full-name NUMIDENT entry independently repeats James B. Selby and Sarah E. Stafford, while Sarah's full-name 1890 birth index and original 1900-1910 records resolve the former Sarah/Evelyn conflict. Sarah's parentage extends the documented maternal branch one generation to Ethelred H. Stafford and Fannie B. Coe. This Stafford surname does not imply any connection to the separately researched medieval Stafford family.
+
+Frederick Payne remains a useful verified historical anchor because his 1884 original marriage license names his parents. The confirmed paternal chain reaches Benjamin Selby and Docia Stone. On Docia's side, the strong Sophia-to-Docia identity correlation provisionally reaches one generation farther to Sophia Bryan, whose 1854 consent directly calls Sophia Stone her daughter. On Benjamin's side, a period biography reports his father as an older Hon. Benjamin Selby, but that relationship remains moderate because no original parent-child record has been found. The 1845 tax list independently establishes senior and junior Benjamin entries, while original Senate journals and a contemporaneous newspaper reprint verify the elder public official's 1834 auditor appointment and 25 May 1845 death. None supplies kinship language. These historical findings do not prove that Frederick Ethelred or Frederick Payne is the user's ancestor until every private modern parent-child link down to the user is separately documented.
 
 The current connected upstream stop is the younger Benjamin Selby's reported father, Hon. Benjamin Selby, at moderate confidence. The tree's next assignment to Lingan Wilson Selby is unsupported by a relationship-bearing source and derives in part from an old email note. Original review confirms Lingan's 1821 Adair estate in Will Book B, page 99. Order Book D proves that Benjamin Selby was granted administration on 5 February 1821, and a second order directly calls Mary Selby Lingan's widow on 2 July 1821. The original order index now confirms that the recorded estate sequence contains only four actions at D:213 and D:238-239; it supplies no sale, settlement, distribution, heir, partition, guardianship, or relationship statement. The early Circuit Court index also yielded no Lingan entry. The Selby deed indexes expose no Lingan-to-Benjamin conveyance. Kentucky's retention schedule leaves a material archival gap because pre-1870 unbound settlement files may contain family information omitted from the recorded books. The 1809 power of attorney strongly identifies Adair's Lingan as William Magruder Selby's named son, but that older relationship remains disconnected from Hon. Benjamin until a relationship-bearing record is found.
 
 ## Identity cautions
 
+- Sarah E. Stafford or Selby and Eveline or Evelyn Stafford are now confirmed as Sarah Eveline Stafford through the full-name birth entry and correlated original records. The restricted 1890 birth image is still needed for an independent transcription of certificate no. 913.
 - Sophia E. Stone and Docia Stone are strongly identified within one Benjamin Selby family chronology, but no reviewed record expressly equates the two given names.
 - Major Selby to the younger Benjamin remains unsupported and is contradicted by stronger period evidence naming Hon. Benjamin as the father. The 1833 Nicholas County will names Henry and Polly but not Benjamin.
 - Elizabeth McClain is a candidate mother only; her 1811 marriage to the elder Benjamin does not prove maternity.
@@ -96,14 +106,15 @@ The current connected upstream stop is the younger Benjamin Selby's reported fat
 
 ## Next proof targets
 
-1. Obtain Frederick E. Selby's birth record or a 1920 household record naming both parents.
-2. Obtain the original 1886 James birth record and independently transcribe the 1910 marriage parent fields.
-3. Locate Frederick Payne Selby's death record, obituary, or city-directory sequence to resolve the Frank/Frederick name variation.
-4. Resolve Sophia E. Stone and Docia Stone through a direct alias, death, obituary, deed, or probate record.
-5. Retrieve the original Frankfort *Commonwealth* issue following 25 May 1845 and search adjacent *Commonwealth*, *Daily Commonwealth*, and *Yeoman* issues for a fuller obituary or family notice; then pursue unbound Franklin estate or civil files. The exact death date and auditor succession are now documented, while the expanded will, settlement, bond, guardianship, order-book, and legislative searches remain negative for relationship language.
-6. Submit the drafted Adair/KDLA request for Lingan's administration bond, unbound estate-settlement file, sale bill, widow-allotment return, distribution, guardianship material, and related civil case file; no order or fee has been submitted.
-7. Follow the 1809 Prince George's County land authority and Maryland collateral probate downward for an explicit son, heir, or relative named Benjamin.
-8. Continue the younger Benjamin's political-disability petition request behind private act chapter 171 of 3 March 1871 as an identity and biography source, not as a presumed parentage record.
+1. Obtain Frederick Ethelred Selby's original Mississippi birth record; the NUMIDENT entry has already supplied his exact full name and both parents.
+2. Obtain Sarah Eveline Stafford's restricted Orleans birth certificate no. 913 and her death or obituary record.
+3. Obtain the original 1886 James birth record and independently transcribe the 1910 marriage parent fields.
+4. Locate Frederick Payne Selby's death record, obituary, or city-directory sequence to resolve the Frank/Frederick name variation.
+5. Resolve Sophia E. Stone and Docia Stone through a direct alias, death, obituary, deed, or probate record.
+6. Retrieve the original Frankfort *Commonwealth* issue following 25 May 1845 and search adjacent *Commonwealth*, *Daily Commonwealth*, and *Yeoman* issues for a fuller obituary or family notice; then pursue unbound Franklin estate or civil files. The exact death date and auditor succession are now documented, while the expanded will, settlement, bond, guardianship, order-book, and legislative searches remain negative for relationship language.
+7. Submit the drafted Adair/KDLA request for Lingan's administration bond, unbound estate-settlement file, sale bill, widow-allotment return, distribution, guardianship material, and related civil case file; no order or fee has been submitted.
+8. Follow the 1809 Prince George's County land authority and Maryland collateral probate downward for an explicit son, heir, or relative named Benjamin.
+9. Continue the younger Benjamin's political-disability petition request behind private act chapter 171 of 3 March 1871 as an identity and biography source, not as a presumed parentage record.
 
 ## Accuracy boundary
 

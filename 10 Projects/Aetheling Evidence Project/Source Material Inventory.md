@@ -130,6 +130,10 @@ The 2026-08-21 [[Walter de Ver and Sibilla Source Audit - 2026-08-21]] adds the 
 - [[DNB 1895 - Edward III]] — independent published historical biography.
 - [[Wayfarers Tome Fact and Source Inventory]] — imported source ledger for the public tome, including public URLs and vault-only source labels.
 - [[Research Lead Sweep - 2026-07-28]] — targeted lead log for Major Selby, Etheldred Peters, and Frederick Ethelred Selby.
+- [[FamilySearch - Frederick Ethelred Selby NUMIDENT record]] - official federal index naming Frederick's exact full name and both parents; no image is available.
+- [[FamilySearch - Sarah Eveline Stafford 1890 Orleans birth index]] - official birth-record index supplying Sarah's full name, exact date, and parent pair; the certificate image is restricted.
+- [[FamilySearch - Eveline S Stafford 1900 US census image]] - visually reviewed original census image placing March 1890-born Eveline S. with Fannie in the Stafford household.
+- [[FamilySearch - Eveline Stafford 1910 US census image]] - visually reviewed original census image placing single Eveline with Ethelred H. and Fanny shortly before her July marriage.
 
 ## Proven historical context
 
@@ -172,13 +176,13 @@ The following project topics remain unproven because the vault contains no ident
 - any Plantagenet or other connection to the royal house of Wessex;
 - any inference that the name “Ethelred” or the word “Aetheling” demonstrates descent;
 - any lineage involving Haskins or related families;
-- biographical claims about Frederic Ethelred Selby beyond what future reliable records establish.
+- biographical claims about Frederick Ethelred Selby beyond the documented identity, dates, places, spouse, and immediate-parent relationships in the cited official records.
 
 Exact-name web and catalogue searches performed on 2026-07-27 did not locate a reliable record that identifies Frederic or Frederick Ethelred Selby. This negative search result is not evidence that the person did not exist; it means no person note or biographical claim can yet be responsibly created.
 
 Follow-up exact-phrase searches on 2026-07-27 for "Frederic Ethelred Selby" and "Frederick Ethelred Selby," including a National Archives catalogue-domain query, likewise produced no reliable record identifying one person. Search results that merely contained the separate terms "Selby" and "Ethelred" were excluded as non-identifying. This was a research-log observation, not evidence of non-existence.
 
-This Frederick/Frederic negative-search note was partly superseded on 2026-07-28 by [[Frederick Ethelred Selby 1911-1992 research lead]], which identifies an exact public indexed candidate. The candidate still needs source-image verification and does not establish military, intelligence, lineage, or project-family claims.
+This Frederick/Frederic negative-search note was superseded first by [[Frederick Ethelred Selby 1911-1992 research lead]] and now by [[FamilySearch - Frederick Ethelred Selby NUMIDENT record]], which supplies the exact full name and both parents. Original census and marriage images independently support the historical identity and parentage. These records do not establish military or intelligence claims, the user's private descent, or any colonial or medieval connection.
 
 The 2022 *Dictionary of American Family Names* entry for Haskins supplies multiple possible linguistic origins. Because no identity-specific project evidence selects among them, no Haskins surname-origin claim is treated as established in this vault.
 

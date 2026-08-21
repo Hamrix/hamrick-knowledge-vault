@@ -1,9 +1,9 @@
 ---
 type: claim
 status: active
-confidence: strong
+confidence: confirmed
 privacy: internal
-last-reviewed: 2026-08-03
+last-reviewed: 2026-08-21
 ---
 
 # Frederick E. Selby was enumerated as Sarah E. Stafford's son in 1930
@@ -30,12 +30,12 @@ No conflicting evidence was reviewed in this batch.
 
 The source directly proves the enumeration statement and is useful baseline evidence for the Frederick Ethelred Selby research lead. It is deliberately phrased as a census-record fact: the page reports a son relationship, rather than independently proving biological maternity.
 
-It does not identify Frederick's father, prove that Frederick E. is the same person as every later Frederick Ethelred Selby record, or bridge this household to Major Selby, colonial Selby people, medieval Staffords, or any royal line.
+It does not by itself identify Frederick's father or bridge this household to Major Selby, colonial Selby people, medieval Staffords, or any royal line. [[FamilySearch - Frederick Ethelred Selby NUMIDENT record]] and the 1953 marriage license now provide the separate identity and parentage correlation.
 
 ## Confidence rationale
 
-`strong`: the original schedule visibly reports the relationship, but a complete identity and parentage conclusion should correlate additional civil, census, and death records.
+`confirmed`: the claim is limited to what the original schedule visibly reports, and the same relationship is independently repeated in the NUMIDENT record and 1953 marriage license.
 
 ## Next research action
 
-Correlate the 1940 and 1950 census images, the 1953 marriage record, and the Social Security death record. Seek a birth, death, or obituary record that expressly names both parents before making a modern parentage conclusion.
+Obtain Frederick's Mississippi birth record as an additional contemporary parentage source.
