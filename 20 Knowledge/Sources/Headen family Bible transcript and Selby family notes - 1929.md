@@ -5,7 +5,7 @@ repository: FamilySearch digital collection / original custodian unidentified
 reference: "Selby Family Notes (1929), G006169.pdf, 18 PDF pages"
 date: 1929
 accessed: 2026-08-08
-last-reviewed: 2026-08-14
+last-reviewed: 2026-08-20
 privacy: internal
 project: Aetheling Evidence Project
 ---
@@ -32,6 +32,10 @@ The publication supplies the following leads for future record searches. They ar
 ## Reliability and limitations
 
 This is a 1929 derivative compilation containing family testimony, a DAR application, correspondence, historical excerpts, and a typed Bible transcript. Those components are not independent corroboration of one another when they repeat the same family account. The original Bible, its title page, binding, handwriting, custody, and full family-register context have not been inspected. The reported marriage is sourced but unverified; the Yorkshire origin, immigration implication, and death details remain tradition or research leads rather than proof. The English heraldic and Biddleston material does not connect William or any American Selby to that family.
+
+## Biddlesden comparison lead
+
+The 1904 [[The Genealogist Volume 20 - 1904]] reports on printed page 254 that an Elizabeth, wife of John Lawson, was daughter of Thomas William Selby, Esq., of Biddlesden. This is a specific English lead, but the later pedigree gives no bridge to William Atkinson Selby or Maryland. The similar Biddleston or Biddlesden context in this 1929 booklet does not make the two derivative publications independent proof of an American-to-English connection.
 
 ## File integrity
 

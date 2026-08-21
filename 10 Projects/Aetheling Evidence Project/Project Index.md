@@ -45,6 +45,8 @@ The continued upstream review preserves the explicit 1878 report that the younge
 
 The 2026-08-20 [[Side Research Ingestion - 2026-08-20|side-research ingestion]] accessioned a 1904 compiled Peters genealogy and verified its relevant pages. The book documents that a Liverpool Peters noble-house tradition was published, but it supplies no pedigree proving the connection and does not mention Etheldred or Ethelred Peters, Stafford, Chaney, or Cheney. It cannot support the submitted Peters-to-Stafford bridge. The 1929 Selby booklet was already accessioned and the supplied copy is byte-for-byte identical, so it adds no independent corroboration. No people or lineage segments were merged.
 
+The same-day review of [[The Genealogist Volume 20 - 1904]] separates two easily conflated references. Massingberd's medieval Ver article uses Selby for Selby Abbey and supplies no Selby-surname relationship or descent from the great house of Vere. A separate Lawson pedigree reports Thomas William Selby of Biddlesden as Elizabeth Lawson's father, creating a specific but derivative English lead with no present connection to Maryland or the user's ancestry.
+
 ## Workstreams
 
 - Modern documented lineage
@@ -111,12 +113,15 @@ Use the Genealogical Proof Standard:
 - [[Side Research Ingestion - 2026-08-20]]
 - [[A 1904 Peters genealogy reported an unproved Lord Petrie connection]]
 - [[Etheldred Peters parentage remains unproven]]
+- [[Massingberds 1904 Ver article uses Selby for Selby Abbey not a Selby surname lineage]]
+- [[A 1904 Lawson pedigree reports Elizabeth as daughter of Thomas William Selby of Biddlesden]]
 - [[William Selby in Thomas Outten will abstract - 1725-1726]]
 - [[Wayfarers Tome Fact and Source Inventory]]
 - [[Wayfarers Tome Session Backup - 2026-07-28]]
 - [[Aetheling Evidence Release 0.9 Integration - 2026-08-08]]
 - [[Black 1904 - Richard Peters ancestors and descendants]]
 - [[Headen family Bible transcript and Selby family notes - 1929]]
+- [[The Genealogist Volume 20 - 1904]]
 - [[Frederick Payne Selby Upstream Proof - 2026-08-14]]
 - [[James Benjamin Sanford Selby was son of Frederick P Selby and Elizabeth Dolan]]
 - [[Frank P Selby in 1900 is strongly identified as Frederick Payne Selby]]
@@ -268,6 +273,7 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 - [ ] Retrieve the original 1794 Stephen Stafford-Elizabeth Peters marriage record and the cited Stafford wills before creating any Stafford-Peters parent-child chain
 - [ ] Identify the exact Burke edition and original heraldic or probate evidence behind the 1904 "Lord Petrie" tradition; do not infer a Petre descent from arms or motto alone
 - [ ] Continue Etheldred Peters's Craven record sequence without attaching him to William Peters or a Stafford line absent relationship-level evidence
+- [ ] Identify and retrieve the original records behind the 1904 Thomas William Selby of Biddlesden father-daughter report before comparing that English family with the 1929 booklet's Biddleston tradition
 - [ ] Retrieve the Nancy-administered Parker estate's 25 August 1791 inventory, 30 November 1793 third account, and 1 November 1793 distribution; seek names of heirs and a direct statement of Nancy's relationship to Parker
 - [x] Retrieve Charles Parker's 1761 bond and inventory and 1788 bond and inventory; record administrators, bond parties, kin, and nearest kin without assigning unstated relationships
 - [x] Retrieve Charles Parker's 1787 will and record its direct wife, child, executor, and witness statements
@@ -275,6 +281,8 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 - [ ] Retrieve the later Charles Parker estate's 1790 account or distribution from JW 21, 1793 second inventory from LH 2, and Orphans Court proceedings; transcribe distribution and later-identity statements
 
 ## Change log
+
+- 2026-08-20 - Accessioned and reviewed *The Genealogist*, New Series, volume 20 (1904). Full-page review of Massingberd's "Ver of Bottesford" article shows that its Selby references concern Selby Abbey, not a Selby-surnamed family; the article notes a boar cognizance but gives no descent from the great house of Vere and itself leaves Walter de Ver's parentage unresolved. A separate page-254 Lawson pedigree names Thomas William Selby of Biddlesden as Elizabeth Lawson's father. That report is retained as a tentative English lead only, with no Maryland or modern-family bridge.
 
 - 2026-08-20 - Ingested the user-supplied side-research batch under the vault's evidence standard. The 1929 Selby booklet is byte-identical to the already accessioned copy. Accessioned and visually reviewed Nellie Peters Black's 1904 compiled genealogy, recorded its internal conflict over William Peters's first wife, and confirmed only that it published an unproved "Lord Petrie" tradition. A full-book text search found no Etheldred/Ethelred, Stafford, Chaney, or Cheney reference, so the book cannot support the submitted Peters-to-Stafford chain. Existing atomic Selby relationships were preserved without bridging their unresolved identity gaps; no people were merged.
 
