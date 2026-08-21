@@ -31,6 +31,8 @@ The volume is a secondary publication. Massingberd cites medieval record edition
 - The two displayed pedigrees include Gilbert as a monk at Selby or, in Laurent's version, abbot of Selby from 1179 to 1189.
 - Printed page 74 says the sacristan and convent of Selby were responsible for Gilbert's anniversary and reports Guy de Ver's charter confirming his father's gift to Selby. In every one of these passages, **Selby is the abbey or convent**, not a person surnamed Selby.
 - Massingberd explicitly leaves unresolved whether Walter de Ver was the second Guy's son or his grandson through Guy's daughter and Adam de Gousel.
+- Printed page 74, footnote 5, says Laurent reported that Walter de Ver married Sibilla de Kyme, citing Harleian MS 301, folio 171b.
+- Printed page 75 reports that in 1219-1220 Nicholas de Schauencurt and Sibilla his wife claimed land in Gousel as Sibilla's dower from the free tenement of Walter de Ver, formerly her husband. This explicit marital description is cited to *Final Concords, Lincoln*, page 150.
 - Printed page 74 uses the spelling "Walter de Vere" once while the article otherwise normally uses Ver or Veer. A spelling variation does not establish identity with the earls of Oxford.
 - Printed page 77 says a seal attributed to Simon de Ver bore a boar's head and observes that the cognizance of the "great house of Vere" was a boar. The article does not supply a pedigree connecting the Bottesford Ver family to that house.
 
@@ -46,6 +48,8 @@ A full OCR-assisted volume search located eleven `Selby` occurrences. Apart from
 
 The Ver article is useful because it identifies concrete medieval record targets and distinguishes competing pedigrees rather than pretending the conflict is solved. It does not document a Selby-surname relationship to the Ver family, a descent from the great house of Vere, or a connection to the earls of Oxford.
 
+The two Sibilla references provide converging record-based support for her marriage to Walter and subsequent marriage to Nicholas. They remain secondary reports until Harleian MS 301 and the cited final concord are directly reviewed. The marriage evidence does not resolve Walter's parentage.
+
 The Thomas William Selby statement is a derivative pedigree report. No original marriage, will, parish register, or probate record supporting that father-daughter statement was supplied on the reviewed page. Even if independently verified, it would establish only that English family unit; it would not connect Thomas William Selby to William Atkinson Selby or the Maryland line.
 
 The title page identifies H. W. Forsyth Harwood as editor. Editorship and catalog attribution are bibliographic facts, not evidence that an editor or contributor belongs in the user's pedigree.
@@ -53,6 +57,7 @@ The title page identifies H. W. Forsyth Harwood as editor. Editorship and catalo
 ## Claims supported
 
 - [[Massingberds 1904 Ver article uses Selby for Selby Abbey not a Selby surname lineage]]
+- [[Walter de Ver was husband of Sibilla de Kyme]]
 - [[A 1904 Lawson pedigree reports Elizabeth as daughter of Thomas William Selby of Biddlesden]]
 
 ## Claims contradicted

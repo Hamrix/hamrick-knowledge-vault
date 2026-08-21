@@ -45,7 +45,7 @@ The continued upstream review preserves the explicit 1878 report that the younge
 
 The 2026-08-20 [[Side Research Ingestion - 2026-08-20|side-research ingestion]] accessioned a 1904 compiled Peters genealogy and verified its relevant pages. The book documents that a Liverpool Peters noble-house tradition was published, but it supplies no pedigree proving the connection and does not mention Etheldred or Ethelred Peters, Stafford, Chaney, or Cheney. It cannot support the submitted Peters-to-Stafford bridge. The 1929 Selby booklet was already accessioned and the supplied copy is byte-for-byte identical, so it adds no independent corroboration. No people or lineage segments were merged.
 
-The same-day review of [[The Genealogist Volume 20 - 1904]] separates two easily conflated references. Massingberd's medieval Ver article uses Selby for Selby Abbey and supplies no Selby-surname relationship or descent from the great house of Vere. A separate Lawson pedigree reports Thomas William Selby of Biddlesden as Elizabeth Lawson's father, creating a specific but derivative English lead with no present connection to Maryland or the user's ancestry.
+The same-day review of [[The Genealogist Volume 20 - 1904]] separates two easily conflated references. Massingberd's medieval Ver article uses Selby for Selby Abbey and supplies no Selby-surname relationship or descent from the great house of Vere. Within that Ver cluster, a manuscript citation and a 1219-1220 dower action moderately support Walter de Ver as Sibilla de Kyme's former husband, while Walter's parentage remains unresolved. A separate Lawson pedigree reports Thomas William Selby of Biddlesden as Elizabeth Lawson's father, creating a specific but derivative English lead with no present connection to Maryland or the user's ancestry.
 
 ## Workstreams
 
@@ -114,6 +114,7 @@ Use the Genealogical Proof Standard:
 - [[A 1904 Peters genealogy reported an unproved Lord Petrie connection]]
 - [[Etheldred Peters parentage remains unproven]]
 - [[Massingberds 1904 Ver article uses Selby for Selby Abbey not a Selby surname lineage]]
+- [[Walter de Ver was husband of Sibilla de Kyme]]
 - [[A 1904 Lawson pedigree reports Elizabeth as daughter of Thomas William Selby of Biddlesden]]
 - [[William Selby in Thomas Outten will abstract - 1725-1726]]
 - [[Wayfarers Tome Fact and Source Inventory]]
@@ -282,7 +283,7 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 
 ## Change log
 
-- 2026-08-20 - Accessioned and reviewed *The Genealogist*, New Series, volume 20 (1904). Full-page review of Massingberd's "Ver of Bottesford" article shows that its Selby references concern Selby Abbey, not a Selby-surnamed family; the article notes a boar cognizance but gives no descent from the great house of Vere and itself leaves Walter de Ver's parentage unresolved. A separate page-254 Lawson pedigree names Thomas William Selby of Biddlesden as Elizabeth Lawson's father. That report is retained as a tentative English lead only, with no Maryland or modern-family bridge.
+- 2026-08-20 - Accessioned and reviewed *The Genealogist*, New Series, volume 20 (1904). Full-page review of Massingberd's "Ver of Bottesford" article shows that its Selby references concern Selby Abbey, not a Selby-surnamed family; the article notes a boar cognizance but gives no descent from the great house of Vere and itself leaves Walter de Ver's parentage unresolved. A cited manuscript and a 1219-1220 dower action moderately support Walter as husband of Sibilla de Kyme, but the underlying records remain unreviewed. A separate page-254 Lawson pedigree names Thomas William Selby of Biddlesden as Elizabeth Lawson's father. That report is retained as a tentative English lead only, with no Maryland or modern-family bridge.
 
 - 2026-08-20 - Ingested the user-supplied side-research batch under the vault's evidence standard. The 1929 Selby booklet is byte-identical to the already accessioned copy. Accessioned and visually reviewed Nellie Peters Black's 1904 compiled genealogy, recorded its internal conflict over William Peters's first wife, and confirmed only that it published an unproved "Lord Petrie" tradition. A full-book text search found no Etheldred/Ethelred, Stafford, Chaney, or Cheney reference, so the book cannot support the submitted Peters-to-Stafford chain. Existing atomic Selby relationships were preserved without bridging their unresolved identity gaps; no people were merged.
 
