@@ -3,7 +3,7 @@ type: claim
 status: active
 confidence: moderate
 privacy: internal
-last-reviewed: 2026-08-20
+last-reviewed: 2026-08-21
 ---
 
 # Walter de Ver was husband of Sibilla de Kyme
@@ -20,12 +20,13 @@ Walter de Ver of the Bottesford, Goxhill, and Sproatley family was husband of Si
 
 ## Evidence supporting
 
-- [[The Genealogist Volume 20 - 1904]], printed page 74, footnote 5: Massingberd says Rev. F. Laurent reported that Walter de Ver married Sibilla de Kyme, citing Harleian MS 301, folio 171b.
-- The same article, printed page 75: a 1219-1220 action says Nicholas de Schauencurt and Sibilla his wife claimed land in Gousel as Sibilla's dower from the free tenement of Walter de Ver, formerly her husband. Massingberd cites *Final Concords, Lincoln*, page 150.
+- [[Lincolnshire final concord CP 25-1-128-15 no 8 - 1220]] directly proves that Sibilla, wife of Nicholas de Schauencurt, was formerly wife of Walter de Ver. The original record does not call her `de Kyme`.
+- [[The Genealogist Volume 20 - 1904]], printed page 74, footnote 5: Massingberd says Rev. F. Laurent reported that Walter married Sibilla de Kyme, citing Harleian MS 301, folio 171b.
+- [[Catalogue of the Harleian Manuscripts Volume 1 - Harley MS 301]] establishes that the cited manuscript is an early modern Exchequer-record transcript collection. Folio 171b remains unreviewed.
 
 ## Evidence against
 
-No reviewed evidence contradicts the spousal relationship. The underlying manuscript and final concord have not yet been inspected directly.
+No reviewed evidence contradicts the spousal relationship. The direct concord proves the relationship to a Sibilla, but no directly reviewed record identifies that Sibilla as `de Kyme`.
 
 ## Conflicts
 
@@ -35,14 +36,14 @@ The article's occasional `de Vere` spelling and its later comparison of a boar s
 
 ## Analysis
 
-The dower language is relationship-bearing: it identifies Sibilla as Walter's former wife and as Nicholas's then wife. Laurent's separate manuscript citation is consistent with that statement. Because both are presently known through Massingberd's secondary article rather than direct review of the underlying records, the relationship is retained at moderate confidence.
+The claim contains two components with different evidentiary strength. The Walter-Sibilla-Nicholas marital sequence is strong and is now preserved separately in [[Sibilla wife of Nicholas de Schauencurt was formerly wife of Walter de Ver]]. The identification of this Sibilla as `de Kyme` remains dependent on Massingberd's report of Harley MS 301, folio 171b.
 
 This relationship belongs only to the medieval Ver research cluster. It does not create a connection to a Selby-surnamed person, the Maryland Selby line, or the user's proven ancestry.
 
 ## Confidence rationale
 
-**Moderate:** two cited record-based statements converge on the marriage, including explicit dower language, but neither underlying record has been directly reviewed in this project.
+**Moderate:** the marriage core is directly proved, but the full claim specifically identifies Sibilla as `de Kyme`, and that name remains unverified in the cited manuscript or another directly reviewed record.
 
 ## Next research action
 
-Retrieve and transcribe the cited 1219-1220 Lincolnshire final concord and Harleian MS 301, folio 171b. Confirm the exact names, land, dates, marital sequence, and Walter identity before upgrading the claim or extending either spouse's ancestry.
+Retrieve and transcribe Harley MS 301, folio 171b. Inspect *Curia Regis Rolls* VII, especially pages 1, 18-19, 131, 160, 177, and 250, for any direct `de Kyme` styling and family relationships before upgrading the full claim.

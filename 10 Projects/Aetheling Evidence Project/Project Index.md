@@ -2,7 +2,7 @@
 type: project
 status: active
 privacy: internal
-last-reviewed: 2026-08-20
+last-reviewed: 2026-08-21
 ---
 
 # Aetheling Evidence Project
@@ -45,7 +45,7 @@ The continued upstream review preserves the explicit 1878 report that the younge
 
 The 2026-08-20 [[Side Research Ingestion - 2026-08-20|side-research ingestion]] accessioned a 1904 compiled Peters genealogy and verified its relevant pages. The book documents that a Liverpool Peters noble-house tradition was published, but it supplies no pedigree proving the connection and does not mention Etheldred or Ethelred Peters, Stafford, Chaney, or Cheney. It cannot support the submitted Peters-to-Stafford bridge. The 1929 Selby booklet was already accessioned and the supplied copy is byte-for-byte identical, so it adds no independent corroboration. No people or lineage segments were merged.
 
-The same-day review of [[The Genealogist Volume 20 - 1904]] separates two easily conflated references. Massingberd's medieval Ver article uses Selby for Selby Abbey and supplies no Selby-surname relationship or descent from the great house of Vere. Within that Ver cluster, a manuscript citation and a 1219-1220 dower action moderately support Walter de Ver as Sibilla de Kyme's former husband, while Walter's parentage remains unresolved. A separate Lawson pedigree reports Thomas William Selby of Biddlesden as Elizabeth Lawson's father, creating a specific but derivative English lead with no present connection to Maryland or the user's ancestry.
+The 2026-08-21 [[Walter de Ver and Sibilla Source Audit - 2026-08-21|source audit]] separates the medieval claims further. The original 1220 final concord directly and strongly identifies Sibilla, then wife of Nicholas de Schauencurt, as formerly wife of Walter de Ver. It does not call her `de Kyme`; that identification still depends on unreviewed Harley MS 301, folio 171b, and the full claim therefore remains moderate. A scholarly extraction reports Simon as Walter's son and heir, also moderate pending direct *Curia Regis Rolls* review. Walter's proposed parentage through Gundreda de Ver and Adam fitzErneis is tentative pending the cited charter editions and resolution of competing pedigrees. No finding creates a Selby-surname, Vere-earldom, Maryland, or modern-family bridge.
 
 ## Workstreams
 
@@ -115,6 +115,10 @@ Use the Genealogical Proof Standard:
 - [[Etheldred Peters parentage remains unproven]]
 - [[Massingberds 1904 Ver article uses Selby for Selby Abbey not a Selby surname lineage]]
 - [[Walter de Ver was husband of Sibilla de Kyme]]
+- [[Sibilla wife of Nicholas de Schauencurt was formerly wife of Walter de Ver]]
+- [[Simon de Ver was reported as son and heir of Walter de Ver]]
+- [[Walter de Ver was reported as son of Gundreda de Ver and Adam fitzErneis]]
+- [[Walter de Ver and Sibilla Source Audit - 2026-08-21]]
 - [[A 1904 Lawson pedigree reports Elizabeth as daughter of Thomas William Selby of Biddlesden]]
 - [[William Selby in Thomas Outten will abstract - 1725-1726]]
 - [[Wayfarers Tome Fact and Source Inventory]]
@@ -123,6 +127,10 @@ Use the Genealogical Proof Standard:
 - [[Black 1904 - Richard Peters ancestors and descendants]]
 - [[Headen family Bible transcript and Selby family notes - 1929]]
 - [[The Genealogist Volume 20 - 1904]]
+- [[Lincolnshire final concord CP 25-1-128-15 no 8 - 1220]]
+- [[Wilkinson 1999 - Thirteenth-Century Women in Lincolnshire]]
+- [[Whiting 2021 - Lincolnshire eyre dower litigation]]
+- [[Catalogue of the Harleian Manuscripts Volume 1 - Harley MS 301]]
 - [[Frederick Payne Selby Upstream Proof - 2026-08-14]]
 - [[James Benjamin Sanford Selby was son of Frederick P Selby and Elizabeth Dolan]]
 - [[Frank P Selby in 1900 is strongly identified as Frederick Payne Selby]]
@@ -275,6 +283,10 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 - [ ] Identify the exact Burke edition and original heraldic or probate evidence behind the 1904 "Lord Petrie" tradition; do not infer a Petre descent from arms or motto alone
 - [ ] Continue Etheldred Peters's Craven record sequence without attaching him to William Peters or a Stafford line absent relationship-level evidence
 - [ ] Identify and retrieve the original records behind the 1904 Thomas William Selby of Biddlesden father-daughter report before comparing that English family with the 1929 booklet's Biddleston tradition
+- [ ] Inspect Harley MS 301, folio 171b, for the exact `Sibilla de Kyme` wording and context
+- [ ] Inspect *Curia Regis Rolls* VII, pages 1, 18-19, 131, 160, 177, and 250, for Simon's parentage and any direct `de Kyme` styling
+- [ ] Inspect the nine 1218-1219 Lincolnshire eyre dower entries cited by Whiting and Wilkinson
+- [ ] Inspect *Registrum Antiquissimum* II, pages 211-212, no. 509n, and *Early Yorkshire Charters* III, page 61, before assigning Walter's parents
 - [ ] Retrieve the Nancy-administered Parker estate's 25 August 1791 inventory, 30 November 1793 third account, and 1 November 1793 distribution; seek names of heirs and a direct statement of Nancy's relationship to Parker
 - [x] Retrieve Charles Parker's 1761 bond and inventory and 1788 bond and inventory; record administrators, bond parties, kin, and nearest kin without assigning unstated relationships
 - [x] Retrieve Charles Parker's 1787 will and record its direct wife, child, executor, and witness statements
@@ -282,6 +294,8 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 - [ ] Retrieve the later Charles Parker estate's 1790 account or distribution from JW 21, 1793 second inventory from LH 2, and Orphans Court proceedings; transcribe distribution and later-identity statements
 
 ## Change log
+
+- 2026-08-21 - Completed a source-first Walter de Ver and Sibilla audit. The original final concord, TNA CP 25/1/128/15 no. 8, and its 1896 abstract at page 156 no. 8a directly prove that Sibilla, wife of Nicholas de Schauencurt, was formerly wife of Walter de Ver. This corrects Massingberd's page-150 citation. The concord does not call her `de Kyme`, and Harley MS 301 folio 171b remains unreviewed, so that fuller identification stays moderate. Wilkinson's cited report that Simon was Walter's son and heir is moderate pending *Curia Regis Rolls* review; Walter's proposed Gundreda-and-Adam parentage is tentative pending the cited charter editions. No medieval claim was connected to the Selby surname or the user's documented line.
 
 - 2026-08-20 - Accessioned and reviewed *The Genealogist*, New Series, volume 20 (1904). Full-page review of Massingberd's "Ver of Bottesford" article shows that its Selby references concern Selby Abbey, not a Selby-surnamed family; the article notes a boar cognizance but gives no descent from the great house of Vere and itself leaves Walter de Ver's parentage unresolved. A cited manuscript and a 1219-1220 dower action moderately support Walter as husband of Sibilla de Kyme, but the underlying records remain unreviewed. A separate page-254 Lawson pedigree names Thomas William Selby of Biddlesden as Elizabeth Lawson's father. That report is retained as a tentative English lead only, with no Maryland or modern-family bridge.
 
