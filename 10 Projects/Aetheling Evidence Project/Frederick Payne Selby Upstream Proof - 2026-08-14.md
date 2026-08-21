@@ -19,8 +19,10 @@ Audit Frederick Payne Selby as a historical anchor, prove each adjacent generati
 |---|---|---|
 | Frederick Ethelred Selby -> James Benjamin Sanford Selby and Sarah Eveline Stafford | Confirmed | Frederick's reviewed 1953 marriage license names James B. and Sarah E. Selby as his parents. His independent NUMIDENT entry supplies his exact full name and repeats James B. Selby and Sarah E. Stafford as the parent pair. Sarah's 1890 full-name birth index and 1900-1910 original records reconcile Sarah with Evelyn, wife of full-name James Benjamin Sanford Selby. |
 | Sarah Eveline Stafford -> Ethelred H. Stafford and Fannie B. Coe | Confirmed | Sarah's official 1890 birth index directly names both parents. The 1900 and 1910 original census images and the 1910 original marriage record independently repeat the family group, age, locality, and parent pair. The restricted original birth certificate remains desirable. |
+| Ethelred Hamrick Stafford -> John E. Stafford and Eveline M. Hamrick | Confirmed | The original 1880 census calls Ethelred their son. The original 1889 marriage license and 1945 official death index independently repeat the parent pair, and the death index supplies Ethelred's combined Hamrick name. |
+| Fannie B. Coe -> Jefferson Coe and Sallie Flowers | Confirmed | The original 1889 marriage license directly calls 23-year-old Fannie their daughter. Magnified review resolves the automated `Thomas` reading as `Flowers`, matching the structured index. An incompatible 1870 B. F. Coe tree attachment was rejected. |
 | James Benjamin Sanford Selby -> Frederick P. Selby and Elizabeth Dolan | Strong | The 1886 birth index, 1910 marriage record, and 1938 death index independently repeat the same parent pair. The original birth image remains unavailable. |
-| Frederick P. or Frank P. Selby -> Frederick Payne Selby | Strong identity correlation | The 1884 marriage, 1886 birth, 1900 census household, 1910 marriage, and 1938 death records agree on spouse, child, chronology, and Orleans locality. No reviewed record explicitly equates Frank with Frederick. |
+| Frederick P. or Frank P. Selby -> Frederick Payne Selby | Strong identity correlation | The 1884 marriage, 1886 birth, 1900 census household, 1905 original service card, 1910 marriage, and 1938 death records agree on initials, spouse, child, chronology, and Orleans locality. The service card expands F. P. as Frederick Payne but no reviewed record explicitly equates Frank with Frederick. |
 | Frederick Payne Selby -> Benjamin Selby and Docia Stone | Confirmed | Frederick's reviewed 1884 marriage license directly names both parents; the 1880 census independently places Ben with son Payne. |
 | Docia Stone -> Sophia E. Stone identity -> mother Sophia Bryan | Strong maternal extension | The 1854 consent directly calls Sophia Stone the daughter of Sophia Bryan. The 1854-1880 spouse, age, county, child, and Stone-name sequence strongly identifies Sophia as Docia, but no record expressly equates the given names. |
 | Younger Benjamin Selby -> Hon. Benjamin Selby | Moderate, strengthened | The 1878 biography explicitly names the father, and original 1844-1850 records identify the younger subject. Original Senate journals and a contemporaneous newspaper reprint now independently verify the reported father's 1834 auditor appointment and 25 May 1845 death. No original parent-child record has yet been found. |
@@ -42,6 +44,14 @@ Audit Frederick Payne Selby as a historical anchor, prove each adjacent generati
 - [[FamilySearch - Eveline Stafford 1910 US census image]]
 - [[Sarah E Stafford and Evelyn Stafford were Sarah Eveline Stafford]]
 - [[Sarah Eveline Stafford was daughter of Ethelred H Stafford and Fannie B Coe]]
+- [[FamilySearch - Ethelred Stafford 1880 US census image]]
+- [[FamilySearch - Ethelred Stafford and Fannie Coe 1889 Orleans marriage license image]]
+- [[FamilySearch - Ethelred Hamrick Stafford 1945 Orleans death index]]
+- [[FamilySearch - Ethelred Stafford 1945 Times Picayune obituary index]]
+- [[Ethelred Hamrick Stafford was son of John E Stafford and Eveline Hamrick]]
+- [[Fannie B Coe was daughter of Jefferson Coe and Sallie Flowers]]
+- [[FamilySearch - B F Coe 1870 Franklin census rejected identity]]
+- [[FamilySearch - Frederick Payne Selby 1905 Panama service card]]
 - [[Sophia E Stone is strongly identified as Docia Stone wife of Benjamin Selby]]
 - [[Armstrong 1878 - Ben Selby biographical sketch]]
 - [[Courier-Journal - Col Ben Selby 1883 interview]]
@@ -87,7 +97,7 @@ Audit Frederick Payne Selby as a historical anchor, prove each adjacent generati
 
 ## Upstream result
 
-Frederick Ethelred Selby's historical parent pair is now confirmed as James Benjamin Sanford Selby and Sarah Eveline Stafford. The full-name NUMIDENT entry independently repeats James B. Selby and Sarah E. Stafford, while Sarah's full-name 1890 birth index and original 1900-1910 records resolve the former Sarah/Evelyn conflict. Sarah's parentage extends the documented maternal branch one generation to Ethelred H. Stafford and Fannie B. Coe. This Stafford surname does not imply any connection to the separately researched medieval Stafford family.
+Frederick Ethelred Selby's historical parent pair is now confirmed as James Benjamin Sanford Selby and Sarah Eveline Stafford. The full-name NUMIDENT entry independently repeats James B. Selby and Sarah E. Stafford, while Sarah's full-name 1890 birth index and original 1900-1910 records resolve the former Sarah/Evelyn conflict. Sarah's parentage extends the documented maternal branch to Ethelred H. Stafford and Fannie B. Coe. The original 1880 census, original 1889 marriage license, and 1945 death index now carry Ethelred one generation farther to John E. Stafford and Eveline M. Hamrick. The same 1889 license directly carries Fannie one generation farther to Jefferson Coe and Sallie Flowers. These are bounded nineteenth-century Louisiana relationships; the Stafford surname does not imply any connection to the separately researched medieval Stafford family.
 
 Frederick Payne remains a useful verified historical anchor because his 1884 original marriage license names his parents. The confirmed paternal chain reaches Benjamin Selby and Docia Stone. On Docia's side, the strong Sophia-to-Docia identity correlation provisionally reaches one generation farther to Sophia Bryan, whose 1854 consent directly calls Sophia Stone her daughter. On Benjamin's side, a period biography reports his father as an older Hon. Benjamin Selby, but that relationship remains moderate because no original parent-child record has been found. The 1845 tax list independently establishes senior and junior Benjamin entries, while original Senate journals and a contemporaneous newspaper reprint verify the elder public official's 1834 auditor appointment and 25 May 1845 death. None supplies kinship language. These historical findings do not prove that Frederick Ethelred or Frederick Payne is the user's ancestor until every private modern parent-child link down to the user is separately documented.
 
@@ -96,6 +106,8 @@ The current connected upstream stop is the younger Benjamin Selby's reported fat
 ## Identity cautions
 
 - Sarah E. Stafford or Selby and Eveline or Evelyn Stafford are now confirmed as Sarah Eveline Stafford through the full-name birth entry and correlated original records. The restricted 1890 birth image is still needed for an independent transcription of certificate no. 913.
+- FamilySearch's automated transcript of the 1889 Stafford-Coe license reads Sallie's surname as `Thomas`, but the original handwriting and structured index support `Flowers`. The source note preserves the discrepancy.
+- A FamilySearch tree attachment equating 17-year-old 1870 household head B. F. Coe with Fannie B. Coe is rejected because the age and household status conflict with the 1889 license. No parentage was taken from that household.
 - Sophia E. Stone and Docia Stone are strongly identified within one Benjamin Selby family chronology, but no reviewed record expressly equates the two given names.
 - Major Selby to the younger Benjamin remains unsupported and is contradicted by stronger period evidence naming Hon. Benjamin as the father. The 1833 Nicholas County will names Henry and Polly but not Benjamin.
 - Elizabeth McClain is a candidate mother only; her 1811 marriage to the elder Benjamin does not prove maternity.
@@ -108,13 +120,15 @@ The current connected upstream stop is the younger Benjamin Selby's reported fat
 
 1. Obtain Frederick Ethelred Selby's original Mississippi birth record; the NUMIDENT entry has already supplied his exact full name and both parents.
 2. Obtain Sarah Eveline Stafford's restricted Orleans birth certificate no. 913 and her death or obituary record.
-3. Obtain the original 1886 James birth record and independently transcribe the 1910 marriage parent fields.
-4. Locate Frederick Payne Selby's death record, obituary, or city-directory sequence to resolve the Frank/Frederick name variation.
-5. Resolve Sophia E. Stone and Docia Stone through a direct alias, death, obituary, deed, or probate record.
-6. Retrieve the original Frankfort *Commonwealth* issue following 25 May 1845 and search adjacent *Commonwealth*, *Daily Commonwealth*, and *Yeoman* issues for a fuller obituary or family notice; then pursue unbound Franklin estate or civil files. The exact death date and auditor succession are now documented, while the expanded will, settlement, bond, guardianship, order-book, and legislative searches remain negative for relationship language.
-7. Submit the drafted Adair/KDLA request for Lingan's administration bond, unbound estate-settlement file, sale bill, widow-allotment return, distribution, guardianship material, and related civil case file; no order or fee has been submitted.
-8. Follow the 1809 Prince George's County land authority and Maryland collateral probate downward for an explicit son, heir, or relative named Benjamin.
-9. Continue the younger Benjamin's political-disability petition request behind private act chapter 171 of 3 March 1871 as an identity and biography source, not as a presumed parentage record.
+3. Obtain the original 1886 James birth record and independently transcribe the 1910 marriage parent fields. The image-access check now confirms a FamilySearch-center, partner, or custodian restriction.
+4. Locate Frederick Payne Selby's death record, obituary, or a record explicitly using both Frank and Frederick. The 1905 original service card now supplies `F. P. (Frederick Payne)` and Orleans residence but not the alias.
+5. Research John E. Stafford and Eveline M. Hamrick through their marriage, death, probate, and pre-1880 census sequence. Keep this Louisiana family separate from the medieval Stafford workstream.
+6. Research Jefferson Coe and Sallie Flowers through their 1847 marriage, censuses, and probate, and seek a pre-1889 household that directly corroborates Fannie's daughter status.
+7. Resolve Sophia E. Stone and Docia Stone through a direct alias, death, obituary, deed, or probate record.
+8. Retrieve the original Frankfort *Commonwealth* issue following 25 May 1845 and search adjacent *Commonwealth*, *Daily Commonwealth*, and *Yeoman* issues for a fuller obituary or family notice; then pursue unbound Franklin estate or civil files. The exact death date and auditor succession are now documented, while the expanded will, settlement, bond, guardianship, order-book, and legislative searches remain negative for relationship language.
+9. Submit the drafted Adair/KDLA request for Lingan's administration bond, unbound estate-settlement file, sale bill, widow-allotment return, distribution, guardianship material, and related civil case file; no order or fee has been submitted.
+10. Follow the 1809 Prince George's County land authority and Maryland collateral probate downward for an explicit son, heir, or relative named Benjamin.
+11. Continue the younger Benjamin's political-disability petition request behind private act chapter 171 of 3 March 1871 as an identity and biography source, not as a presumed parentage record.
 
 ## Accuracy boundary
 

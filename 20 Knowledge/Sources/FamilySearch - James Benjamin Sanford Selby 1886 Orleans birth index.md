@@ -5,6 +5,7 @@ repository: Louisiana vital-record custodian / FamilySearch
 reference: "Orleans Parish birth index, James Benjamine Sanford Selby, certificate 300"
 date: 1886-09-04
 accessed: 2026-08-14
+last-reviewed: 2026-08-21
 privacy: internal
 project: Aetheling Evidence Project
 ---
@@ -21,7 +22,7 @@ The FamilySearch index names the child as James Benjamine Sanford Selby, gives a
 
 ## Reliability and limitations
 
-This is an index derived from an official Orleans birth record. The indexed parentage is a direct relationship statement and agrees with the later marriage and death records, but the underlying birth image was not available for visual review in the current session. The spelling "Benjamine" may be an index rendering and is not treated as a separate identity.
+This is an index derived from an official Orleans birth record. The indexed parentage is a direct relationship statement and agrees with the later marriage and death records. On 21 August 2026, `Check Image Availability` reported that the image can be viewed at a FamilySearch center and may also be available through a partner site or the legal record custodian. The underlying image was therefore not visually reviewed. The spelling "Benjamine" may be an index rendering and is not treated as a separate identity.
 
 This source does not establish Frederick P. Selby's full middle name or ancestry by itself.
 

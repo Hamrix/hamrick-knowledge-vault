@@ -4,7 +4,7 @@ status: active
 confidence: strong
 privacy: internal
 project: Aetheling Evidence Project
-last-reviewed: 2026-08-14
+last-reviewed: 2026-08-21
 ---
 
 # Frank P. Selby in 1900 is strongly identified as Frederick Payne Selby
@@ -20,6 +20,7 @@ Frank P. Selby, enumerated in New Orleans in 1900 with wife Elizabeth D. and son
 - [[FamilySearch - James Selby 1900 US census image]] records Frank P. Selby with wife Elizabeth D. and son James, age 14, in New Orleans.
 - [[FamilySearch - James Benjamin Sanford Selby 1910 Orleans marriage license image]] repeats the full-name James and the parents Frederick P. Selby and Elizabeth Dolan.
 - [[FamilySearch - James B Selby 1938 Orleans death index]] again repeats the parent pair and New Orleans context.
+- [[FamilySearch - Frederick Payne Selby 1905 Panama service card]] gives the original card heading `F. P. (Frederick Payne)`, legal residence Orleans, Louisiana, and an age consistent with the 1900 household.
 
 ## Evidence against
 
@@ -31,7 +32,7 @@ The 1900 census uses the first name Frank, while the marriage and child records 
 
 ## Analysis
 
-The spouse, child's name and age, parent pair, chronology, and Orleans locality form a consistent identity cluster. The correlation is substantially stronger than a name match, but the absence of a direct alias or record-to-record cross-reference prevents a confirmed identity rating.
+The spouse, child's name and age, parent pair, chronology, and Orleans locality form a consistent identity cluster. The 1905 personnel card independently places full-name Frederick Payne in Orleans and explicitly expands F. P., strengthening continuity after the 1900 Frank P. household. The correlation is substantially stronger than a name match, but the absence of a direct Frank-to-Frederick alias or record-to-record cross-reference prevents a confirmed identity rating.
 
 ## Confidence rationale
 
@@ -39,4 +40,4 @@ The spouse, child's name and age, parent pair, chronology, and Orleans locality 
 
 ## Next research action
 
-Seek Frederick's death record, obituary, city-directory sequence, or another original record using both Frank and Frederick, and obtain the original 1886 birth image.
+Seek Frederick's death record, obituary, or another original record using both Frank and Frederick, and obtain the original 1886 birth image. The 1905 full-name service card strengthens the sequence but does not itself resolve the alias.

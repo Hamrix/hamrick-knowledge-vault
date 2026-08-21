@@ -19,6 +19,8 @@ Sarah Eveline Stafford, born 18 March 1890 in Orleans Parish, Louisiana, was a d
 - [[FamilySearch - Eveline S Stafford 1900 US census image]] enumerates Eveline S., born March 1890, as a daughter in Fannie's Stafford household.
 - [[FamilySearch - Eveline Stafford 1910 US census image]] enumerates Eveline, age 20, as a daughter of the Ethelred H. and Fanny Stafford household.
 - [[FamilySearch - James Benjamin Sanford Selby 1910 Orleans marriage license image]] associates bride Evelyn Stafford with Ethelred H. Stafford and Fanny B. Coe.
+- [[FamilySearch - Ethelred Stafford and Fannie Coe 1889 Orleans marriage license image]] directly documents the parents' marriage and identifies both spouses with their own parent pairs.
+- [[FamilySearch - Ethelred Stafford 1945 Times Picayune obituary index]] names Mrs. Sarah E. Selby as a daughter of Ethelred Stafford and Fannie B. Coe.
 
 ## Evidence against
 
@@ -28,7 +30,7 @@ No conflicting parent pair was found. The 1900 head's given name is difficult to
 
 The official birth index directly states the relationship, while two original census schedules and the original 1910 marriage record independently repeat the same family group, chronology, and locality. The records also reconcile `Fannie` and `Fanny` as spelling variants within that group.
 
-This claim extends only Sarah Eveline Stafford's immediate parentage. It does not establish Ethelred's or Fannie's parents, connect them to medieval Staffords, or prove a living person's descent.
+This claim extends only Sarah Eveline Stafford's immediate parentage. Separate original-record claims now identify Ethelred's and Fannie's parents, but those extensions do not connect the family to medieval Staffords or prove a living person's descent.
 
 ## Confidence rationale
 
@@ -36,4 +38,4 @@ This claim extends only Sarah Eveline Stafford's immediate parentage. It does no
 
 ## Next research action
 
-Obtain the original 1890 birth certificate and then research Ethelred H. Stafford and Fannie B. Coe separately through their marriage, birth, death, probate, and census records.
+Obtain the original 1890 birth certificate. Continue John E. Stafford and Eveline Hamrick, and Jefferson Coe and Sallie Flowers, as separate parental branches without using online-tree ancestry as evidence.

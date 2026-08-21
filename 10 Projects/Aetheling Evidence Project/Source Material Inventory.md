@@ -134,10 +134,18 @@ The 2026-08-21 [[Walter de Ver and Sibilla Source Audit - 2026-08-21]] adds the 
 - [[FamilySearch - Sarah Eveline Stafford 1890 Orleans birth index]] - official birth-record index supplying Sarah's full name, exact date, and parent pair; the certificate image is restricted.
 - [[FamilySearch - Eveline S Stafford 1900 US census image]] - visually reviewed original census image placing March 1890-born Eveline S. with Fannie in the Stafford household.
 - [[FamilySearch - Eveline Stafford 1910 US census image]] - visually reviewed original census image placing single Eveline with Ethelred H. and Fanny shortly before her July marriage.
+- [[FamilySearch - Ethelred Stafford 1880 US census image]] - visually reviewed original census schedule calling Ethelred a son of John E. and Eveline Stafford.
+- [[FamilySearch - Ethelred Stafford and Fannie Coe 1889 Orleans marriage license image]] - visually reviewed original license directly naming both spouses' parent pairs.
+- [[FamilySearch - Ethelred Hamrick Stafford 1945 Orleans death index]] - official death-record index independently repeating John Stafford, Eveline Hamrick, and spouse Fannie Coe.
+- [[FamilySearch - Ethelred Stafford 1945 Times Picayune obituary index]] - derivative obituary index naming wife Fannie, daughter Sarah E. Selby, grandson Frederick E. Selby, and a corroborating Stafford sibling cluster.
+- [[FamilySearch - B F Coe 1870 Franklin census rejected identity]] - original-record identity rejection documenting why the tree-attached B. F. Coe cannot be Ethelred Stafford's later wife.
+- [[FamilySearch - Frederick Payne Selby 1905 Panama service card]] - visually reviewed original federal card expanding F. P. as Frederick Payne and giving Orleans legal residence; it does not use the name Frank.
 
 ## Proven historical context
 
 - [[Sibilla wife of Nicholas de Schauencurt was formerly wife of Walter de Ver]] - strong medieval marital sequence only; `de Kyme`, parentage, Selby, and modern-family connections are not inferred.
+- [[Ethelred Hamrick Stafford was son of John E Stafford and Eveline Hamrick]] - confirmed nineteenth-century Louisiana parent-child link only; no medieval Stafford connection is inferred.
+- [[Fannie B Coe was daughter of Jefferson Coe and Sallie Flowers]] - confirmed parent pair from the original 1889 license; the incompatible 1870 B. F. Coe attachment is excluded.
 - [[Walter de Ver was son of Adam of Goxhill and grandson of Robert son of Erneis]] - strong immediate paternal relationships only; Walter's mother and older Ver ancestry remain unresolved.
 - [[Adam of Goxhill was son-in-law of Guy de Ver]] - strong affinity relationship; the wife or daughter creating it is unnamed.
 - [[Gundreda de Ver was wife of Nicholas de Chavencurt]] - strong marriage relationship; not proof that Gundreda was Adam's widow or Walter's mother.

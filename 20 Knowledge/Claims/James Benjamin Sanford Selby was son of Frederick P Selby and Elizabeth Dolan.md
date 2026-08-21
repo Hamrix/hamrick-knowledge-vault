@@ -4,7 +4,7 @@ status: active
 confidence: strong
 privacy: internal
 project: Aetheling Evidence Project
-last-reviewed: 2026-08-14
+last-reviewed: 2026-08-21
 ---
 
 # James Benjamin Sanford Selby was son of Frederick P. Selby and Elizabeth Dolan
@@ -37,7 +37,7 @@ The birth index renders the middle name as "Benjamine." The 1900 census abbrevia
 
 ## Analysis
 
-The birth, marriage, and death records are independent events spanning James's life and repeat the same parent pair. The 1900 household supplies an intervening original census context. Together they strongly establish this bounded generation without relying on the FamilySearch tree profile as evidence.
+The birth, marriage, and death records are independent events spanning James's life and repeat the same parent pair. The 1900 household supplies an intervening original census context. Together they strongly establish this bounded generation without relying on the FamilySearch tree profile as evidence. A renewed image-access check on 21 August 2026 confirmed that the 1886 certificate is restricted to a FamilySearch center, affiliate access point, partner, or legal custodian.
 
 This claim does not by itself expand Frederick P. to Frederick Payne, prove James's relationship to Frederick Ethelred Selby, or identify any earlier Selby generation.
 
@@ -47,4 +47,4 @@ This claim does not by itself expand Frederick P. to Frederick Payne, prove Jame
 
 ## Next research action
 
-Obtain the original 1886 birth record and a high-resolution transcription of the 1910 parent fields. Seek James's probate, obituary, or a child birth record to corroborate his household and children.
+Obtain certificate no. 300 through a FamilySearch center, affiliate access point, partner, or legal custodian, and independently transcribe the 1910 parent fields at higher resolution. Seek James's probate, obituary, or a child birth record to corroborate his household and children.
