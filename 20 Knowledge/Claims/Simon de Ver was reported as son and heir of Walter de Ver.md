@@ -21,6 +21,7 @@ Simon de Ver was Walter de Ver's son and heir and was under age in 1213.
 
 - [[Wilkinson 1999 - Thirteenth-Century Women in Lincolnshire]], printed pages 108-109 and 247, identifies Simon as Walter's son and heir and cites *Curia Regis Rolls* VII, pages 18-19. A later continuation is cited at page 160.
 - [[Loyd and Stenton 1950 - Sir Christopher Hattons Book of Seals entry 73]], printed page 53, independently identifies Simon as Walter's heir and a minor in the bishop of Lincoln's custody. It does not call Simon Walter's son.
+- [[Farrer 1916 - Early Yorkshire Charters Volume III Goxhill pedigree]], printed page 61, reports that Walter left by Sibyl a son Simon, then under age, and cites Curia Regis Roll 58, membrane 11.
 
 ## Evidence against
 
@@ -38,8 +39,8 @@ This proposed medieval link does not establish a Selby-surname or modern-family 
 
 ## Confidence rationale
 
-**Moderate:** a scholarly source supplies an exact relationship and exact record citations, but the underlying edition or roll image remains unreviewed.
+**Moderate:** two scholarly sources supply the same relationship with exact plea-roll citations, but the underlying edition or roll image remains unreviewed.
 
 ## Next research action
 
-Inspect *Curia Regis Rolls* VII, pages 18-19 and 160, and record the exact Latin or editorial relationship language.
+Inspect *Curia Regis Rolls* VII, pages 18-19 and 160, and Curia Regis Roll 58, membrane 11; record the exact relationship language.

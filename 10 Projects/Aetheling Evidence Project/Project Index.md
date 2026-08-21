@@ -45,7 +45,7 @@ The continued upstream review preserves the explicit 1878 report that the younge
 
 The 2026-08-20 [[Side Research Ingestion - 2026-08-20|side-research ingestion]] accessioned a 1904 compiled Peters genealogy and verified its relevant pages. The book documents that a Liverpool Peters noble-house tradition was published, but it supplies no pedigree proving the connection and does not mention Etheldred or Ethelred Peters, Stafford, Chaney, or Cheney. It cannot support the submitted Peters-to-Stafford bridge. The 1929 Selby booklet was already accessioned and the supplied copy is byte-for-byte identical, so it adds no independent corroboration. No people or lineage segments were merged.
 
-The 2026-08-21 [[Walter de Ver and Sibilla Source Audit - 2026-08-21|source audit]] separates the medieval claims further. The original 1220 final concord directly and strongly identifies Sibilla, then wife of Nicholas de Schauencurt, as formerly wife of Walter de Ver. It does not call her `de Kyme`; that identification still depends on unreviewed Harley MS 301, folio 171b, and the full claim therefore remains moderate. Loyd and Stenton's entry 73 transcribes Walter's charter explicitly identifying Adam of Goxhill as his father and Robert son of Erneis as his grandfather, making those paternal links strong. A scholarly extraction reports Simon as Walter's son and heir, moderate pending direct *Curia Regis Rolls* review. Gundreda de Ver's maternity remains tentative pending the cited charter editions. No finding creates a Selby-surname, Vere-earldom, Maryland, or modern-family bridge.
+The 2026-08-21 [[Walter de Ver and Sibilla Source Audit - 2026-08-21|source audit]] separates the medieval claims further. The original 1220 final concord directly and strongly identifies Sibilla, then wife of Nicholas de Schauencurt, as formerly wife of Walter de Ver. It does not call her `de Kyme`; that identification still depends on unreviewed Harley MS 301, folio 171b, and the full claim therefore remains moderate. Edited charter text strongly identifies Adam of Goxhill as Walter's father and Robert son of Erneis as his grandfather. The Pipe Roll twice calls Adam Guy de Ver's son-in-law, and a Selby Abbey charter twice calls Gundreda de Ver Nicholas de Chavencurt's wife. These strong adjacent relationships do not identify Guy's unnamed daughter as Gundreda, so Gundreda's maternity remains tentative. Simon's reported son status remains moderate pending direct plea-roll review. No finding creates a Selby-surname, Vere-earldom, Maryland, or modern-family bridge.
 
 ## Workstreams
 
@@ -118,6 +118,8 @@ Use the Genealogical Proof Standard:
 - [[Sibilla wife of Nicholas de Schauencurt was formerly wife of Walter de Ver]]
 - [[Simon de Ver was reported as son and heir of Walter de Ver]]
 - [[Walter de Ver was son of Adam of Goxhill and grandson of Robert son of Erneis]]
+- [[Adam of Goxhill was son-in-law of Guy de Ver]]
+- [[Gundreda de Ver was wife of Nicholas de Chavencurt]]
 - [[Gundreda de Ver was reported as mother of Walter de Ver]]
 - [[Walter de Ver and Sibilla Source Audit - 2026-08-21]]
 - [[A 1904 Lawson pedigree reports Elizabeth as daughter of Thomas William Selby of Biddlesden]]
@@ -288,7 +290,8 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 - [ ] Inspect Harley MS 301, folio 171b, for the exact `Sibilla de Kyme` wording and context
 - [ ] Inspect *Curia Regis Rolls* VII, pages 1, 18-19, 131, 160, 177, and 250, for Simon's parentage and any direct `de Kyme` styling
 - [ ] Inspect the nine 1218-1219 Lincolnshire eyre dower entries cited by Whiting and Wilkinson
-- [ ] Inspect the Book of Seals manuscript or associated Dodsworth transcript, *Registrum Antiquissimum* II page 212, and *Early Yorkshire Charters* III no. 1341 and page 61; use the latter passages to test Gundreda's maternity
+- [x] Inspect *Early Yorkshire Charters* III, page 61 and nos. 1341-1344, Pipe Roll 1 Richard I page 61, and *Coucher Book of Selby* II page 296; these prove adjacent relationships but do not explicitly make Gundreda Adam's wife or Walter's mother
+- [ ] Inspect *Registrum Antiquissimum* II pages 211-212, no. 509n, the underlying Guy-and-Adam concord, and the Book of Seals manuscript or Dodsworth transcript for direct Gundreda identity language
 - [ ] Retrieve the Nancy-administered Parker estate's 25 August 1791 inventory, 30 November 1793 third account, and 1 November 1793 distribution; seek names of heirs and a direct statement of Nancy's relationship to Parker
 - [x] Retrieve Charles Parker's 1761 bond and inventory and 1788 bond and inventory; record administrators, bond parties, kin, and nearest kin without assigning unstated relationships
 - [x] Retrieve Charles Parker's 1787 will and record its direct wife, child, executor, and witness statements
@@ -296,6 +299,8 @@ The Selby, Stafford, Plantagenet, Wessex, Haskins, and Frederic Ethelred Selby w
 - [ ] Retrieve the later Charles Parker estate's 1790 account or distribution from JW 21, 1793 second inventory from LH 2, and Orphans Court proceedings; transcribe distribution and later-identity statements
 
 ## Change log
+
+- 2026-08-21 - Reviewed *Early Yorkshire Charters* III pages 60-62, Pipe Roll 1 Richard I page 61, and *Coucher Book of Selby* II page 296. The Pipe Roll twice calls Adam Guy de Ver's son-in-law, while Nicholas de Chavencurt's charter twice calls Gundreda de Ver his wife. These are now separate strong claims. Farrer's page-61 pedigree joins those facts by identifying Gundreda as Guy's daughter, Adam's wife, and Walter's mother, but its reviewed underlying records leave Guy's daughter unnamed and do not connect Gundreda to Adam or Walter. Gundreda's maternity therefore remains tentative; no medieval relationship was merged into the documented Selby line.
 
 - 2026-08-21 - Extended the Walter de Ver audit through Loyd and Stenton's 1950 edition of *Sir Christopher Hatton's Book of Seals*, entry 73. Its Latin charter text explicitly calls Walter son of Adam of Goxhill, Robert son of Erneis his grandfather, and Adam his father. Those immediate paternal links are now strong. The editors independently report Sybil as Walter's widow, Nicholas as her second husband, and Simon as Walter's minor heir, but the `de Kyme` name, Simon's son status, and Gundreda's maternity remain at their prior lower confidence pending the cited originals. The Selby occurrence is again Selby Abbey, not a surname bridge.
 
